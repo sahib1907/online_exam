@@ -1,0 +1,2146 @@
+﻿1.		Formal dillərlə təsvir olunan modellərə aid deyil:
+A : sxem üsulu ilə təsvir edilən modellər 
+B : məhdudlaşdırılmış təbii dil vasitəsilə təsvir olunan modellər
+C : riyazi dil vasitəsilə təsvir olunan modellər  
+D : cədvəl vasitəsilə təsvir olunan modellər  
+E : formal dil  vasitəsilə təsvir olunan modellər
+ANSWER : A
+2.		 Abstrakt riyaziyyat nədir? 
+A : metariyaziyyat 
+B : klassik riyaziyyat
+C : ali riyaziyyat  
+D : elementar riyaziyyat  
+E : tətbiqi riyaziyyat
+ANSWER : A
+3.		Metariyaziyyat nəyi öyrənir?
+A : riyaziyyatın “dilini”, bu dilin məntiqi- fəlsəfi tədqiqini və s.
+B : riyaziyyatın “dilini”nin fəlsəfi tədqiqini
+C : riyaziyyatın fəlsəfi termin və anlayışlarını
+D : riyaziyyatın “dilini”nin məntiqi əsaslarını
+E : riyaziyyatın əsas qanunlarını 
+ANSWER : A
+4.		Dil aşağıdakıların hansılarından ibarət istənilən ünsiyyət vasitəsidir: 
+1) işarələr sistemi; 2) bu sistemin mənaları çoxluğu; 3) işarələr ardıcıllığı ilə mənaların qarşılıqlı uyğunluğu – bu uyğunluq mümkün işarələr ardıcıllığını “mənalı” ifadə edir; 4) mətnlər çoxluğunu təyin edən ədədi üsullar; 5) mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqların analitik üsullarını
+A : 1,2,3 
+B : 1,5 
+C : 2,4,5  
+D : 3,4  
+E : 4,5 
+ANSWER : A
+5.		 İşarə dedikdə nə başa düşülür? 
+A : əlifbanın hərfləri, riyazi  işarələr, səslər, müxtəlif xalqların mərasimlərindəki ritual hərəkətlər və s. 
+B : dilin sözləri, cümlələri, üslubları, işarələri, səsləri və s. 
+C : mətnlər çoxluğunu təyin edən ədədi üsullar  
+D : mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqların analitik üsulları  
+E : mətnlərlə mənalar arasındakı uyğunluqların analitik üsulları 
+ANSWER : A
+6.		 Dilin sintaksisini nə təşkil edir? 
+A : mətnlər çoxluğunu təyin edən üsullar 
+B : mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqlar çoxluğunun təsviri 
+C : mətnlərlə mənalar arasındakı uyğunluqlar çoxluğu  
+D : mənalar çoxluğu  
+E : əlifba  
+ANSWER : A
+7.		 Mətnlər çoxluğunu təyin edən üsullar dilin nəyini təşkil edir? 
+A : sintaksisini
+B : semantikasını 
+C : simvollarını  
+D : aforizmlərini  
+E : əlifbasını  
+ANSWER : A
+8.		 Mətnlər çoxluğunu təyin edən üsullar dilin ... təşkil edir.
+A : sintaksisini 
+B : semantikasını 
+C : əlifbasını
+D : fonetikasını  
+E : morfologiyasını 
+ANSWER : A
+9.		 Dilin semantikasını nə təşkil edir? 
+A : mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqlar çoxluğunun təsviri
+B : mətnlər çoxluğunu təyin edən üsullar
+C : formal obyektlər çoxluğu  - əlifbanın simvollar ardıcıllığı(mətnlər)  
+D : əlifbanın simvollar ardıcıllığı  
+E : formal obyektlər çoxluğu 
+ANSWER : A
+10.		 Dilin sintaksisinin öyrənilməsində yaranmış xüsusi riyazi aparat necə adlanır? 
+A : formal qrammatika(dil)  
+B : formal məntiq 
+C : riyazi məntiq dili  
+D : formal obyektlər çoxluğu
+E : riyazi obyektlər çoxluğu  
+ANSWER : A
+11.		 Mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqlar çoxluğunun təsviri dilin nəyini təşkil edir? 
+A : semantikasını 
+B : sintaksisini
+C : simvollarını  
+D : aforizmlərini  
+E : əlifbasını  
+ANSWER : A
+12.		 Mənalar çoxluğunun və mətnlərlə mənalar arasındakı uyğunluqlar çoxluğunun təsviri dilin ... təşkil edir. 
+A : semantikasını 
+B : sintaksisini
+C : əlifbasını
+D : fonetikasını
+E : morfologiyasını
+ANSWER : A
+13.		 Sintaksis baxımdan dil nədən ibarətdir? 
+A : formal obyektlər çoxluğundan  - əlifbanın simvollar ardıcıllığından(mətnlərdən) 
+B : əməliyyatlar sistemlərindən 
+C : G normal qramatikasından 
+D : mənalar çoxluğu və mətnlərlə mənalar arasındakı uyğunluqlar çoxluğundan 
+E : mətnlərlə mənalar arasındakı uyğunluqlar çoxluğundan 
+ANSWER : A
+14.		 Riyazi linqvistikada simvollar ardıcıllığını, adətən, necə adlandırırlar? 
+A : “ zəncir” (string)
+B : formal dil 
+C : əməliyyatlar sistemləri  
+D : G normal qramatikası  
+E : formal obyektlər çoxluğu  
+ANSWER : A
+15.	Riyazi linqvistikada zəncirlər çoxluğu dedikdə nə başa düşülür?
+A : simvollar ardıcıllığı
+B : formal dil
+C : əməliyyatlar sistemləri
+D : G normal qrammatikası 
+E : formal obyektlər çoxluğu
+ANSWER : A
+16.		Riyazi linqvistikada zəncirlər çoxluğu dedikdə ... başa düşülür.
+A : simvollar ardıcıllığı
+B : formal dil
+C : əməliyyatlar sistemləri
+D : G normal qrammatikası 
+E : formal obyektlər çoxluğu
+ANSWER : A
+17.		Riyazi linqvistikada zəncirlər çoxluğu kimi başa düşülən dili necə adlandırırlar?
+A : formal dil
+B : ip
+C : “ zəncir” (string) 
+D : çubuq
+E : əməliyyatlar sistemləri
+ANSWER : A
+ 18.		Riyazi linqvistikada zəncirlər çoxluğu kimi başa düşülən dili ... adlandırırlar.
+A : formal dil
+B : ip
+C : “ zəncir” (string) 
+D : çubuq
+E : əməliyyatlar sistemləri
+ANSWER : A
+19.		Formal sistemlər nədir?
+A : simvollar ardıcıllıqları kimi başa düşülən əməliyyatlar sistemləri
+B : formal obyektlər çoxluğu
+C : normal obyektlər çoxluğu
+D : V əlifbası və ƺ→ɳ şəkilli əvəzetmələrin sonlu çoxluğu
+E : V əlifbası və ƺ→ɳ şəkilli əvəzetmələrin sonsuz çoxluğu
+ANSWER : A
+ 20.		Simvollar ardıcıllıqları kimi başa düşülən əməliyyatlar sistemləri necə adlanır? 
+A : Formal sistemlər
+B : Məntiqi sistemlər
+C : Əvəzetmə sistemi
+D : Tue yarımsistemi
+E : Mur avtomatı
+ANSWER : A
+21.		 Simvollar ardıcıllıqları kimi başa düşülən əməliyyatlar sistemləri ... adlanır. 
+A : formal sistemlər
+B : məntiqi sistemlər
+C : əvəzetmə sistemi
+D : Tue yarımsistemi
+E : Mur avtomatı
+ANSWER : A
+22.		Formal  qramatikalar nəyin xüsusi halıdır?
+A : Tue yarımsisteminin
+B : Morze əlifbasının
+C : Hesabi çoxluqların 
+D : Rəqəmsal avtomatlarin 
+E : Sonlu avtomatlarin
+ANSWER : A
+23.		Formal  qramatikalar ...  xüsusi halıdır.
+A : Tue yarımsisteminin
+B : Morze əlifbasının
+C : Hesabi çoxluqların 
+D : Rəqəmsal avtomatlarin 
+E : Sonlu avtomatlarin
+ANSWER : A
+24.		 Tue yarımsisteminin xüsusi halı necə adlanır?
+A : Formal  qramatikalar
+B : Morze əlifbası
+C : Hesabi çoxluqlar 
+D : Rəqəmsal avtomatlar 
+E : Sonlu avtomatla
+ANSWER : A
+25.		 Tue yarımsisteminin xüsusi halı ... adlanır.
+A : Formal  qramatikalar
+B : Morze əlifbası
+C : Hesabi çoxluqlar 
+D : Rəqəmsal avtomatlar 
+E : Sonlu avtomatla
+ANSWER : A
+26.		 V əlifbasındakı  I aksiomundan alınmış bütün zəncirlər çoxluğu G qrammatikası ilə yaradılmış nə adlanır?
+A : L (G) dili
+B : G (L) dili
+C : I(L) dili 
+D : V(I)dili 
+E : G(I) dili
+ANSWER : A
+ 27.		 V əlifbasındakı  I aksiomundan alınmış bütün zəncirlər çoxluğu G qrammatikası ilə yaradılmış ... adlanır.
+A : L (G) dili
+B : G (L) dili
+C : I(L) dili 
+D : V(I)dili 
+E : G(I) dili
+ANSWER : A
+28.		 V əlifbasındakı  I aksiomundan alınmış bütün zəncirlər çoxluğu G qramatikası ilə yaradılmış hansı dilidir?
+A : L (G)
+B : G (L)
+C : I (L) 
+D : V (I) 
+E : G (I)
+ANSWER : A
+29.		 V əlifbasındakı  I aksiomundan alınmış bütün zəncirlər çoxluğu G qramatikası ilə yaradılmış ... dilidir.
+A : L (G)
+B : G (L)
+C : I (L) 
+D : V (I) 
+E : G (I)
+ANSWER : A
+30.		 L ( G ) = L ( G1) olarsa, onda G və G1 qramatikalrı necə adlanır?
+A : Ekvivalent
+B : Bərabər 
+C : Törəmə
+D : Eyniliklə bərabər
+E : Ortaq
+ANSWER : A
+31.		 Qramatikalar nəzəriyyəsində V –dəki bütün zəncirlər çoxluğu nə ilə işarə olunur?
+A : V*
+B : V+
+C : E 
+D : G 
+E : L
+ANSWER : A
+32.		 Qramatikalar nəzəriyyəsində V –dəki bütün zəncirlər çoxluğu ... ilə işarə olunur.
+A : V*
+B : V+
+C : E 
+D : G 
+E : L
+ANSWER : A
+33.		 Qramatikalar nəzəriyyəsində V –dəki bütün boş olmayan zəncirlər çoxluğu nə ilə işarə olunur?
+A : V+ 
+B : V*
+C : E 
+D : G 
+E : L
+ANSWER : A
+34.		Qramatikalar nəzəriyyəsində boş zəncir( söz) nə ilə işarə olunur?
+A : E
+B : V*
+C : V+ 
+D : G  
+E : L
+ANSWER : A
+35.		 Əgər β sözü α- dan bir münasibətin yalnız bir dəfə tətbiqi ilə alınırsa , onda  α və β ..... sözlər adlanır.
+A : qoşma
+B : ekvivalent
+C : əlaqəli 
+D : rabitəli 
+E : əlaqəsiz
+ANSWER : A
+36.		 Əlaqələndirilmiş sözlər... adlandırılır.
+A : ekvivalent  
+B : qoşma 
+C : əlaqəli 
+D : rabitəli 
+E : əlaqəsiz
+ANSWER : A
+37.		 Əgər ã zənciri yalnız α – ya daxil olan simvollardan əks qaydada düzülmüş şəkildə alınırsa, onda o necə adlanır?
+A : əks
+B : tərs
+C : düz 
+D : bərabər 
+E : mütənasib
+ANSWER : A
+ 38.		 Əgər ã zənciri yalnız α – ya daxil olan simvollardan əks qaydada düzülmüş şəkildə alınırsa, onda o ... adlanır.
+A : əks
+B : tərs
+C : düz 
+D : bərabər 
+E : mütənasib
+ANSWER : A
+39.		 Əgər α zənciri özünün əksi ilə eynidirsə, ..... adlanır.
+A : simmetrik
+B : tərs
+C : düz 
+D : bərabər 
+E : mütənasib
+ANSWER : A
+40.		 Hər bir ekvivalentlik sinfində neçə bölünməyən söz vardır?
+A : 1 
+B : 2
+C : 2n+1 
+D : istənilən sayda 
+E : n+1, n€N
+ANSWER : A
+41.		 Hər bir ekvivalentlik sinfində 1 bölünməyən söz vardır. Bu söz həmin sinfin nəyi hesab olunur? 
+A : kanonik ifadəsi
+B : hesabi ifadəsi
+C : analitik ifadəsi 
+D : qoşma ifadəsi 
+E : əks ifadəsi
+ANSWER : A
+42.		 Hər bir ekvivalentlik sinfində 1 bölünməyən söz vardır. Bu söz həmin sinfin ... hesab olunur. 
+A : kanonik ifadəsi
+B : hesabi ifadəsi
+C : analitik ifadəsi 
+D : qoşma ifadəsi 
+E : əks ifadəsi
+ANSWER : A
+43.		 İxtiyari iki söz yalnız və yalniz eyni bir ..... malik olarsa , onda onlar ekvivalentdirlər.
+A : kanonik ifadəyə
+B : hesabi ifadəyə
+C : analitik ifadəyə 
+D : qoşma ifadəyə 
+E : əks ifadəyə
+ANSWER : A
+44.		 İxtiyari iki söz yalnız və yalniz eyni bir kanonik ifadəyə malik olarsa , onda onlar..... . 
+A : ekvivalentdirlər
+B : simmetrikdirlər
+C : tərsdirlər 
+D : mütənasibdirlər 
+E : bərabərdirlər
+ANSWER : A
+45.		 Ekvivalentlik problemi yalnız ekvivalentlik siniflərində ..... olduqda həll olunandır.
+A : invariantlar
+B : invertorlar
+C : inyeksiyalar 
+D : implikasiyalar 
+E : interpretatorlar
+ANSWER : A
+46.		L1 və L2 – nin birləşməsi nədir?
+A : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur
+B : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur  
+C : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur 
+D : L1 - ə daxil olan , lakin , L2-yə daxil olmayan bütün sözlərin çoxluğudur 
+E : boş sözlərin çoxluğudur
+ANSWER : A
+47.		 L1 və L2 – nin kəsişməsi nədir?
+A : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur 
+B : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur
+C : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur  
+D : L1 - ə daxil olan , lakin , L2-yə daxil olmayan bütün sözlərin çoxluğudur  
+E : boş sözlərin çoxluğudur
+ANSWER : A
+48.		 L1 və L2 – nin kəsişməsi ... .
+A : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur 
+B : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur
+C : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur  
+D : L1 - ə daxil olan , lakin , L2-yə daxil olmayan bütün sözlərin çoxluğudur  
+E : boş sözlərin çoxluğudur
+ANSWER : A
+49.		 L1 və L2 – nin heç olmazsa birinə daxil olan bütün sözlərin çoxluğu bu dillərin nəyi adlanır?
+A : birləşməsi 
+B : kəsişməsi
+C : tamamlanması  
+D : hasili  
+E : interasiyası
+ANSWER : A
+50.		 L1 və L2 – nin heç olmazsa birinə daxil olan bütün sözlərin çoxluğu bu dillərin ... adlanır.
+A : birləşməsi 
+B : kəsişməsi
+C : tamamlanması  
+D : hasili  
+E : interasiyası
+ANSWER : A
+51.		 L dilinin V* - a qədər tamamlanması ( V*/L ) nədir? 
+A : V* - a daxil olan , lakin , L-ə daxil olmayan bütün sözlər çoxluğudur 
+B : boş sözlərin çoxluğudur
+C : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur  
+D : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur  
+E : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur
+ANSWER : A
+52.		 L dilinin V* - a qədər tamamlanması ( V*/L ) ... . 
+A : V* - a daxil olan , lakin , L-ə daxil olmayan bütün sözlər çoxluğudur 
+B : boş sözlərin çoxluğudur
+C : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur  
+D : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur  
+E : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur
+ANSWER : A
+
+53.	V* - a daxil olan , lakin , L-ə daxil olmayan bütün sözlər çoxluğu bu dillərin nəyi adlanır?
+
+A : tamamlanması 
+B : birləşməsi
+C : kəsişməsi 
+D : hasili  
+E : interasiyası
+ANSWER : A
+54.	 V* - a daxil olan , lakin , L-ə daxil olmayan bütün sözlər çoxluğu bu dillərin ... adlanır.
+
+A : tamamlanması 
+B : birləşməsi
+C : kəsişməsi 
+D : hasili  
+E : interasiyası
+ANSWER : A
+55.	V* - un özü dildir və onun V* - a tamamlanması nədir?
+
+A : boş sözlərin çoxluğudur 
+B : V* - a daxil olan , lakin , L-ə daxil olmayan bütün sözlər çoxluğudur
+C : bu dillərin hər ikisinə eyni zamanda daxil olan bütün sözlərin çoxluğudur  
+D : bu dillərdən heç olmazsa birinə daxil olan bütün sözlərin çoxluğudur  
+E : bu dillərdən hər birinə daxil ola bılən bütün sözlərin çoxluğudur
+ANSWER : A
+56.		 İki L1 və L2 dillərinin hasili (L1L2) hansı qaydada alına bilən bütün sözlər çoxluğudur?
+
+A : L1 –dən hər hansı bir söz götürülür və ona sağdan  L2 –yə daxil olan söz birləşdirilir 
+B : L1 –dən hər hansı bir söz götürülür və ona soldan  L2 –yə daxil olan söz birləşdirilir
+C : L1 –dən hər hansı bir söz götürülür və ona sağdan  L2 –yə daxil olmayan söz birləşdirilir  
+D : L1 –dən hər hansı bir söz götürülür və ona sağdan  boş söz birləşdirilir  
+E : L1 –dən hər hansı bir söz götürülür və ona sağdan  əks söz birləşdirilir
+ANSWER : A
+57.		 L1 –dən hər hansı bir söz götürülür və ona sağdan  L2 –yə daxil olan söz birləşdirilir. Bu əməl L1 və L2 -nin nəyi adlanır? 
+
+A : hasili 
+B : tamamlanması
+C : birləşməsi  
+D : kəsişməsi  
+E : iterasiyası
+ANSWER : A
+58.		 L1 –dən hər hansı bir söz götürülür və ona sağdan  L2 –yə daxil olan söz birləşdirilir. Bu əməl L1 və L2 -nin ... adlanır.
+
+A : hasili 
+B : tamamlanması
+C : birləşməsi  
+D : kəsişməsi  
+E : iterasiyası
+ANSWER : A
+59.		 { X1X2 | X1ϵ L1, X2ϵ L2 }yazılışı nəyi ifadə edir?
+
+A : L1 və L2 dillərinin hasilini 
+B : L1 və L2 dillərinin tamamlanmasını
+C : L1 və L2 dillərinin kəsişməsini  
+D : L1 və L2 dillərinin birləşməsini  
+E : L1 və L2 dillərinin ekvivalentliyini
+ANSWER : A
+60.		 { X1X2 | X1ϵ L1, X2ϵ L2 }yazılışı ... ifadə edir.
+
+A : L1 və L2 dillərinin hasilini 
+B : L1 və L2 dillərinin tamamlanmasını
+C : L1 və L2 dillərinin kəsişməsini  
+D : L1 və L2 dillərinin birləşməsini  
+E : L1 və L2 dillərinin ekvivalentliyini
+ANSWER : A
+61.		L dilinin bütün ardıcıl qüvvətlərinin birləşməsi əməlini kim təklif etmişdir?
+
+A : S. K. Klini 
+B : A. Türinq
+C : E. Post  
+D : V. Leybnis  
+E : C. Bul
+ANSWER : A
+62.		 EULUL2UL3U...ULnU... - birləşməsi necə adlanır?
+
+A : n interasiyası 
+B : n interpretasiyası
+C : n invariantlığı  
+D : n invertorlaru  
+E : n inyeksiyası
+ANSWER : A
+63.		 İnvolyutiv əməlin məğzi: 
+
+A : özünün tərs əməli ilə üst-üstə düşür 
+B : L dilinin bütün çevrilmiş sözlər çoxluğudur
+C : riyaziyyatın “dilini”nin fəlsəfi tədqiqidir  
+D : L dilinin bütün sözləri çoxluğudur  
+E : Homsk qramatikasını ifadə edir
+ANSWER : A
+64.		 L͠ = {x͠, xϵL} yazılışı nəyi ifadə edir? 
+
+A : L dilinin bütün çevrilmiş sözlər çoxluğunu 
+B : özünün tərs əməli ilə üst-üstə düşür
+C : L dilinin bütün çevrilməmiş sözlər çoxluğunu  
+D : riyaziyyatın “dilini”nin fəlsəfi tədqiqini  
+E : Homsk qramatikasını
+ANSWER : A
+65.		 Qramatikaların və onların törətdikləri dillərin ümumi qəbul edilmiş təsnifatı neçə tip qramatikadan ibarətdir? 
+
+A : 4 
+B : 3
+C : 5  
+D : 2  
+E : 8
+ANSWER : A
+66.		 Qramatikaların və onların törətdikləri dillərin ümumi qəbul edilmiş təsnifatı ... tip qramatikadan ibarətdir. 
+
+A : 4 
+B : 3
+C : 5  
+D : 2  
+E : 8
+ANSWER : A
+67.		Qramatikaların və onların törətdikləri dillərin ümumi qəbul edilmiş təsnifatı 4 tip qramatikadan ibarət ..... iyerarxiyasıdır.
+
+A : Homsk 
+B : Hegel
+C : Mili  
+D : Mur  
+E : Klini
+ANSWER : A
+68.		 Homsk qramatikaları hansılardır? 
+
+A : 0-tip qramatika, 1-tip qramatika, 2-tip qramatika, 3-tip qramatika 
+B : 1-tip qramatika, 2-tip qramatika, 3-tip qramatika, 4-tip qramatika
+C : 0-tip qramatika, KS- qramatika  
+D : 1-tip qramatika, 2-tip qramatika, 3-tip qramatika  
+E : 0-tip qramatika, 1-tip qramatika, 2-tip qramatika
+ANSWER : A
+69.		 Alınma qaydalarında heç bir məhdudiyyət olmayan ixtiyari şəkilli qramatika necə adlanır? 
+
+A : 0-tip qramatika 
+B : 1-tip qramatika
+C : 2-tip qramatika  
+D : 3-tip qramatika  
+E : 4-tip qramatika
+ANSWER : A
+ 70.		 α A β→αωβ  şəklində olan qramatika (burada ω ϵ (VUW)+, α və β – kontekst qaydalardır və tətbiq olunduqda dəyişmirlər) necə adlanır? 
+
+A : 1-tip qramatika 
+B : 0-tip qramatika
+C : 2-tip qramatika  
+D : 3-tip qramatika  
+E : 4-tip qramatika
+ANSWER : A
+ 71.		 Alınma qaydaları  A→α, α ϵ (VUW)* şəklində olan qramatika necə adlanır? 
+
+A : 2-tip qramatika 
+B : 3-tip qramatika
+C : 4-tip qramatika  
+D : 0-tip qramatika  
+E : 5-tip qramatika
+ANSWER : A
+72.		Alınma qaydaları  A→α, α ϵ (VUW)* şəklində olan qramatika necə adlanır?
+
+A : KS- qramatika 
+B : 3-tip qramatika
+C : 4-tip qramatika  
+D : 0-tip qramatika  
+E : 5-tip qramatika  
+ANSWER : A
+73.		 Alınma qaydaları ya A→aB, ya ad A→a şəklində olan qrammatika necə adlanır? 
+
+A : requlyar qramatika 
+B : 0-tip qramatika
+C : 1-tip qramatika  
+D : 2-tip qramatika  
+E : 4-tip qramatika
+ANSWER : A
+74.		 Alınma qaydaları ya A→aB, ya ad A→a şəklində olan qrammatika necə adlanır? 
+
+A : 3-tip qramatika 
+B : 0-tip qramatika
+C : 1-tip qramatika  
+D : 2-tip qramatika  
+E : KS-qramatika
+ANSWER : A
+75.		 Alınma qaydaları ya A→aB, ya ad A→a şəklində olan qrammatika ... adlanır.
+
+A : 3-tip qramatika 
+B : 0-tip qramatika
+C : 1-tip qramatika  
+D : 2-tip qramatika  
+E : KS-qramatika
+ANSWER : A
+76.		 Əgər L dilini doğurdan I = 0,1,2,3 tipli qramatikası varsa, onda L ... adlanır. 
+
+A : I tipli dil 
+B : KS-qramatika
+C : 3-tip qramatika  
+D : 4-tip qramatika     
+E : 0-tip qramatika 
+ANSWER : A
+77.		 a2n-1 dili hansı tipdir? 
+
+A : 3 
+B : 4 
+C : 1  
+D : 2  
+E : 0  
+ANSWER : A
+78.		 anbn  dili hansı tipdir?
+
+A : 2 
+B : 3
+C : 4  
+D : 0  
+E : 1
+ANSWER : A
+79.		 anbn  dili hansı tipdir? 
+
+A : KS
+B : KL
+C : 3  
+D : 1    
+E : 0
+ANSWER : A
+80.		 I→aBa; B→aBCa; B→b; bC→BB; aC→Ca - qramatikası ilə yaranan dil hansıdır? 
+
+A : anbncn 
+B : anbn
+C : ancn  
+D : anİcn  
+E : İanbncn
+ANSWER : A
+81.		 ..... dili ən yaxşı öyrənilmiş dillər sinfidir. Bu onunla əlaqədardır ki, ..... qramatikalar təbii dillərin, ən çox proqramlaşdırma dillərinin təsviri üçün əlverişli aparatdır; digər tərəfdən , ..... dillərinin strukturunun nisbi sadəliyi və məzmunlu olması və onun əlverişli üsullarla tədqiqi nəzəri maraq kəsb edir. 
+
+A : KS 
+B : KL
+C : KRL  
+D : FRL  
+E : UML
+ANSWER : A
+ 82.		 KS- qramatikanın meydana gəlməsi praktik olaraq ..... metadilinin (Bekus normal forması) yaranması ilə eyni vaxta düşür. 
+
+A : Bekus 
+B : Viklaus
+C : Bul  
+D : UML  
+E : KRL
+ANSWER : A
+ 83.		 Bekus dili ilk dəfə  hansı proqramlaşdırma dilinin təsvirində istifadə olunmuşdur? 
+
+A : ALQOL – 60 
+B : PL/1
+C : Pascal  
+D : C  
+E : ForTran  
+ANSWER : A
+84.		 Hansı dil proqramlaşdırma dillərinin formal təsviri üçün ümumi qəbul edilmiş üsul olmuşdur?
+A : ALQOL – 60 
+B : PL/1
+C : Pascal  
+D : C  
+E : ForTran
+ANSWER : A
+85.		  Formal sistemlərdə, o cümlədən qramatikalarda nəticələrin çıxarılışı nələrin ardıcıllığı kimi müəyyən edilir?
+A : zəncirlərin 
+B : iplərin
+C : simvolikaların  
+D : çubuqların  
+E : qramatikaların
+ANSWER : A
+86.		 Metalinqvistik dəyişən(mətn) nəyi ifadə edir?
+A : dilin quruluşunu 
+B : dilin simvollarını
+C : dilin əlifbasını  
+D : dilin rəqəmlərini  
+E : dilin hərflərini
+ANSWER : A
+87.		 Metalinqvistik ..... X konstruksiyasının( mətninin) müxtəlif sintaksis variantlarının başqa konstruksiyalarla və dilin əsas simvolları ilə təsvir edilməsidir. 
+A : düstur
+B : qramatika
+C : zəncir  
+D : ip  
+E : dil
+ANSWER : A
+88.		 Pascal dilinin ..... çoxluğu hərflə başlayan, hərf və rəqəmlərdən ibarət zəncirlər çoxluğudur. 
+A : identifikatorları 
+B : invariantları
+C : invertorları  
+D : inyeksiyaları  
+E : implikasiyaları
+ANSWER : A
+89.		 Hər bir ..... hər hansı bir KS-dil(bu dil boş da ola bilər) uyğundur. 
+
+A : KS-qramatikaya  
+B : requlyar qramatikaya
+C : 0-tip qramatikaya  
+D : 1-tip qramatikaya  
+E : 3-tip qramatikaya
+ANSWER : A
+90.		 Hər bir KS - qramatikaya hər hansı ...... KS-dil (bu dil boş da ola bilər) uyğundur. 
+
+A : 1 
+B : 2 
+C : Sonlu sayda  
+D : Sonsuz sayda  
+E : 3 
+ANSWER : A
+91.		 Hər bir KS-qrammatika ..... normal formalarına çevrilə bilərlər. 
+
+A : Bekus 
+B : Viklaus 
+C : Bul  
+D : UML  
+E : KRL 
+ANSWER : A
+92.		 Əgər ağacın bütün son təpələri kökün bilavasitə nəsilləridirsə, onda belə ağac ..... adlanır.
+
+A : elementar(sadə) 
+B : köklü 
+C : petlə  
+D : mürəkkəb  
+E : köksüz 
+ANSWER : A
+93.		 Çıxış ağacının ..... – ağacın kökündən son təpəsinə qədər olan maksimal yoldur. 
+
+A : hündürlüyü 
+B : eni 
+C : artımı  
+D : gövdəsi  
+E : qucumu 
+ANSWER : A
+ 94.		 Çıxış ağacının hündürlüyü – ağacın kökündən ..... təpəsinə qədər olan maksimal yoldur. 
+
+A : son 
+B : qonşu 
+C : özündən əvvəlki 
+D : özündən sonrakı  
+E : (n+1) –ci 
+ANSWER : A
+95.		 Çıxış ağacının hündürlüyü – ağacın ...... son təpəsinə qədər olan maksimal yoldur. 
+
+A : kökündən 
+B : ilk nəslindən 
+C : (n+1) –ci təpəsindən  
+D : (n+2) –ci təpəsindən  
+E : (n+3) –ci təpəsindən 
+ANSWER : A
+96.		 Avtomatların da KS-dillərə uyğun xüsusi sinfi necə adlanır? 
+
+A : mağaza yaddaşlı avtomatlar 
+B : mağaza yaddaşsız avtomatlar 
+C : maqazinli avtomatlar  
+D : maqazinsiz avtomatlar  
+E : yaddaşlı avtomatlar 
+ANSWER : A
+97.		 ..... dedikdə funksiyanın elə verilməsi üsulu başa düşülür ki, arqumentin ixtiyari qiymətlərinə uyğun funksiyanın hesablanılacaq qiymətləri aşkar şəkildə arqumentin kiçik qiymətlərində təyin edilmiş funksiyanın qiymətləri vasitəsilə ifadə oluna bilsin - funksiya özü-özünü təyin etsin. 
+
+A : rekursiya 
+B : ibtidai rekursiya 
+C : sonlu avtomat  
+D : mağaza yaddaşlı avtomat  
+E : prosedur 
+ANSWER : A
+98.		 Rekursiv funksiyalar nəzəriyyəsində tam olaraq, hansı əməllər xüsusi yer tutur?
+
+A : superpozisiya, ibtidai(primitiv) rekursiya və ən kiçik kök (minimum¬laşdırma əməli) 
+B : superpozisiya, ibtidai(primitiv) rekursiya və ən böyük kök (maksimum¬laşdırma əməli) 
+C : ibtidai(primitiv) rekursiya və ən kiçik kök(minimum¬laşdırma əməli)  
+D : superpozisiya və ibtidai(primitiv) rekursiya əməli  
+E : superpozisiya və ən kiçik kök (minimum¬laşdırma əməli) 
+ANSWER : A
+99.		 Rekursiv funksiyalar nəzəriyyəsində tam olaraq, ... əməlləri xüsusi yer tutur.
+
+A : superpozisiya, ibtidai(primitiv) rekursiya və ən kiçik kök (minimum¬laşdırma əməli) 
+B : superpozisiya, ibtidai(primitiv) rekursiya və ən böyük kök (maksimum¬laşdırma əməli) 
+C : ibtidai(primitiv) rekursiya və ən kiçik kök(minimum¬laşdırma əməli)  
+D : superpozisiya və ibtidai(primitiv) rekursiya əməli  
+E : superpozisiya və ən kiçik kök (minimum¬laşdırma əməli) 
+ANSWER : A
+100.		 Funksiyaların hansı əməli bir qrup hesabi funksiyaların digər hesabi funksiyaların arqumentləri ilə əvəz edilməsindən ibarətdir? 
+
+A : superpozisiya 
+B : ibtidai(primitiv) rekursiya əməli 
+C : ən kiçik kök (minimum¬laşdırma əməli)  
+D : ən böyük kök (maksimum¬laşdırma əməli)  
+E : hesabi əməl 
+ANSWER : A
+101.		 Funksiyaların ... əməli bir qrup hesabi funksiyaların digər hesabi funksiyaların arqumentləri ilə əvəz edilməsindən ibarətdir. 
+
+A : superpozisiya 
+B : ibtidai(primitiv) rekursiya əməli 
+C : ən kiçik kök (minimum¬laşdırma əməli)  
+D : ən böyük kök (maksimum¬laşdırma əməli)  
+E : hesabi əməl 
+ANSWER : A
+102.		 f(x) = 0 və g(x) = x +1 funksiyalarının superpozisiyası nəyə bərabərdir?
+
+A : 1 
+B : 0 
+C : 2  
+D : x + 2  
+E : x + 1 
+ANSWER : A
+103.		 g(x) = x +1 və h(x) = 1 funksiyalarının superpozisiya əməli nəyə bərabərdir? 
+
+A : x+2 
+B : 2 
+C : 0  
+D : 1  
+E : x + 1 
+ANSWER : A
+104.		 Hansı əməl verilmiş iki n-yerli (n arqumentli)  g və (n+2)-yerli h funksiyalarına görə (n+1)-yerli f  funksiyasının qurulmasını təmin edir? 
+
+A : ibtidai rekursiya əməli 
+B : superpozisiya əməli 
+C : ən kiçik kök əməli  
+D : minimum¬laşdırma əməli  
+E : maksimum¬laşdırma əməli 
+ANSWER : A
+ 105.		 ... verilmiş iki n-yerli (n arqumentli)  g və (n+2)-yerli h funksiyalarına görə (n+1)-yerli f  funksiyasının qurulmasını təmin edir.
+
+A : ibtidai rekursiya əməli 
+B : superpozisiya əməli 
+C : ən kiçik kök əməli  
+D : minimum¬laşdırma əməli  
+E : maksimum¬laşdırma əməli 
+ANSWER : A
+ 106.		 Superpozisiya və ibtidai (primitiv) rekursiya əməllərinin köməyi ilə elementar hesabi funksiyalardan düzəldilə bilən funksiyalara nə deyilir? 
+
+A : ibtidai(primitiv) rekursiv funksiyalar 
+B : hissə-hissə rekursiv funksiyalar 
+C : ən kiçik kök əməli  
+D : hesabi əməl  
+E : hesabi funksiyalar 
+ANSWER : A
+ 107.		 Superpozisiya və ibtidai (primitiv) rekursiya əməllərinin köməyi ilə elementar hesabi funksiyalardan düzəldilə bilən funksiyalara ... deyilir.
+
+A : ibtidai(primitiv) rekursiv funksiyalar 
+B : hissə-hissə rekursiv funksiyalar 
+C : ən kiçik kök əməli  
+D : hesabi əməl  
+E : hesabi funksiyalar 
+ANSWER : A
+108.		 Hansı əməl əvvəlcədən qurulmuş (n+1)- dəyişənli g(a1,..., an, y) = 0 hesabi funksiyanın köməyilə n-dəyişənli yeni   funksiyasını təyin etməyə imkan verir? 
+
+A : ən kiçik kök əməli 
+B : ibtidai rekursiya əməli 
+C : superpozisiya əməli  
+D : maksimum¬laşdırma əməli  
+E : hesabi əməl 
+ANSWER : A
+109.		 ... əvvəlcədən qurulmuş (n+1)- dəyişənli g(a1,..., an, y) = 0 hesabi funksiyanın köməyilə n-dəyişənli yeni   funksiyasını təyin etməyə imkan verir. 
+
+A : ən kiçik kök əməli 
+B : ibtidai rekursiya əməli 
+C : superpozisiya əməli  
+D : maksimum¬laşdırma əməli  
+E : hesabi əməl 
+ANSWER : A
+110.		 Superpozisiya, ibtidai (primitiv) rekursiya və ən kiçik kök əməllərinin köməyilə elementar hesabi funksiyalardan düzəldilən hesabi funksiyalara nə deyilir? 
+
+A : hissə-hissə rekursiv funksiyalar 
+B : ibtidai(primitiv) rekursiv funksiyalar 
+C : bazis funksiyalar çoxluğu
+D : nəntiqi funksiyalar  
+E : həndəsi funksiyalar
+ANSWER : A
+111.		 Superpozisiya, ibtidai (primitiv) rekursiya və ən kiçik kök əməllərinin köməyilə elementar hesabi funksiyalardan düzəldilən hesabi funksiyalara ... deyilir. 
+
+A : hissə-hissə rekursiv funksiyalar 
+B : ibtidai(primitiv) rekursiv funksiyalar 
+C : bazis funksiyalar çoxluğu
+D : nəntiqi funksiyalar  
+E : həndəsi funksiyalar
+ANSWER : A
+112.		 Superpozisiya, ibtidai (primitiv) rekursiya və ən kiçik kök əməllərinin köməyilə elementar hesabi funksiyalardan düzəldilən hesabi funksiyalara ... deyilir. 
+
+A : hissə-hissə rekursiv funksiyalar 
+B : ibtidai(primitiv) rekursiv funksiyalar 
+C : bazis funksiyalar çoxluğu
+D : nəntiqi funksiyalar  
+E : həndəsi funksiyalar
+ANSWER : A
+113.		 Alqoritmlər nəzəriyyəsinin formallaşdırılmasına dair “Hissə-hissə rekursiv funksiyalar konstruktiv təyin edilən hesabi funksiyaların daha ümumi sinfini təşkil edir” yanaşması kimlərə məxsusdur? 
+
+A : Klini və Heydelə 
+B : Klini və Çerçə 
+C : Klini və Posta  
+D : Posta və Türinqə  
+E : Türinq və Heydelə 
+ANSWER : A
+114.		 Post və Tyurinq maşınları hansı hissələrdən ibarətdir?  
+
+A : İnformasiya lenti, Oxuyucu başcıq, İdarəedici qurğu 
+B : İnformasiya lenti, Yazıcı başcıq, İdarəemə pultu 
+C : İnformasiya lenti, Yazıcı başcıq, İdarəedici qurğu  
+D : Yazıcı başcıq, Oxuyucu başcıq, İdarəedici qurğu  
+E : İnformasiya lenti, Oxuyucu başcıq, Yazıcı başcıq 
+ANSWER : A
+115.		 Postun alqoritmik sistemində informasiya hansı əlifbada verilir? 
+
+A : ikilik 
+B : səkkizlik 
+C : 16-lıq  
+D : istənilən  
+E : 10-luq 
+ANSWER : A
+116.		 Postun alqoritmini təşkil edən əmrlər nə ilə həyata keçirilir? 
+
+A : İdarəedici qurğu 
+B : İnformasiya lenti 
+C : Oxuyucu başcıq  
+D : Yazıcı başcıq  
+E : Yaddaş lenti 
+ANSWER : A
+117.		 Tyurinq maşınlarının yerinə yetirə biləcəyi bütün əmrlər çoxluğuna onun ... deyilir. 
+
+A : Proqramı 
+B : Yaddaşı 
+C : İdarəedici qurğusu  
+D : İnformasiya lenti  
+E : Oxuyucu başcığı
+ANSWER : A
+118.		 Lent sürüşərkən oyuğun qəbul edilən vəziyyəti əvvəlcədən dəyişdirilə bildikdə Tyurinq maşınları necə adlanır? 
+
+A : standart 
+B : ikilentli 
+C : çoxlentli  
+D : universal  
+E : ixtisaslaşdırılmış 
+ANSWER : A
+119.		 Lent sürüşərkən ... qəbul edilən vəziyyəti əvvəlcədən dəyişdirilə bildikdə Tyurinq maşınları necə adlanır? 
+
+A : oyuğun 
+B : lentin 
+C : proqramın  
+D : əmrin  
+E : informasiyanın 
+ANSWER : A
+
+120.		 Tyurinq maşınlarında lentin bütün oyuqlarının və idarəedici qurğunun vəziyyətləri ardıcıllığının məcmusu maşının nəyi adlanır? 
+
+A : Konfiqurasiyası 
+B : Proqramı 
+C : Yaddaşı  
+D : İnformasiyası  
+E : Oxuyucu başcığı 
+ANSWER : A
+ 121.	Tyurinq maşınının konfiqurasiya onun konkret vəziyyətini təsvir edən nə şəklində verilir? 
+
+A : Söz 
+B : Əmr 
+C : Proqram  
+D : Yaddaş  
+E : Lent 
+ANSWER : A
+ 122.		... maşınının konfiqurasiya onun konkret vəziyyətini təsvir edən nə şəklində verilir?
+
+A : Tyurinq
+B : Post
+C : Ford  
+D : Bul  
+E : Gaus 
+ANSWER : A
+123.		 Tyurinq maşınının konfiqurasiya onun konkret vəziyyətini təsvir edən ... şəklində verilir. 
+
+A : Söz 
+B : Əmr 
+C : Proqram  
+D : Yaddaş  
+E : Lent 
+ANSWER : A
+124.		 Əlifbanın sonlu simvolları Tyurinq maşınının nəyi adlanır? 
+
+A : xarıcı əlifbası
+B : daxili əlifbası 
+C : proqramı  
+D : sözləri  
+E : idarəedici qurğusu 
+ANSWER : A
+125.		 İdarəedici qurğunun sonlu vəziyyətləri Tyurinq maşınının nəyi adlanır? 
+
+A : daxili əlifbası 
+B : xarıcı əlifbası 
+C : proqramı  
+D : sözləri  
+E : idarəedici qurğusu 
+ANSWER : A
+126.		 Sonlu avtomatlar nəzəriyyəsi nəyi öyrənir? 
+
+A : mücərrəd riyazi modelləri və onların ümumi xassələrini 
+B : real fiziki qurğuları və hadisələri 
+C : sözlərin emalı üçün müəyyən alqoritmi  
+D : müəyyən alqoritmi  
+E : real fiziki qurğuları 
+ANSWER : A
+127.		 Sonlu avtomat ..... sayda girişə və çıxışa malikdir. 
+
+A : sonlu 
+B : sonsuz 
+C : hesabi  
+D : kompleks  
+E : hesabi 
+ANSWER : A
+128.		 Avtomatın ..... onun giriş əlifbasının həriflərini çıxış əlifbasının hərfinə çevirmə bacarığına deyilir. 
+
+A : davrvnışı 
+B : giriş əlifbası 
+C : çıxış əlifbası  
+D : vəziyyətlərin keçid funksiyası  
+E : Vəziyyəti 
+ANSWER : A
+129.		 Çıxışsız avtomatda Y avtomatın çıxış əlifbası çoxluğu neçə elementdən  ibarət olur? 
+
+A : 1 
+B : 2 
+C : 3  
+D : 4  
+E : 5 
+ANSWER : A
+130.		 Sonlu avtomat neçə komponentə malikdir? 
+
+A : 5 
+B : 2 
+C : 3  
+D : 4  
+E : istənilən sayda 
+ANSWER : A
+131.		 İnisial avtomat nəyə deyilir? 
+
+A : ilkin vəziyyəti verilmiş avtomata 
+B : çıxış vəziyyəti verilmiş avtomata 
+C : giriş əlifbası verilmiş avtomata  
+D : vəziyyətlər çoxluğu verilmiş avtomata
+E : vəziyyətlərin keçid funksiyası verilmiş avtomata 
+ANSWER : A
+
+132.		 Aşağıdakı şərtləri yerinə yetirən A1=<X1,Y1,Z1,f1,g1> və  A2=<X2, Y2, Z2, f2, g2 > avtomatları necə adlandırılır: X1=X2=X; Z1 və Z2 arasında qarşılıqlı birmənalı uyğunluq yaratmaq mümkündür, belə ki, əgər   və     bir-birinə uyğundursa, onda   və   arasında uyğunluq var və   
+
+A : izomorf 
+B : homomorf
+C : nişanlanmış 
+D : bərabər
+E : ekvivalent
+ANSWER : A
+ 133.		Riyazi nöqteyi-nəzərdən Tyurinq maşınları nə deməkdir? 
+
+A : sözlərin emalı üçün müəyyən alqoritm
+B : real fiziki qurğular və hadisələr
+C : mücərrəd riyazi modellər  
+D : real fiziki qurğular  
+E : real fiziki hadisələr 
+ANSWER : A
+ 134.		Riyazi nöqteyi-nəzərdən ... maşınları sözlərin emalı üçün müəyyən alqoritm deməkdir? 
+
+A : Tyurinq
+B : Post
+C : Ford  
+D : Bul  
+E : Gaus 
+ANSWER : A
+135.		İzomorf A1 və A2 avtomatları yalnız nə ilə 1-1-indən fərqlənirlər? 
+A :  vəziyyətlər nişanları
+B : çıxış vəziyyətləri 
+C : giriş əlifbası  
+D : vəziyyətlər çoxluğu  
+E : vəziyyətlərin keçid funksiyası 
+ANSWER : A
+136.		Sonlu avtomat aşağıdakı <X, Y,Z,f,g>komponentlərinin toplusudur:  X={a1,…,ar} avtomatın giriş əlifbası; Y={b1,…,bt} avtomatın çıxış əlifbası; Z= {q1 ,..., qs}avtomatın vəziyyətlər çoxluğu; f - bütün nizamlı  (aj,bi) cütlüklər çoxluğunu Z çoxluğunda inikas etdirən vəziyyətlərin keçid funksiyası ;g - bütün nizamlı (aj,bi) cütlüklər çoxluğunu Y çoxluğunda inikas etdirən çıxış funksiyası .
+X,Y,Z çoxluqlarının gücündən və f,g funksiyalarının tipindən asılı olaraq avtomatları hansı növlərə ayırırlar?
+A : Yaddaşsız avtomat (kombinasiyalı sxem), Avtonom avtomat, Cıxışsız avtomat, Gecikmə ilə işləyən avtomat, Mur avtomatı; 
+B : Yaddaşlı avtomat (kombinasiyalı sxem), Avtonom avtomat, Cıxışsız avtomat, Gecikmə ilə işləyən avtomat, Mur avtomatı; 
+C : Yaddaşsız avtomat (kombinasiyalı sxem), Avtonom avtomat, Cıxışlı avtomat, Gecikmə ilə işləyən avtomat, Mur avtomatı; 
+D : Yaddaşsız avtomat (kombinasiyalı sxem), Avtonom avtomat, Cıxışsız avtomat, Gecikmə ilə işləyən avtomat, Mili avtomatı;  
+E : Yaddaşlı avtomat (kombinasiyalı sxem), Avtonom avtomat, Cıxışsız avtomat, Gecikmə ilə işləyən avtomat, Mili avtomatı 
+ANSWER : A
+137.		“Sadə alqoritmik vasitələrlə bütün hesablanıla bilən funksiyaları kifayət qədər məhdud bazis funksiyalar çoxluğundan almaq olar” – ideyası kimə məxsusdur? 
+
+A : Heydelə 
+B : Çerçə 
+C : Posta  
+D : Türinqə  
+E : Homska 
+ANSWER : A
+138.		“Alqoritmik prosesıər “maşın”ın yarada biləcəyi prosesdir” – qənaəti kimlərə məxsusdur? 
+
+A : Posta və Türinqə 
+B : Klini və Çerçə 
+C : Klini və Posta  
+D : Türinqə və Heydelə  
+E : Klini və Heydelə 
+ANSWER : A
+139.		Sonlu avtomat aşağıdakı < X, Y, Z, f, g> komponentlərinin toplusudur:  X={a1,…,ar} avtomatın giriş əlifbası; Y={b1,…,bt} avtomatın çıxış əlifbası; Z= {q1 ,..., qs} avtomatın vəziyyətlər çoxluğu; f - bütün nizamlı  (aj,bi) cütlüklər çoxluğunu Z çoxluğunda inikas etdirən vəziyyətlərin keçid funksiyası ; g - bütün nizamlı (aj,bi) cütlüklər çoxluğunu Y çoxluğunda inikas etdirən çıxış funksiyası . < X,Y, g > üçlüyü ilə təyin olunan avtomat necə adlanır(bu halda Z çoxluğu bir elemntdən ibarət olur)? 
+A : Yaddaşsız avtomat (kombinasiyalı sxem) 
+B : Avtonom avtomat 
+C : Cıxışsız avtomat  
+D : Gecikmə ilə işləyən avtomat  
+E : Mur avtomatı 
+ANSWER : A
+140.		Yaddaşsız avtomat üçün rekurrent münasibət necə yazılır? 
+
+A : y(t) = g(x(t)) 
+B : z(t+1)=f(x(t),z(t)) 
+C : y(t)=g(x(t),z(t))  
+D : z(t+1)=f(x(t))  
+E : y(t+1)=g(x(t)) 
+ANSWER : A
+141.		... avtomat üçün rekurrent münasibət belə yazılır: y(t) = g(x(t)).
+
+A : yaddaşsız 
+B : yaddaşlı 
+C : sonlu   
+D : sonsuz  
+E : maqazin yaddaşlı 
+ANSWER : A
+142.		Sonlu avtomat aşağıdakı < X, Y, Z, f, g> komponentlərinin toplusudur:  X={a1,…,ar} avtomatın giriş əlifbası; Y={b1,…,bt} avtomatın çıxış əlifbası; Z= {q1 ,..., qs} avtomatın vəziyyətlər çoxluğu; f - bütün nizamlı  (aj,bi) cütlüklər çoxluğunu Z çoxluğunda inikas etdirən vəziyyətlərin keçid funksiyası ; g - bütün nizamlı (aj,bi) cütlüklər çoxluğunu Y çoxluğunda inikas etdirən çıxış funksiyası.  <Y, Z, f, g> dördlüyü ilə təyin olunan avtomat necə adlanır(bu halda X çoxluğu bir elementdən ibarət olur)?
+
+A : Avtonom avtomat 
+B : Cıxışsız avtomat 
+C : Gecikmə ilə işləyən avtomat  
+D : Mur avtomatı  
+E : Yaddaşsız avtomat (kombinasiyalısxem) 
+ANSWER : A
+143.		Avtonom avtomat üçün rekurrent münasibət necə yazılır? 
+
+A : z(t+1)=f(z(t)), y(t) = g(x(t)) 
+B : z(t+1)=f(x(t), z(t)), y(t) = g(x(t)) 
+C : (t+1)=f(x(t)), y(t)=g(x(t),z(t)) 
+D : z(t+1)=f(x(t)), y(t+1)=g(x(t))  
+E : y(t+1)=g(x(t)) 
+ANSWER : A
+
+144.		Sonlu avtomat aşağıdakı < X, Y, Z, f, g> komponentlərinin toplusudur:  X={a1,…,ar} avtomatın giriş əlifbası; Y={b1,…,bt} avtomatın çıxış əlifbası; Z= {q1 ,..., qs} avtomatın vəziyyətlər çoxluğu; f - bütün nizamlı  (aj,bi) cütlüklər çoxluğunu Z çoxluğunda inikas etdirən vəziyyətlərin keçid funksiyası ; g - bütün nizamlı (aj,bi) cütlüklər çoxluğunu Y çoxluğunda inikas etdirən çıxış funksiyası.  <Y, Z, f > üçlüyü ilə təyin olunan avtomat necə adlanır(bu halda Y çoxluğu bir elementdən ibarətdir)? 
+
+A : Cıxışsız avtomat 
+B : Gecikmə ilə işləyən avtomat 
+C : Mur avtomatı  
+D : Avtonom avtomat  
+E : Yaddaşsız avtomat (kombinasiyalısxem) 
+ANSWER : A
+ 145.		Çıxışsız avtomat üçün rekurrent münasibət necə yazılır? 
+
+A : z(t+1)=f(x(t), z(t)) 
+B : z(t+1)=f(z(t)) 
+C : y(t) = g(x(t))  
+D : y(t)=g(x(t), z(t))  
+E : z(t+1)=f(x(t)) 
+ANSWER : A
+ 146.		Gecikmə ilə işləyən avtomat üçün rekurrent münasibət necə yazılır? 
+
+A : z(t+1) = f(x(t), z(t)),  y(t) = g(z(t)) 
+B : z(t+1) = f(z(t)) 
+C : y(t) = g(x(t))  
+D : y(t) = g(x(t), z(t))  
+E : z(t+1) = f(x(t)) 
+ANSWER : A
+147.		Mur avtomatı üçün rekurrent münasibət necə yazılır? 
+
+A : z(t+1) = f(x(t), z(t), y(t)),  y(t) = g(z(t)) 
+B : z(t+1) = f(z(t)),  y(t) = g(z(t)) 
+C : z(t+1) = f(z(t), y(t)), y(t) = g(x(t)) 
+D : z(t+1) = f(x(t), z(t), y(t)),y(t) = g(x(t), z(t)) 
+E : z(t+1) = f(x(t)),  y(t) = g(z(t)) 
+ANSWER : A
+148.		y(t) = g(x(t)) rekurrent münasibəti  hansı avtomat üçündür? 
+
+A : Yaddaşsız avtomat (kombinasiyalısxem) 
+B : Avtonom avtomat 
+C : Cıxışsız avtomat 
+D : Gecikmə ilə işləyən avtomat  
+E : Mur avtomatı
+ANSWER : A
+149.		 z(t+1)=f(z(t)), y(t) = g(x(t)) rekurrent münasibəti  hansı avtomat üçündür? 
+
+A : Avtonom avtomat 
+B : Cıxışsız avtomat 
+C : Gecikmə ilə işləyən avtomat  
+D : Mur avtomatı  
+E : Yaddaşsız avtomat (kombinasiyalı sxem) 
+ANSWER : A
+150.		 z(t+1) = f(x(t), z(t)) rekurrent münasibəti  hansı avtomat üçündür? 
+
+A : Cıxışsızavtomat 
+B : Avtonomavtomat 
+C : Gecikməiləişləyənavtomat 
+D : Mur avtomatı  
+E : Yaddaşsız avtomat (kombinasiyalı sxem) 
+ANSWER : A
+151.		z(t+1) = f(x(t), z(t)),  y(t) = g(z(t)) rekurrent münasibəti  hansı avtomat üçündür? 
+
+A : Gecikmə ilə işləyən avtomat 
+B : Avtonom avtomat 
+C : Çıxışsız avtomat 
+D : Mur avtomatı 
+E : Yaddaşsız avtomat (kombinasiyalı sxem) 
+ANSWER : A
+152.		Avtonom avtomatda X avtomatın giriş əlifbası çoxluğu neçə elementdən  ibarət olur? 
+A : 1 
+B : 2 
+C : 3  
+D : 4 
+E : 5 
+ANSWER : A
+153.		Avtonom avtomatda X avtomatın ... əlifbası çoxluğu 1 elementdən  ibarət olur. 
+A : giriş
+B : çıxış 
+C : ikilik  
+D : səkkizlik 
+E : onluq 
+ANSWER : A
+154.		z(t+1) = f(x(t), z(t), y(t)),  y(t) = g(z(t)) rekurrent münasibəti  hansı avtomat üçündür? 
+
+A : Mur avtomatı 
+B : Avtonom avtomat 
+C : Çıxışsız avtomat 
+D : Gecikmə ilə işləyən avtomat  
+E : Yaddaşsız avtomat (kombinasiyalı sxem) 
+ANSWER : A
+155.		Gecikmə ilə işləyən yalnız avtomatında  g funksiyası nədən asılı olur? 
+
+A : z(t) 
+B : z(t+1) 
+C : x(t-1)  
+D : y(t+2)  
+E : y(t+3) 
+ANSWER : A
+ 156.		 Mur avtomatında g funksiyası nədən asılı olur? 
+A : z(t+1) 
+B : z(t) 
+C : x(t-1) 
+D : y(t+2)  
+E : y(t+3) 
+ANSWER : A
+ 157.		 Yaddaşsızavtomatda hansı çoxluqbirelementdənibarətolur? 
+A : Zavtomatın vəziyyətlər çoxluğu 
+B : X avtomatın giriş əlifbası çoxluğu 
+C : Y avtomatın çıxış əlifbası çoxluğu 
+D : f vəziyyətlərin keçid funksiyası 
+E : g çıxış funksiyası 
+ANSWER : A
+158.		Avtonom avtomatda hansı çoxluq bir elementdən ibarətolur? 
+A : X avtomatın giriş əlifbası çoxluğu 
+B : Zavtomatın vəziyyətlər çoxluğu 
+C : Y avtomatın çıxış əlifbası çoxluğu 
+D : f vəziyyətlərin keçid funksiyası  
+E : g çıxış funksiyası 
+ANSWER : A
+159.		Avtonom avtomatda hansı çoxluq bir elementdən ibarət olur? 
+A : Y avtomatın çıxış əlifbası çoxluğu 
+B : Zavtomatın vəziyyətlər çoxluğu 
+C : X avtomatın giriş əlifbası çoxluğu 
+D : f vəziyyətlərin keçid funksiyası 
+E : g çıxış funksiyası 
+ANSWER : A
+160.		Keçidlər və çıxışlar cədvəllərində sətirlər nəyə uyğun götürülür? 
+A : vəziyyətlərə 
+B : giriş simvollarına 
+C : çıxış simvollarına  
+D : giriş əlifbasına  
+E : çıxış əlifbasına 
+ANSWER : A
+161.		Keçidlər və çıxışlar cədvəllərində sütunlar nəyə uyğun götürülür? 
+A : giriş simvollarına 
+B : çıxış simvollarına 
+C : giriş əlifbasına  
+D : vəziyyətlərə  
+E : çıxış əlifbasına 
+ANSWER : A
+162.		Sonlu avtomatların təsvirinndə A avtomatının keçidlər qrafı S təpələrindən ibarətdir. Həmin təpələrlə A avtomatının ...... uyğunlaşdırılır. 
+A : vəziyyətləri 
+B : giriş simvolları 
+C : çıxış simvolları  
+D : giriş əlifbası  
+E : çıxış əlifbası 
+ANSWER : A
+163.		 Avtomatların 2-ci qrup dillərdəki(yalnız giriş–çıxış anlayışları ilə əməliyyat aparan dillər) təsvirindən 1-ci qrup dillərdəki(daxili vəziyyəti təyin edən dəyişəndən istifadə edən dillər) təsvirinə keçid mümkün olmalıdır. Bu cür keçidə sonlu avtomatın nəyi deyilir? 
+A : abstrakt sintezi 
+B : hadisəsi 
+C : struktur sintezi  
+D : vəziyyətləri  
+E : struktur analizi 
+ANSWER : A
+164.		Avtomatın giriş sözlərinin çoxluğuna nə deyilir? 
+A : hadisə 
+B : sintez 
+C : vəziyyətlər  
+D : struktur  
+E : analiz 
+ANSWER : A
+
+165.		Avtomatın funksional modeli ilə struktur modeli arasında əlaqə, yəni funksional modelə görə struktur modelin və əksinə - struktur modelə görə funksional modelin təyin edilməsi vacib əhəmiyyət kəsb edir. Bu zaman 1-ci məsələ avtomatın nəyi adlanır? 
+A : struktur sintezi 
+B : struktur analizi 
+C : abstrakt sintezi  
+D : hadisələrin analizi  
+E : vəziyyətlərinin analizi 
+ANSWER : A
+ 166.		Avtomatın funksional modeli ilə struktur modeli arasında əlaqə, yəni funksional modelə görə struktur modelin və əksinə - struktur modelə görə funksional modelin təyin edilməsi vacib əhəmiyyət kəsb edir. Bu zaman 2-ci məsələ avtomatın nəyi adlanır? 
+A : struktur analizi 
+B : struktur sintezi 
+C : abstrakt sintezi  
+D : hadisələrin analizi  
+E : vəziyyətlərinin analizi 
+ANSWER : A
+ 167.		«…..» avtomat dedikdə struktur modeli təşkiledən və bölünməz blok kimi baxılan istənilən avtomat başa düşülür. 
+A : tək 
+B : cüt 
+C : kəsr  
+D : qarışıq  
+E : sıfır 
+ANSWER : A
+168.		İlkin bazis kimi avtomatın çıxış funksiyası olaraq nə götürülür? 
+A : Elementar 
+B : Funksional 
+C : Sonlu  
+D : Sonsuz  
+E : İnisaial sonlu 
+ANSWER : A
+169.		 Yaddaşsız avtomatda avtomatın vəziyyətlər çoxluğu neçəyə bərabərolur? 
+A : 1 
+B : 2 
+C : 3  
+D : 4  
+E : 5 
+ANSWER : A
+170.		Nə zaman yaddaşlı avtomatın sintezi məsələsini yaddaşsız avtomatın sintezinə gətirməklə həll etmək olar? 
+A : Əgər kodlaşdırma məsələsi həll olunubsa 
+B : Əgər analiz məsələsi həll olunubsa 
+C : Əgər əvəzləmə məsələsi həll olunubsa  
+D : Əgər sintez məsələsi həll olunubsa  
+E : Əgər proqramlaşdırma məsələsi həll olunubsa 
+ANSWER : A
+171.		 Rəqəm avtomatları kоmbinasion sхеmlerdən fərqli оlaraq, nəyə malikdir? 
+
+A : daхili уaddaşa 
+B : xarici уaddaşa
+C : qrup уaddaşa  
+D : paralel уaddaşa  
+E : ardıcıl уaddaşa
+ANSWER : A
+172.		 Rəqəm avtomatların çıxış siqnalları onun nəyindən аsılıdır? 
+
+A : уaddaşının vəziууətindən 
+B : çıxış impulsundan
+C : giriş impulsundan  
+D : уaddaşının həcmindən  
+E : уaddaşının növündən
+ANSWER : A
+173.		 Giriş sözünün təsiri nətiсəsində rəqəm avtomatları bir vaziууətdən digərinə kеçir və nətiсədə o nəyi yaradır? 
+
+A : çıxış siqnalını 
+B : giriş siqnalını
+C : çıxış impulsundan  
+D : giriş impulsundan  
+E : уaddaşının həcmindən
+ANSWER : A
+174.		Rəqəm avtomatlarının çıxış sözü nəinki giriş sözündən və еləcə də nədən asılı olmalıdır?
+
+A : onun əvvəlki daхili vəziyyətindən 
+B : giriş siqnalından
+C : çıxış impulsundan  
+D : giriş impulsundan  
+E : уaddaşının həcmindən
+ANSWER : A
+175.		 Giriş sözünün və avtomatın həmin taktda cari vəziyyətinin kоmbinəsi, nəyi təyin еdir? 
+
+A : nəinki onun çıxış sözünü və еləсə də növbəti taktdа avtomatın hansı vəziууətə kеçəсəyini 
+B : nəinki onun giriş sözünü və еləсə də növbəti taktdа avtomatın hansı vəziууətə kеçəсəyini
+C : nəinki onun çıxış sözünü və еləсə də əvvəlki taktdа avtomatın hansı vəziууətə kеçəсəyini  
+D : nəinki onun giriş sözünü və еləсə də əvvəlki taktdа avtomatın hansı vəziууətə kеçəсəyini  
+E : əvvəlki taktdа avtomatın hansı vəziууətə kеçəсəyini
+ANSWER : A
+
+176.		 Rəqəm avtomatı yaddaş еlеmеntlərindən (triggеrlərdən, gесikdiгmə еlеmеntlərindən və s.) təşkil olunmuş nələrə maIikdir? 
+
+A : Yaddaşa və kombinasiоn sхеmlərə 
+B : Мur və Мili avtоmatlarına
+C : Sadə və mürəkkəb avtоmatlara  
+D : Sinxron və asinxron mühərriklərə  
+E : Açıq və qapalı dövrələrə
+ANSWER : A
+ 177.		 Hеsablama tехnikasında istifadə оlunan rəqəm avtomatları əsas hansı iki tipə ayrılırlar? 
+
+A : Мur və Мili avtоmatı 
+B : Sadə və mürəkkəb avtоmat
+C : Sinxron və asinxron  
+D : Açıq və qapalı  
+E : Birtaktlı və ikitaktlı
+ANSWER : A
+ 178.		 Мur avtomatı üçün kеçid və çıхış funksiуaları necə уazılır? 
+
+A : Yt=F2(Qt), Qt+1=F1(Xt, Qt) 
+B : Yt=F2(Xt,Qt), Qt+1=F1(Xt, Qt)
+C : Yt=F2(Qt), Qt=F1(Xt, Qt+2)  
+D : Yt=F2(Xt,Qt), Qt+1=F1(Xt, Qt+2)  
+E : Yt=F2(Xt,Qt+2), Qt+1=F1(Xt, Qt+3)
+ANSWER : A
+179.		 Мur avtоmatı üçün Yt çıхış siqnalı t taktında nədən asılıdır?
+
+A : уalnız avtomatın həmin taktdakı Qt vəziyyətindən 
+B : həm giriş siqnalından və həm də avtоmatın özünün vəziyyətindən
+C : giriş siqnalından  
+D : avtоmatın özünün vəziyyətindən  
+E : çıxış siqnalından  
+ANSWER : A
+180.		 Мur avtоmatı üçün Yt çıхış siqnalı t taktında nədən asılı dеуildir? 
+
+A : avtomatın həmin taktdakı Хt  giriş siqnalından 
+B : həm giriş siqnalından və həm də avtоmatın özünün vəziyyətindən
+C : çıxış siqnalından  
+D : avtоmatın özünün vəziyyətindən  
+E : avtоmatın özünün əvvəlki vəziyyətindən
+ANSWER : A
+181.		 Мili avtоmatı üçün çıxış və kеçid funksiyaları necə уazılır? 
+
+A : Yt=F2(Xt,Qt), Qt+1=F1(Xt, Qt) 
+B : Yt=F2(Qt), Qt+1=F1(Xt, Qt)
+C : Yt=F2(Qt), Qt=F1(Xt, Qt+2)  
+D : Yt=F2(Xt,Qt), Qt+1=F1(Xt, Qt+2)  
+E : Yt=F2(Xt,Qt+2), Qt+1=F1(Xt, Qt+3)
+ANSWER : A
+182.		 Мili avtоmatında çıхış siqnalı nədən asılıdır? 
+
+A : həm giriş siqnalından və həm də avtоmatın özünün vəziyyətindən 
+B : уalnız avtomatın həmin taktdakı Qt vəziyyətindən
+C : avtomatın həmin taktdakı Хt  giriş siqnalından  
+D : çıxış siqnalından     
+E : yalnız avtоmatın özünün vəziyyətindən 
+ANSWER : A
+183.		 ... sözlərin oxşar siniflərini təsvir etmək üçün istifadə edilən cəbri ifadədir.   
+A : requlyar ifadə 
+B : triqonometrik ifadə
+C : üstlü ifadə  
+D : loqarifmik ifadə  
+E : verbal ifadə
+ANSWER : A
+184.		 Requlyar ifadə ... oxşar siniflərini təsvir etmək üçün istifadə edilən cəbri ifadədir.
+A : sözlərin
+B : cümlələrin
+C : ədədi ifadələrin
+D : məntiqi ifadələrin
+E : mətnlərin 
+ANSWER : A
+185.		 Requlyar ifadələrlə təyin edilən dillərə nə deyilir?
+A : requlyar dillər 
+B : determinik dillər 
+C : konteks dillər  
+D : qeyri-determinik  
+E : məntiqi dillər 
+ANSWER : A
+186.		 Requlyar dillər nə ilə təyin olunur? 
+A : requlyar ifadələrlə 
+B : boş sözlərlə 
+C : mətnlər çoxluğu ilə  
+D : ədədi üsullarla  
+E : alitik üsullarla 
+ANSWER : A
+187.		 "L dili yalnız və yalnız requlyar ifadələri mövcud olduqda requlyar dildir" teoremi necə adlanır? 
+A : Klini teoremi 
+B : Abel teoremi 
+C : Ferma teoremi  
+D : Koşi teoremi  
+E : Laplasın lokal teoremi  
+ANSWER : A
+188.		 "L dili yalnız və yalnız requlyar ifadələri mövcud olduqda requlyar dildir" teoreminin müəllifi kimdir?
+A : Klini 
+B : Viyet 
+C : Pifaqor
+D : Nyuton  
+E : Laplas 
+ANSWER : A
+189.		 Klini teoremi neçənci ildə irəli sürülüb? 
+A : 1956
+B : 1996
+C : 1850  
+D : 1998  
+E : 1957 
+ANSWER : A
+190.		 Avtomat nə üçün istifadə olunur? 
+A : dilin sözlərini müəyyən etmək (tanımaq)üçün  
+B : ixtiyari kodlar hasil etmək üçün 
+C : riyazi-məntiqi əməliyyatlar aparmaq üçün 
+D : diferensial qurğunun işini tənzimləmək üçün
+E : düşməni məhv etmək üçün  
+ANSWER : A
+191.		 Sonlu yaddaşa malik avtomat necə adlanır? 
+A : sonlu avtomat
+B : qeyri-məhdud avtomat
+C : rekursiv avtomat
+D : ikinci tərtib avtomat
+E : morfoloji avtomat
+ANSWER : A
+192.		 "Əgər L1 və L2 dilləri müvafiq M1 və M2 sonlu avtomatları ilə təyin olunursa, onda müvafiq olaraq bu dillərin ..., ... və ... də sonlu avtomatla təyin olunur". 
+A : birləşməsi, kəsişməsi, fərqi 
+B : hasili, nisbəti, cəmi 
+C : dizyunksiyası, konyuksiyası, inversiyası 
+D : iterasiyası, rekursivliyi, faktoryalı 
+E : mətnlərlə mənalar arasındakı uyğunluqlar çoxluğu
+ANSWER : A
+193.		 Sonlu avtomatla təyin olunan dillər necə dillər hesab olunur? 
+A : requlyar
+B : qeyri-formal 
+C : birhissəli  
+D : normal  
+E : konteks  
+ANSWER : A
+194.		 “Yalnız və yalnız sonlu indeksə malik olan dil requlyar dildir” teoreminin müəllifi kimdir?
+A : Myhill-Nerode 
+B : Klini 
+C : Tyurinq  
+D : Laqranj
+E : Puasson 
+ANSWER : A
+ 195.		 Chomsky ierarxiyasında qrammatikalar neçə yerə bölünür? 
+A : 4 
+B : 3 
+C : 2  
+D : 5  
+E : 6 
+ANSWER : A
+196.		 3-cü tip qrammatikalardan hasil olunan dillər ailəsi hansı dillər qrupuna məxsusdur?
+A : requlyar 
+B : determinə olunmuş 
+C : qeyri-məhdud  
+D : konteks-asılı  
+E : konteks-sərəbst 
+ANSWER : A
+197.		Sonlu avtomatı elmə kim təqdim edib?
+A : Stefan Klini
+B : Alan Tyurinq 
+C : Noam Chomsky  
+D : Emil Post  
+E : Con Backus 
+ANSWER : A
+198.		Avtomatlar üzərində hansı əməliyyat yerinə yetirilmir?
+A : avtomatların kəsişməsi 
+B : avtomatların birləşdirilməsi 
+C : avtomatların kompozisiyası  
+D : girişlərin eyniləşdirilməsi  
+E : əks əlaqə əməliyyatı 
+ANSWER : A
+199.	Təsnifatına görə sonlu avtomatlar neçə qrupa ayrılır?
+
+A : 5 
+B : 4 
+C : 3  
+D : 6  
+E : 2 
+ANSWER : A
+200.		  Hər birisi mövqeli dəyişən və ya mövqeli dəyişənin inkarından ibarət olan düsturların ixtiyari konyunksiyası ... adlanır.
+A : elementar konyuksiya 
+B : elementar dizyunksiya
+C : konyunktiv normal forma  
+D : dizyunktiv normal forma  
+E : inversial normal forma 
+ANSWER : A
+201.		 Hər birisi mövqeli dəyişən və ya mövqeli dəyişənin inkarından ibarət olan düsturların ixtiyari dizyunksiyası ... adlanır.
+A : elementar dizyunksiya 
+B : elementar konyuksiya 
+C : konyunktiv normal forma   
+D : dizyunktiv normal forma   
+E : inversial normal forma
+ANSWER : A
+202.		Sonlu sayda elementar dizyunksiyaların ixtiyari konyuksiyasına ... deyilir.
+
+A : konyunktiv  normal forma 
+B : dizyunktiv normal forma 
+C : inversial normal forma  
+D : kombinasyon normal forma  
+E : elementar dizyunksiya 
+ANSWER : A
+203.		 Sonlu sayda elementar konyuksiyaların ixtiyari dizyunksiyasına ... deyilir. 
+
+A : dizyunktiv normal forma 
+B : konyunktiv normal forma 
+C : inversial normal forma  
+D : determinik normal forma  
+E : Girişə görə ümumiləşmiş normal forma 
+ANSWER : A
+ 204.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis ... şərtini yerinə yetirir.
+
+A : tamlıq
+B : sonluluq  
+C : sonsuzluq   
+D : determiniklik   
+E : neytrallıq  
+ANSWER : A
+205.		 ... funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir.
+
+A : çıxış
+B : giriş  
+C : sərhəd   
+D : limit   
+E : keçid  
+ANSWER : A
+206.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan ... tamlıq şərtini yerinə yetirir.
+
+A : bazis
+B : üstqurum  
+C : dil   
+D : qramatika   
+E : sxem  
+ANSWER : A
+207.		 Çıxış funksiyası ... , dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir.
+
+A : konyunksiya
+B : dizyunksiya
+C : inkaretmə
+D : implikasiya   
+E : ekvivalentlik  
+ANSWER : A
+208.		 Çıxış funksiyası konyunksiya, ... və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir.
+
+A : dizyunksiya
+B : konyunksiya
+C : inkaretmə
+D : implikasiya   
+E : ekvivalentlik  
+ANSWER : A
+209.		 Çıxış funksiyası konyunksiya, dizyunksiya və ... olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir.
+
+A : inkaretmə
+B : konyunksiya
+C : dizyunksiya
+D : implikasiya   
+E : ekvivalentlik  
+ANSWER : A
+210.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. Sonlu avtomatın bu cür təsviri onun sintezi məsələsini yaddaşsız ... sintezi məsələsinə gətirməyə imkan verir.
+
+A : avtomatın 
+B : registrin  
+C : sxemin   
+D : sayğacın   
+E : çeviricinin  
+ANSWER : A
+211.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. Sonlu avtomatın bu cür təsviri onun sintezi məsələsini ...  avtomatın sintezi məsələsinə gətirməyə imkan verir.
+
+A : yaddaşsız 
+B : yaddaşlı  
+C : Mur-   
+D : Mili-   
+E : funksional  
+ANSWER : A
+212.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. ... avtomatın bu cür təsviri onun sintezi məsələsini yaddaşsız avtomatın sintezi məsələsinə gətirməyə imkan verir.
+
+A : sonlu 
+B : yaddaşsız
+C : yaddaşlı  
+D : Mili-   
+E : Mur-  
+ANSWER : A
+213.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. Sonlu avtomatın bu cür təsviri onun sintezi məsələsini yaddaşsız avtomatın ... məsələsinə gətirməyə imkan verir.
+
+A : sintezi
+B : konstruksiyası  
+C : analizi   
+D : qurulması   
+E : arxitekturası  
+ANSWER : A
+214.		 Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. Sonlu avtomatın bu cür təsviri onun ... məsələsini yaddaşsız avtomatın sintezi məsələsinə gətirməyə imkan verir.
+
+A : sintezi
+B : konstruksiyası  
+C : analizi   
+D : qurulması   
+E : arxitekturası  
+ANSWER : A
+215.		  Çıxış funksiyası konyunksiya, dizyunksiya və inkaretmə olan üç avtomatdan və y(t)=z(t), z(t+1)=x(t), z(0)=0 sistemi ilə verilmiş A3 avtomatından ibarət olan bazis tamlıq şərtini yerinə yetirir. Sonlu ... bu cür təsviri onun sintezi məsələsini yaddaşsız  avtomatın sintezi məsələsinə gətirməyə imkan verir.
+
+A : avtomatın 
+B : registrin  
+C : sxemin   
+D : sayğacın   
+E : çeviricinin  
+ANSWER : A
+216.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda yaddaşlı ... sintezi məsələsini yaddaşsız avtomatın sintezinə gətirməklə həll etmək olar.
+
+A : avtomatın 
+B : registrin  
+C : sxemin   
+D : sayğacın   
+E : çeviricinin  
+ANSWER : A
+217.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda yaddaşlı avtomatın sintezi məsələsini yaddaşsız ... sintezinə gətirməklə həll etmək olar.
+
+A : avtomatın 
+B : registrin  
+C : sxemin   
+D : sayğacın   
+E : çeviricinin  
+ANSWER : A
+218.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda yaddaşlı avtomatın ... məsələsini yaddaşsız avtomatın sintezinə gətirməklə həll etmək olar.
+
+A : sintezi
+B : konstruksiyası  
+C : analizi   
+D : qurulması   
+E : arxitekturası  
+ANSWER : A
+219.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda yaddaşlı avtomatın sintezi məsələsini yaddaşsız avtomatın ... məsələsinə gətirməklə həll etmək olar.
+
+A : sintezi
+B : konstruksiyası  
+C : analizi   
+D : qurulması   
+E : arxitekturası  
+ANSWER : A
+220.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda yaddaşlı avtomatın sintezi məsələsini ... avtomatın sintezinə gətirməklə həll etmək olar.
+
+A : yaddaşsız 
+B : yaddaşlı  
+C : Mur-   
+D : Mili-   
+E : funksional  
+ANSWER : A
+221.		  Əgər kodlaşdırma məsələsi həll olunubsa, onda ... avtomatın sintezi məsələsini yaddaşsız avtomatın sintezinə gətirməklə həll etmək olar.
+
+A : yaddaşlı 
+B : yaddaşsız  
+C : Mur-   
+D : Mili-   
+E : funksional  
+ANSWER : A
+222.		   ... avtomatlarda olduğu kimi, yaddaşlı avtomatlarda da giriş və çıxış əlifbalarının o və 1 simvollarından ibarət olduğunu qəbul edirik.
+
+A : yaddaşsız 
+B : yaddaşlı  
+C : Mur-   
+D : Mili-   
+E : funksional  
+ANSWER : A
+223.		  Yaddaşsız avtomatlarda olduğu kimi, ... avtomatlarda da giriş və çıxış əlifbalarının o və 1 simvollarından ibarət olduğunu qəbul edirik.
+
+A : yaddaşlı 
+B : yaddaşsız  
+C : Mur-   
+D : Mili-   
+E : funksional  
+ANSWER : A
+224.		  Minimal ... və konyunktiv normal formaların alınması metodlarından istifadə etməklə, elementar avtomatların sayını azaltmaq və sxemi sadələşdirmək olar.
+
+A : dizyunktiv 
+B : konyunktiv  
+C : ekvivalentlik   
+D : inkaretmə   
+E : istisnalı dizyunktiv  
+ANSWER : A
+225. Minimal dizyunktiv və ... normal formaların alınması metodlarından istifadə etməklə, elementar avtomatların sayını azaltmaq və sxemi sadələşdirmək olar.
+
+A : konyunktiv  
+B : dizyunktiv 
+C : ekvivalentlik   
+D : inkaretmə   
+E : istisnalı dizyunktiv  
+ANSWER : A
+226.		  Avtomatın y1 və y2 çıxış funksiyalarının ... normal formalarını yazaq: y1=x1  x2, y2=(x1  x2)  ( ). Bu düsturlar y1 və y2 funksiyalarının qiymətlərinə uyğun bazis avtomatlarının superpozisiyasını ifadə edirlər.
+
+A : konyunktiv  
+B : dizyunktiv 
+C : ekvivalentlik   
+D : inkaretmə   
+E : istisnalı dizyunktiv  
+ANSWER : A
+227.		  Avtomatın y1 və y2 ... funksiyalarının kanyunktiv normal formalarını yazaq: y1=x1  x2, y2=(x1  x2)  ( ). Bu düsturlar y1 və y2 funksiyalarının qiymətlərinə uyğun bazis avtomatlarının superpozisiyasını ifadə edirlər.
+
+A : çıxış
+B : giriş  
+C : sərhəd   
+D : limit   
+E : keçid  
+ANSWER : A
+228.		  Avtomatın y1 və y2 çıxış funksiyalarının kanyunktiv normal formalarını yazaq: y1=x1  x2, y2=(x1  x2)  ( ). Bu düsturlar y1 və y2 funksiyalarının qiymətlərinə uyğun ... avtomatlarının superpozisiyasını ifadə edirlər.
+
+A : bazis
+B : üstqurum  
+C : dil   
+D : qramatika   
+E : sxem  
+ANSWER : A
+229.		  Avtomatın y1 və y2 çıxış funksiyalarının kanyunktiv normal formalarını yazaq: y1=x1  x2, y2=(x1  x2)  ( ). Bu düsturlar y1 və y2 funksiyalarının qiymətlərinə uyğun bazis avtomatlarının … ifadə edirlər.
+
+A : superpozisiyasını 
+B : ibtidai rekursiyasını  
+C : minimumlaşdırılmasını   
+D : maksimumlaşdırılmasını   
+E : daxili vəziyyətlərini  
+ANSWER : A
+230.		   Hər bir Bull funksiyasını ... və ya konyunktiv normal formalar kimi təsvir etmək olar.
+
+A : dizyunktiv  
+B : konyunktiv 
+C : ekvivalentlik   
+D : inkaretmə   
+E : istisnalı dizyunktiv  
+ANSWER : A
+231.		  Hər bir Bull funksiyasını dizyunktiv və ya ... normal formalar kimi təsvir etmək olar.
+
+A : konyunktiv  
+B : dizyunktiv 
+C : ekvivalentlik   
+D : inkaretmə   
+E : istisnalı dizyunktiv  
+ANSWER : A
+232.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret ... üçün baxılır.
+
+A : bazis
+B : üstqurum  
+C : dil   
+D : qramatika   
+E : sxem  
+ANSWER : A
+233.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret bazis üçün baxılır. Bu məsələdə aşağıdakı tam bazislərə üstünlük verilir: konyunksiya, dizyunksiya, inkar, Şeffer funksiyası və ... ... .
+
+A : Pirs funksiyası 
+B : dizyunksiya  
+C : inkar   
+D : konyunksiya    
+E : Şeffer funksiyası   
+ANSWER : A
+234.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret bazis üçün baxılır. Bu məsələdə aşağıdakı tam bazislərə üstünlük verilir: konyunksiya, dizyunksiya, inkar, ... ... və Pirs funksiyası.
+
+A : Şeffer funksiyası 
+B : dizyunksiya  
+C : inkar   
+D : konyunksiya    
+E : Pirs funksiyası   
+ANSWER : A
+235.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret bazis üçün baxılır. Bu məsələdə aşağıdakı tam bazislərə üstünlük verilir: konyunksiya, dizyunksiya, ..., Şeffer funksiyası və Pirs funksiyası.
+
+A : inkar   
+B : konyunksiya  
+C : dizyunksiya
+D : Şeffer funksiyası    
+E : Pirs funksiyası   
+ANSWER : A
+236.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret bazis üçün baxılır. Bu məsələdə aşağıdakı tam bazislərə üstünlük verilir: ..., dizyunksiya, inkar, Şeffer funksiyası və Pirs funksiyası.
+A : konyunksiya 
+B : dizyunksiya  
+C : inkar   
+D : Şeffer funksiyası    
+E : Pirs funksiyası   
+ANSWER : A
+237.		  Adətən, yaddaşsız avtomatın sintezi məsələsinə konkret bazis üçün baxılır. Bu məsələdə aşağıdakı tam bazislərə üstünlük verilir: konyunksiya, ..., inkar, Şeffer funksiyası və Pirs funksiyası.
+
+A : dizyunksiya 
+B : konyunksiya  
+C : inkar   
+D : Şeffer funksiyası    
+E : Pirs funksiyası   
+ANSWER : A
+238.		  Müəyyən avtomatlar sinfinə görə ... o vaxt tam hesab olunur ki, onun köməyilə həmin sinfə aid olan istənilən avtomatı sintez etmək mümkün olsun.
+
+A : bazis
+B : üstqurum  
+C : dil   
+D : qramatika   
+E : sxem  
+ANSWER : A
+239.		  Müəyyən avtomatlar sinfinə görə bazis o vaxt tam hesab olunur ki, onun köməyilə həmin sinfə aid olan istənilən avtomatı ...  etmək mümkün olsun.
+
+A : sintez
+B : konstruksiya  
+C : analiz
+D : quruğu   
+E : arxitektor  
+ANSWER : A
+240.		 Avtomatlar üzərində əməliyyat hansıdır?
+
+A : Avtomatların birləşdirilməsi
+B : Avtomatların konyuksiyası  
+C : Düz əlaqə əməliyyatı
+D : Çıxışların eyniləşdirilməsi
+E : Əlavə əlaqə əməliyyatı
+ANSWER : A
+241.		  Avtomatlar üzərində əməliyyat hansıdır?
+
+A : Avtomatların kompozisiyası
+B : Avtomatların konyuksiyası
+C : Düz əlaqə əməliyyatı
+D : Çıxışların eyniləşdirilməsi
+E : Əlavə əlaqə əməliyyatı
+ANSWER : A
+242.		  Avtomatlar üzərində əməliyyat hansıdır?
+
+A : Girişlərin eyniləşdirilməsi
+B : Çıxışların eyniləşdirilməsi
+C : Avtomatların konyuksiyası
+D : Düz əlaqə əməliyyatı
+E : Əlavə əlaqə əməliyyatı
+ANSWER : A
+243.		  Avtomatlar üzərində əməliyyat hansıdır?
+
+A : Əks əlaqə əməliyyatı
+B : Düz əlaqə əməliyyatı
+C : Əlavə əlaqə əməliyyatı
+D : Çıxışların eyniləşdirilməsi
+E : Avtomatların konyuksiyası
+ANSWER : A
+244.		  Avtomatlar üzərində əməliyyat hansıdır?
+
+A : Çıxışların ayrılması
+B : Çıxışların eyniləşdirilməsi
+C : Avtomatların konyuksiyası
+D : Əlavə əlaqə əməliyyatı
+E : Əlavə əlaqə əməliyyatı   
+ANSWER : A
+245.		 «Elementar» avtomat dedikdə struktur modeli təşkil edən və bölünməz blok kimi baxılan istənilən ... başa düşülür.
+
+A : avtomat 
+B : registr  
+C : sxem   
+D : sayğac   
+E : çevirici  
+ANSWER : A
+246.		  Struktur modelə görə funksional modelin təyin edilməsi ... ... adlanır.
+
+A : struktur analiz
+B : struktur sintez
+C : funksional analiz   
+D : funksional sintez
+E : modelin sintezi
+ANSWER : A
+247.		  Funksional modelə görə struktur modelin təyin edilməsi … … adlanır.
+
+A : struktur sintez
+B : struktur analiz
+C : funksional analiz   
+D : funksional sintez
+E : modelin analizi 
+ANSWER : A
+248.		  Sintez məsələsinin qoyuluşunda nə tələb olunur?
+
+A : funksional modeli verilən avtomatın struktur sxemini qurmaq
+B : riyazi modeli verilən avtomatın struktur sxemini qurmaq
+C : funksional asılılığı verilən avtomatın struktur sxemini qurmaq
+D : riyazi asılılığı verilən avtomatın struktur sxemini qurmaq
+E : funksional modeli məlum olmayan avtomatın struktur sxemini qurmaq
+ANSWER : A
+249.		 Sonlu avtomatların təsviri üçün mövcud olan dilləri 2 qrupa ayırmaq olar: 1) daxili vəziyyəti təyin edən dəyişəndən istifadə edən dillər; 2)yalnız giriş–çıxış anlayışları ilə əməliyyat aparan dillər. Avtomatların 2-ci qrup dillərdəki təsvrindən 1-ci qrup dillərdəki təsvirinə keçid mümkün olmalıdır. Bu cür keçidə sonlu avtomatın abstrakt ... deyilir.
+
+A : sintezi
+B : analizi   
+C : modeli    
+D : asılılığı
+E : yaziliş modeli
+ANSWER : A
+250.		  Sonlu ... təsviri üçün mövcud olan dilləri 2 qrupa ayırmaq olar: 1) daxili vəziyyəti təyin edən dəyişəndən istifadə edən dillər; 2) yalnız giriş–çıxış anlayışları ilə əməliyyat aparan dillər. 
+
+A : avtomatların 
+B : registrlərin  
+C : sxemlərin   
+D : sayğacların   
+E : çeviricilərin  
+ANSWER : A
+251.		   ... avtomatların təsviri üçün mövcud olan dilləri 2 qrupa ayırmaq olar: 1) daxili vəziyyəti təyin edən dəyişəndən istifadə edən dillər; 2)yalnız giriş–çıxış anlayışları ilə əməliyyat aparan dillər. 
+
+A : sonlu 
+B : sonsuz  
+C : yaddamlı   
+D : yaddamsız   
+E : Mur və Mili  
+ANSWER : A
+252.		  Sonlu avtomatın ... verilməsi daha əyanidir.
+
+A : qrafla 
+B : cədvəllə  
+C : düsturla   
+D : modellə   
+E : matrislə  
+ANSWER : A
+253.		  Sonlu avtomatların təsvirinin bir üsulu istiqamətlənmiş qrafdır. Ona ... qrafı deyilir.
+
+A : keçidlər 
+B : daxili vəziyyətlər  
+C : giriş vəziyyətləri    
+D : çıxış vəziyyətləri        
+E : əlaqə  
+ANSWER : A
+254.		  Keçid funksiyasının(f) və çıxış funksiyasının (g) təyin olunma və dəyişmə oblastları ... olduğundan, onlar cədvəl şəklində verilə bilər.
+
+A : sonlu 
+B : sonsuz  
+C : qapalı   
+D : açıq   
+E : yarıqapalı  
+ANSWER : A
+255.		  ... funksiyasının (f) və çıxış funksiyasının (g) təyin olunma və dəyişmə oblastları sonlu olduğundan, onlar cədvəl şəklində verilə bilər.
+
+A : keçid 
+B : giriş  
+C : çıxış   
+D : daxili vəziyyətlər   
+E : eksponensial  
+ANSWER : A
+256.		 Requlyar qramatikalar nə üçün istifadə olunur?   
+A : proqramlaşdırma dillərinin leksiki strukturunu təyin etmək üçün 
+B : proqramlaşdırma dillərinin sintaktik strukturunu təyin etmək üçün
+C : proqramlaşdırma dillərinin semantik strukturunu təyin etmək üçün  
+D : proqramlaşdırma dillərinin fonetik strukturunu təyin etmək üçün   
+E : proqramlaşdırma dillərinin qrammatik strukturunu təyin etmək üçün
+ANSWER : A
+257.		 Requlyar qramatikalar həm də ... qrammatika adlanır.
+A : 3-tip qrammatika
+B : 2-tip qrammatika
+C : 1-tip qrammatika
+D : 0-tip qrammatika
+E : 4-tip qrammatika 
+ANSWER : A
+258.		 Hər bir requlyar dil ..., hər bir konteks-sərbəst dil ... və hər bir konteks-asılı dil ... dildir.
+A : konteks-sərbəst, konteks-asılı, 0-tip 
+B : konteks-asılı, 0-tip, konteks-sərbəst 
+C : 0-tip, konteks-asılı, konteks-sərbəst  
+D : qeyri-determinik, determinik, 2-tip  
+E : məntiqi, formal, konteks-asılı  
+ANSWER : A
+259.		  ... mənbə kodlarını yazıldığı proqramlaşdırma dilindən maşın dilinə çevirən kompüter proqramıdır.  
+A : kompilyator 
+B : translyator 
+C : interpretator  
+D : analoq-rəqəm çevirici  
+E : məntiqi çevirici 
+ANSWER : A
+260.		 Aşağıdakı bəndlərdən hansında kompilyasiya mərhələsi düzgün ardıcıllıqla göstərilib? 
+A : leksik analiz, sintaksis analiz, semantik analiz, aralıq kod hasiledici, kod optimallaşdırıcı, kod hasiledici 
+B : leksik analiz, sintaksis analiz, semantik analiz, aralıq kod hasiledici, kod hasiledici, kod optimallaşdırıcı 
+C : leksik analiz, sematik analiz, sintaksis analiz, aralıq kod hasiledici, kod optimallaşdırıcı, kod hasiledici  
+D : kod hasiledici, kod optimallaşdırıcı, aralıq kod hasiledici, semantik analiz, sintaksis analiz, leksik analiz  
+E : kod hasiledici, kod optimallaşdırıcı, aralıq kod hasiledici, sintaksis analiz, semantik analiz, leksik analiz  
+ANSWER : A
+261.		 İlk kompilyatoru kim və hansı proqramlaşdırma dili üçün yazıb?
+A : John Backus, Fortran 
+B : Alan Turing, Cobol 
+C : Stephen Kleene, Assembler
+D : Emil Post, Java  
+E : Noam Chomsky, Pascal 
+ANSWER : A
+262.		 Formal dillər nəzəriyyəsi kimin təşəbbüsü əsasında yaranıb və inkişaf etməkdədir? 
+A : Noam Chomsky
+B : Alan Turing
+C : Stephen Kleene  
+D : Emil Post  
+E : John Backus 
+ANSWER : A
+263.		 Aşağıdakı linqvistlərdən hansının məqsədi dilin sintaksisini sadə və dəqiq riyazi qanunlardan istifadə etməklə təyin etmək idi? 
+A : Noam Chomsky  
+B : Stephen Kleene 
+C : John Backus 
+D : Emil Post
+E : Axel Thue  
+ANSWER : A
+264.		 Hansı çoxluq bir hissəli (singleton) çoxluq adlanır? 
+A : yalnız bir elementi olan
+B : yalnız iki elementi olan
+C : rekursiv elementi olan
+D : sonsuz simvollara malik olan
+E : n sayda elementi olan
+ANSWER : A
+265.		 Hansı çoxluq boş çoxluq (empty set) adlanır? 
+A : heç bir elementi olmayan 
+B : yalnız bir elementi olan 
+C : iki və daha artıq elementi olan 
+D : n-1 sayda elementi olan 
+E : n+1 sayda elementi olan
+ANSWER : A
+266.		 Aşağıdakı xassələrdən hansı hesabi çoxluğun xassələrinə aid deyil? 
+A : istənilən sonlu sayda hesabi çoxluqların birləşməsi hesabi çoxluq deyil
+B : hesabi çoxluğun hər hansı alt çoxluğu ya sonlu, ya da hesabi çoxluqdur
+C : istənilən sonsuz çoxluq hesabi alt çoxluğa malikdir  
+D : hesabi sayda hesabi çoxluqların birləşməsi də hesabi çoxluqdur  
+E : xassələrin heç biri hesabi çoxluqa aid deyil  
+ANSWER : A
+267.		 ... düsturu izah edən qaydalar yığımıdır.
+A : semantika 
+B : sintaksis
+C : leksika  
+D : generasiya
+E : inversiya
+ANSWER : A
+ 268.		 Proqramla idarə olunan hesablama maşınları ideyasını ilk dəfə kim (və ya kimlər) həyata keçirmişlər? 
+A : S.Atanosov, K.Tsuze 
+B : A.Turinq, S.Klini 
+C : J.Backus, E.Post  
+D : A.Tue, N.Chomsky  
+E : Ç.Bebbic 
+ANSWER : A
+269.		 Qiymətinin sonlu zamanda hesablayan abstrakt maşının olduğu funksiya necə adlanır?
+
+A : hesablanılan funksiya 
+B : həll edilə bilən məsələ
+C : həll edilə bilməyən məsələ  
+D : qeyri-məhdud funksiya  
+E : belə funksiya yoxdur 
+ANSWER : A
+270.		 İxtiyari ilkin verilənlərə görə məsələnin həllinin olub-olmadığını müəyyənləşdirən maşının mövcud olduğu məsələ necə adlanır?
+
+A : həll edilə bilən 
+B : həll edilə bilməyən 
+C : requlyar  
+D : determinə olunmuş  
+E : rekursiv 
+ANSWER : A
+271.		 Universal Tyurinq maşınlarında informasiya lentdə yerləşən ... təsvir olunur.
+
+A : simvollarla 
+B : ancaq ikilik rəqəmlərlə 
+C : zəncirlərlə  
+D : terminlərlə 
+E : ancaq onluq rəqəmlərlə
+ANSWER : A
+272.		 ... Tyurinq maşınlarında informasiya lentdə yerləşən simvollarla təsvir olunur.
+
+A : universal
+B : iki lentli 
+C : üç lentli  
+D : monoəlifbalı 
+E : ikilik əlifbalı 
+ANSWER : A
+273.		 Lentin bütün oyuqlarının və idarəedici qurğunun vəziyyətləri ardıcıllığının məcmusu ... maşınının konfiqurasiyası adlanır.
+
+A : Tyurinq
+B : Post 
+C : Çerç  
+D : Bebbic 
+E : Bul 
+ANSWER : A
+274.		 Lent sürüşərkən oyuğun qəbul edilən vəziyyəti əvvəlcədən dəyişdirilə bildikdə ... maşınları standart (STM) adlanır.
+
+A : Tyurinq
+B : Post 
+C : Çerç  
+D : Bebbic 
+E : Bul 
+ANSWER : A
+275.		 İstifadə olunan lentlərin sayından, onların təyinatlarından və idarəedici qurğunun vəziyyətləri sayından asılı olaraq, ... maşınlarının müxtəlif modifikasiyaları təyin edilir: iki çıxışlı TM, çox lentli TM, standart TM (STM), universal TM.
+
+A : Tyurinq
+B : Post 
+C : Çerç  
+D : Bebbic 
+E : Bul 
+ANSWER : A
+276.		  Tyurinq maşını o vaxt verilmiş hesab edilir ki, onun daxili və xarici əlifbaları, proqramları, ilkin konstruksiyaları verilmiş olsun, hansı simvol ilə boş xananın işarə edilməsi və nəticəvi vəziyyət göstərilsin.
+
+A : həll 
+B : həll 
+C : requlyar  
+D : determinə 
+E : rekursiv 
+ANSWER : A
+277.		 Universal Tyurinq maşınlarında ... lentdə yerləşən simvollarla təsvir olunur.
+
+A : informasiya
+B : qurğu 
+C : proqram  
+D : əmr 
+E : ikilik əlifba 
+ANSWER : A
+278.		 Riyazi modelləşdirmənin əsas əməliyyatları - xəttiləşdirmə nə deməkdir?
+
+A : m = m(x,y), şəklində təqdim edilmiş modeldə X -girişlər, Y -çıxışlar, A -sistemin vəziyyətləri çoxluqlarının -x,y,a - xətti fəza (çoxluq) olmasıdır
+B : verilmiş və ya təyin edilmiş struktura görə əlaqəli və dayanıqlı altmodellərdən ümumi modeli quraşdırmaqdan ibarətdir 
+C : real sistemin fəaliyyətini adekvat olaraq təsvir edən riyazi modelin nəzarətlərin nəticələrinə görə qurulması məsələsinin həlli 
+D : modeli (X,Y) ölçüsündən daha kiçik ölçülü modelə (modellərə) çevirməkdən ibarətdir 
+E : sistemin (modelin) strukturunu saxlamaqla altsistemlərə (altmodellərə) bölünməsindən ibarətdir
+ANSWER : A
+279.		Riyazi modelləşdirmənin əsas əməliyyatları - identifikasiya nə deməkdir?
+
+A : real sistemin fəaliyyətini adekvat olaraq təsvir edən riyazi modelin nəzarətlərin nəticələrinə görə qurulması məsələsinin həlli
+B : verilmiş və ya təyin edilmiş struktura görə əlaqəli və dayanıqlı altmodellərdən ümumi modeli quraşdırmaqdan ibarətdir 
+C : m = m(x,y),şəklində təqdim edilmiş modeldə X -girişlər, Y -çıxışlar, A -sistemin vəziyyətləri çoxluqlarının - x,y,a - xətti fəza (çoxluq) olmasıdır  
+D : modeli (X,Y) ölçüsündən daha kiçik ölçülü modelə (modellərə) çevirməkdən ibarətdir
+E : sistemin (modelin) strukturunu saxlamaqla altsistemlərə (altmodellərə) bölünməsindən ibarətdir 
+ANSWER : A
+280.		Riyazi modelləşdirmənin əsas əməliyyatları – dekompozisiya nə deməkdir?
+
+A : sistemin (modelin) strukturunu saxlamaqla altsistemlərə (altmodellərə) bölünməsidir
+B : verilmiş və ya təyin edilmiş struktura görə əlaqəli və dayanıqlı altmodellərdən ümumi modeli quraşdırmaqdan ibarətdir
+C : altmodellərin köməyi ilə sistemin struktur əlaqəliyinin, mürəkkəbliyinin, dayanıqlığının tədqiqindən ibarətdir  
+D : real sistemin fəaliyyətini adekvat olaraq təsvir edən riyazi modelin nəzarətlərin nəticələrinə görə qurulması məsələsinin həlli 
+E : modeli (X,Y),ölçüsündən daha kiçik ölçülü modelə (modellərə) çevirməkdən ibarətdir 
+ANSWER : A
+281.		Qurulma prinsiplərinə görə riyazi modellər neçə cür olur?
+A : iki
+B : bir 
+C : üç  
+D : dörd 
+E : beş 
+ANSWER : A

@@ -1,0 +1,2422 @@
+﻿1. "field" sahəsinin qiyməti "abc" ilə başlamayan sətirləri necə seçmək olar? 
+a. SELECT * FROM `my_table` WHERE `field` <> 'abc%' 
+b. SELECT * FROM `my_table` WHERE `field` LIKE '%abc%' 
+c. SELECT * FROM `my_table` WHERE `field` STARTSWITH 'abc' 
+d. SELECT * FROM `my_table` WHERE `field` LIKE 'abc%' 
+e. SELECT * FROM `my_table` WHERE `field` = 'abc' 
+CAVAB: SELECT * FROM `my_table` WHERE `field` <> 'abc%' 
+
+2. "field" sahəsinin qiyməti "abc" ilə başlayan sətirləri necə seçmək olar? 
+a. SELECT * FROM `my_table` WHERE `field` <> 'abc' 
+b. SELECT * FROM `my_table` WHERE `field` LIKE '%abc%' 
+c. SELECT * FROM `my_table` WHERE `field` STARTSWITH 'abc' 
+d. SELECT * FROM `my_table` WHERE `field` LIKE 'abc%' 
+e. SELECT * FROM `my_table` WHERE `field` = 'abc%' 
+CAVAB: SELECT * FROM `my_table` WHERE `field` LIKE 'abc%' 
+
+3. "my_table" cədvəlini necə silmək olar? 
+a. DELETE FROM "my_table" 
+b. DROP TABLE "my_table" 
+c. DELETE TABLE "my_table" 
+d. DELETE FROM TABLE "my_table" 
+e. DELETE "my_table" 
+CAVAB: DROP TABLE "my_table" 
+
+4. 0.7–3>2 ifadəsinin qiyməti hansı tipdə olar? 
+a. ədəd 
+b. məntiqi 
+c. sətir 
+d. tam 
+e. tarix 
+CAVAB: məntiqi 
+
+5. 153 onluq ədədinə hansı ikilik ədəd uyğun gəlir? 
+a. 11010110. 
+b. 10011001. 
+c. 10001001. 
+d. 10100010. 
+e. 10101101. 
+CAVAB: 10011001. 
+
+6. 269 onluq ədədinə hansı onaltılıq ədəd uyğun gəlir? 
+a. 10D 
+b. 20C 
+c. E15. 
+d. A35. 
+CAVAB: 10D 
+
+7. 300 onluq ədədinə hansı səkkizlik ədəd uyğun gəlir? 
+a. 513. 
+b. 267. 
+c. 135. 
+d. 363. 
+e. 454. 
+CAVAB: 454. 
+
+8. A nisbəti m sayda atributdan və n sayda kortejdən təşkil olunmuşdur. Fiziki silinmə əməliyyatından sonra A nisbətində neçə atribut olacaq? 
+a. m 
+b. n 
+c. m-n 
+d. m+n 
+e. n-m 
+CAVAB: m 
+
+9. A nisbəti m sayda kortejdən ibarətdir və bu kortejlərdən n saydası məntiqi silinmişdir. Fiziki silinmə əməliyyatından sonra A nisbətində neçə kortej olacaq? 
+a. m 
+b. n 
+c. n-m 
+d. m-n 
+e. m+n 
+CAVAB: m-n 
+
+10. A nisbəti m sayda kortejə malikdir. Proyeksiya əməliyyatından sonra bu nisbətdə ən azı neçə kortej qala bilər? 
+a. m 
+b. m-1. 
+c. m:2. 
+d. 1. 
+e. 0. 
+CAVAB: 1. 
+
+11. A nisbəti m sayda kortejə malikdir. Proyeksiya əməliyyatından sonra bu nisbətdə ən çoxu neçə kortej qala bilər? 
+a. 1. 
+b. m 
+c. 0. 
+d. m:2. 
+e. m:4. 
+CAVAB: m 
+
+12. A nisbəti m, B nisbəti isə n atributa malikdir. A və B nisbətlərinin dekart hasilindən sonra nəticəvi nisbət neçə atributdan təşkil olunar? 
+a. mn 
+b. m-n 
+c. m+n 
+d. n-m 
+e. mn-1. 
+CAVAB: m+n 
+
+13. A nisbəti m, B nisbəti isə n kortejə malikdir. A və B nisbətlərinin dekart hasilindən sonra nəticəvi nisbət neçə kortejdən təşkil olunar? 
+a. m+n 
+b. mn 
+c. m-n 
+d. n-m 
+e. mn+m+n 
+CAVAB: mn 
+
+14. Aşağıdakı SQL əmrlərindən hansı cədvəldən sətirlərin silinməsi üçün istifadə edilə bilər? 
+a. DROP 
+b. REMOVE ROW 
+c. DELETE 
+d. DELETE ROW 
+e. REMOVE 
+CAVAB: DELETE 
+
+15. Aşağıdakı tiplərdən hansı Microsoft Access Database Object-ə aid deyil? 
+a. Table 
+b. Form 
+c. Macro 
+d. Modules 
+e. Worksheet 
+CAVAB: Form 
+
+16. Aşağıdakılardan hansı düzdür? 
+a. INSERT INTO `my_table` (`id`, `name`) VALUES (1, 'FirstName') 
+b. INSERT INTO `my_table` (`id` = 1, `name` = 'FirstName') 
+c. INSERT INTO `my_table` (`id`, `name`) VALUES (1, FirstName) 
+d. INSERT INTO `my_table` (`id`, `name`) VALUE (1, FirstName) 
+e. INSERT INTO `my_table` (`id` = 1, `name` = FirstName) 
+CAVAB: INSERT INTO `my_table` (`id`, `name`) VALUES (1, 'FirstName') 
+
+17. Aşağıdakılardan hansı düzdür? 
+a. AND və OR əmrinin üstünlükləri eynidir 
+b. AND əmrinin üstünlüyü daha çoxdur 
+c. OR əmrinin üstünlüyü daha çoxdur 
+d. eyni vaxtda istifadə etmək olmaz 
+e. heç biri düz deyil 
+CAVAB: AND əmrinin üstünlüyü daha çoxdur 
+
+18. Aşağıdakılardan hansı düzdür? 
+a. AND və OR əmrinin üstünlükləri eynidir 
+b. AND əmrinin üstünlüyü daha çoxdur 
+c. OR əmrinin üstünlüyü daha çoxdur 
+d. eyni vaxtda istifadə etmək olmaz 
+e. heç biri düz deyil 
+CAVAB: AND əmrinin üstünlüyü daha çoxdur 
+
+19. Aşağıdakılardan hansı relyasiya modelinin pozulmasına aid deyil? 
+a. Sütunlar üçün ordinal mövqelərdən istifadə edilməsi. 
+b. Təkrar sətirlərin qaytarılması. 
+c. Cədvəlin əsas açarının təyin edilməməsi. 
+d. Cədvəldə xarici açarın təyin edilməməsi. 
+e. Sorğu nəticəsinin bütün atributlarının adının olmasına əmin olmaq. 
+CAVAB: Cədvəldə xarici açarın təyin edilməməsi. 
+
+20. Aşağıdakılardan hansı sorğuların məntiqi emalını düzgün təsvir edir? 
+a. SELECT > FROM > WHERE > GROUP BY > HAVING > ORDER BY 
+b. FROM > WHERE > GROUP BY > HAVING > SELECT > ORDER BY 
+c. FROM > WHERE > GROUP BY > HAVING > ORDER B > SELECT 
+d. SELECT > ORDER BY > FROM > WHERE > GROUP BY > HAVING 
+e. FROM> SELECT > WHERE > GROUP BY > HAVING > ORDER B 
+CAVAB: FROM > WHERE > GROUP BY > HAVING > SELECT > ORDER BY 
+
+21. Aşağıdakılardan hansı verilənlər bazası modeli deyil? 
+a. Relyasiya 
+b. Şəbəkə 
+c. Obyekt yönlü 
+d. İyerarxik 
+e. heç biri 
+CAVAB: Obyekt yönlü 
+
+22. Atributları eyni olan A nisbəti m kortejdən, B nisbəti n kortejdən təşkil olunmuşdur (m>n). Bu nisbətlərin kəsişməsində ən çoxu neçə kortej ola bilər? 
+a. m 
+b. n 
+c. m-n 
+d. n-m 
+e. 0. 
+CAVAB: n 
+
+23. Atributları eyni olan A nisbəti m kortejdən, B nisbəti n kortejdən təşkil olunmuşdur (m>n). Bu nisbətlərin kəsişməsində ən azı neçə kortej ola bilər? 
+a. 0. 
+b. 1. 
+c. m 
+d. m-n 
+e. n 
+CAVAB: 0. 
+
+24. Atributları eyni olan A nisbəti m kortejdən, B nisbəti n kortejdən təşkil olunmuşdur (m>n). Bu nisbətlərin birləşməsində ən çoxu neçə kortej ola bilər? 
+a. 1. 
+b. n 
+c. m 
+d. m-n 
+e. m+n 
+CAVAB: m+n 
+
+25. Atributları eyni olan A nisbəti m kortejdən, B nisbəti n kortejdən təşkil olunmuşdur (m>n). Bu nisbətlərin birləşməsində ən azı neçə kortej ola bilər? 
+a. 0. 
+b. 1. 
+c. n 
+d. m 
+e. m-n 
+CAVAB: m 
+
+26. Atributları eyni olan iki nisbətin birincisində 20 sayda, ikincisində 30 sayda kortej olarsa, birləşmə əməliyyatından sonra nəticəvi nisbətdə ən azı neçə kortej olar? 
+a. 30. 
+b. 20. 
+c. 50. 
+d. 10. 
+e. 25. 
+CAVAB: 30. 
+
+27. Atributları eyni olan iki nisbətin birincisində 25 sayda, ikincisində 15 sayda kortej olarsa, birləşmə əməliyyatından sonra nəticəvi nisbətdə ən çoxu neçə kortej olar? 
+a. 10.
+b. 15. 
+c. 25. 
+d. 40. 
+e. 20. 
+CAVAB: 40. 
+
+28. Atributları eyni olan iki nisbətin birincisində 70 sayda, ikincisində 40 sayda kortej olarsa, kəsişmə əməliyyatından sonra nəticəvi nisbətdə ən çoxu neçə kortej olar? 
+a. 70. 
+b. 40. 
+c. 30. 
+d. 55. 
+e. 0. 
+CAVAB: 40. 
+
+29. Atributları eyni olan iki nisbətin birincisində 40 sayda, ikincisində 20 sayda kortej olarsa, kəsişmə əməliyyatından sonra nəticəvi nisbətdə ən azı neçə kortej olar? 
+a. 0. 
+b. 20. 
+c. 30. 
+d. 40. 
+e. 60. 
+CAVAB: 0. 
+
+30. Baza strukturları hansı strukturları özündə saxlayır? 
+a. Siyahı 
+b. Ağac 
+c. Məntiqi 
+d. Dek 
+CAVAB: Məntiqi 
+
+31. Baza strukturu hansıdır? 
+a. Dek 
+b. Növbə 
+c. Stek 
+d. Çoxluq 
+e. Göstərici 
+CAVAB: Göstərici 
+
+32. Biliklərin freym təsvirində hansı anlayış istifadə olunur? 
+a. Atribut 
+b. Slot 
+c. Kortej 
+d. Nisbət 
+CAVAB: Slot 
+
+33. Biliklərin təsviri prosesində abstrakt təsvirin modeli, hər hansı obyektin, hadisənin, situasiyanın, prosesin mahiyyətinin minimal təsviri üsulu necə adlanır? 
+a. Anbar 
+b. Produksiya 
+c. Semantik şəbəkə 
+d. Freym 
+CAVAB: Freym 
+
+34. Biliklərin təsviri üçün produksiya modelinin çatışmazlığı nədədir? 
+a. Qaydaların sayı artdıqca emal prosesinin çətinliyi 
+b. Qaydaların sayı çoxalanda ziddiyyətlərin rast gəlinməsi 
+c. Qaydaların sayı az olanda belə ziddiyyətlərin rast gəlinməsi 
+d. Çatışmazlıq yoxdur 
+CAVAB: Qaydaların sayı çoxalanda ziddiyyətlərin rast gəlinməsi 
+
+35. Biliklərin təsviri üçün semantik şəbəkə hansı üsulla təsvir olunur? 
+a. Xətti siyahı 
+b. Halqalı struktur 
+c. Ulduzvari struktur 
+d. İstiqamətlənmiş qraf 
+CAVAB: İstiqamətlənmiş qraf 
+
+36. Bir çoxluğun hər bir elementinə ikinci çoxluğun bir neçə elementi qarşı qoyularsa, və əksinə, ikinci çoxluğun hər bir elementinə birinci çoxluğun bir neçə elementi qarşı qoyularsa, belə münasibət necə adlanır? 
+a. Birin-birə 
+b. Çoxun-çoxa 
+c. Birin-çoxa 
+d. Azın-birə 
+e. Çoxun-aza 
+CAVAB: Çoxun-çoxa 
+
+37. Bir çoxluğun hər bir elementinə ikinci çoxluğun yalnız bir elementi qarşı qoyularsa, və əksinə, ikinci çoxluğun hər bir elementinə birinci çoxluğun yalnız bir elementi qarşı qoyularsa, belə münasibət necə adlanır? 
+a. Birin-birə 
+b. Birin-çoxa 
+c. Çoxun-çoxa 
+d. Azın-çoxa 
+e. Azın-birə 
+CAVAB: Birin-birə 
+
+38. Bir çoxluğun hər bir elementinə ikinci çoxluğun bir neçə elementi qarşı qoyularsa, və ikinci çoxluğun hər bir elementinə birinci çoxluğun yalnız bir elementi qarşı qoyularsa, belə münasibət necə adlanır? 
+a. Birin-aza 
+b. Birin-birə 
+c. Çoxun-çoxa 
+d. Birin-çoxa 
+e. Azın-çoxa 
+CAVAB: Birin-çoxa 
+
+39. Bir tərəfindən elementlərin daxil edilməsi, digər tərəfindən ləğv edilməsi ilə səciyyələnən dəyişən uzunluqlu ardıcıl siyahı necə adlanır? 
+a. Birinci gəldi - sonuncu getdi 
+b. Birinci gəldi - birinci getdi 
+c. Sonuncu gəldi - sonuncu getdi 
+d. Sonuncu gəldi - birinci getdi 
+e. Eyni zamanda birinci və sonuncu gedir 
+CAVAB: Birinci gəldi - birinci getdi 
+
+40. Birbaşa axtarış zamanı axtarış açarı hansı fayllara uyğun formalaşır? 
+a. Yazı 
+b. Boş 
+c. Unikal 
+d. Paylanmış 
+e. İndeks 
+CAVAB: İndeks 
+
+41. Birinci nisbət 5, ikinci nisbət isə 8 təkrarlanmayan atributdan təşkil olunub. Dekart hasil əməliyyatından sonra nəticəvi nisbət neçə atributdan təşkil olunacaq? 
+a. 3. 
+b. 13. 
+c. 5. 
+d. 8. 
+e. 40. 
+CAVAB: 13. 
+
+42. Birinci nisbət 50, ikinci nisbət isə 20 kortejə malikdir. Dekart hasil əməliyyatından sonra nəticəvi nisbət neçə kortejdən təşkil olunacaq? 
+a. 1000. 
+b. 20. 
+c. 30.
+d. 50.
+e. 70. 
+CAVAB: 1000. 
+
+43. Birinci nisbətin hər bir kortejinin ikinci nisbətin hər bir korteji ilə bitişməsi relyasiya cəbrinin hansi əməliyyatında baş verir? 
+a. Dekart hasil 
+b. Birləşmə 
+c. Proyeksiya 
+d. Seçmə 
+e. Çıxma 
+CAVAB: Dekart hasil 
+
+44. Birləşmə əməliyyatından sonra nəticəvi nisbət necə formalaşır? 
+a. Hər iki nisbətin təkrarlanmayan kortejlərindən təşkil olunur 
+b. İkinci nisbətdə rast gəlinməyən birinci nisbətin kortejlərindən təşkil olunur 
+c. Birinci nisbətdə rast gəlinməyən ikinci nisbətin kortejlərindən təşkil olunur 
+d. Hər iki nisbətin seçilmiş kortejlərindən təşkil olunur 
+e. Hər iki nisbətin eyni kortejlərindən təşkil olunur 
+CAVAB: Hər iki nisbətin təkrarlanmayan kortejlərindən təşkil olunur 
+
+45. Bitlərdən böyük hissələrə parçalana bilməyən verilənlər strukturu necə adlanır? 
+a. Sadə 
+b. Aşkar 
+c. İkilik 
+d. Bölünməz 
+e. İnteqral 
+CAVAB: Sadə 
+
+46. Bitlərdən böyük hissələrə parçalana bilməyən verilənlər strukturu necə adlanır? 
+a. Lokal 
+b. Aşkar 
+c. Sadə 
+d. Mürəkkəb 
+e. İnteqral 
+CAVAB: Sadə 
+
+47. Boş olmayan iki nisbət üzərində hansı əməliyyatdan sonra nəticəvi nisbət boş ola bilər: 1)Birləşmə, 2)Kəsişmə, 3)Çıxma? 
+a. 2 və 3. 
+b. 1 və 2. 
+c. 1 və 3. 
+d. Yalnız 2.
+e. Yalnız 3. 
+CAVAB: 2 və 3. 
+
+48. Boş olmayan iki nisbət verilmişdir. Hansı relyasiya cəbri əməliyyatından sonra nəticəvi nisbət ən çox kortejə malik olacaq? 
+a. Dekart hasil 
+b. Birləşmə 
+c. Kəsişmə 
+d. Proyeksiya 
+e. Seçmə 
+CAVAB: Dekart hasil 
+
+49. Boş olmayan iki nisbət verilmişdir. Hansı relyasiya cəbri əməliyyatından sonra nəticəvi nisbət ən çox atributa malik olacaq? 
+a. Proyeksiya 
+b. Bitişmə 
+c. Birləşmə 
+d. Dekart hasil 
+e. Çıxma 
+CAVAB: Dekart hasil 
+
+50. Çıxma əməliyyatından sonra nəticəvi nisbət necə formalaşır? 
+a. İkinci nisbətdə rast gəlinməyən birinci nisbətin kortejlərindən təşkil olunur 
+b. Birinci nisbətdə rast gəlinməyən ikinci nisbətin kortejlərindən təşkil olunur 
+c. Hər iki nisbətin bütün kortejlərindən təşkil olunur 
+d. Hər iki nisbətin təkrarlanmayan kortejlərindən təşkil olunur 
+e. Hər iki nisbətin eyni kortejlərindən təşkil olunur 
+CAVAB: İkinci nisbətdə rast gəlinməyən birinci nisbətin kortejlərindən təşkil olunur 
+
+51. CLXXII Roma ədədinə hansı onluq ədəd uyğun gəlir? 
+a. 222. 
+b. 632. 
+c. 512. 
+d. 172. 
+CAVAB: 172. 
+
+52. Çoxsaylı ünvanlardan istifadə verilənlər bazasının hansı modelinə xasdır? 
+a. Relyasiya 
+b. İyerarxik 
+c. Obyektyönlü 
+d. Şəbəkə 
+e. Monokanal 
+CAVAB: Şəbəkə 
+
+53. CREATE əmri nə iş görür? 
+a. yazı əlavə edir 
+b. belə əmr yoxdur 
+c. cədvəl yaradır 
+d. cədvəl yaradır və yazı əlavə edir 
+e. yeni sütun yaradır 
+CAVAB: cədvəl yaradır 
+
+54. Data Mining metodları ilə hasil olunan biliklərə hansı qanunauyğunluq aid deyil? 
+a. Freymlər 
+b. Assosiativ qaydalar 
+c. Həll ağacları 
+d. Klasterlər 
+CAVAB: Freymlər 
+
+55. Data Mining metodları ilə hasil olunan biliklərə hansı qanunauyğunluq aid edilmir? 
+a. Halqa strukturu 
+b. Riyazi funksiyalar 
+c. Həll ağacları 
+d. Assosiativ qaydalar 
+CAVAB: Halqa strukturu 
+
+56. Data Mining sistemlərində ilkin qoyulan məsələ hansıdır: 1) İri həcmli VB-nın olması, 2) VB-da “gizli biliklərin” olması ehtimalı, 3) Bilklər bazasının freym təsviri? 
+a. 2, 3. 
+b. 1, 2. 
+c. 1, 3. 
+d. 1, 2 və 3. 
+CAVAB: 1, 2. 
+
+57. Data Mining sistemlərinin daha tam və dəqiq mənası hansıdır? 
+a. Biliklərin tədqiqi üsullarından biri 
+b. Biliklər bazasının işinə nəzarət 
+c. Verilənlər bazasında biliklərin aşkarı 
+d. Siyahı tipli verilənlər strukturu 
+CAVAB: Verilənlər bazasında biliklərin aşkarı 
+
+58. Data Mining texnologiyaları hansı bazalara tətbiq olunur? 
+a. Kiçik həcmli verilənlər bazası 
+b. Şəbəkə tipli verilənlər bazası 
+c. Böyük həcmli verilənlər bazası 
+d. Paylanmış verilənlər bazası 
+CAVAB: Böyük həcmli verilənlər bazası 
+
+59. DCCCLXXXVIII Roma ədədinə hansı onluq ədəd uyğun gəlir? 
+a. 777. 
+b. 838.
+c. 888. 
+d. 738.
+e. 1388. 
+CAVAB: 888. 
+
+60. DCL, aşağıdakı əməliyyatlardan hansını icra etməyə imkan verir? 
+a. Cədvəlin strukturunu dəyişməyə. 
+b. Yazıları və verilənlərin qiymətlərini daxil etməyə, dəyişməyə və silməyə. 
+c. Verilənlər bazasına daxil olmanın və idarə etmənin təsdiqi. 
+d. Hamısı. 
+e. Heç biri. 
+CAVAB: Verilənlər bazasına daxil olmanın və idarə etmənin təsdiqi. 
+
+61. Deduktiv mühakimələr hansı istiqamətdə yerinə yetirilir? 
+a. Ümumidən xüsusuyə 
+b. Xüsusidən ümumiyə 
+c. Xüsisidən xüsusiyə 
+d. Ümumidən ümumiyə 
+CAVAB: Ümumidən xüsusuyə 
+
+62. Deklər üzərində hansı əməliyyatlar mümkün deyil? 
+a. Sağdan elementin ləğv edilməsi 
+b. Soldan elementin ləğv edilməsi 
+c. Elementin rənglənməsi 
+d. Ölçünün təyini 
+e. Təmizləmə 
+CAVAB: Elementin rənglənməsi 
+
+63. Dinamik strukturlara hansılar aid edilir? 
+a. Xətti əlaqəsiz siyahılar 
+b. Dövri əlaqəli siyahılar 
+c. Xətti əlaqəli siyahılar 
+d. Dövri əlaqəsiz siyahılar 
+CAVAB: Xətti əlaqəli siyahılar 
+
+64. Dəyişkənlik əlamətinə görə hansı struktura baxılır ? 
+a. Sonlu 
+b. Linqvistik 
+c. Qrafik 
+d. Statik 
+CAVAB: Statik 
+
+65. Dəyişkənlik əlamətinə görə hansı təsvir strukturu vardır? 
+a. Freym 
+b. İnteqral 
+c. Yarımstatik 
+d. Sonsuz 
+CAVAB: Yarımstatik 
+
+66. Dəyişkənlik əlamətinə görə təsnifata hansı strukturlar daxil edilir? 
+a. Siyahı 
+b. Dinamik 
+c. Özəl 
+d. Qarışıq 
+CAVAB: Dinamik 
+
+67. Eyni atributlardan təşkil olunmuş A nisbəti 30, B nisbəti isə 20 kortejə malikdir. Nisbətlərdə 5 sayda kortej təkrarlanır. B və A nisbətlərinin fərqi neçə kortejdən təşkil olunacaq? 
+a. 25. 
+b. 15.
+c. 35. 
+d. 10. 
+e. 50. 
+CAVAB: 15. 
+
+68. Eyni atributlardan təşkil olunmuş A nisbəti 20, B nisbəti isə 15 kortejə malikdir. Nisbətlərdə 3 sayda kortej təkrarlanır. A və B nisbətlərinin fərqi neçə kortejdən təşkil olunacaq? 
+a. 17. 
+b. 23. 
+c. 18. 
+d. 12. 
+e. 5. 
+CAVAB: 17. 
+
+69. Eyni atributlardan təşkil olunmuş A nisbəti m, B nisbəti isə n kortejə malikdir. A və B nisbətlərinin fərqi ən çoxu neçə kortejdən təşkil oluna bilər? 
+a. mn 
+b. m-n 
+c. m+n 
+d. n 
+e. m 
+CAVAB: m 
+
+70. Eyni atributlardan təşkil olunmuş A nisbəti m, B nisbəti isə n kortejə malikdir (m>n). A və B nisbətlərinin fərqi ən azı neçə kortejdən təşkil oluna bilər? 
+a. m-n 
+b. m+n 
+c. m 
+d. n 
+e. 0. 
+CAVAB: m-n 
+
+71. Eyni atributlardan təşkil olunmuş A nisbəti m, B nisbəti isə n kortejə malikdir (m 
+a. m+n 
+b. mn-(m+n) 
+c. m-n 
+d. 0. 
+e. n-m 
+CAVAB: 0. 
+
+72. Eyni zamanda iki sütunda yazını necə yeniləmək olar? 
+a. UPDATE `my_table` SET `field_1` = 'value_1', `field_2` = 'value_2' 
+b. UPDATE `my_table` SET `field_1` = 'value_1' AND `field_2` = 'value_2' 
+c. UPDATE `my_table` SET `field_1` = 'value_1' SET `field_2` = 'value_2' 
+d. UPDATE `my_table` INTO `field_1` = 'value_1'AND `field_2` = 'value_2' 
+e. UPDATE `my_table` SET `field_1` = 'value_1', SET `field_2` = 'value_2' 
+CAVAB: UPDATE `my_table` SET `field_1` = 'value_1', `field_2` = 'value_2' 
+
+73. Fayl sistemlərində olan hansı çətinliklər verilənlər bazası konsepsiyasının yaranmasına səbəb oldu? 
+a. Verilənlərin təhlükəsizliyindəki çətinliklər 
+b. Verilənlərin tiplərinin azlığı 
+c. Fayl sahələrinin uzunluqlarında məhdudiyyətlər 
+d. Fayllar arasında əlaqələrin olmaması 
+e. Fayllarda yazıların sayına olan məhdudiyyətlər 
+CAVAB: Fayllar arasında əlaqələrin olmaması 
+
+74. Fayl strukturlarında informasiyaya hansı müraciət üsulu vardır? 
+a. Ardıcıl müraciət 
+b. Şaquli müraciət 
+c. Paralel müraciət 
+d. Perpendikulyar müraciət 
+CAVAB: Ardıcıl müraciət 
+
+75. Fayl strukturlarında informasiyaya hansı müraciət üsulundan istifadə olunur? 
+a. Üfüqi müraciət 
+b. Dolayı müraciətl 
+c. Əyrixətli müraciət 
+d. Birbaşa müraciət 
+CAVAB: Birbaşa müraciət 
+
+76. Fayl strukturlarında informasiyaya müraciət üsulu hansıdır? 
+a. Növbələrlə müraciət 
+b. Qonşu müraciət 
+c. Kombinasiyalı müraciət 
+d. Üfüqi müraciət 
+CAVAB: Kombinasiyalı müraciət 
+
+77. Freym termini kim tərəfindən təklif edilmişdir? 
+a. Niklaus Vird 
+b. Con Martin 
+c. Marvin Minski 
+d. Ada Bayron 
+CAVAB: Marvin Minski 
+
+78. Göstərilənlərdən hansı biliklərin təsviri üçün istifadə olunur? 
+a. Freym 
+b. Baza 
+c. Anbar 
+d. Söz 
+CAVAB: Freym 
+
+79. Göstərilənlərdən hansı Data Mining metodları ilə həll olunan məsələlərin həlli mərhələlərinə aid deyil? 
+a. Analiz məsələsinin qoyuluşu 
+b. Verilənlərin toplanması 
+c. Verilənlərin formallaşdırılması 
+d. Verilənlərin hazırlanması 
+CAVAB: Verilənlərin formallaşdırılması 
+
+80. Göstərilənlərdən hansı istifadəçi sorğularının tipinə aiddir? 
+a. Müstəqil 
+b. Birdəfəlik 
+c. Çoxistiqamətli 
+d. İlkin 
+e. İkili 
+CAVAB: Birdəfəlik 
+
+81. GRANT əmri nə üçün istifadə olunur? 
+a. Verilənlər bazasının idarə olunması üçün 
+b. MySQL serverinin yenidən işə buraxılması üçün 
+c. Cədvəllərin təmizlənməsi üçün 
+d. Verilənlər bazasının təmizlənməsi üçün 
+e. İstifadəçilərin idarə olunması üçün 
+CAVAB: İstifadəçilərin idarə olunması üçün 
+
+82. Hansı açar hər bir sətri unikal olaraq təyin etməyə imkan verir? 
+a. İlkin açar 
+b. Xarici açar 
+c. Unikal açar 
+d. Sahənin adı 
+e. Yazının adı 
+CAVAB: İlkin açar 
+
+83. Hansı anlayış relyasiya modelli verilənlər bazasında istifadə olunmur? 
+a. Domen 
+b. Kortej 
+c. Nisbət 
+d. Freym 
+e. Atribut 
+CAVAB: Freym 
+
+84. Hansı axtarış üsulunda indeks fayllarından istifadə olunur? 
+a. Düzxətli 
+b. Budaqlı 
+c. Ardıcıl 
+d. Birbaşa 
+e. Dairəvi 
+CAVAB: Birbaşa 
+
+85. Hansı baza strukturları sinfinə daxildir? 
+a. Fayl 
+b. İnterval 
+c. Yazı 
+d. Çoxluq 
+CAVAB: İnterval 
+
+86. Hansı baza strukturudur? 
+a. Növbə 
+b. Ağac 
+c. Qraf 
+d. Dek 
+e. Sadalanan 
+CAVAB: Sadalanan 
+
+87. Hansı Data Mining metodları ilə həll olunan məsələlərin həlli mərhələlərinə aid deyil? 
+a. Verilənlərin analizi alqoritminin seçilməsi 
+b. Verilənlərin nizamlanması 
+c. Modelin parametrlərinin və öyrətmə alqoritminin seçilməsi 
+d. Modelin öyrədilməsi 
+CAVAB: Verilənlərin nizamlanması 
+
+88. Hansı Data Mining metodları ilə həll olunan məsələlərin həlli mərhələlərinə aid olunmur? 
+a. Verilənlərin strukturlaşdırılması 
+b. Öyrədilmənin keyfiyyətinin analizi 
+c. Aşkar edilmiş qanunauyğunluqların analizi 
+d. Verilənlərin filtrlənməsi və kodlaşdırılması 
+CAVAB: Verilənlərin strukturlaşdırılması 
+
+89. Hansı Data Mining temininin izahı deyil? 
+a. Verilənlərin hasil edilməsi 
+b. Verilənlərin intellectual analizi 
+c. Verilənlərin dərin analizi 
+d. Verilənlərin tamlığnın təyini 
+CAVAB: Verilənlərin tamlığnın təyini 
+
+90. Hansı dil verilənlər bazasında məlumatlara daxil olmağa və onları saxlamağa imkan verir? 
+a. DDL 
+b. DML 
+c. DCL 
+d. DLL 
+e. Heç biri 
+CAVAB: DDL 
+
+91. Hansı dil verilənlər bazasında məlumatlara daxil olmağa və onları idarə etməyə imkan verir? 
+a. DDL 
+b. DML 
+c. DCL 
+d. DLL 
+e. Heç biri 
+CAVAB: DCL 
+
+92. Hansı dinamik strukturlar sinfinə aiddir? 
+a. Massiv 
+b. Qraf 
+c. İnterval 
+d. Simvol 
+CAVAB: Qraf 
+
+93. Hansı dinamik strukturlara aiddir? 
+a. Dövri əlaqəli siyahılar 
+b. Dövri əlaqəsiz siyahılar 
+c. Budaqlanan əlaqəsiz siyahılar 
+d. Budaqlanan əlaqəli siyahılar 
+CAVAB: Budaqlanan əlaqəli siyahılar 
+
+94. Hansı dinamik strukturlara daxildir? 
+a. Vektor 
+b. Ağac 
+c. Cədvəl 
+d. Ədəd 
+CAVAB: Ağac 
+
+95. Hansı metod predmet sahəsinin öyrənilməsinə aiddir? 
+a. Kompüter operatorlarının informasiya tələbatlarının öyrənilməsi 
+b. Proqramçılarla söhbətlərin aparılması 
+c. İstifadəçilərə verilən tapşırıqların yoxlanılması 
+d. Tərcümə sistemlərindən istifadə 
+e. İstifadəçilərlə sorğu 
+CAVAB: İstifadəçilərlə sorğu 
+
+96. Hansı model verilənlər bazasına aid edilmir? 
+a. Relyasiya 
+b. Şəbəkə 
+c. İyerarxik 
+d. Obyektyönlü 
+e. Maşınyönlü 
+CAVAB: Maşınyönlü 
+
+97. Hansı münasibətlərə verilənlər arasında rast gəlinir: 1) birin-aza, 2) birin-çoxa, 3)Azın-çoxa, 4) Çoxun-aza, 5) Birin-birə, 6) Çoxun-çoxa? 
+a. 1, 3, 4. 
+b. 2, 5, 6. 
+c. 2, 4, 5. 
+d. 3, 5, 6. 
+e. 1, 4, 6. 
+CAVAB: 2, 5, 6. 
+
+98. Hansı predmet sahəsinin öyrənilməsi metoduna aid deyil: 1)Mühakimə, 2) Mübahisə, 3)Münaqişə, 4)Mübarizə? 
+a. 1 və 3.
+b. 2 və 4. 
+c. 1, 3, 4. 
+d. 2, 3, 4. 
+e. 1, 3, 4. 
+CAVAB: 1, 3, 4. 
+
+99. Hansı predmet sahəsinin öyrənilməsi zamanı istifadə olunur? 
+a. Verilənlərin tədqiqi 
+b. Verilənlərin tanınması 
+c. Verilənlərin tərcüməsi 
+d. Verilənlərin çap edilməsi 
+e. Verilənlərin nüsxələrinin saxlanılması 
+CAVAB: Verilənlərin tədqiqi 
+
+100. Hansı qrup xətti strukturların yaddaşda elementlərin qarşılıqlı yerləşdirilməsi xüsusiyyəti ilə bağlıdır? 
+a. Mücərrəd paylanma 
+b. İxtiyari əlaqəli paylanma 
+c. Şaquli paylanma 
+d. Nizamlı paylanma 
+CAVAB: İxtiyari əlaqəli paylanma 
+
+101. Hansı relyasiya cəbri əməliyyatı deyil? 
+a. Dekart hasil 
+b. Bölmə 
+c. Kəsişmə 
+d. Kökalma 
+e. Proyeksiya 
+CAVAB: Kökalma 
+
+102. Hansı relyasiya cəbri əməliyyatı deyil? 
+a. Toplama 
+b. Proyeksiya 
+c. Çıxma 
+d. Bitişmə 
+e. Seçmə 
+CAVAB: Toplama 
+
+103. Hansı relyasiya cəbri əməliyyatında predikatdan istifadə olunur? 
+a. Proyeksiya 
+b. Bölmə 
+c. Bitişmə 
+d. Dekart hasil 
+e. Seçmə 
+CAVAB: Seçmə 
+
+104. Hansı roma ədədi 2009 onluq ədədinə uyğun gəlir? 
+a. MMIX 
+b. MMXI 
+c. XCIX 
+d. XXXI 
+CAVAB: MMIX 
+
+105. Hansı roma ədədi 3999 onluq ədədinə uyğun gəlir? 
+a. MMMCMXCIX 
+b. MMMXICCXIX 
+c. MMMXCLXIX 
+d. MMMCCXXIX 
+CAVAB: MMMCMXCIX 
+
+106. Hansı roma ədədi 99 onluq ədədinə uyğun gəlir? 
+a. MMXI 
+b. XCIX 
+c. XXIX 
+d. MMX 
+CAVAB: XCIX 
+
+107. Hansı say sisteminin tipidirr? 
+a. Struktur 
+b. Standart 
+c. Mövqeli 
+d. Sadə 
+e. Mürəkkəb 
+CAVAB: Mövqeli 
+
+108. Hansı say sistemlərinə aid edilir? 
+a. Mövqesiz 
+b. Qarışıq 
+c. Mürəkkəb 
+d. Adi 
+e. Fərqli 
+CAVAB: Mövqesiz 
+
+109. Hansı sistemdə yaranan çətinliklər verilənlər bazası konsepsiyasının yaranmasına səbəb oldu? 
+a. Kompüter tanınması sistemləri 
+b. Kompüter tərcüməsi sistemləri 
+c. Fayl sistemləri 
+d. Əməliyyat sistemləri 
+e. Örtük sistemləri 
+CAVAB: Fayl sistemləri 
+
+110. Hansı struktur əməli yaddaşla əlaqəli deyildirdir? 
+a. Baza 
+b. Fayl 
+c. Statik 
+d. Dinamik 
+e. Yarımstatik 
+CAVAB: Fayl 
+
+111. Hansı struktur əməli yaddaşla əlaqəli olur? 
+a. Ulduz 
+b. Halqavari 
+c. Verilənlər bazası 
+d. Statik 
+CAVAB: Statik 
+
+112. Hansı struktur əməli yaddaşla əlaqəlidir? 
+a. Baza 
+b. Freym 
+c. Şəbəkə 
+d. Slot 
+CAVAB: Baza 
+
+113. Hansı strukturlar verilənlərin baza strukturlarının tərkibinə daxildir? 
+a. Ədəd 
+b. Stek 
+c. Dek 
+d. Nğvbə 
+CAVAB: Ədəd 
+
+114. Hansı strukturlar verilənlərin baza strukturlarına aid edilir? 
+a. Qraf 
+b. Siyahı 
+c. Fayl 
+d. Simvol 
+CAVAB: Simvol 
+
+115. Hansı strukturlar əməli yaddaşla əlaqəli deyil? 
+a. Baza 
+b. Statik 
+c. Yarımstatik 
+d. Fayl 
+e. Dinamik 
+CAVAB: Fayl 
+
+116. Hansı strukturlarda verilənlər bitlərdən böyük hissələrə parçalana bilmir? 
+a. Bəsit 
+b. Freym 
+c. Lokal 
+d. Sadə 
+CAVAB: Sadə 
+
+117. Hansı strukturun əməli yaddaşla əlaqəsi vardır? 
+a. Yarımgüclü 
+b. Yarımmücərrəd 
+c. Yarımstatik 
+d. Yarımdinamik 
+CAVAB: Yarımstatik 
+
+118. Hansı termin Data Mining texnologiyasında istifadə olunur? 
+a. Xam verilənlər 
+b. Əlaqəli verilənlər 
+c. Aşkar verilənlər 
+d. Səlis verilənlər 
+CAVAB: Xam verilənlər 
+
+119. Hansı tələb verilənlər bazasına qoyulmur? 
+a. Birdəfəlik daxiletmə 
+b. Dəqiqlik 
+c. Ziddiyyətsizlik 
+d. Verilənlərin tamlığı 
+e. Yığcamlıq 
+CAVAB: Yığcamlıq 
+
+120. Hansı verilən strukturları yaddaşda elementlərin ardıcıl paylanmasına görə qrupa daxildir? 
+a. Siyahı 
+b. Qraf 
+c. Ağac 
+d. Növbə 
+CAVAB: Qraf 
+
+121. Hansı verilənlər bazasının idarəetmə sistemləri həm MS DOS, həm də Windows əməliyyat sistemlərində istifadə üçün nəzərdə tutulmuşdur? 
+a. FofPro və Paradox 
+b. Yalnız Oracle 
+c. Clipper və FoxBase+ 
+d. Yalnız Access 
+e. dBaseIII və dBase IV 
+CAVAB: FofPro və Paradox 
+
+122. Hansı verilənlər bazasının idarəetmə sistemi yalnız MS DOS əməliyyat sistemi üçün nəzərdə tutulmuşdur? 
+a. Oracle 
+b. Access 
+c. Paradox 
+d. Clipper 
+e. FoxPro 
+CAVAB: Clipper 
+
+123. Hansı verilənlər bazasının idarəetmə sistemi yalnız Windows əməliyyat sistemi üçün nəzərdə tutulmuşdur? 
+a. FoxBase+ 
+b. Access 
+c. Clipper 
+d. dBaseIV 
+e. dBaseIII 
+CAVAB: Access 
+
+124. Hansı verilənlər bazasının idarəetmə sistemi Microsoft Offise qovluğuna daxil edilmişdir və kütlələr tətəfindən istifadə olunur? 
+a. RBase 
+b. Paradox 
+c. Foxpro 
+d. Oracle 
+e. Access 
+CAVAB: Access 
+
+125. Hansı verilənlər bazasının idarəetmə sistemi qlobal kompüter şəbəkələrinin bütün imkanlarından geniş istifadə etmək bacarığına malikdir? 
+a. Oracle 
+b. Access 
+c. DBaseIV 
+d. Clipper 
+e. FoxBase+ 
+CAVAB: Oracle 
+
+126. Hansı verilənlər bazasının idarəetmə sistemidir? 
+a. Word 
+b. Access 
+c. Windows 
+d. Excel 
+e. MS DOS 
+CAVAB: Access 
+
+127. Hansı verilənlər bazasının idarəetmə sistemidir? 
+a. Oracle 
+b. Prompt 
+c. Paint 
+d. FineReader 
+e. Word 
+CAVAB: Oracle 
+
+128. Hansı verilənlər bazasının yaradılması mərhələsinə aid deyil? 
+a. Administratorluğun seçimi 
+b. Predmet sahəsinin tədqiqi 
+c. İstifadəçi sorğularının təyini 
+d. Verilənlər bazasının yaradılması 
+e. Konseptual layihələndirmə 
+CAVAB: Administratorluğun seçimi 
+
+129. Hansı verilənlər bazasının yaradılması mərhələsinə aiddir? 
+a. Proqram təminatının yaradılması 
+b. Dialoq pəncərələrinin seçilməsi 
+c. Metaverilənlərlə işin təşkili 
+d. Verilənlərin tərcüməsi 
+e. Verilənlərin tanınması 
+CAVAB: Proqram təminatının yaradılması 
+
+130. Hansı verilənlər statik struktura daxil deyil? 
+a. Vektor 
+b. Sətir 
+c. Massiv 
+d. Çoxluq 
+CAVAB: Sətir 
+
+131. Hansı verilənlər strukturları xarici yaddaşla əlaqəlidir? 
+a. Baza 
+b. Fayl 
+c. Statik 
+d. Dinamik 
+CAVAB: Fayl 
+
+132. Hansı verilənlər strukturları xarici yaddaşla əlaqəlidir? 
+a. Daimi 
+b. Müvəqqəti 
+c. Sərbəst 
+d. Əlaqəli 
+e. Fayl 
+CAVAB: Fayl 
+
+133. Hansı verilənlər strukturları xarici yaddaşla əlaqəli olur? 
+a. Produksiya 
+b. Funksiya 
+c. Atribut 
+d. Slot 
+e. Fayl 
+CAVAB: Fayl 
+
+134. Hansı verilənlər strukturları yaddaşda elementlərin ixtiyari əlaqəli paylanmasına gərə qrupa daxildir? 
+a. Ağaclar 
+b. Qraflar 
+c. Stek 
+d. Dek 
+e. Birəlaqəli siyahılar 
+CAVAB: Birəlaqəli siyahılar 
+
+135. Hansı verilənlər strukturları yaddaşda elementlərin ardıcıl paylanmasına görə qrupa daxil deyildir? 
+a. Vektor 
+b. Sətir 
+c. Ağac 
+d. Massiv 
+e. Növbə 
+CAVAB: Ağac 
+
+136. Hansı verilənlər strukturu əlaqəsizdir? 
+a. Freym 
+b. Vektor 
+c. Slot 
+d. Çıxarış 
+CAVAB: Vektor 
+
+137. Hansı verilənlərin əlaqəsiz strukturudur? 
+a. Şəbəkə 
+b. Bit 
+c. Bayt 
+d. Sətir 
+CAVAB: Sətir 
+
+138. Hansı verilənlərin əlaqəli strukturuna aid edilir? 
+a. Əlaqəli siyahı 
+b. Növbə 
+c. Stek 
+d. Massiv 
+e. Vektor 
+CAVAB: Əlaqəli siyahı 
+
+139. Hansı yarımstatik struktura daxil deyil? 
+a. Növbə 
+b. Stek 
+c. Dek 
+d. İnterval 
+CAVAB: İnterval 
+
+140. Hansı əlamətə görə verilənlərin strukturu sadə və inteqrallaşan növlərə ayrılır? 
+a. Elementlər arasında əlaqələr 
+b. Tərkib hissələrə bölünmə 
+c. Nizamlı 
+d. Formallaşdırılan 
+e. Məhdudiyyət 
+CAVAB: Tərkib hissələrə bölünmə 
+
+141. Hansı əlamətə görə verilənlərin strukturunun statik, yarımstatik və dinamik növləri vardır? 
+a. Elementlər arasında əlaqə 
+b. Dəyişkənlik 
+c. Tərkib hissələrə bölünmə 
+d. Nizamlama 
+e. Xəttilik 
+CAVAB: Dəyişkənlik 
+
+142. Hansı əlaqəsiz verilənlər strukturudur? 
+a. Massiv 
+b. Cümlə 
+c. Bilik 
+d. Verilənlər bazası 
+CAVAB: Massiv 
+
+143. Hansı əmr cədvəldən bütün sətirləri silir? 
+a. DROP 
+b. DELETE 
+c. REMOVE 
+d. ALTER 
+e. TRUNCATE 
+CAVAB: TRUNCATE 
+
+144. Hansı əmr təkrarlanan sətirlərin yalnız bir nüsxəsini verir? 
+a. Unique 
+b. Group By 
+c. Distinct 
+d. hər üçü 
+e. heç biri 
+CAVAB: Distinct 
+
+145. Hansı əməliyyat relyasiya cəbri əməliyyatıdır: 1)Birləşmə, 2)Kəsişmə, 3)Cəm, 4)Fərq? 
+a. 1, 2 və 3. 
+b. 2, 3 və 4. 
+c. 1, 3 və 4. 
+d. 1, 2 və 4. 
+e. 1, 2, 3 və 4. 
+CAVAB: 1, 2 və 4. 
+
+146. Hansı əməliyyat relyasiya cəbrinə aid edilir? 
+a. Toplama 
+b. Bölmə 
+c. Kökalma 
+d. Loqarifmləmə 
+e. İnteqrallama 
+CAVAB: Bölmə 
+
+147. Hansı əməliyyat sətirlər üzərində aparılan baza əməliyyatlarının tərkibinə daxil deyildir? 
+a. Sətrin uzunluğunun təyini 
+b. Əlifbaya görə nizamlama 
+c. Sətirdən hissəsinin ayrılması 
+d. Sətirlərin bitişməsi 
+e. Tərkibin axtarışı 
+CAVAB: Əlifbaya görə nizamlama 
+
+148. Hansı “gizli biliklər” anlayışına aid deyil? 
+a. Əvvəllər bəlli olmayan 
+b. Qeyri-adilik 
+c. Praktiki paydalı 
+d. Şübhəlilik 
+CAVAB: Şübhəlilik 
+
+149. Hansı “gizli biliklər” anlayışına aid edilir? 
+a. Şübhəli verilənlər 
+b. Azad verilənlər 
+c. Meta biliklər 
+d. İnterpretasiya mümkünlüyü 
+CAVAB: İnterpretasiya mümkünlüyü 
+
+150. İbtidai insanlar hesablama aləti kimi nədən istifadə etmişlər? 
+a. Kalkulyator 
+b. Rəngli kürələr 
+c. Kiçik daşlar 
+d. Əl və ayaq barmaqları 
+e. Papirus 
+CAVAB: Əl və ayaq barmaqları 
+
+151. İki nisbətin birləşməsi zamanı hansı şərt ödənilməlidir? 
+a. Nisbətlərin eyni kortejlərdən ibarət olması 
+b. Nisbətlərin eyni atributlardan ibarət olması 
+c. Bir nisbətin boş olması 
+d. Nisbətlərin şəbəkə mühitində olması 
+e. Şərtə tələb yoxdur 
+CAVAB: Nisbətlərin eyni atributlardan ibarət olması 
+
+152. İki nisbətin bölünməsindən sonra qalıq ən azı hansı qiymət ala bilər? 
+a. Qalıq anlayışından istifadə olunmur 
+b. 0. 
+c. 1. 
+d. İkinci nisbətdəki atributların sayından kiçik 
+e. İkinci nisbətdəki kortejlərin sayından kiçik 
+CAVAB: Qalıq anlayışından istifadə olunmur 
+
+153. İki nisbətin fərqi zamanı hansı şərt ödənilməlidir? 
+a. Nisbətlərin eyni atributlardan ibarət olması 
+b. Nisbətlərin eyni kortejlərdən ibarət olması 
+c. Nisbətlərin şəbəkə mühitindən kənar olması 
+d. Şərtə tələb yoxdur 
+e. Nisbətlərin müxtəlif atributlardan ibarət olması 
+CAVAB: Nisbətlərin eyni atributlardan ibarət olması 
+
+154. İndeks faylı A, B və C atributlarının bitişməsi kimi formalaşıbsa, axtarış açarı hansı üsulla formalaşa bilər? 
+a. A+B+C; A+B; A 
+b. Yalnız A+B+C 
+c. A+B+C; A+C+B; B+A+C; B+C+A; C+A+B; C+B+A 
+d. A+B və A+C 
+e. A; B; C 
+CAVAB: A+B+C; A+B; A 
+
+155. İndeks fayllarının yaradılması zamanı hansı anlayış üzərində bitişmə əməliyyatı aparılır? 
+a. Kortej 
+b. Atribut 
+c. Nisbət 
+d. Nüvə 
+e. Domen 
+CAVAB: Atribut 
+
+156. İnduktiv mühakimələr hansı istiqamətdə yerinə yetirilir? 
+a. Ümumidən xüsusuyə 
+b. Xüsusidən ümumiyə 
+c. Xüsisidən xüsusiyə 
+d. Ümumidən ümumiyə 
+CAVAB: Xüsusidən ümumiyə 
+
+157. İnteqrallaşan verilənlər strukturu necə formalaşdırılır? 
+a. Proqramlaşdırma dillərinin təqdim etdiyi inteqrallaşma vasitələrindən istifadə etməklə proqramçı tərəfindən 
+b. İstifadəçinin tələbinə görə sistemin işi prosesində 
+c. İnformasiya emalı vaxtı operator tərəfindən 
+d. İnformasiya sisteminin layihələndirilməsi zamanı inzibatçı tərəfindən 
+e. Sistemin mühafizəsi məqsədilə uyğun ixtisasçılar tərəfindən 
+CAVAB: Sistemin mühafizəsi məqsədilə uyğun ixtisasçılar tərəfindən 
+
+158. İnternet xidmətlərindən və elmi ədəbiyyatdan istifadə metodu verilənlər bazasının yaradılmasının hansı mərhələsində istifadə olunur? 
+a. Predmet sahəsinin öyrənilməsi 
+b. İstifadəçi sorğularının tədqiqi 
+c. Proqram təminatının auditi 
+d. Konseptual layihələndirmə 
+e. İstifadəçi sorğularının qruplaşdırılması 
+CAVAB: Predmet sahəsinin öyrənilməsi 
+
+159. İstifadəçi sorğularının hansı tipindən istifadə olunur? 
+a. Reqlamentli 
+b. İnteqrallanmış 
+c. Differensial 
+d. Binar 
+e. Unar 
+CAVAB: Reqlamentli 
+
+160. İstifadəçi sorğularının hansı tipləri mövcuddur: 1)Reqlamentli, 2)İnteqrallanmış, 3)Birdəfəlik, 4)Qeyri-səlis? 
+a. 1, 3, 4. 
+b. 1, 2, 3. 
+c. 1, 2, 4. 
+d. 2, 3, 4. 
+e. 1, 2, 3, 4. 
+CAVAB: 1, 3, 4. 
+
+161. İstiqamətlənmiş qraf şəklində təsvir olunan biliklər modeli necə adlanır? 
+a. Semantik şəbəkə 
+b. Produksiya 
+c. Freym 
+d. Ulduz 
+CAVAB: Semantik şəbəkə 
+
+162. İyerarxik model hansı bazalara aid edilir? 
+a. Metaverilənlər 
+b. Verilənlər 
+c. Şəbəkə 
+d. Verilənlər haqqında verilənlər 
+e. Biliklər haqqında verilənlər 
+CAVAB: Verilənlər 
+
+163. İyerarxik verilənlər bazasına nümunə hansıdır? 
+a. sinif jurnalının səhifələri. 
+b. diskdə saxlanan fayllar kataloqu. 
+c. qatarların qrafiki. 
+d. təyyarələrin qrafiki. 
+e. elektron cədvəl. 
+CAVAB: diskdə saxlanan fayllar kataloqu. 
+
+164. İyerarxik verilənlər bazasında verilənlər çoxluğu və onlar arasındakı əlaqə necə təsvir olunur? 
+a. cədvəl 
+b. şəbəkə sxemi 
+c. fayllar çoxluğu 
+d. ağacvari struktur 
+e. cədvəllər çoxluğu 
+CAVAB: ağacvari struktur 
+
+165. Kompüterin yaddaşında ədədlər hansı say sistemində təsvir olunur? 
+a. İkilik 
+b. Səkkizlik 
+c. Onluq 
+d. On ikilik 
+e. On altılıq 
+CAVAB: İkilik 
+
+166. Kompüterlərdə əlaqələndirilmiş fayllar sistemi necə adlanır? 
+a. Verilənlər bazası 
+b. Verilənlər çoxluğu 
+c. Verilənlər yığımı 
+d. Verilənlər anbarı 
+e. Verilənlər toplusu 
+CAVAB: Verilənlər bazası 
+
+167. Konkatenasiya termininə hansı termin sinonimdir? 
+a. Kəsişmə 
+b. Daxiletmə 
+c. Bitişmə 
+d. Axtarış 
+e. Nizamlama 
+CAVAB: Bitişmə 
+
+168. Kəsişmə əməliyyatından sonra nəticəvi nisbət necə formalaşır? 
+a. Hər iki nisbətin eyni kortejlərindən təşkil olunur 
+b. Hər iki nisbətin təkrarlanmayan kortejlərindən təşkil olunur 
+c. Hər iki nisbətin bütün kortejlərindən təşkil olunur 
+d. İkinci nisbətdə rast gəlinməyən birinci nisbətin kortejlərindən təşkil olunur 
+e. Birinci nisbətdə rast gəlinməyən ikinci nisbətin kortejlərindən təşkil olunur 
+CAVAB: Hər iki nisbətin eyni kortejlərindən təşkil olunur 
+
+169. L.Zadə öz qeyri-səlislik haqqında nəzəriyyəni yaradarkən hansı riyazi funksiyanı ümumiləşdirmişdir? 
+a. Nisbilik 
+b. Ehtimal 
+c. Xarakteristik 
+d. Kəsiilməz 
+e. Ümumiləşmə yoxdur 
+CAVAB: Xarakteristik 
+
+170. LIKE əmrində [a-z] istifadə olunması nəyi göstərir? 
+a. a-z aralığında birinci simvol 
+b. a-z aralığında olmayan simvol 
+c. a-z aralığında istənilən simvol 
+d. a və z simvolları 
+e. heç biri 
+CAVAB: a-z aralığında birinci simvol 
+
+171. Linqvistik dəyişənlərin kompüter emalı zamanı hansı funksiyadan səmərəli surətdə istifadə etmək olar? 1)Mücərrədlik, 2)Monoton, 3)Mənsubiyyət? 
+a. Yalnız 3. 
+b. Yalnız 2. 
+c. Yalnız 1. 
+d. 1 və 2. 
+e. 2 və 3. 
+CAVAB: Yalnız 3. 
+
+172. Maşın yaddaşında təsviri nəzərə alınmayan verilənlərin strukturu necə adlanır? 
+a. Fiziki 
+b. Məntiqi 
+c. Maşın 
+d. Daxili 
+e. Xarici 
+CAVAB: Məntiqi 
+
+173. Menyu tipli dialoq zamanı hansı prinsipdən istifadə olunur? 
+a. Siyahıdan seçmə 
+b. Parametrlərin qiymətləndirilməsi 
+c. Açar sözlərin formalaşdırılması 
+d. Verilənlərin nizamlanması 
+e. İndeksləmə 
+CAVAB: Siyahıdan seçmə 
+
+174. MS Access-də mətn sahəsinin uzunluğu maksimum nə qədər ola bilər? 
+a. 128. 
+b. 256.
+c. 255. 
+d. 64. 
+e. 120. 
+CAVAB: 255. 
+
+175. Müşahidə metodu verilənlər bazasının yaradılmasının hansı mərhələsində istifadə olunur? 
+a. Predmet sahəsinin öyrənilməsi 
+b. Proqram təminatının yaradılması 
+c. Fiziki layihələndirmə 
+d. Konseptual layihələndirmə 
+e. Proqram təminatının işinə nəzarət 
+CAVAB: Predmet sahəsinin öyrənilməsi 
+
+176. Mənsubiyyət funksiyası hansı tip dəyişənlərin emalı üçün nəzərdə tutulmuşdur? 
+a. Linqvistik 
+b. Kəsilməz 
+c. Ehtimal 
+d. Paylama 
+e. Məhdud 
+CAVAB: Linqvistik 
+
+177. Mənsubiyyət funksiyasının hansı qiymətlərində linqvistik dəyişənin doğruluğu artır? 
+a. Cüt saylı qiymətlərində 
+b. Tək saylı qiymətlərində 
+c. [0, 1] parçasının ortalarında 
+d. Sıfıra yaxınlaşdıqca 
+e. Vahidə yaxınlaşdıqca 
+CAVAB: Vahidə yaxınlaşdıqca 
+
+178. Mənsubiyyət funksiyasının hansı qiymətlərində linqvistik dəyişənin doğruluğu azalır? 
+a. Cüt saylı qiymətlərində 
+b. Tək saylı qiymətlərində 
+c. [0, 1] parçasının ortalarında 
+d. Sıfıra yaxınlaşdıqca 
+e. Vahidə yaxınlaşdıqca 
+CAVAB: Sıfıra yaxınlaşdıqca 
+
+179. Nizamlama əlamətinə görə verilənlərin strukturu hansı növlərə bölünür? 
+a. Baza və əlavə 
+b. Statik və dinamik 
+c. Sadə və mürəkkəb 
+d. Əlaqəli və əlaqəsiz 
+e. Xətti və qeyri-xətti 
+CAVAB: Xətti və qeyri-xətti 
+
+180. Nəticəni çeşidləmək üçün hansı SQL əmrindən istifadə olunur? 
+a. ORDER 
+b. ORDER BY 
+c. SORT 
+d. SORT BY 
+e. IN ORDER 
+CAVAB: ORDER BY 
+
+181. Nəticəvi nisbətin hər iki nisbətin eyni kortejlərindən təşkil olunması hansı əməliyyatı izah edir? 
+a. Birləşmə 
+b. Çıxma 
+c. Proyeksiya 
+d. Dekart hasil 
+e. Kəsişmə 
+CAVAB: Kəsişmə 
+
+182. Nəticəvi nisbətin iki nisbətin təkrarlanmayan kortejlərindən təşkil olunması hansı əməliyyatı izah edir? 
+a. Proyeksiya 
+b. Dekart hasil 
+c. Kəsişmə 
+d. Birləşmə 
+e. Çıxma 
+CAVAB: Birləşmə 
+
+183. Nəticəvi nisbətin ikinci nisbətdə rast gəlinməyən birinci nisbətin kortejlərindən təşkil olunması hansı əməliyyatı izah edir? 
+a. Bitişmə 
+b. Çıxma 
+c. Dekart hasil 
+d. Proyeksiya 
+e. Bölmə 
+CAVAB: Çıxma 
+
+184. Nəyə görə standart SQL kodlarından istifadə edilməsi vacibdir? 
+a. Standart SQL kodlarından istifadə edilməsi vacib deyil. 
+b. Standart SQL kodları platformalar arasında daha məqsədəuyğundur. 
+c. Standart SQL kodları daha effektivdir. 
+d. Standart SQL kodlarının oxunması daha əlverişlidir. 
+e. Standart SQL kodları effektiv deyil. 
+CAVAB: Standart SQL kodları platformalar arasında daha məqsədəuyğundur. 
+
+185. Predmet sahəsinin öyrənilməsi zamanı hansı metoddan istifadə olunmur? 
+a. Müşahidə 
+b. Mühakimə 
+c. Şəxsi iştirak 
+d. İstifadəçilərlə sorğu 
+e. Elmi ədəbiyyatdan istifadə 
+CAVAB: Mühakimə 
+
+186. Predmet sahəsinin öyrənilməsi zamanı hansı məsələlərin həllinə baxılmır? 
+a. Həll ediləcək məsələlərin siyahısının tərtibi 
+b. Konseptual layihələndirmə 
+c. Verilənlərin seçilməsi 
+d. Məsələlərin həlli üsulları 
+e. Tələb olunan metodlar 
+CAVAB: Konseptual layihələndirmə 
+
+187. Predmet sahəsinin tədqiqi metodlarının hansında daha çox operativliyə nail olunur? 
+a. Şəxsi iştirak 
+b. Müşahidə 
+c. Hesabatların öyrənilməsi 
+d. İstifadəçilərlə sorğu 
+e. Elmi ədəbiyyatdan istifadə 
+CAVAB: Müşahidə 
+
+188. Predmet sahəsinin tədqiqi metodlarının hansında daha çox dəqiqliyə nail olunur? 
+a. Şəxsi iştirak 
+b. Müşahidə 
+c. Hesabatların öyrənilməsi 
+d. İstifadəçilərlə sorğu 
+e. Elmi ədəbiyyatdan istifadə 
+CAVAB: Elmi ədəbiyyatdan istifadə 
+
+189. Produksiya modelli biliklərin təsviri hansı prinsipə əsaslanır? 
+a. Seçmə 
+b. Məntiqi ardıcıl 
+c. Əgər ... onda 
+d. İlk ağıla gələn 
+CAVAB: Əgər ... onda 
+
+190. Pəncərə tipli dialoq zamanı hansı prinsipdən istifadə olunur? 
+a. İnisiallaşma 
+b. İnkapsülyasiya 
+c. Verilənlərin nizamlanması 
+d. Parametrlərin qiymətləndirilməsi 
+e. Paralelizm 
+CAVAB: Parametrlərin qiymətləndirilməsi 
+
+191. Qaydalara əsaslanan, “Əgər ... onda” tipli təkliflərlə təsvir olunan bilik modelləri necə adlanır? 
+a. Produksiya 
+b. Freym 
+c. Semantik şəbəkə 
+d. Sintaksis şəbəkə 
+CAVAB: Produksiya 
+
+192. Qeyri-səlis linqvistik dəyişənlərin emalı zamanı mənsubiyyət funksiyası hansı qiymətləri ala bilər? 
+a. yalnız 0. 
+b. yalnız 1. 
+c. (0; 1) intervalı 
+d. [0; 1] parçası 
+e. 0 və ya 1. 
+CAVAB: [0; 1] parçası 
+
+193. Qeyri-səlis texnologiyanın banisi L.Zadə ilə bu sahədə ən yaxın əməkdaşlıq kim etmişdir? 
+a. Berman 
+b. Borman 
+c. Bellman 
+d. Barmen 
+e. Barmek 
+CAVAB: Bellman 
+
+194. Relyasiya cəbrinin hansı əməliyyatı bir nisbət üzərində aparılır? 
+a. Bölmə 
+b. Kəsişmə 
+c. Proyeksiya 
+d. Bitişmə 
+e. Dekart hasil 
+CAVAB: Proyeksiya 
+
+195. Relyasiya cəbrinin hansı əməliyyatı bir nisbət üzərində aparılır? 
+a. Çıxma 
+b. Bitişmə 
+c. Bölmə 
+d. Seçmə 
+e. Birləşmə 
+CAVAB: Seçmə 
+
+196. Relyasiya cəbrinin hansı əməliyyatından sonra nəticəvi nisbətin atributları ilkin iki nisbətin atributlarının bitişməsindən təşkil olunur? 
+a. Bölmə 
+b. Dekart hasil 
+c. Birləşmə 
+d. Kəsişmə 
+e. Proyeksiya 
+CAVAB: Dekart hasil 
+
+197. Relyasiya modeli hansı bazalara aid edilir? 
+a. Biliklər 
+b. Metaverilənlər 
+c. Metabiliklər 
+d. Xüsusiləşmiş 
+e. Verilənlər 
+CAVAB: Verilənlər 
+
+198. Relyasiya modelli sistemlərin standart dili kimi hansı dil qəbul edilmişdir? 
+a. CODASYL 
+b. Pascal 
+c. Delphi 
+d. Unix 
+e. SQL 
+CAVAB: SQL 
+
+199. Relyasiya verilənlər bazası faylının strukturu nə vaxt dəyişir? 
+a. yazı silindikdə 
+b. sahələrdən biri dəyişdikdə 
+c. bir neçə yazı silindikdə 
+d. bütün yazılar silindikdə 
+e. yeni yazı əlavə edildikdə 
+CAVAB: sahələrdən biri dəyişdikdə 
+
+200. SELECT `name` FROM `users` əmrinin nəticəsi hansıdır? 
+a. Nəticə 2 sütundan ibarətdir 
+b. Nəticə 1 sütundan ibarətdir 
+c. Nəticə 3 sütundan ibarətdir 
+d. Nəticə 2 sətirdən ibarətdir 
+e. Sorğu səhvdir 
+CAVAB: Nəticə 1 sütundan ibarətdir 
+
+201. Semantik şəbəkə hansı məqsədlərlə istifadə olunur? 
+a. Biliklərin təsviri 
+b. Verilənlərin strukturu 
+c. Metaverilənlərin təsviri 
+d. Verilənlər bazası 
+CAVAB: Biliklərin təsviri 
+
+202. Semantik şəbəkə modelində istiqamətləşdirilmiş qrafın təpələri nəyi göstərir? 
+a. Obyektlərin sayını 
+b. Obyektlər arasındakı münasibətlər 
+c. Predmet sahəsinin obyektləri 
+d. Münasibətlərin tipini 
+CAVAB: Predmet sahəsinin obyektləri 
+
+203. Semantik şəbəkə modelində istiqamətləşdirilmiş qrafın tilləri nəyi göstərir? 
+a. Obyektlərin sayını 
+b. Obyektlər arasındakı münasibətlər 
+c. Predmet sahəsinin obyektləri 
+d. Münasibətlərin tipini 
+CAVAB: Obyektlər arasındakı münasibətlər 
+
+204. Siyahıdan seçmə hansı tip dialoq zamanı istifadə olunur? 
+a. Təbii dil 
+b. Sərbəst 
+c. Pəncərə 
+d. Menyu 
+e. Məhdud 
+CAVAB: Menyu 
+
+205. Siyahının hər iki ucundan elementlərin əlavə və ya ləğv edilməsi mümkün olan ardıcıl siyahı necə adlanır? 
+a. Fayl 
+b. Stek 
+c. Növbə 
+d. Siyahı 
+e. Dek 
+CAVAB: Dek 
+
+206. Siyahının yalnız bir ucundan elementlərin daxil və ya ləğv edilməsi ilə səciyyələnən dəyişən uzunluqlu ardıcıl siyahı necə adlanır? 
+a. Növbə 
+b. Dek 
+c. Stek 
+d. Siyahı 
+e. Çoxluq 
+CAVAB: Stek 
+
+207. Sonlu simvollar çoxluğuna daxil olan simvolların xətti nizamlanmış ardıcıllığı necə adlanır? 
+a. Sətir 
+b. Yazı 
+c. Bank 
+d. Çoxluq 
+e. Göstərici 
+CAVAB: Sətir 
+
+208. SQL ilə "Persons" cədvəlində "FirstName" sütunu "Peter" olan yazıları necə silmək olar? 
+a. DELETE FROM Persons WHERE FirstName = 'Peter' 
+b. DELETE ROW FirstName='Peter' FROM Persons 
+c. DELETE FirstName='Peter' FROM Persons 
+d. DELETE COLUMN FirstName='Peter' FROM Persons 
+e. DELETE FROM Persons.FirstName = 'Peter' 
+CAVAB: DELETE FROM Persons WHERE FirstName = 'Peter' 
+
+209. SQL ilə "Persons" cədvəlində "LastName"sütununda "Hansen" adını "Nilsen" adına necə dəyişmək olar? 
+a. UPDATE Persons SET LastName='Hansen' INTO LastName='Nilsen' 
+b. UPDATE Persons SET LastName='Nilsen' WHERE LastName='Hansen' 
+c. MODIFY Persons SET LastName='Hansen' INTO LastName='Nilsen' 
+d. MODIFY Persons SET LastName='Nilsen' WHERE LastName='Hansen' 
+e. INSERT INTO Persons VALUES(LastName='Hansen', LastName='Nilsen') 
+CAVAB: UPDATE Persons SET LastName='Nilsen' WHERE LastName='Hansen' 
+
+210. SQL ilə "Persons" cədvəlində yazıların sayını necə tapmaq olar? 
+a. SELECT COLUMNS() FROM Persons 
+b. SELECT COUNT(*) FROM Persons 
+c. SELECT COLUMNS(*) FROM Persons 
+d. SELECT COUNT() FROM Persons 
+e. SELECT ROWS(*) FROM Persons 
+CAVAB: SELECT COUNT() FROM Persons 
+
+211. SQL ilə "Persons" cədvəlindən "FirstName" sütunu üzrə azalan sıra ilə bütün yazıları necə seçmək olar? 
+a. SELECT * FROM Persons SORT BY 'FirstName' DESC 
+b. SELECT * FROM Persons SORT 'FirstName' DESC 
+c. SELECT * FROM Persons ORDER BY FirstName DESC 
+d. SELECT * FROM Persons ORDER FirstName DESC 
+e. SELECT * FROM Persons ORDER BY FirstName 
+CAVAB: SELECT * FROM Persons ORDER BY FirstName DESC 
+
+212. SQL ilə "Persons" cədvəlindən "FirstName" adlanan sütunu necə seçmək olar? 
+a. SELECT FirstName FROM Persons 
+b. SELECT Persons FROM FirstName 
+c. SELECT Persons.FirstName 
+d. EXTRACT Persons FROM FirstName 
+e. EXTRACT FirstName FROM Persons 
+CAVAB: SELECT FirstName FROM Persons 
+
+213. SQL ilə "Persons" cədvəlindən "FirstName" sütununun qiyməti "Peter" olan bütün sütunları necə seçmək olar? 
+a. SELECT [all] FROM Persons WHERE FirstName='Peter' 
+b. SELECT * FROM Persons WHERE FirstName='Peter' 
+c. SELECT [all] FROM Persons WHERE FirstName LIKE 'Peter' 
+d. SELECT * FROM Persons WHERE FirstName LIKE 'Peter' 
+e. SELECT [all] FROM Persons WHERE FirstName='Peter' 
+CAVAB: SELECT * FROM Persons WHERE FirstName='Peter' 
+
+214. SQL ilə "Persons" cədvəlindən "FirstName" sütunu "a" ilə başlayan bütün sütunları necə seçmək olar? 
+a. SELECT * FROM Persons WHERE FirstName='a'" 
+b. SELECT * FROM Persons WHERE FirstName LIKE '%a' 
+c. SELECT * FROM Persons WHERE FirstName LIKE 'a%' 
+d. SELECT * FROM Persons WHERE FirstName='a' 
+e. SELECT * FROM Persons WHERE FirstName='%a%' 
+CAVAB: SELECT * FROM Persons WHERE FirstName LIKE 'a%' 
+
+215. SQL ilə "Persons" cədvəlindən "FirstName" sütununun qiyməti "Peter" və "LastName" sütununun qiyməti "Jackson" olan bütün sütunları necə seçmək olar? 
+a. SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson' 
+b. SELECT FirstName='Peter', LastName='Jackson' FROM Persons 
+c. SELECT * FROM Persons WHERE FirstName LIKE 'Peter' AND LastName LIKE 'Jackson' 
+d. SELECT FirstName, LastName FROM Persons WHERE FirstName LIKE 'Peter' AND LastName LIKE 'Jackson' 
+e. SELECT FirstName, LastName FROM Persons 
+CAVAB: SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson' 
+
+216. SQL ilə "Persons" cədvəlindən bütün sütunları necə seçmək olar? 
+a. SELECT FROM Persons 
+b. SELECT All Persons 
+c. SELECT *.Persons 
+d. SELECT * FROM Persons 
+e. SELECT [all columns] FROM Persons 
+CAVAB: SELECT * FROM Persons 
+
+217. SQL ilə "Persons" cədvəlində "LastName" sütununa yeni yazını necə əlavə etmək olar? 
+a. INSERT INTO Persons (LastName) VALUES ('Olsen') 
+b. INSERT ('Olsen') INTO Persons (LastName) 
+c. INSERT INTO Persons ('Olsen') INTO LastName 
+d. INSERT ('Olsen') INTO Persons 
+e. INSERT ('Olsen') INTO (LastName) 
+CAVAB: INSERT INTO Persons (LastName) VALUES ('Olsen') 
+
+218. SQL ilə "Persons" cədvəlinə yeni yazını necə əlavə etmək olar? 
+a. INSERT INTO TABLE VALUES ('Jimmy', 'Jackson') 
+b. INSERT ('Jimmy', 'Jackson') INTO Persons 
+c. INSERT INTO Persons VALUES ('Jimmy', 'Jackson') 
+d. INSERT VALUES ('Jimmy', 'Jackson') INTO Persons 
+e. INSERT VALUES ('Jimmy', 'Jackson') FROM Persons 
+CAVAB: INSERT INTO Persons VALUES ('Jimmy', 'Jackson') 
+
+219. SQL nədir? 
+a. Strong Language 
+b. Structured Language 
+c. Structured Query Language 
+d. Structured Language 
+e. System Query Language 
+CAVAB: Structured Query Language 
+
+220. SQL və T-SQL arasında hansı əlaqə mövcuddur? 
+a. T- SQL standart dildir və SQL isə MS SQL Server-də dialektdir. 
+b. SQL standart dildir və T-SQL isə MS SQL Server-də dialektdir. 
+c. Həm SQL, həm də T-SQL standart dillərdir. 
+d. Həm SQL, həm də T-SQL dili MS SQL Server-də dialektdir. 
+e. Heç bir əlaqə yoxdur. 
+CAVAB: SQL standart dildir və T-SQL isə MS SQL Server-də dialektdir. 
+
+221. Strukturlardan hansı əməli yaddaşla əlaqəli olur? 
+a. Qabarıq 
+b. Dəyişən 
+c. Dinamik 
+d. Nişanlı 
+CAVAB: Dinamik 
+
+222. Süni intellekt və bilik mühəndisliyi sahəsində obyektlərin atribut və onların qiymətləri şəklində təsviri strukturu necə adlanır? 
+a. Nisbət 
+b. Şəbəkə 
+c. Freym 
+d. Slot 
+CAVAB: Freym 
+
+223. Transduktiv mühakimələr hansı istiqamətdə yerinə yetirilir? 
+a. Ümumidən xüsusuyə 
+b. Xüsusidən ümumiyə 
+c. Xüsisidən xüsusiyə 
+d. Ümumidən ümumiyə 
+CAVAB: Ümumidən ümumiyə 
+
+224. Təbii dildəki qeyri-səlisliyin emalı texnologiyası ilk dəfə hansı alim tərəfindən verilmişdir? 
+a. A.Bakıxanov 
+b. L.Zadə 
+c. S.Ə.Şirvani 
+d. S.S.Axundov 
+e. M.T.Sidqi 
+CAVAB: L.Zadə 
+
+225. Tərkib hissələrinin özləri verilənlərin strukturu olan verilənlər strukturu necə adlanır? 
+a. Qonşu 
+b. File 
+c. İnteqral 
+d. Diferensial 
+CAVAB: İnteqral 
+
+226. Ümumilikdə freym nəyi izah edir? 
+a. Müəyyən informasiyanı özündə saxlayan struktur 
+b. Verilənlər bazasının modellərindən biri 
+c. Verilənlərin arxivləşdirilməsi üsuludur 
+d. İnformasiyanın tamlığının, dəqiqliyinin yoxlanılması 
+CAVAB: Müəyyən informasiyanı özündə saxlayan struktur 
+
+227. UPDATE əmri nə iş görür? 
+a. yazı əlavə edir 
+b. mövcud sətirdəki məlumatı dəyişir 
+c. cədvəl yaradır 
+d. cədvəl yaradır və yazı əlavə edir 
+e. yeni sütun yaradır 
+CAVAB: mövcud sətirdəki məlumatı dəyişir 
+
+228. Vergüllərlə sadalanan birləşmə necə adlanır? 
+a. Sətir. 
+b. Əlaqə. 
+c. İlkin açar. 
+d. Yazı. 
+e. Kortej və domenlər. 
+CAVAB: Əlaqə. 
+
+229. Verilələr bazasını nəzarət altında saxlayan şəxs necə adlandırılır? 
+a. İstifadəçi 
+b. Administrator 
+c. Baş direktor 
+d. Proqramçı 
+e. Sistem proqramçı 
+CAVAB: Administrator 
+
+230. Verilənlər arasında hansı münasibət ola bilər? 
+a. Çoxun-çoxa 
+b. Birin-aza 
+c. Azın-aza 
+d. Azın-çoxa 
+e. Çoxun-aza 
+CAVAB: Çoxun-çoxa 
+
+231. Verilənlər bazaları üçün hansı modellərdən istifadə olunur? 
+a. Konseptual, Monokanal 
+b. İyerarxik, Halqa 
+c. Relyasiya, İyerarxik, Şəbəkə 
+d. Ulduzvari, Halqa, Şəbəkə 
+e. Şəbəkə, Monokanal 
+CAVAB: Relyasiya, İyerarxik, Şəbəkə 
+
+232. Verilənlər bazası anlayışı nəyi izah edir? 
+a. Kompüter menyularının təşkili üsulu 
+b. Verilənlərin tədqiqi metodikası 
+c. Metaverilənlərin yadda saxlanılması 
+d. Əlaqılındirilmiş fayllar sistemi 
+e. Biliklərin yadda saxlanılması 
+CAVAB: Əlaqılındirilmiş fayllar sistemi 
+
+233. Verilənlər bazası cədvəlində informasiya kateqoriyası ___________ adlanır? 
+a. Kortej 
+b. Yazı 
+c. Sahə 
+d. Sadalananların hamısı 
+e. Sadalananların heç biri 
+CAVAB: Sahə 
+
+234. Verilənlər bazası faylında 20 yazı var. 4, 11, 15 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 18 olan yazının fiziki silinmə əməliyyatından sonra yeni yazı göstəricisi neçə olacaq? 
+a. 4. 
+b. 11. 
+c. 20. 
+d. 18. 
+e. 15. 
+CAVAB: 15. 
+
+235. Verilənlər bazası faylında 25 yazı var. 10 və 15 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 8 olan yazının fiziki silinmə əməliyyatından sonra yeni yazı göstəricisi neçə olacaq? 
+a. 8. 
+b. 10. 
+c. 15. 
+d. 23. 
+e. 25. 
+CAVAB: 8. 
+
+236. Verilənlər bazası faylında 30 yazı var. 12 və 22 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 18 olan yazının fiziki silinmə əməliyyatından sonra yeni yazı göstəricisi neçə olacaq? 
+a. 11. 
+b. 17. 
+c. 21. 
+d. 29. 
+e. 16. 
+CAVAB: 17. 
+
+237. Verilənlər bazası faylında 40 yazı var. 12, 22 və 32 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 30 olan yazının fiziki silinmə əməliyyatından sonra yeni yazı göstəricisi neçə olacaq? 
+a. 28. 
+b. 30. 
+c. 10. 
+d. 22. 
+e. 20. 
+CAVAB: 28. 
+
+238. Verilənlər bazası faylında 40 yazıdan 11, 21 və 31 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 10 olan yazının məntiqi silinməsindən sonra 30-cu yazının yazi göstəricisi neçə olacaq? 
+a. 27. 
+b. 30. 
+c. 26. 
+d. 10. 
+e. 37. 
+CAVAB: 30. 
+
+239. Verilənlər bazası faylında 50 yazıdan 22, 33 və 44 yazı göstəricisi olan yazılar məntiqi silinmişdir. Yazı göstəricisi 35 olan yazının məntiqi silinməsindən sonra 40-cı yazının yazi göstəricisi neçə olacaq? 
+a. 35.
+b. 37. 
+c. 39. 
+d. 49. 
+e. 40. 
+CAVAB: 40. 
+
+240. Verilənlər bazası fayllarında yazıların silinməsi üçün hansı üsullardan istifadə olunur: 1)məntiqi, 2)müvəqqəti, 3)fiziki, 4)real? 
+a. 1 və 3. 
+b. 1 və 2. 
+c. 1 və 4. 
+d. 2 və 3. 
+e. 2 və 4. 
+CAVAB: 1 və 3. 
+
+241. Verilənlər bazası fayllarında yazıların silinməsi üçün neçə üsuldan istifadə olunur? 
+a. 3. 
+b. 1. 
+c. 4. 
+d. 2. 
+e. 5. 
+CAVAB: 2. 
+
+242. Verilənlər bazası fayllarında yazıların hansı tip silinməsindən sonra onları yenidən bərpa etmək mümkündür? 
+a. Fiziki 
+b. Məntiqi 
+c. Müvəqqəti 
+d. Real 
+e. Ehtimallı 
+CAVAB: Məntiqi 
+
+243. Verilənlər bazası fayllarında yazıların hansı tip silinməsindən sonra onları yenidən bərpa etmək mümkün deyil? 
+a. Fiziki 
+b. Məntiqi 
+c. Müvəqqəti 
+d. Real 
+e. Ehtimallı 
+CAVAB: Fiziki 
+
+244. Verilənlər bazası hansı sistemin təkmilləşməsidir: 1)İnternet sistemi, 2)Metaverilənlərin idarə edilməsi sistemi, 3)Fayl sistemi? 
+a. 1. 
+b. 2. 
+c. 1 və 2.
+d. 3. 
+e. 1 və 3. 
+CAVAB: 3. 
+
+245. Verilənlər bazası konsepsiyasında atribut anlayışına fiziki səviyyədə hansı anlayış uyğun gəlir? 
+a. Yazı 
+b. Sahə 
+c. Fayl 
+d. Faylın adı 
+e. Faylın nüsxəsi 
+CAVAB: Sahə 
+
+246. Verilənlər bazası konsepsiyasında kortej anlayışına fiziki səviyyədə hansı anlayış uyğun gəlir? 
+a. Sahə 
+b. Yazı 
+c. Freym 
+d. Fayl 
+e. Modem 
+CAVAB: Yazı 
+
+247. Verilənlər bazası konsepsiyasında “məntiqi” və “fiziki” anlayışları hansı əməliyyata aid edilir? 
+a. Düzəliş 
+b. Daxiletmə 
+c. Filtrləmə 
+d. Çeşidləmə 
+e. Silinmə 
+CAVAB: Silinmə 
+
+248. Verilənlər bazası layihəsi üçün lazımi sahələrin yığıldığı və sıralandığı layihələndirmə mərhələsi hansıdır? 
+a. Verilənlərin təyin edilməsi. 
+b. Verilənlərin təmizlənməsi. 
+c. Cədvəllər arası əlaqələrin qurulması. 
+d. Cədvəldə xarici açarın təyin edilməsi. 
+e. Heç biri. 
+CAVAB: Verilənlərin təyin edilməsi. 
+
+249. Verilənlər bazası nisbətlərində hər bir atribut və kortejin kəsişməsində neçə element yerləşdirilə bilər? 
+a. 1. 
+b. 2. 
+c. 3. 
+d. 4. 
+e. Sonsuz sayda 
+CAVAB: 1. 
+
+250. Verilənlər bazası üçün iyerarxik modeli hansı üstünlüyə malikdir? 
+a. Verilənlər arasındakı bütün münasibətlərin əks olunması 
+b. Çoxsaylı ünvanlardan istifadə mümkünlüyü 
+c. Verilənlərin əks olunmasında sadəlik 
+d. Menyularla işin təşkili 
+e. Verilənlərin cədvəl təsviri 
+CAVAB: Verilənlərin əks olunmasında sadəlik 
+
+251. Verilənlər bazası üçün iyerarxik modelin əsas çatışmazlığı nədədir? 
+a. Atributlara qoyulan məhdudiyyət 
+b. Modelin kompüter şəbəkələrində istifadə çətinliyi 
+c. Verilənlərin axtarışında biristiqamətlilik 
+d. Verilənlərin tamlığına nəzarətin olmaması 
+e. Çatışmazlıq yoxdur 
+CAVAB: Verilənlərin axtarışında biristiqamətlilik 
+
+252. Verilənlər bazası üçün şəbəkə modelinin əsas çatışmazlığı nədədir? 
+a. Modelin kompüter şəbəkələrində istifadə çətinliyi 
+b. Verilənlərin axtarışında biristiqamətlilik 
+c. Qeyri-səlis sorğuların emalında çətinlik 
+d. Verilənlər arasındakı ziddiyyətlərin olması 
+e. Çoxsaylı ünvanlardan istifadə 
+CAVAB: Çoxsaylı ünvanlardan istifadə 
+
+253. Verilənlər bazası və informasiya sistemləri terminlərində son istifadəçi anlayışı kimə aid edilir? 
+a. Peşəkar istifadəçilər 
+b. Xüsusi kompüter savadı olmayan istifadəçilər 
+c. Kompüter şəbəkələrində serverdən ən uzaqda olan istifadəçilər 
+d. Kompüter şəbəkələrində bilavasitə serverlə işləyən istifadəçilər 
+e. Kliyent-Server arxitekturasında bütün kliyentlər 
+CAVAB: Xüsusi kompüter savadı olmayan istifadəçilər 
+
+254. Verilənlər bazasına hansı tələb qoyulmur? 
+a. Ziddiyyətsizlik 
+b. Tamlıq 
+c. Çoxsaylı istifadə 
+d. Təbii dilə məhdudiyyət 
+e. Birdəfəlik daxiletmə 
+CAVAB: Təbii dilə məhdudiyyət 
+
+255. Verilənlər bazasına olan sorğuların formalaşdırılması üçün hansı sorğu dilindən istifadə olunur? 
+a. SQL 
+b. EXCEL 
+c. TWAIN 
+d. WORD 
+e. HTML 
+CAVAB: SQL 
+
+256. Verilənlər bazasında hansı axtarış üsulundan istifadə olunur? 
+a. Çoxistiqamətli 
+b. Pilləli 
+c. Düzxətli 
+d. Əyrixətli 
+e. Birbaşa 
+CAVAB: Birbaşa 
+
+257. Verilənlər bazasında indeksləmə əməliyyatı apararkən atributlar üzərində hansı əməliyyat aparılır? 
+a. İnkapsülyasiya 
+b. Konkatenasiya 
+c. İnterpretasiya 
+d. Prezentasiya 
+e. İnteqrasıya 
+CAVAB: Konkatenasiya 
+
+258. Verilənlər bazasında iyerarxik model hansı xüsusiyyəti vardır? 
+a. Verilənlərin tamlığına olan zəmanət 
+b. Verilənlərin axtarışında biristiqamətlilik 
+c. Verilənlərin axtarışında operativlik 
+d. Verilənlər arasında ziddiyyətsizlik 
+e. Verilənlər bazasında atributların sayına olan məhdudiyyətsizlik 
+CAVAB: Verilənlərin axtarışında biristiqamətlilik 
+
+259. Verilənlər bazasında məlumatların silinməsi üçün hansı əmrdən istifadə olunur? 
+a. DROP 
+b. ALTER 
+c. DELETE 
+d. SELECT 
+e. INSERT INTO 
+CAVAB: DELETE 
+
+260. Verilənlər bazasında məlumatların yenilənməsi üçün hansı əmrdən istifadə olunur? 
+a. UPDATE 
+b. SAVE AS 
+c. MODİFY 
+d. INSERT INTO 
+e. SAVE 
+CAVAB: UPDATE 
+
+261. Verilənlər bazasında yeni məlumatların daxil edilməsi üçün hansı əmrdən istifadə olunur? 
+a. DROP 
+b. ALTER 
+c. DELETE 
+d. SELECT 
+e. INSERT INTO 
+CAVAB: INSERT INTO 
+
+262. Verilənlər bazasındakı məntiqi silinmiş yazıların fiziki silinməsi əməliyyatı kimlər tərəfindən yerinə yetirilir? 
+a. Administratorlar 
+b. Sistem proqramçılar 
+c. Tətbiqi proqramçılar 
+d. Kompüter operatorları 
+e. Yalnız son istifadəçilər 
+CAVAB: Administratorlar 
+
+263. Verilənlər bazasının administratorluğuna kim daxildir? 
+a. Verilənlər bazası üzrə bir və ya bir neçə peşəkar mütəxəssis 
+b. Verilənlər bazasını yaradan tətbiqi proqramçılar 
+c. Verilənlər bazasını yaradan sistem proqramçılar 
+d. Verilənləri bazaya daxil edən şəxslər qrupu 
+e. Verilənlərin şəbəkə üzrə ötürülməsini təşkil edən şəxslər qrupu 
+CAVAB: Verilənlər bazası üzrə bir və ya bir neçə peşəkar mütəxəssis 
+
+264. Verilənlər bazasının fiziki reallaşdırılmasından sonra hansı mərhələ yerinə yetirilir? 
+a. Verilənlər bazasının məntiqi layihələndirilməsi 
+b. Verilənlərin tamlığına nəzarət 
+c. Verilənlərin dəqiqliyinə təminat 
+d. Proqram təminatının yaradılması 
+e. Verilənlərin təhlükəsizliyinin yoxlanılması 
+CAVAB: Proqram təminatının yaradılması 
+
+265. Verilənlər bazasının hansı modellərindən istifadə olunur: 1)İyerarxik, 2)Şəbəkə, 3)Relyasiya, 4)Monokanal? 
+a. 1, 2, 3, 4. 
+b. 1, 2, 3. 
+c. 1, 2, 4. 
+d. 1, 3, 4. 
+e. 2, 3, 4. 
+CAVAB: 1, 2, 3. 
+
+266. Verilənlər bazasının iyerarxik modelində verilənlərin hansı strukturundan istifadə edilir? 
+a. Spiral 
+b. Ağacvari 
+c. Dairəvi 
+d. Halqa 
+e. Ulduzvari 
+CAVAB: Ağacvari 
+
+267. Verilənlər bazasının İyerarxik modelində verilənlərin axtarışı hansı istiqamətdə aparılır? 
+a. Soldan sağa 
+b. Sağdan sola 
+c. Aşağıdan yuxarı 
+d. Yuxarıdan aşağı 
+e. Bütün istiqamətlərdə 
+CAVAB: Yuxarıdan aşağı 
+
+268. Verilənlər bazasının konseptual layıhələndirilməsindən sonra hansı mərhələ yerinə yetirilir? 
+a. Verilənlər bazasının fiziki yaradılması 
+b. İstifadəçi sorğularının tədqiqi 
+c. Verilənlər bazasına nəzarət 
+d. Verilənlərin tədqiqi 
+e. Verilənlərin axtarışının aparılması 
+CAVAB: Verilənlər bazasının fiziki yaradılması 
+
+269. Verilənlər bazasının layihələndirilməsi zamanı hansı işlər görülür? 
+a. Nisbətlərin kortejləri yazılır 
+b. Verilənlərin tamlığı və dəqiqliyi yoxlanılır 
+c. Verilənlər bazası faylları reallaşdırılır 
+d. Verilənlər bazası fayllarının sahələri adlandırılır 
+e. Nisbətlər təsvir olunur və əlaqələndirilir 
+CAVAB: Nisbətlər təsvir olunur və əlaqələndirilir 
+
+270. Verilənlər bazasının məntiqi və fiziki layihələndirilməsi hansı ardıcıllıqda aparılır? 
+a. Əvvəl fiziki, sonra məntiqi 
+b. Əvvəl məntiqi, sonra fiziki 
+c. İlk olaraq məntiqi, tələb olunduqda fiziki 
+d. Ardıcıllığın fərqi yoxdur 
+e. Eyni zamanda 
+CAVAB: Əvvəl məntiqi, sonra fiziki 
+
+271. Verilənlər bazasının relyasiya modelində cədvəllər necə adlandırılır? 
+a. Table 
+b. Atribut 
+c. Domen 
+d. Nisbət 
+e. Kortej 
+CAVAB: Nisbət 
+
+272. Verilənlər bazasının relyasiya modelində kortej nəyi izah edir? 
+a. Cədvəlin sətirlərini 
+b. Cədvəlin sütun adlarını 
+c. Cədvəlin başlığını 
+d. Sütun və sətrin kəsişməsindəki xananı 
+e. Domenin adını 
+CAVAB: Cədvəlin sətirlərini 
+
+273. Verilənlər bazasının relyasiya modelində cədvəllərin sütunları necə adlandırılır? 
+a. Kortej 
+b. Atribut 
+c. Domen 
+d. Nisbət 
+e. Obyekt 
+CAVAB: Atribut 
+
+274. Verilənlər bazasının relyasiya modelində atribut nəyi izah edir? 
+a. Cədvəlin sətirlərini 
+b. Cədvəlin sütun adlarını 
+c. Cədvəlin başlığını 
+d. Sütun və sətrin kəsişməsindəki xananı 
+e. Kortejlərin sayını 
+CAVAB: Cədvəlin sütun adlarını 
+
+275. Verilənlər bazasının relyasiya modelində verilənlər necə təsvir olunur? 
+a. Cədvəllərlə 
+b. Halqa formasında 
+c. Ulduzvari şəkildə 
+d. Ağacvari strukturla 
+e. Siyahılarla 
+CAVAB: Cədvəllərlə 
+
+276. Verilənlər bazasının relyasiya modelində cədvəllərin sətirləri necə adlandırılır? 
+a. Kortej 
+b. Domen 
+c. Atribut 
+d. Nisbət 
+e. Açar 
+CAVAB: Kortej 
+
+277. Verilənlər bazasının relyasiya modelində domen anlayışı nəyi izah edir? 
+a. İstifadəçinin seçdiyi kortejləri 
+b. Nisbətdə kortej adlarını 
+c. Nisbətdə atribut adlarını 
+d. Nisbətdə bir atribut üzrə bütün kortejlərin ala biləcəyi qiymətləri 
+e. Anlayışdan istifadə olunmur 
+CAVAB: Nisbətdə bir atribut üzrə bütün kortejlərin ala biləcəyi qiymətləri 
+
+278. Verilənlər bazasının yaradılması mərhələlərindən sonuncu hansıdır? 
+a. Fiziki reallaşdırma 
+b. Predmet sahəsinin öyrənilməsi 
+c. İstifadəçilərin informasiya tələbatlarının tədqiqi 
+d. Proqram təminatının işinə nəzarət 
+e. Konseptual layihələndirmə 
+CAVAB: Proqram təminatının işinə nəzarət 
+
+279. Verilənlər bazasının yaradılması zamanı mərhələlər hansı ardıcıllıqda bir-birini tamamlayır: 1) Predmet sahəsinin tədqiqi, 2) Konseptual layihələndirmə, 3) İstifadəçilərin informasiya tələbatının tədqiqi? 
+a. 1, 3, 2. 
+b. 3, 2, 1. 
+c. 2, 3, 1. 
+d. 2, 1, 3.
+e. 1, 2, 3. 
+CAVAB: 1, 3, 2. 
+
+280. Verilənlər bazasının yaradılması zamanı bəzən təkrarlanmalara yol verilir. Bunun səbəbi nədir? 
+a. Şəbəkə mühitində iş rahatlığına nail olmaq 
+b. Fayl yazılarının sayını cütləşdirmək 
+c. Verilənlər bazasındakı boşluqları doldurmaq 
+d. Verilənlərin təhlükəsizliyinə nail olmaq 
+e. Bəzi istifadəçi sorğularında operativliyə nail olmaq 
+CAVAB: Bəzi istifadəçi sorğularında operativliyə nail olmaq 
+
+281. Verilənlərin axtarışı üçün hansı üsuldan istifadə olunur? 
+a. Ardıcıl 
+b. İkiqat 
+c. Üçqat 
+d. Xətti 
+e. Dövri 
+CAVAB: Ardıcıl 
+
+282. Verilənlərin axtarışında biristiqamətlilik verilənlər bazasının hansı modelinə xasdır? 
+a. Relyasiya 
+b. Şəbəkə və relyasiya 
+c. Obyekyönlü və relyasiya 
+d. İyerarxik 
+e. Şəbəkə 
+CAVAB: İyerarxik 
+
+283. Verilənlərin elementləri arasında aşkar şəkildə verilmiş və ya verilməmiş əlaqələr nəzərə alınmaqla hansı strukturlara baxılır? 
+a. Bir və çox meyarlı 
+b. Mürəkkəb və sadə 
+c. Formalizə olunan və olunmayan 
+d. Məhdud və qeyri-məhdud 
+e. Əlaqəli və əlaqəsiz 
+CAVAB: Əlaqəli və əlaqəsiz 
+
+284. Verilənlərin fiziki strukturu nədir? 
+a. Kompüterin yaddaşında verilənlərin fiziki təsvir üsulu 
+b. İkiölçülü massivdə verilənlərin fiziki təsviri 
+c. Qrafik informasiyanın maşındaxili təsviri 
+d. Ədəd verilənlərinin cədvəl üsulu ilə təsviri 
+e. Formalizə olunmayan informasiyanın strukturlaşma nəticələri 
+CAVAB: Kompüterin yaddaşında verilənlərin fiziki təsvir üsulu 
+
+285. Verilənlərin hansı struktur tipi müxtəlif tip verilənləri bir dəyişəndə yadda saxlamağa imkan verir? 
+a. Yazı 
+b. Çoxluq 
+c. Vektor 
+d. Massiv 
+e. Göstərici 
+CAVAB: Yazı 
+
+286. Verilənlərin hansı strukturu eyni tip verilənlərin təkrarlanmayan elementlərini özündə saxlayır? 
+a. Stek 
+b. Sətir 
+c. Massiv 
+d. Yazı 
+e. Çoxluq 
+CAVAB: Çoxluq 
+
+287. Verilənlərin hasil edilməsi sistemləri necə adlanır? 
+a. Data Mining 
+b. Data Base 
+c. Data Protection 
+d. Data Recovery 
+CAVAB: Data Mining 
+
+288. Verilənlərin mərkəzləşdirilmiş idarə olunmasına məsuliyyəti kim daşıyır? 
+a. Administrator 
+b. Operator 
+c. İstifadəçi 
+d. Proqramçı 
+e. Şöbə rəhbərləri 
+CAVAB: Administrator 
+
+289. Verilənlərin statik strukturlarına hansı daxil deyil? 
+a. Dek 
+b. Cədvəl 
+c. Çoxluq 
+d. Massiv 
+CAVAB: Dek 
+
+290. Verilənlərin strukturları üzərində aparılan əsas əməliyyatı göstərin? 
+a. Binar 
+b. Yeniləşmə 
+c. Çıxma 
+d. Nizamlama 
+CAVAB: Yeniləşmə 
+
+291. Verilənlərin strukturları üzərində hansı əməliyyatlar yerinə yetirilmir? 
+a. Yeniləşmə 
+b. Seçim 
+c. Ləğv etmə 
+d. Filtrləmə 
+e. Yaradılma 
+CAVAB: Filtrləmə 
+
+292. Verilənlərin strukturları üzərində hansı əsas əməliyyat yerinə yetirilir? 
+a. Birləşmə 
+b. Nizamlama 
+c. Yaradılma 
+d. Filtrləmə 
+CAVAB: Yaradılma 
+
+293. Verilənlərin strukturları üzərində yerinə yetirilən əsas əməliyyat hansıdır? 
+a. Vurma 
+b. Çıxma 
+c. Toplama 
+d. Seçim 
+CAVAB: Seçim 
+
+294. Verilənlərin strukturları üzərində yerinə yetirilən əsas əməliyyatı göstərin? 
+a. Dekart hasil 
+b. Yeniləşmə 
+c. Aktivləşmə 
+d. Bağlama 
+CAVAB: Yeniləşmə 
+
+295. Verilənlərin strukturları üzərində əsas əməliyyat hansıdır? 
+a. Birləşmə 
+b. Ləğv etmə 
+c. Toplama 
+d. Dekart hasil 
+CAVAB: Ləğv etmə 
+
+296. Verilənlərin strukturları üzərindəki əsas əməliyyat hansıdır? 
+a. Kəsişmə 
+b. Ləğv etmə 
+c. Proyeksiya 
+d. Bitişmə 
+CAVAB: Ləğv etmə 
+
+297. Verilənlərin strukturlarına aid olunan əsas əməliyyat hansıdır? 
+a. Bölmə 
+b. Proyeksiya 
+c. Əlaqələndirmə 
+d. Seçim 
+CAVAB: Seçim 
+
+298. Verilənlərin strukturu hansı tiplərə bölününur? 
+a. Sadə və mürəkkəb 
+b. Sadə və inteqral 
+c. Sabit və dəyişgən 
+d. Formal və qeyri-formal 
+CAVAB: Sadə və inteqral 
+
+299. Verilənlərin strukturu hansı əlamətə görə əlaqəli və əlaqəsiz növlərə ayrılır? 
+a. Nizamlama 
+b. Yaradılma sadəliyi 
+c. Məhdudiyyət 
+d. Elementlər arasındakı əlaqə 
+e. Dinamiklik 
+CAVAB: Elementlər arasındakı əlaqə 
+
+300. Verilənlərin strukturu hansı əlamətə görə xətti və qeyri-xətti strukturlara ayrılır? 
+a. Elementlər arası əlaqə 
+b. Yaradılma sadəliyi 
+c. Nizamlama xüsusiyyəti 
+d. Tərkib hissələrə bölünmə 
+e. Dinamiklik 
+CAVAB: Nizamlama xüsusiyyəti 
+
+301. Verilənlərin əlaqəsiz strukturuna hansı daxil edilir? 
+a. Əlaqəli siyahı 
+b. Stek 
+c. Meta verilən 
+d. Blok 
+CAVAB: Stek 
+
+302. Verilənlərin əlaqəsiz strukturuna hansı daxil deyildir? 
+a. Növbə 
+b. Stek 
+c. Vektor 
+d. Massiv 
+e. Əlaqəli siyahı 
+CAVAB: Əlaqəli siyahı 
+
+303. XLVI Roma ədədinə hansı onluq ədəd uyğun gəlir? 
+a. 66. 
+b. 44. 
+c. 46. 
+d. 64. 
+e. 19. 
+CAVAB: 46. 
+
+304. Xüsusi meyara görə cədvəldəki məlumatları görmək üçün nədən istifadə olunur? 
+a. Sorğu 
+b. Makros 
+c. Hesabat 
+d. Cədvəl 
+e. Forma 
+CAVAB: Sorğu 
+
+305. Xətti strukturların yaddaşda elementlərin qarşılıqlı yerləşdirilməsi xüsusiyyəti ilə bağlı hansı qrupu vardır? 
+a. Ortoqonal paylama 
+b. Ardıcıl paylanma 
+c. Paralel paylama 
+d. Ehtimallı paylama 
+CAVAB: Ardıcıl paylanma 
+
+306. «Dövlətlər» və «Mərkəzlər» çoxluqlarının elementləri arasında hansı münasibət mövcuddur? 
+a. Birin-birə 
+b. Çoxun-çoxa 
+c. Birin-çoxa 
+d. Azın-aza 
+e. Çoxun-aza 
+CAVAB: Birin-birə 
+
+307. «İnsanlar» və «Şəxsiyyət vəsiqələri» çoxluqlarının elementləri arasında hansı münasibət mövcuddur? 
+a. Birin-çoxa 
+b. Birin-birə 
+c. Çoxun-birə 
+d. Çoxun-çoxa 
+e. Azın-çoxa 
+CAVAB: Birin-birə 
+
+308. «Müəllimlər» və «Tələbələr» verilənləri arasında hansı münasibət vardır? 
+a. birin çoxa 
+b. çoxun çoxa 
+c. birin aza 
+d. azın çoxa 
+e. azın aza 
+CAVAB: çoxun çoxa 
+
+309. «Tədris qrupları» və «Müəllim kollektivi» çoxluqlarının elementləri arasında hansı münasibət mövcuddur? 
+a. Çoxun-çoxa 
+b. Çoxun-aza 
+c. Azın-aza 
+d. Birin-çoxa 
+e. Birin-birə 
+CAVAB: Çoxun-çoxa 
+
+310. «Tələbələr» və «Məqbul kitabçaları» çoxluqlarının elementləri arasında hansı münasibət mövcuddur? 
+a. Çoxun-çoxa 
+b. Çoxun-aza 
+c. Birin-çoxa 
+d. Azın-aza 
+e. Birin-birə 
+CAVAB: Birin-birə    
+
+311. «Universitetlər» və «Auditoriyalar» çoxluqlarının elementləri arasında hansı münasibət mövcuddur?  
+a. Birin-çoxa  
+b. Çoxun-çoxa 
+c. Birin-birə 
+d. Çoxun-aza 
+e. Azın-aza 
+CAVAB: Birin-çoxa 
+
+312.«Xəstəliklər» və «Simptomlar» çoxluqlarının elementləri arasında hansı münasibət mövcuddur? 
+a. Birin-çoxa 
+b. Çoxun-çoxa 
+c. Birin-birə 
+d. Azın-aza 
+e. Çoxun-aza 
+CAVAB: Çoxun-çoxa 
+

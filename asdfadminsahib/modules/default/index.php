@@ -1,0 +1,1 @@
+<h1 class="page-header">Hello, it is main page of admin panel</h1>

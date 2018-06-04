@@ -1,0 +1,2138 @@
+﻿1.	                                       	 Miqyasından asılı olaraq ixtisaslaşmanı fərqləndirən amillər:
+
+A : sahədaxili və sahəarası+
+B : sahədaxili və dövlətlərarası+
+C : əşya və detal üzrə
+D : detal və texnoloji
+E : köməkçi və əşya üzrə
+ANSWER : A	
+
+2.		Fondverimi göstəricisi nəyi ifadə edir 
+
+A : Dövriyyə fondlarının hər manatına düşən məhsulun həcmini göstərir
+B : Əsas istehsal fondlarının orta illik dəyəridir
+C : Əsas fondların bir manatına düşən məhsulun həcmini göstərir+
+D : İstehsal fondlarının min manatına düşən məhsulun həcmini göstərir
+E : Fondverimi avadanlıqdan inteqral istifadə əmsalının tərsidir
+ANSWER : C
+3.		 İxtisaslaşma  səviyyəsini müəyyən edən göstəricilər:
+
+A : istehsalı əhatə əmsalı;        +
+B : buraxılan məhsulun nomenklaturası və çeşidinin genişliyi;      +
+C : istifadə olan avadanlığın sayı;
+D : xidmət sahələrinin mövcudluğu;
+E : müəssisənin həcmi
+ANSWER : A
+
+4.		Bu dövriyyə fondlarının istifadəsini xarakterizə edir:
+
+A : fondlarla silahlanma;
+B : mənfəət və rentabellik;      
+C : dövriyyə fondlarının səviyyəsi;
+D : dövriyyə fondlarının bir dövrünün orta müddəti;           +
+E : fondverimi, fondtutumu; 
+ANSWER : D
+5.		İstehsal miqyasında qənaət aşağıdakı yollarından biri ilə əldə edilə bilər
+
+A : az miqdarda məhsulun daha baha qiymətə satılması yolu ilə
+B : kapital qoyuluşunun səviyyəsinin azaldılması yolu ilə
+C : istehsalın ölçülərini genişləndirmək üçün kapital qoyuluşunun cəlb edilməsi+
+D : vahid məhsula çəkilən xərclərin azaldılması yolu ilə
+E : əmək tutumunu artırmaq yolu ilə
+ANSWER : D
+6.		  Əsas istehsal fondlarının amortizasiyası budur:
+
+A : əsas fondların alınması  
+B : istehsal olunmuş məhsulların üzərinə hissə-hissə keçməsi;                       +         
+C : əsas fondların bərpa olunması;
+D : əsas fondların saxlanılmasına xərclər;
+E : əsas fondların təmiri.
+ANSWER : B
+7.		  Fondverimi göstəricisi bunu xarakterizə edir:
+
+A : dövrüyyə vəsaitlərinin dövrüyyə sayını;
+B : əməyin texniki silahlanma səviyyəsini;      
+C : hər bir manat reallaşdırılmış məhsula düşən əsas istehsal fondlarını;
+D : hər bir manat istehsal fondlarına düşən istehsalın həcmini;     +
+E : əmtəə istehsalının bir manatına düşən xərclər. 
+ANSWER : D
+8.		Avadanlıqdan inteqral istifadə əmsalı nəyə bərabərdir 
+
+A : intensiv əmsalın tərsinə
+B : ekstensiv əmsalın tərsinə
+C : intensiv və ekstensiv əmsalların cəminə
+D : intensiv və ekstensiv əmsalların hasilinə+
+E : intensiv və ekstensiv əmsalların fərqinə
+ANSWER : D
+9.		Əsas fondlar istehsal prosesində necə iştirak edirlər:
+
+A : Öz dəyərlərini hazır məhsul üzərinə birdəfəlik keçirirlər
+B : Öz dəyərlərini hazır məhsul üzərinə tədricən keçirirlər
+C : Öz dəyərlərini hazır məhsul üzərinə tədricən keçirməklə əvvəlki natural formalarını saxlayırlar+
+D : Öz dəyərlərini hazır məhsul üzərinə birdəfəlik keçirməklə öz əvvəlki formalarını saxlayırlar
+E : Öz dəyərlərini amortizasiya ayırmaları ilə hazır məhsula keçirməklə öz natural formalarını itirirlər
+ANSWER : C
+10.		  Əmtəə siyasəti  sahəsində məsələləlrin həllinə bu aiddir:
+
+A : qiymətin  müəyyən  edilməsinin təkmilləşdirilməsi;
+B : marketinq təşviqatlarının aparılması;      
+C : köhnə əmtəələrin istehsaldan çıxarılması ;   +
+D : məhsulun istifadə  müddətinin müəyyən edilməsi;
+E : iş yerlərinə mütərəqqi xidmət sistemlərinin tətbiqi. 
+ANSWER: C     
+11.		Qeyri-istehsal əsas fondları öz dəyərlərini hazır məhsulun üzərinə keçirirlərmi
+
+A : bəli, çünki müəssisənin balansına daxildirlər
+B : xeyr, çünki qeyri-istehsal fondları məhsul yaratmırlar+
+C : bəli, çünki istehsalın həcminə təsir göstərirlər
+D : öz dəyərini hissə-hissə və tədricən keçirə bilərlər
+E : bəli, çünki işçilərin maddi və mədəni həyat səviyyəsinə bilavasitə təsir edir
+ANSWER : B
+12.		  Müəssisənin inkişaf planının mərkəzi bölməsı budur:
+
+A : elm və texnikanın inkişaf planı;
+B : istehsal proqramı;         +
+C : maliyyə planı;
+D : istehsalın iqtisadi səmərəliliyinin artırılması planı.
+E : sosial siyasətin tətbiqi.
+ANSWER : B
+13.		  Biznes  fəaliyyətinin əsas məqsədi budur :
+
+A : planda tutulmuş məhsul həcminin istehsalı;
+B : sahibkarlıq fəaliyyətinin qiymətlindirilməsi;
+C : mənfəətin əldə edilməsi;       +
+D : maksimal gəlirin əldə edilməsi;
+E : sahibkarlıq fəaliyyətinin genişləndirilməsi.
+ANSWER : C
+14.		Aşağıdakılardan hansılar əsas fondlara daxildirlər 
+
+A : Binalar, qurğular, materiallar, yanacaq
+B : Binalar, qurğular, iş maşınları, taralar, enerji növləri
+C : Binalar, qurğular, ötürücü vasitələr, xammal, yanacaq
+D : Binalar, qurğular, güc maşınları, nəzarət-ölçü çihazları, avtomatik idarəetmə mexanizmləri+
+E : Binalar, tikililər, hesablama texnikası, ehtiyat hissələri, təsərrüfat inventarları
+ANSWER : D
+15.		  Müəssisənin istehsal proqramının dəyər göstəricilərinə bu aiddir:
+
+A : istehsal olunmuş əmtəənin həcmi;     +   
+B : satılmış məhsulun həcmi;            +         
+C : əsas istehsal fondlarının dəyəri;
+D : məcmu məhsulun həcmi;            +         
+E : əmtəə istehsalının bir manata düşən xərclər; 
+ANSWER : A
+16.		İqtisadi səmərəliliyin mahiyyəti hansı variantlda düzgün əks olunmuşdur 
+
+A : İqtisadi səmərəlilik əldə edilən mənfəətlə çəkilən xərclərin fərqidir
+B : İqtisadi səmərəlilik çəkilən xərclərin məbləğini  xarakterizə etmir
+C : İqtisadi səmərəlilik mütləq kəmiyyətdir  
+D : İqtisadi səmərəlilik bu və ya digər tətbiqi məsələnin, yeni materialın və s-nin xalq təsərrüfatına nə verdiyini göstərir+
+E : İqtisadi səmərəlilik kapital qoyuluşunun ödəniş müddətidir
+ANSWER : D
+17.		Sahibkarlığın təşkilati – hüquqi formasına görə müəssisələr aşağıdakı kimi təsnifləşdirilir
+
+A : Tam şərikli, etimada əsaslanan şəriklik, birliklər
+B : Məhdud məsuliyyətli cəmiyyət, səhmdar cəmiyyəti
+C : Birliklər, istehsal kooperativi
+D : Məhdud məsuliyyətli cəmiyyət, səhmdar cəmiyyəti, tam şərikli, etimada əsaslanan şəriklik, birliklər, istehsal kooperativi+
+E : Məhdud məsuliyyətli cəmiyyət, səhmdar cəmiyyəti, istehsal kooperativi
+ANSWER : D
+18.		  Hansı mülkiyyət daşınmaz adlanır? 
+
+A : torpaq sahəsi, su subyektləri, yeraltı sərvətlər;
+B : dövlət qeydiyyatı olan torpaq sahələri;      +
+C : torpaq  üzərində yerləşən bütün obyektlər;+
+D : dəniz suları və çaylar;
+E : meşə sahələri.
+ANSWER : B
+19.		Əsas fondların fiziki aşınması dedikdə nə başa düşülür?
+
+A : İstehsal prosesində əsas fondların tədricən köhnəlməsi+
+B : İstehsal prosesində əsas fondların birdən-birə köhnəlməsi
+C : Yeni əsas fondların yaradılması ilə köhnələrinin mənəvi aşınması
+D : Daha məhsuldar yeni avadanlıqların tətbiqi nəticəsində mövcud əsas fondların ləğvi
+E : İşlənmə müddətini başa vurmadan sıradan çıxmış əsas fondlar
+ANSWER : A
+20.		Pərakəndə satış qiyməti neçə təyin olunur
+
+A : sənaye topdansatış qiyməti üstəgəl ticarət əlavələri+
+B : sənaye topdansatış qiyməti üstəgəl vasitəçi təşkilatların əlavələri
+C : əlavə dəyər vergisi üstəgəl sənaye topdansatış qiyməti
+D : aksiz vergisi üstəgəl məhsulun maya dəyəri
+E : müəssisənin topdansatış qiyməti üstəgəl ƏDV
+ANSWER : A
+21.		  Kommersiya işi üzrə nümayəndə kimdir:
+
+A : sahibkarlıq fəaliyyəti zamanı bağlanan müqavilələri daimi və təkbaşına təmsil edən şəxs;
+B : sahibkarlıq fəaliyyəti zamanı bağlanan müqavilələri şəxsən öz adından müəssisənin maraqlarını  təmsil  edən təşkilat;    
+C : sahibkarlıq fəaliyyəti zamanı müqavilələr bağlanarkən sahibkarın adından çıxış edən şəxs;  +       
+D : bağlanan müqavilələri kollektivin adından müəssisənin maraqlarını təmsil edən  şəxs;    
+ANSWER : C
+22.		  Hansı təşkilat hüquqi şəxs kimi çıxış edir?:
+
+A : fərdi mülkiyyəti,hökümət qeydiyyatı və bankda  hesabı olan təşkilat;  +
+B : əmlakı olan hər bir təşkilat;      
+C : öz balansı və bankda hesabı olan təşkilat;
+D : öz istehsal vasitələri olan təşkilat;
+E : hər hansı fəaliyyətlə məşqul olan təşkilat.
+ANSWER : A
+23.		İl ərzinlə işləmə müddətinə görə sənayesi müəssisələri aşağıdakı  qrupa ayrılır
+
+A : Fasiləli işləyən
+B : Fasiləsiz  işləyən, fasiləli işləyən, mövsümi işləyən+
+C : Mövsümi işləyən
+D : Fasiləsiz işləyən
+E : Sifariş əsasında işləyən
+ANSWER : B
+24.		İstehsal güçlərindən istifadənin səmərəliliyini hansı yollarla artırmaq olar 
+
+A : İntensiv və ekstensiv+
+B : Məhsulun əmək tutumunu azaltmaqla
+C : Məhsulun material tutumunu azaltmaqla
+D : Avadanlıqların sayını azaltmaq yolu ilə heç biri ilə
+E : Avadanlıqların sayını artırmaq yolu ilə
+ANSWER : A
+25.		  Istehsala investisiyalar nəyi nəzərdə tutur: 
+
+A : maşın və dəzgahların alınmasına yönəldilmiş pul ;+
+B : xammal və materiallara olan xərclər;
+C : kapital qoyuluşu;.      +
+D : fəhlələrin əmək haqqı;
+E : inzibatı apparatın saxlanılmasına yönəldilmiş xərclər.
+ANSWER : A
+26.		  İxtisaslaşma formalarına bu aiddir:
+
+A : əşya üzrə;      +
+B : funksional;           +
+C : detal üzrə +
+D : istehsal - texniki ;
+E : mərhələ üzrə.   +
+ANSWER : A
+27.		Əsas fondların mənəvi aşınması nədir
+
+A : Öz işlənmə müddətini başa vurduqdan sonra istehsaldan çıxarılması
+B : Qəzalar nəticəsində əsas fondların vaxtından əvvəl istehsaldan silinməsi
+C : Öz iş müddətlərini başa vurmadan texniki nasazlığa görə yararsız olması
+D : Daha mükəmməl yeni avadanlıqlar alındıqda köhnələrinin silinməsi
+E : Yeni, daha məhsuldar və mükəmməl avadanlıqların yaranmasından mövcud avadanlıqların köhnəlməsi+
+ANSWER : E
+28.		  Müəssisənin balansında əsas istehsal fondları bununla qiymətləndirilir:
+
+A : qarışıq dəyər ilə ;
+B : bərpa olunmuş dəyər ilə;      
+C : qalıq dəyər ilə;
+D : tam ilkin dəyər ilə;  +
+ANSWER : D
+29.		İxtisaslaşma dərəcəsinə  görə müəssisələr hansı qruplara  bölünürlər
+
+A : Ixtisaslaşdırılmış, universal,  qarışıq+
+B : Qarışıq
+C : Universal
+D : Universal və  qarışıq
+E : Ixtisaslaşdırılmış və  qarışıq
+ANSWER : A
+30.		  Əsas istehsal fondlarının istifadə səviyyəsini bu xarakterizə edir:
+
+A : əmək məhsuldarlığı;
+B : fonverimi, fondtutumu;           +
+C : müəssisənin mənfəəti;
+D : əməyin fondla silahlanması; +
+E : müəssisənin gəliri.
+ANSWER : B,D
+31.		  Əsas istehsal fondlarının intensiv istifadəsini bu xarakterizə edir :
+
+A : fondverimi;
+B : dəzgahın intensiv istifadə əmsalı ;     + 
+C : avadanlığın məhsuldarlıqı;
+D : fəhlə əməyinin fondlasilahlanması;
+E : nöbəçilik əmsalı.
+ANSWER : B 
+32.		Gətirilmiş xərclər X necə  hesablanır
+Qeyd M – vahid məhsulun işin maya dəyəri  K – xüsusi kapital xərcləri
+En – kapital qoyuluşunun normativ səmərəlilik əmsalıdır
+
+A : X = M + En K+
+B : X = M - En K
+C : X = M En + K
+D : X = M En - K
+E : X = M - K :En
+ANSWER : A
+33.		  Hansı təşkilatlar kommersiya təşkilatı kimi qəbul olunur?:
+
+A : müstəqil balansı olan hər hansı bir təşkilatlar;
+B : fəaliyyətinin məqsədindən asılı olmayaraq mənfəət əldə edən hər hansı bir təşkilat ;      
+C : mənfəət əldə edilməsini əsas məqsəd qoyan hər hansı bir təşkilat;  +
+D : hüquqi qeydiyyatı olan təşkilat;
+E : kommersiya bankında hesabı olan təşkilat.
+ANSWER : C
+34.		İstehsalın təmərküzləşməsinə aid deyil
+
+A : Daha güclü və məhsuldarlığı yüksək olan avadanlıqların tətbiq edilməsi
+B : Mütərəqqi texnoloji istehsal üsulunun tətbiqi
+C : İşçilərin sayının artırılması+
+D : İstehsalın mütərəqqi təşkili formalarına keçid
+E : əməyin mütərəqqi təşkili formalarına keçid
+ANSWER : C
+35.		  Firma və şirkətlərin gəlirlərinin artırılması, əmək məhsuldarlığının yüksəldilməsinin mühüm amili kimi nəyi qiymətləndirirlər?
+
+A : iş yerlərinə mütərəqqi xidmət sistemləri;
+B : əməyin elmi təşkili üzrə tədbirlərin həyata keçirilməsi;+
+C : normativ materiallar bankının formalaşması;
+D : informasiya-normativ bazasının möhkəmləndirilməsi.
+E : əmək haqqının tənzimlənməsi.
+ANSWER : B
+36.		Fondverimi neçə təyin edilir?
+
+A : Dəyər ifadəsində ümumi məhsulun dəyərinin əsas fondların və normalaşdırılan dövriyyə vəsaitlərinin dəyərinə nisbəti ilə
+B : Dəyər ifadəsində ümumi məhsulun dəyərinin istehsal fondlarının dəyərinə nisbəti ilə
+C : Dəyər ifadəsində ümumi məhsulun dəyərinin əsas fondların ilin sonuna dəyərinə nisbəti ilə
+D : Dəyər ifadəsində ümumi məhsulun dəyərinin əsas fondların orta illik dəyərinə nisbəti ilə+
+E : Dəyər ifadəsində ümumi məhsulun dəyərinin əsas fondların orta qalıq dəyərinə nisbəti ilə
+ANSWER : D
+37.		  Müəssisələrdə əməyin düzgün təşkili nə deməkdir?
+
+A : çox iş qüvvəsindən səmərəli istifadə və az əmək sərfi ilə çox məhsul istehsal etmək;
+B : az iş qüvvəsindən istifadə və az əmək sərfi ilə çox məhsul istehsal etmək;
+C : az iş qüvvəsi ilə çox əmək sərf etməklə çox məhsul istehsal etmək;
+D : iş qüvvəsindən səmərəli istifadə və az əmək sərfi ilə çox məhsul istehsal etmək;+
+E : çox iş qüvvəsindən səmərəli istifadə və çox əmək sərfi ilə çox məhsul istehsal etmək.
+ANSWER : D
+38.		İstehsalın ixtisaslaşması formasına aiddir
+
+A : Əşya  və hissə üzrə ixtisaslaşma
+B : Hissə üzrə və texnoloji  ixtisaslaşma
+C : Texnoloji, əşya və hissə üzrə ixtisaslaşma+
+D : Texnoloji və əşya üzrə  ixtisaslaşma
+E : Texnoloji ixtisaslaşma
+ANSWER : C
+39.		  Müəssisələrdə əməyin təşkilinə hansı məsələlər daxildir?
+
+A : texniki, təhlükəsizlik, iş bacarığı, ixtisas səviyyzsi;
+B : əmək stajı, iş təcrübəsi, şəxsi keyfiyyəti;
+C : lüzumsuz əmək hərəkətlərinin aradan qaldırılması;
+D : işçilərin maddi və mənəvi həvəsləndirilməsi, işçilərin mədəni-texniki və istehsal   ixtisasının artırılması üzrə tədbirlər.
+E : əmək bölgüsü, əmək kooperasiyası, əmək intizamı, iş yerlərinin təşkili, mütərəqqi əmək   üsulları;+
+ANSWER : E
+40.		Məhsul nədir
+
+A : Müxtəlif faydalı əmtəələr və xidmətlərdir+
+B : İstehsal prosesində istifadə olunan xammal və materiallardır
+C : Yarımfabrikatlardır
+D : İstehlak mallarıdır
+E : Mənfəət əldə etməyə imkan verən əmtəələrdir
+ANSWER : A
+41.		  Müəssisələrdə əməyin təşkilinin əsas ilkin şərtləri hansılardır?
+
+A : əməyin mexanikləşmə səviyyəsinin yüksəldilməsi, istehsalın texnoloji prosesinin təşkili;+
+B : müəssisənin istehsal bölmələrinin operativ təsərrüfat müstəqilliyi;
+C : istehsalın ixtisaslaşması və təmərküzləşməsi;
+D : işçilərin mədəni-texniki səviyyəsinin yüksəldilməsi:
+E : müəssisədə şöbələrin yaradılması. 
+ANSWER : A
+42.		Kombinələşmənin tiplərinə aiddir
+
+A : Şaquli kombinələşmə
+B : Üfüqi və şaquli kombinələşmə
+C : Şaquli  və qarışıq kombinələşmə
+D : Üfüqi və qarışıq kombinələşmə
+E : Üfüqi, şaquli və qarışıq kombinələşmə+
+ANSWER : E
+43.		  Əməyin təşkilinin əsas prinsiplərinə nələr daxildir?
+
+A : əməyin normallaşdırılması, iş vaxtına qənaət, istehsalın təmərküzləşməsi;
+B : normal iş rejimi, istehsalın təmərküzləşməsi;
+C : şəxsi maraqla kollektiv marağın düzgün əlaqələndirilməsi;
+D : əmək məhsuldarlığının yüksəldilməsi, işçilərin həyat səviyyəsinin yaxşılaşdırılması, əmək şəraitinin sağlamlaşdırılması;+
+E : müəssisədaxili ictimai münasibətlərin təkmilləşməsi.
+ANSWER : D
+44.		Normativ səmərəlilik əmsalı En nədir 
+
+A : Yeni texnikaya sərf edilmiş kapital qoyuluşunun il ərzində ödənilmə hissəsidir
+B : Normativ ödəmə müddətinin tərs qiymətidir+
+C : Pulun real dəyərini ölcən göstəricidir
+D : Bankın faiz stavkasıdır
+E : Kreditin qaytarılma müddətidir
+ANSWER : B
+45.		  Əməyin elmi təşkili nə deməkdir?
+
+A : gigiyenik və estetik əmək şəraitinin yaradılması;
+B : səmərəli əmək bölgüsü və əmək kooperasiyasını, əmək proseslərini və qabaqcıl əmək üsullarının tətbiqini təmin edən kompleks tədbirlər sistemidir;+
+C : əməyin normallaşdırılmasının təkmilləşdirilməsi;
+D : texniki-təşkilati və iqtisadi tədbirlər sistemi;
+E : əməyin təhlükəsizliyinin təmin edilməsi.
+ANSWER : B
+46.		Xammalın kompleks istifadəsi zamanı
+
+A : Kapital qoyuluşuna olan tələbat azalır
+B : Sənaye məhsulunun maya dəyəri aşağı düşür
+C : Xammalın hasilatı artır
+D : a, b, c ANSWERları doğrudur
+E : a və b ANSWERları doğrudur+
+ANSWER : E
+47.		Fondtutumu neçə təyin edilir? 
+
+A : Əsas və dövriyyə fondlarının dəyərinin ümumi məhsulun dəyərinə olan nisbəti ilə
+B : Əsas və dövriyyə fondlarının dəyərinin istehsal olunan məhsulun dəyərinə olan nisbəti ilə
+C : Əsas fondların ilin sonuna dəyərinin ümumi məhsulun dəyərinə olan nisbəti ilə
+D : Əsas fondların orta illik dəyərinin ümumi məhsulun dəyərinə olan nisbəti ilə+
+E : Əsas fondların orta illik qalıq dəyərinin ümumi məhsulun dəyərinə olan nisbəti
+ANSWER : D
+48.		  Iri müəssisələrin üstünlüklərinə bu aid deyil:
+
+A : Istehsalın inhisarlaşması imkanının mövcud olması;+
+B : iri miqyaslı elmi – tədqiqat işlərin aparılması;
+C : istehsalın hıcminin artması ilə məhsulun bir vahidinə düşən xərclərin az olması;
+D : əməyin dərin bölgüsü və kooperasiyası üçün imkanların olması;
+E : istehsalın daha mükəmməl təşkili.
+ANSWER : A
+49.		  Sənayedə ixtisaslaşmanın  formalarına bu aid deyil:
+
+A : əşya üzrə;                                
+B : detal üzrə;
+C : fərdi və qrup üzrə;+
+D : texnoloji və ya mərhələr üzrə;
+E : funksional.
+ANSWER : C
+50.		Sənaye sahələrini bir-birindən fərqləndirən əsas əlamətlər hansılardır
+
+A : İstehsal olunan məhsulun iqtisadi təyinatı
+B : İstehlak olunan materialların xarakteri
+C : İstehsalın texniki bazası, texnoloji proseslər və kadrların peşə tərkibi
+D : a və c ANSWERları doğrudur
+E : a, b və c ANSWERları doğrudur+
+ANSWER : E
+51.		  İstehsalın optimal ölçüsü budur:
+
+A : nəzərdə tutulan məhsulun  istehsalını təmin edən ölçülər;  
+B : əsas, köməkçi, xidmətedici struktur vahidlərinin sayı;
+C : təmərküzləşmənin səviyyəsi;
+D : minimuum xərclərlə nəzərdə tutulan məhsulun  istehsalını təmin edən ölçülər ;+
+E : müəssisədə şöbələrin sayı.
+ANSWER : D
+52.		Sənaye topdansatış qiyməti və tiçarət əlavələrinin cəmindən yaranan qiymət hansıdır 
+
+A : topdansatış qiyməti
+B : müqavilə qiyməti
+C : pərakəndə satış qiyməti+
+D : bazar qiyməti
+E : dövlət qiyməti
+ANSWER : C
+53.		  Müəssisələrdə əmək bölgüsü və əmək kooperasiyası dedikdə nə başa düşülür?
+
+A : istehsal sahələri ilə texnoloji əlaqələrin olması;
+B : işləyənlərin fəaliyyətinin ixtisaslaşması və onlar arasında qarşılıqlı əlaqənin müəyyən edilməsi;+
+C : məhsuldar qüvvələrin inkişafı ilə istehsalın artırılması;
+D : elmi-texniki inqilab və istehsal münasibətlərinin vəhdəti;
+E : əmək fəaliyyətinin inteqrasiyası.
+ANSWER : B
+54.		Məhsulun istehsalı tsiklinə daxildir
+
+A : Texnoloji əməliyyatların yerinə yetirilməsinə sərf olunun vaxt
+B : Köməkçi və xidmətedici işlərin yerinə yetirilməsinə sərf olunun vaxt
+C : Nəzarət və nəqliyyat əməliyyatlarının yerinə yetirilməsinə sərf olunun vaxt
+D : Təbii proseslərin tələb etdiyi vaxt
+E : Qeyd edilənlərin hamısı+
+ANSWER : E
+55.		  Kollektiv əmək prosesi nədən ibatətdir?
+
+A : işçilərin qarşılıqlı əlaqədə olması;
+B : qarşılıqlı əlaqə və tam dolğunluq;
+C : işçilərin fəaliyyət növü üzrə bölünməsi;
+D : zaman və məkan etibarilə qarşılıqlı əlaqəsi olan əmək prosesləri;+
+E : əmək bölgüsü üzrə bölümün işçi qrupu.
+ANSWER : D
+56.		İstehsalçı və istehlakçı arasındakı müqaviləyə əsasən müəyyən edilən qiymət hansıdır
+
+A : topdansatış qiyməti
+B : pərakəndə satış qiyməti
+C : müqavilə qiyməti+
+D : müqayisəli qiymət
+E : azad qiymət
+ANSWER : C
+57.	 	  Müəssisələrdə əmək bölgüsünün və kooperasiyanın məqsədi nədən ibarətdir?
+
+A : icraçıların fasiləsiz işləməsinin təmin edilməsi;
+B : işçilərdən hər birinin öz işini yerinə yetirməsi;
+C : zəruri əmək vərdişlərinə və dərin biliklərə malik olmaq;
+D : ayrı-ayrı işçilərin öz vəzifəsini yerinə yetirməsi.
+E : iş vaxtından səmərəli istifadə olunması, məhsul istehsalının artırılması;+
+ANSWER : E
+58.		Müəssisədə istehsalın səmərəliliyinin artırılmasının əsas istiqaməti hansıdır
+
+A : Məqsədli məhsulun çıxımının artırılması
+B : Yanaşı məhsuldan istifadənin yaxşılaşdırılması
+C : Xammal və material itkisinin azaldılması
+D : Xammalın emala hazırlığının yaxşılaşdırılması
+E : Xammallın emal  dərinliyinin artırılması+
+ANSWER : E
+59.		  Əmək bölgüsünün əsas çərçivələri bunlardır: 
+
+A : texnoloji, fizioloji, sosial, iqtisadi;+
+B : fizioloji, sosial, iqtisadi, mexanikləşmə;
+C : mexanikləşmə, iqtisadi, texnoloji;
+D : iqtisadi, sosial, texnoloji;
+E : iqtisadi və təhlükəsizlik.
+ANSWER : A
+60.		Göstərilənlərdən hansı müəssisənin istehsal gücüdür ?
+
+A : Müəyyən dövrdə maksimal məhsul istehsalı həcmi
+B : Müəyyən dövrdə orta məhsul istehsalı həcmi
+C : Əsas və dövriyyə fondlarından səmərəli istifadə etməklə məhsul istehsalı həcmi
+D : Texnika, texnologiya və istehsalın təşkilinin mövcud səviyyəsində mümkün maksimal məhsul istehsalı həcmi+
+E : Bazarın tələbini ödəmək üçün lazımi çeşiddə və keyfiyyətdə məhsul istehsalı həcmi
+ANSWER : D
+61.		  Iş vaxtının təsnifləşdirilməsi aşağıdakı əlamətlərə görə həyata keçirilir:
+
+A : icraçiya əsasən;+
+B : avadanlıqa əsasən;+
+C : istehsal prosesinə  əsasən;+
+D : əmək predmetinə əsasən
+E : işçilərin sayına əsasən.
+ANSWER : A
+62.		İstehsal güclərindən istifadənin səmərəliliyini hansı yollarla artırmaq olar
+
+A : Intensiv
+B : Ekstensiv
+C : Hər ikisi ilə+
+D : Heç biri ilə
+E : Avadanlıqların sayını artırmaq yolu ilə
+ANSWER : C
+63.		  Müəssisədə əmək bölgüsü hansı formalara ayrılır?
+
+A : funksional, texnoloji, əməliyyat və peşə-ixtisas;+
+B : sənaye, mühəndis və texniki;
+C : əsas fəhlələr və  köməkçi fəhlələr ;
+D : sənaye işçiləri, istehsal işçiləri və sex işçiləri;
+E : sənaye, istehsal və texnoloji.
+ANSWER : A
+64.		  Işçilərin həqiqi sayı bundan ibarətdir:
+
+A : müəssisənin ştatında olan bütün işçilərin sayı;
+B : məzuniyyətdə olan işçilərin sayı;
+C : ezamiyyatda və məzuniyyətdə olan işçilərin sayı;
+D : işə çıxanların, ezamiyyətdə olanların və işdən kənar dövlət tapşırıqlarını yerinə yetirilməsi    ilə sayı;+
+E : işə çıxanlar və xəstə olanların sayı.
+ANSWER : D
+65.		Vahid vaxt ərzində məhsul istehsalı hansı variantı xarakterizə edir 
+
+A : məhsul buraxılışı həcmini
+B : istehsal gücünü
+C : əsas fondlardan istifadəni
+D : əmək məhsuldarlığı göstəricisini+
+E : əməyin fondla silahlanma göstəricisini
+ANSWER : D
+66.		  Müəssisələrdə əmək bölgüsü aşağıdakı vəzifələri həll edir:
+
+A : avadanlıq, əmək cisimlərindən səmərəli istifadə;
+B : fiziki, zehni əmək fəaliyyətini düzgün əlaqələndirmədə;
+C : işçilərin peşə biliyini və ustalığını artırmaqda;
+D : canlı əməkdən səmərəli istifadə;+
+E : ixtisassız və yaradıcı olmayan əməyi ləğv etməkdə.
+ANSWER : D
+67.		Əgər istehsal prosesi ciddi reqlamentə tabedirsə hansı əmək haqqı variantı tətbiq edilir 
+
+A : işəmuzd
+B : vaxtamuzd+
+C : işəmuzd-mükafatlı
+D : akkord
+E : işəmuzd-mütərəqqi
+ANSWER : B
+68.		  Əməyin normalaşdırılmasının analitik – hesablama metodu budur:
+
+A : vaxt normalarından istifadə edilir;+
+B : iş vaxtının müşahidə metodları ilə normalar hazırlanır;
+C : iş gününün fotolaşdırılmasından istifadə edilir;
+D : xronometrajdan istifadə edilir;
+E : say normalarından istifadə edilir.
+ANSWER : A
+69.		  Normalaşdırılan iş vaxtına bu aid deyil:
+
+A : operativ iş vaxtı;
+B : hazılıq – tamamlama vaxt;
+C : iş yerinə xidmət;
+D : təşkilatı – texniki səbəblərdən boşdayanmalar;+
+E : istirahət və şəxsi eytiyaclar üçün vaxt.
+ANSWER : D
+70.		Avadanlıqlardan istifadəni hansı göstərici daha geniş xarakterizə edir 
+
+A : Fondverimi
+B : İntensiv istifadə əmsalı
+C : Ekstensiv istifadə əmsalı
+D : Növbəlilik əmsalı
+E : İnteqral istifadə əmsalı +
+ANSWER: E
+71.		  Əmək məhsuldarlıqının səviyyəsi hansı göstərici ilə xarakterizə olunur?
+
+A : müəssisənin işçilərinin sayı ilə;
+B : işçinin vaxt fondu ilə;
+C : istehsalın texniki səviyyəsi ilə;
+D : müəssisənin gəliri ilə.
+E : vaxt vahidi ərzində məhsulun hasilatı ilə;+
+ANSWER : E
+72.		  Fəhlənin nominal vaxt  fondu bərabərdir :
+
+A : təqvim günlərinin sayına;
+B : təqvim vaxtından istirahət və bayram günlərini çıxdıqdan sonra qalan günlərə;+
+C : təqvim vaxt fondundan işə gəlmıyən günləri çıxdıqdan sonra qalan günlərə;
+D : bayram və istirahət günlərinin cəminə ;
+E : işçinin faydalı vaxtına.
+ANSWER : B
+73.		Əgər məhsul buraxılışının artırılması imkanı mövcud deyilsə əmək haqqı ödənişinin hansı variantı tətbiq edilir 
+
+A : işəmuzd
+B : vaxtamuzd+
+C : işəmuzd-mükafatlı
+D : akkord
+E : işəmuzd-mütərəqqi
+ANSWER : B
+74.		  Fəhlənin sayını müəyyən edərkən hansı göstəricidən istifadə edirlər ?
+
+A : faydalı vaxt fondundan;                                +
+B : təqvim vaxt fondundan;
+C : operativ iş vaxtından;                                    
+D : nominal vaxt fondundan;
+E : iş gününün müddətindən.
+ANSWER : A
+75.		  Heyətin normativ sayı hansı metodla təyin edilir?
+
+A : ekstrapolyasiya metodu ilə;+
+B : ekspert qiymətləndirmə ilə;+
+C : riyazi modellərin əsasında;+
+D : mühasibət balansının əsasında.
+E : müəssisənin hesabatları əsasında.
+ANSWER : A
+76.		Əgər yerinə yetirilən işlərin dəqiq həcmini uçota almaq mümkündürsə əmək haqqı ödənişinin hansı variantı tətbiq edilir
+
+A : işəmuzd+
+B : vaxtamuzd
+C : saatlıq
+D : akkord
+E : maaşlı
+ANSWER : A
+77.		  Istehsal tapşırığı vaxtı bərabərdir:
+
+A : əsas, köməkçi və əməliyyat vaxtlarının cəminə;
+B : əsas, köməkçi və  iş yerinı xidmət vaxtlarının cəminə
+C : hazırlıq – tamamlama, əməliyyat və təsadüfi iş  vaxtlarının cəminə;
+D : hazırlıq – tamamlama, əməliyyat, fasilə və iş yerinə xidmət vaxtlarının cəminə;
+E : hazırlıq – tamamlama, əməliyyat və iş yerinə xidmət vaxtlarının cəminə;+
+ANSWER : E
+78.		  Əməyin normalaşdırılmasının təkmilləşdirilməsi nəticəsində :
+
+A : iş vaxtı fondu artır
+B : əmək tutumu artır;
+C : əmək tutumu  aşağı düşür;+
+D : əmək tutumu dəyişməz qalır;
+E : əl əməyindən istifadə olunmur.
+ANSWER : C
+79.		Əsas fondların aşınma dərəçəsini hansı göstərici xarakterizə edir 
+
+A : Əsas fondların qalıq dəyəri
+B : Əsas fondların təzələnməsi əmsalı
+C : Əsas fondların yararlılıq əmsalı+
+D : Əsas fondların cıxarılması əmsalı
+E : Əsas fondların artımı əmsalı
+ANSWER : C
+80.		  Müddətindən asılı olaraq istehsal prosesləri belə bölünür:
+
+A : fasiləsiz və fasiləli;+
+B : əsas və köməkçi;
+C : fərdi və kütləvi;
+D : mexaniki və avtomatlaşdırılmış ;
+E : seriyalı və kütləvi.
+ANSWER : A
+81.		Müxtəlif maşın və avadanlıqların icarəsi və müəyyən vaxtdan sonra onların alıçının 
+mülkiyyətinə verilməsi neçə adlanır 
+
+A : lizinq+
+B : françayzinq
+C : kooperasiya
+D : lisenziyalaşdırma
+E : royyalti
+ANSWER : A
+82.		  Əmtəə istehsalının əsas elementi:
+
+A : puldur;
+B : əmtəədir;
+C : istehsaldır;        +
+D : istehsal qüvvəsidir;
+E : xammal və materiallardır.
+ANSWER : C
+83.		  Firma və ev təsərrüfatları arasında əlaqələr bunların vasitəsi ilə həyata keçirilir:
+
+A : bazarların;      +
+B : dövlətin;
+C : planlaşdırmanın;
+D : sığorta şirkətlərinin;
+E : lizinq şirkətlərinin
+ANSWER : A
+84.		Dövretmə əmsalı, bir dövrün uzunluğu nəyi xarakterizə edir 
+
+A : əmək ehtiyatlarından səmərəli istifadəni
+B : dövriyyə vəsaitlərindən səmərəli istifadəni+
+C : əsas fondlardan səmərəli istifadəni
+D : maliyyə vəsaitlərindən səmərəli istifadəni
+E : kapital qoyuluşundan səmərəli istifadəni
+ANSWER : B
+85.		  Firmanın tərkibində ola bilər:
+ 
+A : bir müəssisə;+
+B : bir neçə müəssisə;+
+C : səhmdar cəmiyyətlər;
+D : qonşu müəssiələr;      
+E : konsernlər.
+ANSWER : A
+86.		Aşağıdakılardan hansılar dövriyyə fondlarına daxildir 
+
+A : Müəssisənin anbarında olan hazır məhsul
+B : Müəssisənin kassasında olan pul vəsaitləri
+C : Yüklənmiş məhsul
+D : Müəssisənin bankında olan pul vəsaitləri
+E : Alınmış yarımfabrikatlar+
+ANSWER : E
+87.		  Qısa müddət ərzində:
+
+A : istehsal qüvvəsi artır;
+B : dövriyyə amili dəyişir       +
+C : bütün amillər dəyişir;
+D : əsas kapitalın həcmi dəyişir;
+E : əmtəənin istehsalı artır.
+ANSWER : B
+88.		  Uzunmüddətli dövrdə:
+
+A : firma öz istehsal qüvvəsini artıra bilər;
+B : sahədə yeni firmalar yarana bilər;
+C : firma yeni məhsul istehsal edə bilər;
+D : firma öz istehsal güvvəsini artıra bilər və sahədə yeni firmalar yarana bilər; 
+E : firma öz istehsal güvvəsini artıra bilər, sahədə yeni firmalar yarana bilər və firma yeni  məhsul istehsal edə bilər.    +
+ANSWER : E  
+89.		Əsas fondların orta illik dəyərinin 1 manatına düsən məhsul buraxılışı hansı göstəricini xarakterizə edir
+
+A : fondtutumunu
+B : fondverimini+
+C : fondla silahlanma səviyyəsini
+D : kapital tutumunu
+E : material tutumunu
+ANSWER : B
+90.		  Firmanın mənfəəti asılıdır:
+
+A : gəlirdən;+
+B : bazar qiymətlərindən;+
+C : çəkdiyi məsrəflərdən;+
+D : əmtəələrin çeşidlərindən;       
+E : işçilərin sayından.
+ANSWER : A
+91.		  Məhsulun material tutumunun ğöstəricisi   ölçülür:
+
+A : istehsal olunmuş məhsulun xammal və material dəyərinin hər vahidinə hasilatıdır;
+B : istehsal olunmuş məhsulun dəyərinin dövriyyə kapitalı dəyərinin hər vahidinə nibətidir;
+C : xammal və materialın istehsal olunan məhsulun hər vahidinə  düşən hissəsidir; +
+D : istehsalda istifadə olunan xammal və materialların məcmusudur;
+E : istehsalda istifadə olunan dövriyyə kapitalıdır
+ANSWER : C
+92.		Normalaşdırılan dövriyyə vəsaitlərinə hansılar daxildir 
+
+A : Müəssisənin istehsal ehtiyatları+
+B : Müəssisənin bankdakı hesabındakı pul vəsaiti
+C : Müəssisənin kassasındakı pul vəsaiti
+D : Yüklənmiş məhsul, lakin alıcılar tərəfindən ödənilməmiş
+E : Akkreditivdə olan pul vəsaiti
+ANSWER : A
+93.		  İstehsalın səmərəlilik  göstəricisinə aiddir:
+
+A : məhsulun material tutumu;
+B : əmək tutumu;
+C : fondverimi ;+
+D : texniki silahlanma ;
+E : əsas fondların həcmi.
+ANSWER : C
+94.		  Kooperativləşdirmə  budur:
+
+A : əmək  bölgüsünün dərinləşdirilməsi prosesidir;
+B : bir müəssisədə müxtəlif növ məhsulların istehsalı prosesidir;
+C : məhsulun birgə istehsalı ilə məşğul olan ixtisaslaşdırılmış  müəssisələrin uzunmüddətli istehsal əlaqələri +
+D : müəssisəyə daxil olan filiallar;
+E : müəssisələrin  qısamüddətli istehsal əlaqələri 
+ANSWER : C
+95.		  Müəssisədə kadrların  vəziyyətinin müəyyən edən əmsallar:
+A : kadrların sabitliyi əmsalı;        +
+B : kadrların  bölünməsi əmsalı;
+C : kadrların  axıcılığı əmsalı +
+D : kadrların  durğunluğu əmsalı.
+E : kadrların yerləşdirilməsi.
+ANSWER : A
+96.		İstehsal prosesində uzun müddət iştirak edərək öz natural formasını saxlayan istehsal fondlarının bir hissəsi neçə adlanır 
+
+A : nizamnamə fondu
+B : əsas fondlar+
+C : dövriyyə fondları
+D : istehsal fondları
+E : tədavül fondları
+ANSWER : B
+97.		  Əsas istehsal fondlarının fiziki aşınmalarını ayırd edin:
+
+A : oxşar, lakın daha ucuz maşinların yaranması sayəsində dəyərlərinin itirilməsi;
+B : daha məhsuldar maşınların meydana gəlməsi səbəbindən əmək vasitələrinin öz dəyərinin itirilməsi;
+C : əmək vasitələrinin öz istehlak dəyərinin itirilməsi.+     
+D : avadanlığın  mənəvi qocalması;
+ANSWER : C
+98.		  Müəssisənin  biznes planının “Fəaliyyət planı və təşkilatı tədbirlər” bəndində açıqlanır:
+A : sahibkarlıq fəaliyyətinin əsas məqsədi və vəzifələri;
+B : ümumiləşdirilmiş xülasənin göstəriciləri;
+C : bazarın təhlili və giymətləndirilməsi;
+D : təşkilatı tədbirlərin məcmusu – marketinq axtarışları, məhsul  istehsalınin həyata keçirilməsi ;+
+E : heyətin idarə edilməsi məsələləri.
+ANSWER : D
+99.		Dövriyyə vəsaitlərindən istifadəni aşağıdakılardan hansı daha düzgün xarakterizə edir
+
+A : Dövriyyə vəsaitlərinin məbləği və onun quruluşu
+B : Normalaşdırılan dövlət vəsaitlərinin məbləği və onların ümumi dövriyyə vəsaitlərində xüsusi çəkisi
+C : Dövriyyə vəsaitlərinin dövrlər sayı və dövriyyə fondlarının məbləği
+D : Dövriyyə vəsaitlərinin bir dövrünün davam etmə müddəti və tədavül fondlarının məbləği
+E : Dövriyyə vəsaitlərinin dövrlər sayı və bir dövrün davam etmə müddəti+
+ANSWER : E
+100	  İnvestisiya qoyuluşları barədə qərar qəbul edilərkən bu göstəriciləri nəzərə alırlar:
+
+A : rentabellik ;       +
+B : amortizasiya ayirmalarinin səviyyəsi;
+C : zərərszlik norması; +
+D : kapital qoyuluşlarinin qaytarilma müddəti;      +
+E : əsas fondların həcmi.
+ANSWER : A
+101	  Firmanın fəaliyyəninin əsas məqsədi:
+
+A : əhalinin tələbatını təmin etmək;       
+B : maksimum gəlir əldə etmək;
+C : maksimal mənfəət əldə etmək;       +
+D : ümumi məhsulun artımı;
+E : ölkənin iqtisadiyyatını inkişaf etdirmək.
+ANSWER : C
+102	  Bu məqsədlər hansı mikroiqtisadi səviyyədə həll oluna bilər:
+
+A : əhalinin tam məşğuluğuna nail olmaq;
+B : nə və necə istehsal etmək;      +
+C : inflyasiyanın qarşısını necə almaq;
+D : iqtisadi artımı necə stimullaşdırmaq;
+E : pul dövriyyəsini tənzimləmək.
+ANSWER : B
+103	Dövriyyə vəsaitlərindən istifadəni aşağıdakılardan hansı daha düzgün xarakterizə edir
+
+A : Dövriyyə vəsaitlərinin məbləği və onun quruluşu
+B : Normalaşdırılan dövlət vəsaitlərinin məbləği və onların ümumi dövriyyə vəsaitlərində xüsusi çəkisi
+C : Dövriyyə vəsaitlərinin dövrlər sayı və dövriyyə fondlarının məbləği
+D : Dövriyyə vəsaitlərinin bir dövrünün davam etmə müddəti və tədavül fondlarının məbləği
+E : Dövriyyə vəsaitlərinin dövrlər sayı və bir dövrün davam etmə müddəti+
+ANSWER : E
+104 	  Konsern:
+
+A : istehsalçıların birləşməsidir;
+B : iri maliyyə əməliyyatlarını aparan sahibkarlıq birliyidir;
+C : sahibkarların könülli birləşməsidir;
+D : ümumi maraqlarla, müqavilələrlə, kapitalı ilə birgə müəssisələrin böyük birləşməsidir.  +
+E : məhsulların satışını  təmin etmək üçün könüllü birləşmələrdir 
+ANSWER : D
+105	  Sahibkarlığın hansı növlərini vardır?
+
+A : istehsal və ticarət;                +
+B : şirkət və konsernlər ;
+C : maliyyə və məsləhətçi;     +
+D : sindikat və kartellər;
+E : səhmdar cəmiyyətlər. 
+ANSWER : A
+105	  Sahibkarlığın hansı  formalarını tanıyırsız?
+
+A : sindikat və kartellər;+
+B : şirkət və konsernlər ;+
+C : istehsal və ticarət;                 
+D : maliyyə və məsləhətçi;      
+E : səhmdar cəmiyyətlər.  +
+ANSWER : A
+107	Əməyin miqdarının istehsal olunmuş məhsul həcminə nisbəti nəyi ifadə edir
+
+A : əmək məhsuldarlığı
+B : əmək tutumu+
+C : əməyin fondla silahlanma səviyyəsini
+D : əmək haqqını
+E : material tutumunu
+ANSWER : B
+108	  Marketinqin planlaşdırılmasına işlərin hansı növləri daxildir?
+
+A : bazar durumunun tədqiqi;+
+B : kreditlərin alınması;
+C : satış üzrə plan tapşırırıqlarının tərtibi;+
+D : istehsal amillərinin genişləndirilməsi;
+E : marketinq strategiyasının hazırlanması +
+ANSWER : A
+109	Avadanlığın aşınma əmsalı sıfra bərabərdirsə bu nəyi göstərir 
+
+A : Avadanlığın köhnə olmasını
+B : Avadanlığın yeni olmasını+
+C : Avadanlığın amortizasiya müddətinin qurtarmasını
+D : Avadanlığın yenisi ilə əvəz olunmasının vacibliyini
+E : Avadanlığın mənəvi aşınmasını
+ANSWER : B
+110	  Əmtəə istehsalının yaranmasının əsas səbəbləri:
+
+A : içtimai əmək bölgücü;+
+B : əmtəə istehsalçılarının iqtisadi ixtisaslaşması;+
+C : mübadilənin inkişafı;+
+D : yeni formasiyaların yaranması;  
+E : resursların məhdudluğu
+ANSWER : A
+111	Dövriyyə vəsaitlərinin dövrlər sayı neçə təyin edilir 
+
+A : Müəyyən dövrdə ümumi məhsulun dəyərinin həmin dövrdə dövriyyə vəsaitlərinin orta qalığına nisbəti ilə
+B : Müəyyən dövrdə əmtəəlik məhsulun dəyərinin həmin dövrdə dövriyyə vəsaitlərinin orta qalığına nisbəti ilə
+C : Müəyyən dövrdə mövcud satış qiyməti ilə realizə olunmuş məhsulun həcminin dövrün sonuna dövriyyə vəsaitlərinin qalığına nisbəti ilə
+D : Müəyyən dövrdə mövcud satış qiyməti ilə realizə olunmuş məhsulun həcminin həmin dövrün əvvəlinə dövriyyə vəsaitlərinin qalığına nisbəti ilə
+E : Müəyyən dövrdə mövcud satış qiyməti ilə realizə olunmuş məhsulun həcminin həmin dövrdə dövriyyə vəsaitlərinin orta qalığına nisbəti ilə+
+ANSWER : E
+112	  Əmtəə istehsalının əsas elementi:
+
+A : puldur;
+B : əmtəədir;
+C : istehsaldır;       +
+D : sahibkardır;    
+E : muzdlu işçidir.
+ANSWER : C
+113	Məhsulun rentabelliyi necə hesablanır
+
+A : balans mənfəətinin məhsulun maya dəyərinə nisbəti kimi
+B : məhsulun satişindan əldə edilən mənfəətin həmin məhsulun tam maya dəyərinə nisbəti kimi+
+C : məhsul satışındanəldə edilən mənfəətin asas fondlara nisbəti kimi
+D : məhsul satışından əldə edilən mənfəətin dövriyyə vəsaitlərinə nisbəti kimi
+E : hesablaşma mənfəətinin istehsal fondlarına nisbəti kimi
+ANSWER : B
+114	  İstehsalın əsas amilləri hansılardı?
+
+A : əmək;+
+B : hazır məhsul;
+C : kapital;+
+D : əmək haqqı
+E : torpaq
+ANSWER : A
+115	  Əgər bazar qiyməti tarazlıq qiymətindən aşağı olarsa onda yarana bilər:
+
+A : əmtəələrin çatışmamazlığı;     +
+B : əmtəələrin artıqlığı;
+C : dəyişiklik baş verməyəcək ;
+D : əmtəələrin istehsalı genişlənir.
+ANSWER : A
+116	  Müəssisənin xərcləri bu əlamətlərə görə qruplaşdırılır:
+
+A : mənfəət götürülməsi ilə əlaqədar xərclər;+
+B : mənfəət götürülməsi ilə əlaqədar olmayan xərclər;+
+C : məcburi xərclər;+
+D : könüllü xərclər;
+E : müsbət xərclər.
+ANSWER : A
+117 	Dövriyyə vəsaitlərinin dövretmələrinin sayı artdıqda hansı ANSWER düzgündür
+
+A : Dövriyyə vəsaitlərinin həcmi artır
+B : Realizə olunan məhsulun həcminə təsir etmir
+C : Realizə olunan məhsulun həcmi azalır
+D : Realizə olunan məhsulun həcmi artır+
+E : Bir manatlıq dövriyyə vəsaitlərinə düşən realizə olunan məhsulun həcmi azalır
+ANSWER : D
+118	  Dəzgahın ilkin dəyəri - 50000 AZN, normativ xidmət müddəti – 10 il. Qalıq dəyər 4000 AZN. Amortizasiya norması nəyə    bərabərdir?
+
+A : 10%;
+B : 9,2%;+
+C : 8%;
+D : 6,5%;
+ANSWER : B
+119	  Müəssisənin xərcləri bu əlamətlərə görə qruplaşdırılır:
+
+A : mənfəət götürülməsi ilə əlaqədar xərclər;+
+B : mənfəət götürülməsi ilə əlaqədar olmayan xərclər;+
+C : məcburi xərclər;+
+D : könüllü xərclər;
+E : müsbət xərclər.
+ANSWER : A
+                                                                                      
+120. 	  Sabit xərclər :
+
+A : istehsalın həcmi sıfra bərabər olduğu zamandakı xərclər;+
+B : istehsalın həcmindən asılı olmayan xərclər;+
+C : ümumi və dəyişən xərclər arasında olan fərqə bərabərdir;+
+D : xammala, materiallar və əmək haqqına olan xərclər;
+E : istehsalın həcmilə birgə dəyişilir .
+ANSWER : A
+121	Əsaslı tikinti nədir 
+
+A : Dəyişməyən həcmdə istehsalın daima bərpa edilməsi prosesidir
+B : Mövcud müəssisələrin texniki silahlanması əsasında əsas fondların geniş təkrar istehsalı formasıdır
+C : Mövcud müəssisələrin rekonstruksiyası əsasında əsas fondların geniş təkrar istehsalı prosesidir
+D : Əsas fondların geniş təkrar istehsalı nəticəsində yeni tikintilərin təmin olunması formasıdır
+E : Əsas fondların geniş təkrar istehsalı nəticəsində yeni tikintilərin mövcud müəssisələrin rekonstruksiyası, genişləndirilməsi və texniki silahlanmasını təmin etmək+
+ANSWER : E
+122	  Dəyişən xərclər:
+
+A : istehsalın həcmilə birgə dəyişilir;+
+B : ümumi və sabit xərclər arasında olan fərqə bərabərdir;+
+C : xammala, materiallar və əmək haqqına olan xərclər;+
+D : istehsalın həcmi sıfra bərabər olduğu zamandakı ;       
+E : istehsalın həcmindən asılı olmayan xərclər;
+ANSWER : A
+123	  İqtisadi məsrəflər bərabərdir:
+
+A : sabit və dəyişən xərclərin həcminə;
+B : məxfi və  aşkar xərclərin həcminə;     +
+C : sabit və mühasibat xərclərinin həcminə;
+D : sabit, dəyişən, məxfi və  aşkar xərclərin həcminə;
+E : sabit, dəyişən və mühasibat xərclərinin həcminə;
+ANSWER : B
+124	  Mühasibat xərcləri bərabərdir:
+
+A : iqtisadi və məxfi xərclər arasındakı fərqdir;+
+B : aşkar xərclərdir;+
+C : resursların əldə edilməsinə çəkilən xərclərdir;+
+D : məxfi və  aşkar xərclərin həcminə;           
+E : dəyişən, məxfi və  aşkar xərclərin həcminə.
+ANSWER : A
+125	Mülkiyyət formasına görə müəssisələr bölünürlər
+
+A : xüsusi, ümumxalq, səhmdar müəssisələrinə
+B : xüsusi, dövlət, qarışıq, bələdiyyə müəssisələrinə+
+C : dövlət, səhmdar, qarışıq müəssisələrinə
+D : ümummilli, kommersiya, qarışıq müəssisələrinə
+E : firmalar, zavodlar, səhmdar cəmiyyətlər müəssisələrinə
+ANSWER : B
+126	  Miqyasın müsbət effekti bununla izah olunur:
+
+A : səmərənin azalması qanunu ilə;
+B : idarəetmə heyətinin və muzdlu fəhlələrin ixtisaslaşması ilə;
+C : kapitalın daha səmərəli istifadəsilə;
+D : istehsal xərclərinin müntəzəm artmasi ilə;       
+E : idarəetmə heyətinin,   muzdlu fəhlələrin ixtisaslaşması və kapitalın daha səmərəli  istifadəsi ilə;+
+ANSWER : E
+82.	  Firmanın gəliri:
+
+A : istehsal edilmiş və satılmış məhsulun pula ekvivalenti;+
+B : firmanın mədaxili;+
+C : istehsal həcminin qiymətə hasili;+
+D : maksimal mənfəətdir;      
+E : istehsal xərclərinin məcmusu
+ANSWER : A
+127	Ümumi rentabellik özündə nə əks etdirir 
+
+A : aktivlərin (əsas və dövriyyə istehsal fondlarının:1 manatına düşən mənfəəti+
+B : passivlərin1 man-a düşən mənfəəti
+C : əsas fondlarının 1 man-a düşən mənfəəti
+D : dövriyyə vəsaitlərinin 1 man-a düşən mənfəəti
+E : istehsal xərclərinin 1 man-a düşən mənfəəti
+ANSWER : A
+128	  Orta gəlir:
+
+A : bir məhsul vahidinə düşən mədaxilin həcmi;        +
+B : məhsulun dəyərinə bərabərdir;
+C : son gəlirə bərabərdir;
+D : iqtisadi gəlirdir;
+E : məcmu gəlirdir
+ANSWER : A
+129	  İstehsalın həcmi 20 vahid olduğu halda firmanın ümumi gəliri bərabərdir 240 manata, bu zaman orta gəlir bərabərdir:
+
+A : 100;
+B : 12;           +
+C : 10;
+D : 480;
+E : 240
+ANSWER : B
+130	Nə vaxt müəssisənin mənfəətlə işlədiyini təsdiq etmək olar
+
+A : məhsul satışından əldə edilən vəsaitlər çəkilən xərclərdən çox olduğu halda+
+B : ümumi məhsulun dəyəri satış məhsulunun dəyərindən çox oldugu halda
+C : mənfəət və zərər bərabər oldugu halda
+D : müəssisənin mədaxilinin satış həcmindən çox olduğu halda
+E : mədaxilin xərclərdən az olduğu halda
+ANSWER : A
+131.	  Firmanın mənfəəti asılıdır:
+
+A : gəlirdən;+
+B : bazar qiymətlərindən;+
+C : çəkdiyi məsrəflərdən;+
+D : istifadə olunan texnologiyadan;      
+E : xammal və materialların həcmindən.
+ANSWER : A
+132	  Mühasibat mənfəəti ümumi  gəlirlərin və nəin fərqi kimi hesablanır:
+
+A : xarici xərclərin;       +
+B : daxili xərclərin;
+C : iqtisadi xərclərin;    
+D : sabit xərclərin;     
+E : dəyişən.
+ANSWER : A
+133	  Zərərsizlik nöqtəsi göstərir ki:
+
+A : ümumim gəlir ümumi xərclərdən çoxdur;
+B : ümumi gəlir ümumi xərclərə bərabərdir;      +
+C : ümumi gəlir dəyişən xərclərə bərabərdir;
+D : ümumi gəlir alternativ xərclərə bərabərdir;
+E : maksimal gəlir əldə edilir.
+ANSWER : B
+134	Məhsula topdansatış qiyməti hansı göstəricilər əsaında müəyyən edilir
+
+A : məhsulun maya dəyəri, mənfəət, əlavə dəyər vergisi, lisenziya və aksizlər üzrə yığım+
+B : məhsulun maya dəyəri və aksizlərin məbləği
+C : məhsulun maya dəyəri və əlavə dəyər
+D : maya dəyəri və lisenziya yığımı
+E : istehsal xərcləri və məhsul buraxılışı həcmi
+ANSWER : A
+135	  İstehsalın rentabelliyi :
+
+A : avans edilmiş kapitalın alınan gəlirə nisbətidir vurulsun 100%;
+B : avans edilmiş kapitalla alınan gəlirlərin arasındakı fərq;
+C : mənfəətin qoyulmuş kapitala nisbəti vurulsun 100 faizə;         +
+D : kapitalın və qoyulmuş kapitalın həcmi vurulsun 100 faizə;
+E : mənfəətin əsas kapitala olan nisbəti.
+ANSWER : C
+136	  Sahibkarlıqda risk - bu:
+
+A : proqnoza nisbətən gəlirin axıra kimi yığılmaması yaxud itirilmə ehtimalı;+
+B : kapitaldan  səmərəli istifadənin hərəkətverici stimulu;+
+C : partnyorların davranışlarının qeyri müəyyənliyi;+
+D : informasiyanın çatışmamazlığı;+
+E : partnyorların davranışları haqqında tam müəyyənlik. 
+ANSWER : A
+137	Müqavilə qiyməti kimlərin arasında müəyyən edilir
+
+A : müəssisənin direktoru ilə alıcı arasında
+B : mühasibat şöbəsi ilə müştəri arasında
+C : istehsalçı (satıcı: və tələbatçı (alıcı: arasında+
+D : marketinq xidməti ilə mühasibat şöbəsi arasında
+E : satış şöbəsi ilə marketinq xidməti arasında
+ANSWER : C
+138	  Real əmək haqqı bu:
+
+A : pulla ifadə olunan əmək haqqı;
+B : inflyasiyanı nəzərə alan nominal əmək haqqı;+
+C : vaxtamuzd əmək haqqı;
+D : işəmuzd əmək haqqı;
+E : tarif üzrə hesablanan əmək haqqı 
+ANSWER : B
+139	  İstehsalın  səmərəlilik göstəricisinə aiddir:
+
+A : məhsulun material tutumu;
+B : ümumi gəlirin həcmi;
+C : istehsalın enerji tutumu;
+D : fondverimi;+
+ANSWER : D
+140	  Məhsulun material tutumunun göstəricisi elə hesablanır ki:
+
+A : istehsal olunmuş məhsulun xammal və material dəyərinin hər vahidinədüşən hissəsi;  
+B : istehsal olunmuş məhsulun dəyərinin dövriyyə kapitalı dəyərinin hər vahidinə düşən hissəsi; 
+C : xammal və materialın istehsal olunan məhsulun hər vahidinə düşən hissəsi;+
+ANSWER : C
+141	Müqavilə qiyməti kimlərin arasında müəyyən edilir
+A : müəssisənin direktoru ilə alıcı arasında
+B : mühasibat şöbəsi ilə müştəri arasında
+C : istehsalçı (satıcı: və tələbatçı (alıcı: arasında+
+D : marketinq xidməti ilə mühasibat şöbəsi arasında
+E : satış şöbəsi ilə marketinq xidməti arasında
+ANSWER : C
+142	  Fondverimi ğöstəricisi aşağıdaki  kimi hesablanır:
+
+A : istehsal olunan məhsulun həcmi məşğul olanların sayına olan nisbəti;
+B : istehsal olunmuş məhsulun dəyərinin istehsal fondlarının dəyərinə olan nisbəti;+
+C : əsas istehsal fondlarının dəyərinin əmək haqqı fondlarının dəyərinə olan nisbəti;
+D : istehsal olunmuş məhsul dəyərinin, xammal və material dəyərinin hər vahidinə düşən nisbəti ;
+E : xammal və materialın istehsal olunan məhsulun hər vahidinə olan nisbəti.
+ANSWER : B
+143	  Firma istehsalın həcmini artırmaq üçün qərar qəbul edir. Xərclərin hansı növünü firma nəzərə alır əgər məhsulun həcmi artacaq:
+
+A : sabit xərcləri;
+B : dəyişən xərcləri;
+C : son hədd xərclərini;      +
+D : məcmu xərcləri;
+E : mühasibət xərcləri.
+ANSWER : C
+144	Ölçülərinə görə müəssisələr bölünürlər
+
+A : sənaye, sahə, altsahə müəssisələrinə
+B : kiçik, orta, böyük müəssisələrə
+C : kiçik, orta, iri müəssisələrə+
+D : qarışıq, xarici, ölkə müəssisələrinə
+E : balaca, böyük, orta müəssisələrə
+ANSWER : C
+145	  Əsas kapital anlayışına nə daxildir:
+A : dəzgahlar, maşınlar, avadanlıq;+
+B : hazır məhsul;
+C : xammal, materiallar;
+D : binalar və qurğular;+
+E : qiymətli kağızlar. 
+ANSWER : A
+146	  Qısamüddətli dövrdə firmanın dəyişən məsrəflərinin artmasına səbəb olan amillər:
+
+A : bank kreditiərinə tarif faizlərinin artırılması;
+B : firmanın təmir xərclərinin artırılması.
+C : yerli kreditlərin artırılması;
+D : xammala qiymətlərin artırılması;+
+E : firmanın avadanlıqlarının icarə ödənişlərinin artırılması. 
+ANSWER : D
+147	  Qısamüddətli dövrdə istehsal  amillərinin qiymətləri artan vaxtı firmaya ilk növbədə lazımdır ki:
+
+A : bu  amillərdən istifadə edərkən sayını artırsın;
+B : istifadə etdiyi amillərın sayını azaltsın;+
+C : əvvəlki amillərın sayını saxlasın;
+D : onu başqa istehsal amillərlə əvəz etsin.
+E : Istehsalı genişləndirsin.
+ANSWER : B
+148	Əmək məhsuldarlığının səviyyəsi aşağıdakı göstəricilərin köməyi ilə müəyyən edilir 
+
+A : buraxılan məhsulun həcmi və əsas fəhlələrin say əmsalı
+B : vaxt vahidi ərzində məhsul buraxılışı və kadrların sabitlik əmsalı
+C : vaxt vahidi ərzində məhsul buraxılışı və məhsulun hazırlanmasının əmək tutumu+
+D : məhsul buraxılışı həcmi və işçilərin orta ixtisas dər əcəsi
+E : buraxılan məhsulun həcmi və əsas fondların dəyəri
+ANSWER : C
+149	  Aşağıdakı müddəalardan hansı doğru hesab edilir:
+
+A : mühasibat mənfəəti çıxılsın məxfi məsrəflər = iqtisadi mənfəət;+
+B : iqtisadi mənfəət çıxılsın mühasibat mənfəəti = aşkar məsrəflər;
+C : iqtisadi mənfəət çıxılsın məxfi məsrəflər = mühasibat mənfəəti;
+D : aşkar məsrəflər+məxfi məsrəflər = mühasibat məsrəfləri. 
+E : bütün ANSWERlar doğrudur;
+ANSWER : A
+150	Hansı əsas parametrlər müəssisənin ölçülərini müəyyən edir
+
+A : işçilərin sayı, istehsal, satış: həcmi, əsas kapital+
+B : nizamnamə kapitalı, istehsal həcmi, maya dəyəri
+C : investisiyaların həcmi, istehsal həcmi, işçilərin sayı
+D : işçilərin sayı, istehsal sahəsi, istehsal həcmi
+E : istehsal xərcləri, ümumi dövriyyə, mənfəət həcmi
+ANSWER : A
+151	  Daxili məsrəflər - bu:
+
+A : mühasibat məsrəfləri;
+B : iqtisadi məsrəflər;
+C : imkandan kənara buraxılan məsrəflər;
+D : firmanın mülkiyyəti olan resurslardan istifadə etmənin alternativ məsrəfləri.+
+E : xarici məsrəflər.
+ANSWER : D
+152	Tarif stavkası nə deməkdir 
+
+A : fəhlələrin əmək haqqının mütləq kəmiyyəti
+B : fəhlələrin vahid vaxt ərzində əmək haqqının mütləq kəmiyyəti+
+C : fəhlələrin minimum əmək haqqı
+D : işçilərin minimum əmək haqqı
+E : vaxt vahidində məhsul istehsalı
+ANSWER : B
+153	  Müəssisənin maliyyəsi hansı funksiyanı yerinə yetirir?
+
+A : bölüşdürücü, nəzarət;+
+B : nəzarət və fiskal;
+C : stimullaşdırıcı və fiskal;                 
+D : stimullaşdırıcı və bölüşdürücü.
+ANSWER : A
+154	  İdarəetmənin faktorinq üsulu nəzərdə tutur:
+
+A : kiçik və orta firmalara  göstərilən maliyyə xidmətləri;+
+B : iri şirkətlərin kiçik firmalara biznesin təşkili məsələləri üzrə müqavilələr;
+C : sənaye üzrə mülkiyyət obyektlərinin, avadanlıq, maşın istehsalı və onların istismarı üzrə ixtisaslaşmış sahibkar təşkilatlarının fəaliyyəti.
+ANSWER : A
+155	İstehsal fəaliyyətində iştirakına görə müəssisənin isciləri ayrılırlar
+
+A : əsas və köməkçi, daimi
+B : sənaye-istehsal və qeyri-sənaye+
+C : fəhlələr və rəhbər işçilər, idarəedicilər
+D : ixtisasçılar və çilingərlər
+E : çilingərlər və qaynaqçılar
+ANSWER : B
+156	  İdarə edilmənin fraynçayrinq üsulu nəzərdə tutur:
+
+A : kiçik və orta firmalara göstərilən maliyyə xidmətləri;
+B : İri şirkətlərin kiçik firmalara biznesin təşkili məsələləri üzrə müqavilələr;+
+C : Sənaye üzrə mülkiyyət obyektlərinin, avadanlıq, maşın istehsalı və onların istismarı üzrə ixtisaslaşmış sahibkar təşkilatlarının fəaliyyəti 
+ANSWER : B
+157	  İdarə edilmənin injinirinq üsulu nəzərdə tutur:
+
+A : İstehsalçı ilə pərakəndə satış obyektləri arasında vasitəçilik edən şirkət;
+B : İri şirkətlərin kiçik firmalara biznesin təşkili məsələləri üzrə müqavilələr;
+C : sənaye üzrə mülkiyyət obyektlərinin, avadanlıq, maşın istehsalı və onların  istismarı üzrə ixtisaslaşmış sahibkar  təşkilatlarının fəaliyyəti+
+ANSWER : C
+158	Əmtəəlik məhsulun həcminə aşağıdakı göstərilənlərdən hansının dəyəri daxil edilmir 
+
+A : kənara satılmaq üçün nəzərdə tutulan hazır məhsulun
+B : kənara satılmalı olan müəssisənin özünün yarımfabrikatlarının
+C : kənar sifarişlər üzrə yerinə yetirilən sənaye xarakterli işlərin
+D : kənardan alınan yarımfabrikatların+
+E : ilin əvvəlinə və axırına öz istehsalı olan yarımfabrikatların qalığı
+ANSWER : D
+159	  Müəssisənin likvidliyi bu:
+
+A : ödəniş qabiliyyətidir;+
+B : istehsal vasitələrinin ləğv edilməsidir;
+C : istehsal vasitələrinin eyniləşdirilməsidir;
+D : qiymətqoyma siyasətidir;
+E : pul dövriyyəsinin surətidir.
+ANSWER : A
+160	  Müəssisənin maliyyə resurslarına daxildir:
+
+A : özünün xüsusi mənbələri;+
+B : borc alınmış mənbələr;+
+C : qiymətli kağızların emissiyası;+
+D : əmanət bankındakı depozitlər.
+ANSWER : A
+161	Ümumi məhsulun həcminə daxil deyildir
+
+A : əmtəəlik məhsulun həcmi
+B : kənardan alınan yarımfabrikatların ilin əvvəlinə və sonuna qalıqları+
+C : bitməmiş istehsalın ilin əvvəlinə və sonuna qalıqları
+D : öz istehsalı olan yarımfabrikatların ilin əvvəlinə və sonuna qalıqları
+E : öz istehsalı olan alətlərin ilin əvvəlinə və sonuna qalıqları
+ANSWER : B
+162	  Dərəcəyə görə tarif maaşları nə cür müəyyən edilir ?
+
+A : fəhlələrin ixtisas dərəcəsinə görə;
+B : müvafiq əmsallar üzrə; +
+C : fəhlələr tərəfindən icra olunan işin hesabına görə;
+D : orta tarif maaşına görə;
+E : işin həcminə və orta tarif maaşına görə.
+ANSWER : B
+163
+	  Əməyin ödənilməsinin neçə kateqoriyası (dərəcəsi) müəyyən edilmişdir? 
+
+A : 17;
+B : 19; +
+C : 18;
+D : 20.
+E : 21;
+ANSWER :B
+164	İcarə nə deməkdir
+
+A : mülkiyyət hüququnun icarə verəndən icarə götürənə vermək
+B : müəyyən müddətə masın və avadanlıqlarının istifadəyə götürülməsi
+C : istehsal fondlarının müəyyən müddətə istifadəyə götürülməsi
+D : müəyyən ödəniş haqqı ilə əmlakın müəyyən müddətə istifadə üçün icarəyə götürülməsi+
+E : müəyyən müddətə xammal və materialların istifadəyə götürülməsi
+ANSWER : D
+165	  Əmək haqqının təşkilinin tariflər variantı hansılardır? 
+
+A : hər bir işçiyə onun ixtisas səviyyəsini müəyyən edən daimi əmsalların verilməsi;
+B : əməyin ödənilməsinin kollektiv forması; +
+C : hər bir işçiyə kollektiv əməkdəki iştirak dərəcəsinə görə;
+D : hər bir işçinin istehsal fəaliyyətində əməkdə iştirak əmsalına görə;
+E : hər bir işçiyə əmək fəaliyyətindəki fərdi xüsusiyyətə görə.
+ANSWER : B
+166	  Qulluqçuların tarif əmək haqqı hansı təsnifatla ödənilir? 
+
+A : bütün xalq təsərrüfatı sahələri üçün eyni olan mütəxəssis vəzifələri üzrə;
+B : bütün xalq təsərrüfatı sahələri üçün eyni olan qulluqçu vəzifələri üzrə; +
+C : ayrı-ayrı sahələrə mənsub olan mütəxəssis vəzifələri;
+D : bütün sahələrə aid olan inzibati-təsərrüfat strukturları;
+E : müxtəlif sahələrin müəssisə rəhbərləri və rəhbər işçi vəzifəsi.
+ANSWER : B
+167	Material tutumu belə müəyyən edilir
+
+A : xammalın miqdarının istehsal edilmiş məhsulun ümumi həcminə nisbəti ilə
+B : əmək vasitələrinin istehsal edilmiş ümumi məhsulun həcminə nisbəti ilə
+C : dövriyyə vəsaitlərinin istehsal edilmiş ümumi məhsulun həcminə nisbəti ilə
+D : material məsrəflərinin ümumi həcminin istehsal edilmiş ümumi məhsulun həcminə nisbəti ilə+
+E : material məsrəflərinin işçilər sayına nisbəti ilə
+ANSWER : D
+
+168	  Əmək haqqına əlavələr və artımlar neçə qrupa bölünür? 
+
+A : icra edilən işin xüsusi xarakterinə görə;
+B : stimul yaradan qruplar üzrə; +
+C : normal əmək şəraitindən kənarlaşan iş üçün;
+D : daimi yeraltı işlərdə işləmə;
+E : yaxşi işlərə görə.
+ANSWER : B
+169
+	  Məhsul vahidinin əmək haqqı tutumluğunun kalkulyasiya metodu ilə hesablanmasında nələr nəzərdə tutulur? 
+
+A : əlavə əmək haqqı;
+B : əsas əmək haqqı; +
+C : qeyri-müstəqim əmək haqqı;
+D : mükafatlar;
+E : sex və ümumzavod xərcləri.
+ANSWER : B
+170	Ayrı-ayrı sahələr üzrə ümumi iqtisadi səmərəlilik belə hesablanır 
+
+A : mənfəət artımının kapital qoyuluşuna nisbəti ilə+
+B : gəlirin kapital qoyuluşuna nisbəti ilə
+C : satış həcminin kapital qoyuluşuna nisbəti ilə
+D : istehsal xərclərinin kapital qoyuluşuna nisbəti ilə
+E : ümumi məhsul həcminin işçilərin sayına nisbəti ilə
+ANSWER : A
+
+171	  Qulluqçuların əmək haqqının qaydaya salınmasında hansı məsələlər həll edilməlidir?
+
+A : eyni kateqoriyalı işçilərin əməyinin ödənilməsindəki fərqin aradan qaldırılması;
+B : vəzifə maaşlarının işin xarakteri, həcmi, mürəkkəbliyindən asılı olaraq artırılması; +
+C : vəzifə maaşlarının idarə tabeliyindən asılı olaraq qaldırılması;
+D : mühəndis-texniki işçilərin əmək haqqının verilməsində düzgün nisbətin qoyulması;
+E : yüksək və az maaş alan qulluqçuların əmək haqqı səviyyəsindəki böyük fərqləri     azaltmaq.
+ANSWER : B
+172	  Qulluqçuların vəzifə maaşları tərtib olunarkən hansı amillər nəzərə alınır? 
+
+A : istehsalın həcmi, xarakteri və mürəkkəbliyi;
+B : həmin sahənin xalq təsərryfatı əhəmiyyəti; +
+C : işçinin daşıdığı vəzifə və  icra etdiyi işlər;
+D : işçinin ixtisası;
+E : müəssisə, sex və istehsal sahəsinin əhəmiyyəti.
+ANSWER : B
+173	  Real əmək haqqının həcminə bu amillər təsir edir:
+
+A : bazar qiymtləri;
+B : nominal əmək haqqının həcmi və bazar qiymtləri;+
+C : nominal əmək haqqının həcmi;
+D : minimal əmək haqqının səviyyəsi;
+E : nominal və minimal əmək haqqının həcmi.
+ANSWER : B
+174	Lizinq nə deməkdir 
+
+A : təşkilatın əsas fondlanının icarəsi
+B : maşın və avadanlıqların materialların icarəsi
+C : sonradan lizinq sahibinin mülkiyyətinə verilməklə maşın, avadanlıq, istehsal tikililərinin icarəsi+
+D : sonradan miütləq icarə verənə qaytarmaq şərtilə maşın, avadanlıq, istehsaltikililərinin icarəsi
+E : maşın və avadanlıqların satışı
+ANSWER : C
+175	  İşəmuzd əmək haqqının tətbiqi səmərəlidir:
+
+A : məhsul buraxılışının artırılması imkanı olmaması halda;
+B : işin bilavasitə konkret işçidən asılı olan kəmiyyət göstıricilərin mövcud olması;+
+C : istehsal prosesinin ciddi reqlamentləşdirilməsi zaman;
+D : fəhlənin funksiyası texnoloji prosesin gedişinə nəzarətdən ibarət olduqda
+E : axınlı və konveyer tipli istehsalların müəyyən edilmiş ritmlə fəaliyyət göstərməsi     zaman.
+ANSWER : B
+176	  Müəssisələrdə  vaxtamuzd əmək haqqının tətbiqi səmərəlidir:
+
+A : işin bilavasitə konkret işçidən asılı olan kəmiyyət göstıricilərin mövcud olması;
+B : məhsul buraxılışının artırılması imkanı olmaması halda;+
+C : yerinə yetirilən işlərin həcminin dəqiq uçotunun mümkünlüyü zaman;
+D : fəhlələrdə konkret istehsal sahəsində yerinə yetirilən işlərin həcminin artırılması imkanının olması zaman.
+ANSWER : B
+177	E4= Q-MD :/K düsturu müəyyən edir  Q-məhsulun qiyməti, Md- məhsulun maya dəyəri, K-kapital qoyuluşu
+
+A : bütövlükdə milli təsərrüfatın ümumi iqtisadi səmərəliliyini
+B : təsərrüfat komplekslərinin ümumi iqtisadi səmərəliliyini
+C : sahələrin ümumi iqtisadi səmərəliliyini
+D : yeni tikilən müəssisələrin, sexlərin, ayrı-ayrı tədbirlərin ümumi iqtisadi səmərəliliyini+
+E : məhsul satışından əldə edilən mənfəəti
+ANSWER : D
+178	  İşçinin əmək haqqı bu amildən asılı deyil:
+
+A : ixtisas səviyyəsindən;
+B : nominal vaxt fondundan.+
+C : əməkdə iştirak payından;
+D : faktiki sərf etdiyi vaxtdan;
+E : əməyin ödənilməsi fondundan.
+ANSWER : B
+179	Məhsulun maya dəyəri nəyin əsasında müəyyən edilir 
+
+A : xərc elementləri əsasında
+B : xərc maddələrinin kalkulyasiyası əsasında+
+C : xərclərin növlərinə görə
+D : birbaşa xərclər əsasında
+E : daimi xərclər əsasında
+ANSWER : B
+180	  Dolayı işəmuzd sistemdə işin qiyməti asılıdır:
+
+A : istehsal olunmuş məhsulun miqdarından;
+B : xidmət  etdikləri işəmuzd fəhlələrin əməyinin nəticələrindən;+
+C : məhsul vahidi üçün işin qiymətindən;
+D : vaxt vahidi üçün hasilat normasından.
+ANSWER : B
+181	  Müəyyən edilməsi qaydalarına görə təsbit edilən qiymətlər bu:
+
+A : tərəflərin razılığı ilə müəyyən edilən qiymətlər; 
+B : dövlət tərəfindən müəyyən təsir göstərməklə tələb və təklif nisbətləri əsasinda formalaşır;
+C : dövlət tərəfindən təyin olunurlar;+
+D : tələb və təklifin təsiri altında formalaşır;
+E : sahibkar tərəfindən təyin olunur. 
+ANSWER : C
+182	Müqayisəli iqtisadi səmərəlilik verilən müqayisə əsasında müəyyən edilir
+
+A : variantlar üzrə gətirilmiş minimum xərclər görə+
+B : variantlar üzrə istehsal edilən məhsul həcmininə görə
+C : variantlar üzrə cari xərclərə görə
+D : variantlar üzrə kapital qoyuluşlarına görə
+E : variantlar üzrə işçilər sayına görə
+ANSWER : A
+183	İstehsal xərclərinin elementlər üzrə klassifikasiyası istifadə edilir
+
+A : maya deyerinin kalkulyasiyasi üçün
+B : istehsal maya dəyərinin müəyyən edilməsi üçün
+C : ümumi məbləğin hesablanması üçün
+D : istehsalın xərclər smetasının tərtibi üçün+
+E : sex maya dəyərinin hesablanması üçün
+ANSWER : D
+184	  Müəyyən edilməsi qaydalarına görə  müqavilə qiymətlər bu :
+
+A : dövlət tərəfindən müəyyən təsir göstərməklə tələb və təklif nisbətləri əsasinda  formalaşır; 
+B : tərəflərin razılığı ilə müəyyən edilən qiymətlər; +
+C : tələb və təklifin təsiri altında formalaşır; 
+D : dövlət tərəfindən təyin olunurlar; 
+E : sahibkar tərəfindən təyin olunur.
+ANSWER : B
+185	  Müəyyən edilməsi qaydalarına görə  sərbəst qiymətlər bu: 
+
+A : tələb və təklifin təsiri altında formalaşır;+
+B : dövlət tərəfindən müəyyən təsir göstərməklə tələb və təklif nisbətləri əsasında formalaşır;
+C : dövlət tərəfindən təyin olunurlar; 
+D : sahibkar tərəfindən təyin olunur.
+E : tərəflərin razılığı ilə müəyyən edilən qiymətlər;  
+ANSWER : A
+186	Bu xərclərin hansı dəyişən xərclərə aiddir 
+
+A : material xərcləri+
+B : bank kreditlərinin ödənməsi
+C : amortizasiya ayırmaları
+D : əsaslı təmir xərcləri
+E : sex xərcləri
+ANSWER : A
+187	  Müəyyən edilməsi qaydalarına görə  tənzimlənən qiymətlər bu 
+
+A : tələb və təklifin təsiri altında formalaşır;
+B : dövlət tərəfindən təyin olunurlar; 
+C : tərəflərin razılığı ilə müəyyən edilən qiymətlər; 
+D : dövlət tərəfindən müəyyən təsir göstərməklə tələb və təklif nisbətləri əsasinda    formalaşır;+
+E : sahibkar tərəfindən təyin olunur.
+ANSWER : D
+188	Əsas fondların quruluşu ifadə edir:
+
+A : əsas fondların ayrı-ayrı elementlərinin bir-birinə nisbətini
+B : əsas fondların aktiv və passiv hissələrinin bir-birinə nisbətini
+C : əsas fondların ayrı-ayrı elementlərinin ümumi dəyərə nisbətini+
+D : əsas fondların ayrı-ayrı qruplarının ümumi istehsal fondlarına nisbətini
+E : əsas fondların ayrı-ayrı elementlərinin dövriyyə fondlarına nisbətini
+ANSWER : C
+189	  Müəssisənin topdansatış qiymətinə daxildir:
+
+A : xərclər;+
+B : mənfəət:+
+C : əlavə dəyər vergisi;+
+D : nəqliyyat xərcləri;
+ANSWER : A
+190	  Hansı təşkilatlar kommersiya təşkilatı kimi qəbul olunur?:
+
+A : müstəqil balansı olan hər hansı bir təşkilatlar;
+B : fəaliyyətinin məqsədindən asılı olmayaraq mənfəət əldə edən hər hansı bir təşkilat    
+C : mənfəət əldə edilməsini əsas məqsəd qoyan hər hansı bir təşkilat;  +
+D : hüquqi qeydiyyatı olan təşkilat;
+E : kommersiya bankında hesabı olan təşkilat.
+ANSWER : C
+191	Əsas fondların uçotu və planlaşdırılması aparılır: 
+
+A : natural ifadədə
+B : pul ifadəsində
+C : natural və dəyər ifadəsində+
+D : aparılmır
+E : valyuta ilə
+ANSWER : C
+192	  Əsas fondların  bərpa dəyəri bu:
+
+A : əsas fondların ilk dəyərindən köhnəlmə dəyəri çıxılmaqla hesablanır;
+B : müxtəlif illərdə yaradılmış əsas fondların cari ilin qiymətləri ilə dəyərləndirilməsi;+
+C : istismara verildiyi zaman olan dəyəridir;  
+D : müəssisənin balansında əks etdirilən dəyərdir;
+ANSWER : B
+193	Dəyişən istehsal xərclərinə aid edilir
+
+A : miqdarı məhsul həcmindən asilı olmayan xərclər
+B : miqdarı istehsal olunan məhsulun həcmindən asilı olan xərclər+
+C : ümumzavod xərcləri
+D : idarə heyətinin əmək haqqı xərcləri
+E : amortizasiya xərcləri
+ANSWER : B
+194	  Diskont əmsalı bu :
+
+A : xüsusi diskont stavkasıdır
+B : gələcəkdə əldə edilən pul gələrlərinin cari dəyərlə ifadəsidir; +
+C : investisiya  edilmiş kapitalın dəyəridir;
+D : investisiya  edilmiş kapitalın gələcək dəyəridir;
+ANSWER : B
+195	  Satış üzrə əməliyyat rentabelliyi:
+
+A : avianəqliyyat məhsullarının satışından əldə edilən mənfəətin pul gəlirlərinə olan nisbətidir;
+B : əməliyyat mənfəətinin pul gəlirlərinə olan nisbətidir;+
+C : avianəqliyyat məhsullarının satışından əldə edilən xalis mənfəətin pul gəlirlərinə olan nisbətidir;
+ANSWER : B
+196	Əsas fondlar qiymətləndirilir
+
+A : ilkin və qalıq dəyəri ilə
+B : bərpa və qalıq dəyəri ilə
+C : qalıq dəyəri ilə
+D : ilkin, bərpa və qalıq dəyəri ilə+
+E : təmirin səviyyəsinə görə
+ANSWER : D
+197 Cihazqayırma sənayesinin planlaşdırılmasının əsas məsələsi hansıdır?
+
+A : elm və texnikanın son tələblərinə uygun gələn cihazların istehsalının artırılması+
+B : C/Q sənayesi və onun ayrı-ayrı sahələrinin inkişafında mütənasibliyin təmin olunması +
+C : daxili ehtiyatların aşkar edilməsi və istifadəsi+
+D : müəssisənin iqtisadi göstəricilərinin müntəzəm yaxşılaşdırılması+
+E : istehsalın ümumi həcminin artırılması
+ANSWER : A
+198	Şərti sabit istehsal xərclərinə aid edilir
+
+A : miqdarı istehsal olunan məhsulun həcmindən asılı olmayan xərclər+
+B : miqdarı istehsal olunan məhsulun həcmindən asılı olan xərclər
+C : əsas kapitalla əlaqədar xərclər
+D : dövriyyə kapitalı ilə əlaqədar xərclər
+E : kadr hazırlığı ilə əlaqədar xərclər
+ANSWER : A
+199	  Cihazqayırma zavodunun işi nəticəsində əldə edilən xalq təsərrüfatı səmərəsi bununla ölçülə bilər:
+
+A : zavod tərəfindən istehsal və realizə olunmuş məhsulun həcmi+
+B :  zavod tərəfindən əldə edilmiş təmiz gəlir(mənfəət)                         +                
+C :  sahədə bu zavodun fəaliyyəti nəticəsində əldə edilmiş əlavə təmiz gəlir       +     
+D : zavodun planlaşdırdığı istehsalın ümumi həcmi
+E : zavodun ümumi xərcləri
+ANSWER : A
+200	  Cihazqayırma zavodunun xərcləri kimi bunlar götürülə bilər:
+
+A : zavodun işçilərinin canlı əməyinin xərcləri+
+B : cihazların istehsalına sərf olunan bütün pul xərcləri+
+C : müəssisənin əsas və dövriyyə fondlarına sərf olunan vəsaitlər+
+D : sosial məsələlərin həllinə çəkilən xərclər
+E : nəqliyyat xərcləri
+ANSWER : A
+201	Amortizasiya
+
+A : əsas fondların fiziki aşınmasının pul ilə ifadəsidir
+B : əsas fondların mənəvi aşınmasının pul ilə ifadəsidir
+C : istehsal fondların fiziki və mənəvi aşınmasının pul ilə ifadəsidir
+D : əsas fondların fiziki və mənəvi aşınmasının pul ilə ifadəsidir+
+E : dövriyyə fondlarının dəyərinin ödənmə vasitəsidir
+ANSWER : D
+202	  Mənfəət üzərindəformalaşan səmərəlilik  göstəriciləri belə adlanır:
+
+A : nəticə göstəriciləri
+B : rentabellik göstəriciləri+
+C : inteqral göstəricilər
+D : təsərrüfat göstəriciləri
+E : gəlir göstəriciləri
+ANSWER : B
+203	  Dövriyyə vəsaitlərinin əsas xüsusiyyəti budur:
+
+A : istehsal formasında ifadə olunan istehlak dəyəri
+B : dövriyyə prosesinin kəsilməzliyi+
+C : bir dövriyyədə başa çatır
+D : yalnız istehsalat mərhələsində fəaliyyət göstərir 
+E : proses yenidən bərpa olunmur
+ANSWER : B
+204	İstehsal xərcləri bolünürlər
+
+A : şərti sabit və dəyişən+
+B : sabit va qeyri-sabit
+C : daimi va material xərcləri
+D : amortizasiya xərcləri və əmək məsrəfləri
+E : çevik və sabit
+ANSWER : A
+205	  Cihazqayırma müəssisəsinin rentabelliyi:
+
+A : mənfəətin xərclərə nisbəti ilə ifadə olunur+
+B : istehsal xərclərinin ümumi xərclərə nisbətidir
+C : bütövlükdə mənfəəti ifadə edir
+D : satışdan əldə edilən gəlirdir
+E : gəlirlərlə xərclərin fərqidir
+ANSWER : A
+206	  Cihazqayırma müəssisəsinin ölçüləri əsasən bu göstəricilərlə xarakterizə olunur:
+
+A : istehsal gücü+
+B : avadanlıq vahidlərinin sayı+
+C : istehsalat sahəsinin ölçüsü+
+D : sexlərin tərkibi+
+E : işçilərin sayı+
+ANSWER : A
+207	Amortizasiya norması
+
+A : əmək vəsaitlərinin balans dəyərinin hər il istehsal olunan məhsulun maya dəyərinin üzərinə keçirilən hissəsidir+
+B : əsas fondların dəyərinin hər il büdcəyə keçirilən hissəsidir
+C : əsas fondların qalıq dəyərinin məhsulun maya dəyərinin üzərinə keçirilən hissəsidir
+D : əsas fondların ləğv dəyərinin hər il məhsulun dəyərinə keçirilən hissəsidir
+E : əsas fondların yeniləşməsinə hesablanan vəsaitdir
+ANSWER : A
+208	  Cihazqayırma müəssisəsinin ölçülərinə həmçinin bu amil təsir edir:
+
+A : ixtisaslaşma           +         
+B : kooperasiya+
+C : avdanlığın müasirliyi
+D : sexlərin interyeri
+E : işçilərin səriştəliliyi
+ANSWER : A
+209	  Cihazqayırma müəssisəsinin belə ixtisaslaşma variantı vardır:
+
+A : predmet ixtisaslaşması+
+B : detallar üzrə ixtisaslaşma+
+C : texnoloji prosesin ayrıca mərhələləri üzrə ixtisaslaşma+
+D : köməkçi istehsalatın müxtəlif növləri üzrə ixtisaslaşma +
+E : əlavə işlər üzrə ixtisaslaşma
+ANSWER : A
+210	Tədavül fondları özündə əks etdirirlər
+
+A : əmtəəlik məhsulun həcmi, yüklənmiş məhsullar
+B : hazır məhsul, müəssisənin pul vəsaitləri, xammal və materiallar
+C : anbarda satışa hazır məhsul, yüklənmiş amma haqqı ödənilməmiş məhsullar, pul vəsaitləri və hesablardakı pullar+
+D : satış məhsulunun həcmi, gələçək dövrün xərcləri
+E : əmtəəlik məhsul, satış məhsullarının həcmini
+ANSWER : C
+211	  Cihazqayırma istehsalının yerləşdirilməsinin əsas prinsiplərinə bu aiddir:
+
+A : müəssisənin onun məhsulunun əsas istehlak rayonuna yaxınlığı+
+B :  müəssisənin əsas işçi qüvvəsinin çox olduğu yerə yaxınlığı              +                          
+C :  müəssisənin sahəüzrə çalışan ETİvə KB-larının yerləşdiyi rayona yaxınlığı +                  
+D : müəssisənin yerləşməsinin ölkənin müdafiə məsələləri ilə uyğunlaşdırılması+
+E : müəssisənin vergi orqanlarına  yaxınlığı 
+ANSWER : A
+212	  Cihazqayırma müəssisəsinin məhsul planının əsas göstəricisi: 
+
+A : istehsalda çalışan işçilərdir
+B : istehsalda istifadə olunan avadanlıqların sayıdır
+C : istehsala çəkilən xərclərdir
+D : realizə olunmuş məhsuldur+
+E : istehsala sərf olunan xammaldır
+ANSWER : D
+213	Əsas fondların qalıq dəyəri aşağıdakılar arasındakı fərqi əks etdirir
+
+A : əsas fondların ilkin dəyəri ilə onların passiv hissəsi arasındakı fərqi
+B : əsas fondların bərpa dəyəri ilə bina və tikililərin dəyəri arasındakı fərqi
+C : əsas fondların ilkin (və ya bərpA : dəyəri ilə aşınma məbləği arasındakı fərqi+
+D : əsas fondların ilkin dəyəri ilə il ərzində istehsaldan çıxarılan əsas fondların dəyəri arasındakı fərqi
+E : əsas fondların orta illik dəyəri ilə istehsaldan çıxarılan əsas fondların dəyəri arasındakı fərqi
+ANSWER : C
+214	  İstehsal olunmuş cihazqayırma məhsulunun texniki səviyyəyə görə təsnifatına bu daxildir:
+
+A : əsas parametrləri dövlət standartları və ən yaxşı xarici modelləri üstələyən cihazlar +
+B : əsas parametrləri dövlət standartlarının yüksək göstəricilərinə və ən yaxşı xarici ölkə  nümunələrinə     uyğun gələn cihazlar           +
+C : mühüm parametrlərinin əksəriyyətinin xarici analoqlara uyğun gələn cihazlar+
+D : bütün parametrlər üzrə köhnəlmiş cihazlar+
+ANSWER : A
+215	  Cihazqayırma zavodu üçün əsas məcmu pul göstəricisi:
+
+A : əmtəə məhsuludur+
+B : xammala çəkilən xərclərdir
+C : müəssisənin əsas və dövriyyə fondlarına sərf olunan vəsaitlər
+D : sosial məsələlərin həllinə çəkilən xərclər
+E : nəqliyyat xərcləri
+ANSWER : A
+216	  Ölkə iqtisadiyyatının əsasını bu sahə təşkil edir:
+
+A : kənd təsərrüfatı 
+B : nəqliyyat 
+C : rabitə 
+D : sənaye +
+E : ticarət 
+ANSWER : D
+217	Əsas fondların ilkin dəyəri
+
+A : əsas fondların ilin əvvəlinə olan dəyəridir
+B : əsas fondların istehsalına çəkilən xərclərin cəmidir
+C : əsas fondların gətirilməsinə çəkilən xərclərin cəmidir
+D : əsas fondların alınmasına, gətirilməsinə və qurulmasına çəkilən xərclərin cəmidir+
+E : əsas fondların ilin axırına olan dəyəridir
+ANSWER : D
+218	  Bu sahə iqtisadiyyatın özülü sayılır:
+
+A : yüngül sənaye 
+B : ağır sənaye+
+C : rabitə 
+D : nəqliyyat  
+E : tikinti 
+ANSWER : B
+219	  Sənayenin başlıca bölməsi budur:
+
+A : istehsal vasitələri istehsalı +
+B : istehlak vasitələri istehsalı+
+C : ticarət malları istehsalı
+D : rabitə vasitələri istehsalı
+E : nəqliyyat vasitələri istehsalı
+ANSWER : A
+220	  Bu sənaye sahəsinə aid deyil:
+
+A : tikinti +
+B : maşınqayırma 
+C : cihazqayırma 
+D : neft-kimya 
+E : energetika 
+ANSWER : A
+221	Əsas fondların bərpa dəyəri:
+
+A : əsas fondların müasir şəraitdə yenidən qiymətləndirilməsinə çəkilən xərclərdir
+B : əsas fondların müasir şəraitdə təkrar istehsalına çəkilən xərclər+
+C : əsas fondların növlərə görə sinifləşdirilməsinə çəkilən xərclərdir
+D : əsas fondların ilkin dəyəri ilə amortizasiya ayırmaları arasındakı fərqdir
+E : əsas fondların təmirinə çəkilən xərcdir
+ANSWER : B
+222 Ölkə vətəndaşlarının xalq istehlakı malları ilə təminatı əsasən bu sənaye sahələrinin nkişafından asılıdır:
+
+A : yüngül və yeyinti sənayesi +
+B : kimya və neft kimya sənayesi 
+C : maşınqayırma və cihazqayırma sənayesi
+D : energetika və elektroenergetika  
+E : ağır və yüngül sənaye 
+ANSWER : A
+223	  Bu  xalq təsərrüfatında elmi-texniki tərəqqinin sürətləndirilməsi üçün əsasdır:
+
+A : ticarət
+B : rabitə 
+C : kimya+
+D : maşınqayırma+
+E : elektroenergetika +
+ANSWER : C
+224	Əsas fondların aşınmasının aşağıdakı növləri mövcuddur
+
+A : fiziki və texnoloji
+B : texniki və estetik
+C : fiziki və mənəvi+
+D : fiziki və kimyəvi
+E : təbii və ekoloji
+ANSWER : C
+225	  Bu sənayeni xarakterizə edən göstəricilərə aid deyil:
+
+A : kəmiyyət                          
+B : keyfiyyət 
+C : təbiət+
+D : dəyər
+E : natural 
+ANSWER : C
+226	Dövriyyə istehsal fondlarına daxildir
+
+A : xammal, material, yanacaq və avadanlıqlar
+B : istehsal ehtiyatları və tədavül fondu
+C : istehsal ehtiyatları, bitməmiş istehsal, özünün istehsal etdiyi yarımfabrikatlar və gələcək dövrün xərcləri+
+D : materiallar, maşın va avadanlıqlar, binalar
+E : hazır məhsul qalığı
+ANSWER : C
+227	  Bu ictimai istehsalın səmərəliliyinin yüksəldilməsi üçün əsas sayılır:
+
+A : kənd təsərrüfatı
+B : nəqliyyat 
+C : sənaye+
+D : rabitə
+E : tikinti 
+ANSWER : C
+228	  İctimai əmək bölgüsünün bu növü yoxdur:
+
+A : ümumi
+B : xüsusi
+C : özəl+
+D : vahid
+ANSWER : C
+229	Amortizasiya normalarının hesabı asağıdakı nısbətlə aparılır
+
+A : əsas fondların orta illik dəyərinin kapital qoyuluşuna nisbəti ilə
+B : əsas fondların ilkin və qalıq dəyəri arasındakı fərqin onların normativ xidmət müddətinə nisbəti ilə
+C : əsas fondların ilkin dəyəri ilə bərpa dəyərinin arasındakı fərqin onların normativ xidmət müddətinə nisbəti ilə
+D : əsas fondların ilkin və ləğv dəyəri arasındakı fərqin onların normativ xidmət müddətinə nisbəti ilə+
+E : əsas fondların dəyərinin məhsul buraxılışı həcminə nisbəti
+ANSWER : D
+230	  İctimai əmək bölgüsünün inkişafı buna səbəb olur:
+
+A : sənayenin tənəzzülü
+B : sənayenin tərəqqisi 
+C : sənayenin digər sahələrlə birləşməsi
+D : sənayenin sahələrə bölünməsi+
+ANSWER : D
+231	  İctimai istehsalın iri maddi istehsal sahələrinə bölünməsi bunu təmin edir:
+
+A : ümumi əmək bölgüsü+
+B : xüsusi əmək bölgüsü 
+C : vahid əmək bölgüsü
+D : istehsalın tənəzzülü
+E : istehlakın tənəzzülü 
+ANSWER : A
+232	Əsas fondların genis təkrar istehsalı özündə əks etdirir
+
+A : yeni tikinti, əsaslı təmir, əsas fondların yenidən qurulmsı
+B : fəaliyyətdə olan istehsalların genişləndirilməsi, köhnə avadanlıqların əvəz edilməsi
+C : yeni tikinti, istehsalların yenidən qurulması, avadanlıqların modernləşdirilməsi+
+D : əsaslı təmir, əsas fondların yeniləşdirilməsi
+E : avadanlıqların əsaslı təmiri
+ANSWER : C
+233	  Sənayenin və istehsalın digər sahələrinin tərkibində müstəqil sahələrin əmələ gəlməsi buna gətirib çıxarır:
+
+A : ümumi əmək bölgüsü
+B : xüsusi əmək bölgüsü +
+C : vahid əmək bölgüsü
+D : istehsalın tənəzzülü
+E : istehlakın tənəzzülü
+ANSWER : B
+234	  Sənaye sahələrini bir-birindən fərqləndirən əsas əlamətlər sırasında bu yoxdur:
+
+A : istehsal olunan məhsulun iqtisadi təyinatı
+B : istehlak olunan materialların xarakteri 
+C : istehsal olunan məhsulun istehlak dəyəri+
+D : istehsalın texniki bazası və texnoloji proses
+E : kadrların peşə tərkibi
+ANSWER : C
+235	  Müəssisədəki əmək bölgüsü bu əmək bölgüsüdür:
+
+A : ümumi əmək bölgüsü
+B : xüsusi əmək bölgüsü 
+C : vahid əmək bölgüsü+
+D : özəl əmək bölgüsü
+ANSWER : C
+236	Əsas fondların səmərəlilik göstəricisi hesab edilir 
+
+A : fondverimi, fondtutumu+
+B : əsas fondların orta illik dəyəri, əmək məhsuldarlığı
+C : əsas fondların aktiv və passiv hissələrinin nisbəti
+D : məhsulun rentabelliyi
+E : əsas fondların quruluşu
+ANSWER : A
+237	  Sənayenin sahələrinin və komplekslərin tərkibini, sənaye istehsalının ümumi həcmində onların payını əks etdirən anlayış belə adlanır: 
+
+A : sənaye sahələrinin məcmusu
+B : sənayenin sahə quruluşu +
+C : sənayenin komplekslərinin məcmusu
+D : sənayenin bölgüsü
+E : sənayenin payı 
+ANSWER : B
+238	 İnsanlara məqsədyönlü təsir göstərmək üçün idarə olunmada tətbiq edilən ardıcıl, qarşılıqlı əlaqəli fəaliyyət növləri necə   adlanır:
+
+A : idarəetmə orqanı  
+B : idarəetmə prosesi  
+C : idarəetmə üsulları
+D : menecmentin funksiyaları+
+E : menecmentin prinsipləri
+ANSWER : D
+239	  Müddətinə görə planlaşdırmanın növlərini göstərin:
+
+A : strateji+
+B : orta müddətli+
+C : cari+
+D : davamlı  
+E : mərhələli
+ANSWER : A
+240	Fondverimi
+
+A : əsas istehsal fondların 1 man-a düşən məhsul buraxılışı
+B : istehsal fondlarının 1 man-a düsən mənfəət
+C : dövriyyə fondlarının 1 man-a düsən məhsul buraxılışı
+D : əsas fondların orta illik dəyərinin 1 man-a düşən məhsul buraxılışı+
+E : istehsal fondlarnın 1 man-a düşən məhsuldarlıq
+ANSWER : D
+241	  Menecmentin funksiyalarına aiddir:
+
+A : məqsədin müəyyən edilməsi
+B : strategiyanın seçilməsi
+C : standartların qoyulması, istehsalın təşkili, kadrların seçilməsi
+D : planlaşdırma, təşkiletmə, motivləşdirmə, nəzarət, qərarın qəbul edilməsi+
+ANSWER : D
+242	  Yalnız hissiyat əsasında qəbul olunan qərar hansı qərardır:
+
+A : rasional qərar
+B : reaktiv qərar
+C : intuitiv qərar	+
+D : mülahizələrə əsaslanan qərar
+ANSWER : C
+243	Dövriyyə vəsaitlərinin dövr etməsi əmsalı necə hesablanır 
+
+A : ümumi məhsul həcminin dövriyyə vəsaitlərinin həcminə bölünməsi yolu ilə
+B : əmtəəlik məhsul həcminin dövriyyə fondunun həcminə bölünməsi yolu ilə
+C : satış məhsulu həcminin dövriyyə fondunun həcminə bölünməsi yolu ilə
+D : satış həcminin dövriyyə vəsaitlərinin orta qalıq dəyərinə bölünməsi yolu ilə+
+E : əmtəəlik məhsulun ümumi məhsula nisbəti
+ANSWER : D
+244	  Uzun müddət mövcud olan, qanunla təsdiqlənmiş atribulara malik olan hüquqi şəxs hansı təşkilatlara aiddir:
+
+A : qeyri-formal təşkilatlara
+B : qanuni təşkilatlara
+C : səhmdar cəmiyyətlərinə
+D : formal təşkilatlara  +
+E : hüquqi təşkilatlara
+ANSWER : D
+245	  Menecer kimdir:
+
+A : yalnız işçilərin idarəedilməsində iştirak edən şəxs
+B : təşkilatı təsis edən şəxs
+C : təşkilatın idarəedilməsində iştirak edən şəxs+
+D : təşkilatı resurslarla təmin edən şəxs  
+ANSWER : C
+246	Masın və avadanlıqlardan ekstensiv istifadə əmsalı onlardan nəyə görə istifadə səviyyəsini əks etdirir
+
+A : gücə görə
+B : məhsuldarlığa görə
+C : vaxta görə+
+D : mobilliyə görə
+E : çevikliyə
+ANSWER : C
+247	  Aşağıdakılardan hansılar təşkilatın daxili mühitini təşkil edirlər:
+
+A : təşkilatın məqsədləri, strukturu, ətraf mühiti, ölkədəki siyasi vəziyyət
+B : təşkilatın strukturu, resursları, istehlakçıları, ölkə qanunları
+C : səhmdarlar, istehlakçılar, ticarət müəssisələri, rəqiblər, malgöndərənlər
+D : təşkilatın məqsədləri, strukturu, texnologiyası, işçiləri+
+ANSWER : D
+248	  Menecerin əsas vəzifəsinə daxildir:
+
+A : işçiləri idarə etmək+
+B : istehsalı və texnologiyanı bilmək və idarə etmək            +                                                                               
+C : informasiyanı idarə etmək+
+D :  təşkilatın ətraf mühitdən asılılığını azaltmaq
+ANSWER : A
+249	Maşın və avadanlıqlardan intensiv istifadə əmsalı onlardan istifadə səviyyəsini əks etdirir
+
+A : yüklənmə həcminə görə
+B : məhsuldarlığa görə+
+C : vaxta görə
+D : mobilliyə görə
+E : çevikliyə
+ANSWER : B
+250	Bazardakı tələb və təklifin öyrənilməsinə yönələn idarəetmə funksiyası hansıdır:
+
+A : planlaşdırma
+B : təşkiletmə
+C : motivləşdirmə
+D : marketinq  +
+E : nəzarət
+ANSWER : D
+251	  Marketinqin makromühiti nədir:
+
+A : məhsulun xassələr toplusudur
+B : təşkilatın funksional strukturlarıdır
+C : formal və qeyri-formal qruplardır
+D : elə bir subyekt və qüvvələrdir ki, şirkət onlara təsir edə bilər
+E : elə bir subyekt və qüvvələrdir ki, şirkət onlara təsir edə bilməz+
+ANSWER : E
+252	Dövriyyə vəsaitlərinin quruluşu aşağıdakı nisbətlə müəyyən edilir
+
+A : istehsal ehtiyatlarının bitməmiş istehsala nisbəti
+B : istehsal ehtiyatlarının gələcək dövrün xərclərinə nisbəti
+C : dövriyyə fondunun tədavül fonduna nisbəti
+D : dövriyyə fondunun ayrı-ayrı elementlərinin ümumi cəmə nisbəti+
+E : xammalların dəyərinin materialların dəyərinə nisbəti
+ANSWER : D
+253	Marketinqin mikromühiti nədir:
+
+A : məhsulun xassələr toplusudur
+B : təşkilatın funksional strukturlarıdır
+C : formal və qeyri-formal qruplardır
+D : elə bir subyekt və qüvvələrdir ki, şirkət onlara təsir edə bilər+
+E : elə bir subyekt və qüvvələrdir ki, şirkət onlara təsir edə bilməz
+ANSWER : D
+254	Nəyin vasitəsilə hər bir şirkət bazara təsir edə bilər:
+
+A : "4 p” kompleksi vasitəsilə+
+B : yalnız reklam vasitəsilə
+C : yalnız qiymət vasitəsilə
+D : yalnız məhsul vasitəsilə
+ANSWER : A
+255	Avadanlıqlardan inteqral istifadə əmsalı necə hesablanır
+
+A : avadanlıqların növbəlilik əmsalı ilə onlardan intensiv istifadə əmsalının hasili kimi
+B : avadanlıqların intensiv ya ekstensiv istifadə əmsalının hasili kimi+
+C : ümumi məhsul həcminin asas fondların aktiv hissəsinə nisbəti kimi
+D : avadanlıq məhsuldarlığının islanmış maşın-saatlara hasili kimi
+E : satış məhsulunun dövriyyə vəsaitlərinə nisbəti kimi
+ANSWER : B
+256	  Yeni məhsulun bazara çıxarılması nədir:
+
+A : tələbin formalaşması
+B : təşviqat kampaniyası
+C : məhsulun həyat dövrünün mərhələsi+
+D : satışın həvəsləndirilməsi
+E : məhsulun mövqeləşdirilməsi
+ANSWER : C
+257	 Məhsulun həyat dövründə məlumatlandırıcı reklamdan daha çox hansı mərhələdə istifadə olunur:
+
+A : artım
+B : bazara çıxarılması+
+C : tənəzzül
+D : bütün mərhələlərdə
+E : yetkinlik
+ANSWER : B
+258	Müəssisənin dövriyyə vəsaitləri
+
+A : dövriyyə fondu və əmək vasitələrinin cəmidir
+B : dövriyyə fondu və əmək məhsulunun cəmidir
+C : dövriyyə fondu və tədavül fondunun cəmidir+
+D : dövriyyə fondu və pul vasitələrinin cəmidir
+E : əsas fondlarla dövriyyə fondunun cəmidir
+ANSWER : C
+259	Hansı reklam növü yeni məhsullar üçün nəzərdə tutulmuşdur:
+
+A : məlumatlandırıcı+
+B : inandırıcı
+C : müqayisəli
+D : xatırlayıcı
+ANSWER : A
+260	Müəssisənin istehsal güçünün kəmiyyətini asasən nələr müəyyənləşdirir
+
+A : əsas istehsal fondlarının həcmi və onlardan istifadə səviyyəsi+
+B : dövriyyə vəsaitlərinin bolluğu
+C : işçilərin sayı
+D : mənfəətin məbləği
+E : rentabellik səviyyəsi
+ANSWER : A
+261	Məhsulun həyat dövrünün hansı mərhələsində şirkət ya ziyanla ya da cuzi mənfəətlə işləyir:
+
+A : bazara çıxarılması+
+B : artım
+C : yetkinlik
+D : tənəzzül
+ANSWER : A
+262	Əmtəənin həyat dövrünün hansı mərhələsində kütləvi tələb müşahidə olunur və əmtəə bazarı təmin edir:
+
+A : yetkinlik+
+B : artım
+C : tənəzzül
+D : bazara çıxarılması
+E : məhsulun işlənib hazırlanması
+ANSWER : A
+263	Dövriyyə vəsaitləri
+
+A : istehsal fondlarının bir hissəsidir+
+B : əsas fondların bir hissəsidir
+C : smeta xərclərinin bir hissəsidir
+D : əmək vəsaitlərinin bir hissəsidir
+E : müəssisə balansının passiv hissəsidir
+ANSWER : A
+264	Sənaye  müəssisələrində əsaslı tikinti  üçün  hansı üsul xarakterikdir
+
+A : Təsərrüfat üsulu
+B : Podrat üsulu+
+C : Hər ikisi
+D : Heç biri
+E : ANSWER variantı yoxdur
+ANSWER : B
+265	  Əmtəənin həyat dövrü nədir:
+
+A : əmtəənin bazarda mövcud olduğu müddət
+B : əmtəənin bazarda mövcud olduğu müddət ərzində keçdiyi mərhələlər+
+C : ən yüksək mənfəətin əldə olunma müddəti
+D : yeni əmtəələrin yaradılmasını, bazara çıxarılmasını və satılmasını əhatə edən dövr
+ANSWER : B
+266	  Əgər şirkət bazara yeganə təkliflə çıxırsa, o zaman nə tətbiq edilir:
+
+A : fərqləndirici marketinq
+B : kütləvi marketinq+
+C : cəmləndirilmiş marketinq
+D : yerli marketinq
+E : fərdi marketinq
+ANSWER : B
+267	İstehsal prosesinin təşkili hansı prinsiplərə söykənir
+
+A : Ixtisaslaşma və paralellik
+B : Düzxətlilik  və fasiləsizlik
+C : Ahəngdarlıq və mütənasiblik
+D : a və c variantları
+E : a, b, c  variantları+
+ANSWER : E
+268	İstehsal gücləri bir qayda olaraq olcülür 
+
+A : dəyər ifadəsində
+B : məhsulun əmək tutumu ilə
+C : natural ifadədə+
+D : şərti vahidlərlə
+E : valyuta ilə
+ANSWER : C
+269	  Marketinq informasiya sisteminin əsas məqsədi:
+
+A : marketinq planının tərtib olunması
+B : düzgün idarəetmə qərarların qəbul edilməsi üçün lazımi məlumatların təqdim olunması+
+C : şirkətin idarə olunmasının marketinq konsepsiyasının həyata keçirilməsi
+D : rəqiblər haqqında lazımi məlumatların əldə edilməsi
+270	Qeyri-istehsal əsas fondları öz dəyərlərini hazır məhsulun üzərinə keçirirlərmi
+
+A : Bəli, çünki müəssisənin balansına daxildirlər
+B : Xeyr, çünki qeyri-istehsal fondları  məhsul yararmırlar+
+C : Öz dəyərini hissə-hissə və tədricən keçirə bilərlər
+D : Bəli, çünki istehsalın həcminə təsir göstərirlər
+E : Bəli, çünki işçilərin maddi və mədəni həyat səviyyəsini bilavasitə təsir edir
+ANSWER : B
+
+

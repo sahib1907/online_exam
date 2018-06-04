@@ -1,0 +1,2703 @@
+﻿1.		 Bir otaqda və ya yaxın otaqlarda yerləşən kompüterləri birləşdirən şəbəkə necə adlanır?
+
+A : Paylanmış kompüter şəbəkəsi 
+B : Lokal kompüter şəbəkəsi 
+C : Daxili kompüter şəbəkəsi 
+D : Korporativ kompüter şəbəkəsi 
+E : Qapalı kompüter şəbəkəsi 
+ ANSWER : B
+
+2.		 Paylanmış kompüter şəbəkəsi... 
+
+A : böyük coğrafi ərzini əhatə edən verilənlərin ötürülməsi şəbəkəsidir 
+B : lokal kompüter şəbəkələrinin birləşməsidir 
+C : korporasiyalar arası kompüter şəbəkəsidir 
+D : müxtəlif ölkələrdə yerləşən kompüterləri birləşdirən şəbəkədir 
+E : paylanmış verilənlər bazasını emal edən kompüterlərin şəbəkəsidir 
+ ANSWER : A
+
+3.		 Paylanmış kompüter şəbəkəsi... 
+
+A : tərkibində güclü serverləri olan kompüter şəbəkəsidir 
+B : müxtəlif platformalı kompüterləri birləşdirən kompüter şəbəkəsidir 
+C : bir-birindən coğrafi baxımdan uzaqda yerləşən lokal kompüter şəbəkələrinin birləşməsidir 
+D : İnternetə qoşulmuş kompüter şəbəkədir 
+E : router qurğuları vasitəsilə birləşmiş kompüter şəbəkəsidir 
+ ANSWER : C
+
+4.		 Paylanmış kompüter şəbəkəsi hansı abbreviatura ilə işarə olunur? 
+
+A : LAN 
+B : NET 
+C : OSI 
+D : WAN 
+E : TCP/IP 
+ ANSWER : D
+
+5.		 LAN şəbəkəsi hansıdır? 
+
+A : Paylanmış kompüter şəbəkəsi 
+B : Lokal kompüter şəbəkəsi 
+C : Korporativ kompüter şəbəkəsi 
+D : Qlobal kompüter şəbəkəsi 
+E : Beynəlxalq kompüter şəbəkəsi 
+ ANSWER : B
+
+6.		 WAN şəbəkəsi hansıdır? 
+
+A : Paylanmış kompüter şəbəkəsi 
+B : Lokal kompüter şəbəkəsi 
+C : Ethernet kompüter şəbəkəsi 
+D : İntranet kompüter şəbəkəsi 
+E : Təşkilatdaxili kompüter şəbəkəsi 
+ ANSWER : A
+
+7.		 Lokal kompüter şəbəkəsi... 
+
+A : bir-birinin yanında yerləşən iki kompüterin naqillə birləşməsidir 
+B : bir müəssisənin və ya təşkilatın kompüterlərini birləşdirən şəbəkədir 
+C : eyni tipli kompüterləri birləşdirən şəbəkədir 
+D : İnternetə qoşulmayan kompüterləri birləşdirən şəbəkədir 
+E : bir otaqda və ya yaxın otaqlarda yerləşən kompterləri birləşdirən şəbəkədir 
+ ANSWER : E
+
+8.		 Lokal kompüter şəbəkəsi hansı abbreviatura ilə işarə olunur? 
+
+A : LAN 
+B : NET 
+C : OSI 
+D : WAN 
+E : USB 
+ ANSWER : A
+
+9.		 Lokal kompüter şəbəkələrinin qurulması zamanı hansı topologiyadan istifadə olunmur? 
+
+A : Ulduzvari 
+B : Nöqtəvari 
+C : Ağacvari (iyerarxik) 
+D : Həlqəvari 
+E : Şinvari 
+ ANSWER : B
+
+10.		 Lokal kompüter şəbəkələrinin yaradılmasının tipik texnologiyası hansıdır? 
+
+A : Frame relay 
+B : Telnet 
+C : Ethernet 
+D : TCP/IP 
+E : Router 
+ ANSWER : C
+
+11.		 Aşağıdakı qurğulardan hansı lokal kompüter şəbəkələrinin qurulması zamanı istifadə olunmur? 
+
+A : Kompüter 
+B : Şəbəkə adapteri 
+C : Kabel rabitəsi 
+D : Peyk rabitəsi 
+E : Periferik qurğular 
+ ANSWER : D
+
+12.	 	 Aşağıdakılardan hansı paylanmış kompüter şəbəkələrini xarakterizə edən əsas xüsusiyyətlərə aid deyil? 
+
+A : bir-birindən böyük coğrafi məsafədə olan qurğuları birləşdirir 
+B : nəhəng şirkətlər, o cümlədən telefon şirkətləri tərəfindən istifadə olunur 
+C : eyni fəaliyyət sahəsində çalışan insanları əlaqələndirir 
+D : böyük coğrafi ərazidə və üzaq məsafələrdə rabitə kanallardan istifadə olunur 
+E : müxtəlif ötürücülük qabiliyyətinə malik olan kanallardan istifadə olunur 
+ ANSWER : C
+
+13.	 	 Paylanmış kompüter şəbəkələrinin qurulmasında istifadə olunan əsas qurğular hansılardır? 
+
+A : printer, switches, modem, USB-kabel 
+B : router, switches, TV-tuner, antenna 
+C : modem, hub, körpü, telefon 
+D : router, switches, modem, communication server 
+E : router, adapter, WF-FI, peyk 
+ ANSWER : D
+
+14.		 Şəbəkənin seqmentlərinin və elementlərinin birləşdirilməsi üçün nəzərdə tutulan, iki və daha çox şəbəkə interfeysinə malik olan, müəyyən qaydalar əsasında paketlərin şəbəkə seqmentləri arasında ötürülməsinə xidmət edən,  verilənlərin paketlərlə ötürülməsini həyata keçirən şəbəkə qurğusu hansıdır? 
+
+A : Switches 
+B : Şəbəkə adapteri 
+C : Modem 
+D : Communication server 
+E : Router 
+ ANSWER : E
+
+15.		 Hansı variant marşrutizatorun funksiyalarına aid deyil? 
+
+A : Şəbəkənin seqmentlərinin və elementlərinin birləşdirilməsi üçün nəzərdə tutulmuşdur 
+B : Telefon xətti vasitəsilə şəbəkənin İnternetə qoşulmasını təmin edir 
+C : İki və daha çox şəbəkə interfeysinə malikdir 
+D : Paketlərin şəbəkə seqmentləri arasında ötürülməsinə xidmət edir 
+E : Verilənlərin paketlərlə ötürülməsini həyata keçirən şəbəkə qurğusudur 
+ ANSWER : B
+
+16.		 Marşrutizator hansı funksiyanı yerinə yetirir? 
+
+A : daxil olan verilənlər paketləri üçün optimal marşrutun seçilməsi 
+B : şəbəkələrdə kompüterlərin bir-birinə qoşulması 
+C : istifadəçilərin şəbəkədə işinin səmərəliliyinə nəzarət edilməsi 
+D : rabitə xəttinin buraxma qabiliyyətinin yüksəldilməsi 
+E : şəbəkədə verilənlərin həqiqiliyinin təsdiq edilməsi 
+ ANSWER : A
+
+17.		 Marşrutizator hansı funksiyanı yerinə yetirir? 
+
+A : şəbələlərarası əlaqə xətlərinin sazlığının təmin edilməsi 
+B : şəbəkə qurğularının fəaliyyətinin nizamlanması 
+C : paketlərin müvafiq çıxış interfeyslərinə ötürülməsi 
+D : mobil qurğuların şəbəkəyə qoşulması 
+E : digər şəbəkə qurğularının interfeyslərinin idarə edilməsi 
+ ANSWER : C
+
+18.		 Marşrutizatorların və verilənlərin ötürülməsinin müxtəlif telekommunikasiya vasitələrinin köməyi ilə əlaqələndirilmiş qarşılıqlı fəaliyyət göstərən lokal şəbəkələr çoxluğu necə adlanır? 
+
+A : Avtonom sistem 
+B : Paylanmış şəbəkə 
+C : Qlobal şəbəkə 
+D : Lokal şəbəkə 
+E : Korporativ şəbəkə 
+ ANSWER : B
+
+19.		 Müəyyən lokal domen hüdudunda marşrutlaşdırma haqqında informasiyanın öyrənilməsi və paylanması funksiyalarını yerinə yetirən marşrutizator necə adlanır? 
+
+A : Xarici şlüz 
+B : Avtonom şlüz 
+C : Sadə şlüz 
+D : Daxili şlüz 
+E : Kompleks şlüz 
+ ANSWER : D
+
+20.	 	 Lokal domenin xaricində olan şəbəkələrdə marşrutlama haqqında informasiyanın toplanması, öyrənilməsi və paylanması funksiyalarını yerinə yetirən marşrutizator necə adlanır? 
+
+A : Xarici şlüz 
+B : Avtonom şlüz 
+C : Sadə şlüz 
+D : Daxili şlüz 
+E : Kompleks şlüz 
+ ANSWER : A
+
+21.		 Şəbəkədə yerləşdiyi mövqeyinə görə marşrutizatorlar hansı növlərə bölünür? 
+
+A : Şəbəkədaxili, şəbəkələrarası və qlobal marşrutizatorlar 
+B : Lokal, qlobal və avtonom marşrutizatorlar 
+C : Daxili, xarici və neytral marşrutizatorlar 
+D : Lokal, korporativ və regional marşrutizatorlar 
+E : Daxili, xarici və sərhəd marşrutizatorları 
+ ANSWER : E
+
+22.		 Yalnız şəbəkə daxilində yerləşən qurğulara müraciət edən marşrutizator necə adlanır? 
+
+A : Şəbəkə marşrutizatoru 
+B : Lokal marşrutizator 
+C : Daxili marşrutizator 
+D : Neytral marşrutizator 
+E : Avtonom marşrutizator 
+ ANSWER : C
+
+23.		 Şəbəkənin digər şəbəkəyə qoşulmasını təmin edən, interfeyslərinin bəziləri daxili qurğulara, bəziləri isə digər şəbəkənin qurğularına qoşulan marşrutizator necə adlanır? 
+
+A : Şəbəkə marşrutizatoru 
+B : Sərhəd marşrutizatoru 
+C : Daxili marşrutizator 
+D : Xarici marşrutizator 
+E : Avtonom marşrutizator 
+ ANSWER : B
+
+24.		 Şəbəkənin hüdudlarından kənarda yerləşən marşrutizator necə adlanır? 
+
+A : Şəbəkə marşrutizatoru 
+B : Sərhəd marşrutizatoru 
+C : Daxili marşrutizator 
+D : Xarici marşrutizator 
+E : Avtonom marşrutizator 
+ ANSWER : D
+
+25.		 Marşrutizatorun əsas komponentləri hansılardır? 
+
+A : RAM, NVRAM, Flaş-yaddaş, ROM, interfeyslər 
+B : RAM, NVRAM, əməliyyat sistemi, marşrutlaşdırma cədvəli 
+C : Yaddaş qurğuları, interfeyslər, əməliyyat sistemi, marşrutlaşdırma cədvəli 
+D : Daimi yaddaş, müvəqqəti yaddaş, əməli yaddaş, flaş yaddaş 
+E : Yaddaş qurğuları, interfeyslər, proqram təminatı, marşrutlaşdırma cədvəli 
+ ANSWER : A
+
+26.		 Verilənlər paketlərinin marşrutizatordan ötürüldüyü və marşrutizatora daxil olduğu şəbəkə qoşulması necə adlanır? 
+
+A : Şlüz 
+B : İnterfeys 
+C : Host 
+D : Adapter 
+E : Marşrut 
+ ANSWER : B
+
+27.		 İnterfeys nədir? 
+
+A : Verilənlər paketlərinin ötürülməsi alqoritmidir 
+B : Marşrutizatorun yaddaş qurğusudur 
+C : Verilənlər paketlərinin marşrutizatorda yadda saxlanıldığı komponentdir 
+D : Verilənlər paketlərinin marşrutizatordan ötürüldüyü və marşrutizatora daxil olduğu şəbəkə qoşulmasıdır 
+E : Marşrutizator IOS əməliyyat sisteminin moduludur 
+ ANSWER : D
+
+28.		 Aşağıdakılardan hansı marşrutizatorun yaddaş qurğusu deyil? 
+
+A : RAM 
+B : NVRAM 
+C : IOS 
+D : ROM 
+E : Flaş-yaddaş 
+ ANSWER : C
+
+29.		 Marşrutizatorda hansı növ port mövcud deyil? 
+
+A : Lokal şəbəkə (LAN) portu 
+B : Paylanmış şəbəkə (WAN) portu 
+C : Konsol portu 
+D : Terminal portu 
+E : AUX portu 
+ ANSWER : D
+
+30.		 Marşrutizatorun xarici portları hansılardır? 
+
+A : LAN portu, WAN portu, AUX portu 
+B : LAN portu, WAN portu, Ethernet portu 
+C : Ethernet portu, Fast Ethernet portu, WAN portu 
+D : LAN portu, Konsol portu, Ethernet portu 
+E : LAN portu, WAN portu, idarəetmə portları 
+ ANSWER : E
+
+31.		 Marşrutizatorun ardıcıl portları nə üçün istifadə olunur? 
+
+A : Lokal şəbəkəyə qoşulmaq üçün 
+B : İdarəetmə qurğusuna qoşulmaq üçün 
+C : Paylanmış şəbəkələrə (İnternetə) qoşulmaq üçün 
+D : Ethernet şəbəkəsinə qoşulmaq üçün 
+E : Fast Ethernet şəbəkəsinə qoşulmaq üçün 
+ ANSWER : C
+
+32.		 AUX portu nədir? 
+
+A : Marşrutizatorun lokal şəbəkəyə qoşulması portu 
+B : Marşrutizatorun idarə edilməsi portu, köməkçi port 
+C : Marşrutizatorun paylanmış şəbəkəyə qoşulması portu 
+D : Marşrutizatorun marşrutizatora qoşulması portu 
+E : Marşrutizatorun idarə edilməsi portu, konsol portu 
+ ANSWER : B
+
+33.		 Konsol portu nədir? 
+
+A : Marşrutizatorun lokal şəbəkəyə qoşulması portu 
+B : Marşrutizatorun modem qurğusuna qoşulması portu 
+C : Marşrutizatorun paylanmış şəbəkəyə qoşulması portu 
+D : Marşrutizatorun idarə edilməsi portu 
+E : Marşrutizatorun marşrutizatora qoşulması portu 
+ ANSWER : D
+
+34.		 Konsol portu nə üçün istifadə olunur? 
+
+A : Marşrutizatorun lokal şəbəkəyə qoşulması və monitorinqi portu 
+B : Marşrutizatorun paylanmış şəbəkə vasitəsilə konfiqurasiyası üçün 
+C : Marşrutizatorun ilkin konfiqurasiyası, monitorinqi, parolların bərpası üçün 
+D : Marşrutizatorun lokal şəbəkə vasitəsilə idarə edilməsi və monitorinqi üçün 
+E : Marşrutizatorun internet üzərindən idarəe edilməsi üçün 
+ ANSWER : C
+
+35.		 Paylanmış şəbəkələrdə hansı qoşulma xidmətlərindən istifadə olunmur? 
+
+A : Kanalların kommutasiyası xidməti 
+B : Paketlərin kommutasiyası xidməti 
+C : Ayrılmış xətlərin rəqəmsal xidmətləri 
+D : Naqilsiz xidmətlər 
+E : Rəqəm-simvol kommutasiyası xidməti 
+ ANSWER : E
+
+36.		 Paylanmış şəbəkələrdə hər bir əlaqə seansının qurulması, dəstəklənməsi və başa çatdırılması üçün ayrılmış fiziki kanal təqdim edilən kommutasiya üsulu necə adlanır? 
+
+A : Kanalların kommutasiyası 
+B : Paketlərin kommutasiyası 
+C : Kabel kommutasiyası 
+D : Naqilsin xidmətlər 
+E : Özəklərin kommutasiyası 
+ ANSWER : A
+
+37.		 Paylanmış şəbəkələrdə paketlərin (kiçik verilənlər bloklarının) ötürülməsi və marşrutlaşdırılması üçün istifadə olunan kommutasiya üsulu necə adlanır? 
+
+A : Kanalların kommutasiyası 
+B : Paketlərin kommutasiyası 
+C : Kabel kommutasiyası 
+D : Naqilsin xidmətlər 
+E : Özəklərin kommutasiyası 
+ ANSWER : B
+
+38.		 Dar zolaqlı ISDN şəbəkəsində baza səviyyəsi interfeysinin  (Basic Rate Interface - BRI) istifadəsi zamanı maksimal ötürücülük qabiliyyəti nə qədərdir? 
+
+A : 56 Kbit/s 
+B : 2 Mbit/s 
+C : 128 Kbit/s 
+D : 3 Mbit/s 
+E : 384 Kbit/s 
+ ANSWER : C
+
+39.		 Dar zolaqlı ISDN şəbəkəsində əsas səviyyə interfeysinin (Primary Rate Interface - PRI) istifadəsi zamanı maksimal ötürücülük qabiliyyəti nə qədərdir? 
+
+A : 56 Kbit/s 
+B : 2 Mbit/s 
+C : 128 Kbit/s 
+D : 3 Mbit/s 
+E : 384 Kbit/s 
+ ANSWER : D
+
+40.		 X.25 xidmətinin maksimal ötürücülük qabiliyyəti nə qədərdir? 
+
+A : 56 Kbit/s 
+B : 2 Mbit/s 
+C : 128 Kbit/s 
+D : 3 Mbit/s 
+E : 384 Kbit/s 
+ ANSWER : B
+
+41.		 Frame Relay xidmətinin maksimal ötürücülük qabiliyyəti nə qədərdir? 
+
+A : 56 Kbit/s 
+B : 2 Mbit/s 
+C : 128 Kbit/s 
+D : 3 Mbit/s 
+E : 44,736 Mbit/s 
+ ANSWER : E
+
+42.		 Paylanmış şəbəkələrdə rəqəmsal verilənlərin hər hansı özək-blokda qruplaşdırılması yolu ilə ayrılmış virtual kanalların kommutasiyasını təmin edən və onları rəqəmsal ötürmə texnologiyası vasitəsilə fiziki mühitdə ötürən kommutasiya üsulu necə adlanır? 
+
+A : Kanalların kommutasiyası 
+B : Özəklərin kommutasiyası 
+C : Kabel kommutasiyası 
+D : Naqilsin xidmətlər 
+E : Paketlərin kommutasiyası 
+ ANSWER : B
+
+43.		 ATM xidmətinin maksimal ötürücülük qabiliyyəti nə qədərdir? 
+
+A : 622 Mbit/s 
+B : 2 Mbit/s 
+C : 128 Kbit/s 
+D : 3 Mbit/s 
+E : 44,736 Mbit/s 
+ ANSWER : A
+
+44.		 Aşağıdakılardan hansı kanalların kommutasiyası xidmətinə aiddir? 
+
+A : ATM 
+B : X.25 
+C : Frame Relay 
+D : ISDN 
+E : xDSL 
+ ANSWER : D
+
+45.		 Aşağıdakılardan hansı paketlərin kommutasiyası xidmətinə aiddir? 
+
+A : ATM 
+B : POTS 
+C : Frame Relay 
+D : ISDN 
+E : xDSL 
+ ANSWER : C
+
+46.		 Aşağıdakılardan hansı paketlərin kommutasiyası xidmətinə aiddir? 
+
+A : ATM 
+B : X.25 
+C : POTS 
+D : ISDN 
+E : xDSL 
+ ANSWER : B
+
+47.		 Aşağıdakılardan hansı özəklərin kommutasiyası xidmətinə aiddir? 
+
+A : ATM 
+B : X.25 
+C : Frame Relay 
+D : ISDN 
+E : xDSL 
+ ANSWER : A
+
+48.		 xDSL texnologiyası hansı kommutasiyası xidmətinə aiddir? 
+
+A : Kanalların kommutasiyası xidmətləri 
+B : Özəklərin kommutasiyası xidmətləri 
+C : Ayrılmış xətlərin rəqəmsal xidmətləri 
+D : Naqilsiz xidmətlər 
+E : Paketlərin kommutasiyası xidmətləri 
+ ANSWER : C
+
+49.		 ADSL texnologiyası hansıdır? 
+
+A : Asinxron DSL 
+B : Asimmetrik DSL 
+C : Available DSL 
+D : Adaptiv DSL 
+E : Anti DSL 
+ ANSWER : B
+
+50.		 SDSL texnologiyası hansıdır? 
+
+A : Sinxron DSL 
+B : Simmetrik DSL 
+C : Sürətli DSL 
+D : Sonlu DSL 
+E : Sadə DSL 
+ ANSWER : B
+
+51.		 HDSL texnologiyası hansıdır? 
+
+A : Qlobal DSL 
+B : Paylanmış DSL 
+C : Genişzolaqlı DSL 
+D : Gizli DSL 
+E : Yüksəksürətli DSL 
+ ANSWER : E
+
+52.		 STP protokolu OSI modelinin hansı səviyyəsinin protokoludur?
+
+A : şəbəkə səviyyəsi 
+B : kanal səviyyəsi  
+C : fiziki səviyyə 
+D : tətbiqi səviyyə 
+E : nəqliyyat səviyyəsi 
+ ANSWER : A
+
+53.		 Ethernet şəbəkələrdə kanal səviyyəsində yaranan dövrələri (kommutasiya dövrələrini) şəbəkənin topologiyasından avtomatik kənarlaşdırmaq üçün nəzərdə tutulmuş şəbəkə protokolu hansıdır?
+
+A : FTP 
+B : UDP  
+C : TCP 
+D : STP 
+E : BDP 
+ ANSWER : D
+
+54.		 Aşağıdakılardan hansı STP protokolları sinfinə aid deyil?
+
+A : RSTP 
+B : MSTP  
+C : PVST 
+D : PVST+ 
+E : RPVST 
+ ANSWER : E
+
+55.		 İki kommutator arasında birdən çox birləşmə olduqda (və ya eyni bir kommutatorun iki portu birləşdikdə) yaranır.
+
+A : Trafikin kəsilməsi 
+B : Genişzolaqlı dövrə 
+C : Paketlərin itməsi 
+D : Şəbəkənin sıradan çıxması 
+E : Şəbəkədaxili kəsilmə 
+ ANSWER : B
+
+56.		 Genişzolaqlı dövrə nə zaman yaranır?
+
+A : Bir kommutatora birdən çox kommutator qoşulduqda 
+B : Bir kommutator iki və daha çox şəbəkəni birləşdirdikdə 
+C : İki kommutator arasında birdən çox birləşmə olduqda 
+D : İki kommutataor eyni şəbəkəyə daxil olduqda 
+E : İki şəbəkə eyni kommutatorun müxtəlif portlarına qoşulduqda 
+ ANSWER : C
+
+57.		 Freymdə qəbul edən tərəfin ünvanı genişzolaqlı ünvan (FFFF.FFFF.FFFF) kimi qeyd olunarsa, bu freym necə adlanır?
+
+A : Genişzolaqlı freym 
+B : Genişzolaqlı dövrə 
+C : Genişzolaqlı paket 
+D : Genişzolaqlı yüklənmə 
+E : Genişzolaqlı ötürmə 
+ ANSWER : A
+
+58.		 Genişzolaqlı freym hansı portlara göndərilir?
+
+A : Bütün portlara 
+B : Freymin daxil olduğu portdan başqa digər portlara 
+C : Freymin daxil olduğu porta 
+D : İstifadəçi kompüterinə qoşulmuş porta 
+E : Yalnız marşrutizatorlara qoşulmuş portlara 
+ ANSWER : B
+
+59.		 Aşağıdakılardan hansı STP protokolunun funksiyasına aiddir?
+
+A : marşrutizatorun sürətinin artırılması 
+B : marşrutizatorun şəbəkədən ayrılması 
+C : əsas (root) kommutatorun seçilməsi 
+D : kommutatorun şəbəkədən ayrılması 
+E : kommutatorun söndürülməsi 
+ ANSWER : C
+
+60.		 Aşağıdakılardan hansı STP protokolunun funksiyasına aid deyil?
+
+A : root kommutatoruna yönəlmiş yeganə portun seçilməsi 
+B : marşrutizatorun şəbəkədən ayrılması 
+C : əsas (root) kommutatorun seçilməsi 
+D : bütün “artıq” (və ya ehtiyat) əlaqə kanallarının təcrid edilməsi 
+E : kommutatorların əsas və qeyd edilmiş portlarının nəzarətdə saxlanılması 
+ ANSWER : B
+
+61.	 	 STP protokolunun topologiyasında istifadə olunan portlar hansı variantda düzgün göstərilmişdir?
+
+A : RP, DP, BID 
+B : RP, DP, RPD 
+C : DP, NDP, BDP
+D : RP, DP, NDP 
+E : BID, RP, PRN 
+ ANSWER :D
+
+62.		 STP protokolunun topologiyasında əsas port (root port - RP) hansı porta deyilir?
+
+A : root kommutatoruna yönəlmiş ən yaxşı marşruta malik kommutatorların portları 
+B : verilənlərin ötürülməsi rejimində olan portlar 
+C : root kommutatorunun portları 
+D : yaxın məsafədə yerləşən kommutatorların portları 
+E : root kommutatoruna qoşulmuş kommutatorların portları 
+ ANSWER : A
+
+63.		 STP protokolunun topologiyasında təyin edilmiş port (Designated Port - DP)  hansı porta deyilir?
+
+A : kommutatorların ehtiyat portları 
+B : root kommutatoruna qoşulmuş kommutatorların portları
+C : root kommutatorunun portları 
+D : verilənlərin ötürülməsi rejimində olan portlar 
+E : root kommutator üçün təyin edilmiş portlar 
+ ANSWER : D
+
+64.		 STP protokolunun topologiyasında təyin edilməmiş port (Non-Designated Port - NDP)  hansı porta deyilir?
+
+A : kommutatorların ehtiyatda olan root portları 
+B : root kommutatoruna qoşulmamış portlar
+C : ehtiyatda olan təcrid edilmiş portlar 
+D : verilənlərin ötürülməsi rejimində olan portlar 
+E : əlaqə kanaılna qoşulmamış portlar 
+ ANSWER : C
+
+65.		 STP protokolunun Hello paketinin sahəsi deyil.
+
+A : əsas kommutatorun identifikatoru 
+B : Hello paketin uzunluğu 
+C : göndərən kommutatorun identifikatoru 
+D : göndərənin əsas qiyməti 
+E : əsas kommutatorda taymerin qiyməti 
+ ANSWER : B
+
+66.		 BID (Bridge ID) nədir?
+
+A : kommutatorun prioriteti 
+B : kommutatorun MAC-ünvanı 
+C : kommutatorun IP-ünvanı 
+D : kommutatorun versiyası 
+E : kommutatorun identifikatoru 
+ ANSWER : E
+
+67.		 STP topologiyasında kommutatorun identifikatoru - BID hansı parametrlərdən ibarət olur?
+
+A : kommutatorun prioriteti və MAC-ünvan 
+B : kommutatorun versiyası və MAC-ünvanı 
+C : kommutatorun prioriteti və IP-ünvanı 
+D : kommutatorun MAC-ünvanı və IP ünvanı 
+E : kommutatorun portları və IP-ünvanları 
+ ANSWER : A
+
+68.		 STP topologiyasında "priority.MAC-ünvan" nəyi göstərir?
+
+A : kommutatorun prioritetini - PR 
+B : kommutatorun identifikatorunu - BID 
+C : kommutatorun IP-ünvanını - IPR 
+D : kommutatorun MAC-ünvanını - MPR 
+E : kommutatorun portlarını - PRT 
+ ANSWER : B
+
+69.		 STP-topologiya qurulduqdan, yəni topologiyada root kommutator təyin edildikdən sonra göndərilən STP-məlumatı hansı informasiyanı özündə saxlayır?
+
+A : Əsas (root) kommutatorun identifiaktoru – Root BID 
+B : Göndərən kommutatorun identifikatoru – BID 
+C : Göndərən kommutatorun IP-ünvanını - BDIP 
+D : Əsas (root) kommutatora qədər  yolun qiyməti – Root Path Cost 
+E : Root kommutatorda müəyyən edilmiş vaxtlar 
+ ANSWER : C
+
+70.		 STP-topologiyasında qoşulma sürətinə uyğun olaraq root kommutatora qədər yolun standart qiyməti hansı variantda düzgün göstərilməmişdir?
+
+A : Sürət 10 Mbit/s - qiymət 100 
+B : Sürət 100 Mbit/s - qiymət 19 
+C : Sürət 1 Gbit/s - qiymət 4 
+D : Sürət 5 Gbit/s - qiymət 3 
+E : Sürət 10 Gbit/s - qiymət 2 
+ ANSWER : D
+
+71.		 IEEE standartına görə 10 MBit/s sürətli VLAN üçün kommutatorun portundan keçən marşrutun standart qiyməti neçədir?
+
+A : 100 
+B : 19 
+C : 4 
+D : 3 
+E : 2 
+ ANSWER : A
+
+72.		 IEEE standartına görə 100 MBit/s sürətli VLAN üçün kommutatorun portundan keçən marşrutun standart qiyməti neçədir?
+
+A : 100 
+B : 19 
+C : 4 
+D : 3 
+E : 2 
+ ANSWER : B
+
+73.		 IEEE standartına görə 1 GBit/s sürətli VLAN üçün kommutatorun portundan keçən marşrutun standart qiyməti neçədir?
+
+A : 100 
+B : 19 
+C : 4 
+D : 3 
+E : 2 
+ ANSWER : C
+
+74.		 IEEE standartına görə 10 GBit/s sürətli VLAN üçün kommutatorun portundan keçən marşrutun standart qiyməti neçədir?
+
+A : 100 
+B : 19 
+C : 4 
+D : 3 
+E : 2 
+ ANSWER : E
+
+75.		 Aşağıdakılardan hansı STP protokolunda kommutatorun portlarının rejimlərinə aid deyil?
+
+A : Bloklama (Blocking) 
+B : Salamlama (Hello) 
+C : Qulaqasma (Listening) 
+D : Öyrənmə (Learning) 
+E : Ötürmə (Forwarding) 
+ ANSWER : B
+
+76.		 STP protokolunda kommutatorun portlarının hansı vəziyyətində freymlərin yenidən ötürülməsi baş verir?
+
+A : Bloklama (Blocking) 
+B : Nəzərə almama (Ignore) 
+C : Qulaqasma (Listening) 
+D : Öyrənmə (Learning) 
+E : Ötürmə (Forwarding) 
+ ANSWER : E
+
+77.		 Aşağıdakılardan hansı BDPU kadrın strukturuna aid deyil?
+
+A : Protocol Identifier (2 bayt) 
+B : Protocol Version Identifier (1 bayt) 
+C : Commutation version (1 bayt) 
+D : BPDU Type (1 bayt) 
+E : Flags (1 bayt) 
+ ANSWER : C
+
+78.		 Aşağıdakılardan hansı BDPU kadrın strukturuna aid deyil?
+
+A : Root Identifier (8 bayt) 
+B : Root Path Cost (4 bayt) 
+C : Bridge Identifier (8 bayt) 
+D : Max Long (2 bayt) 
+E : Port Identifier (2 bayt) 
+ ANSWER : D
+
+79.		 Aşağıdakılardan hansı BDPU kadrın strukturuna aid deyil?
+
+A : Message Age (2 bayt) 
+B : Max Age (2 bayt) 
+C : Hello Time (2 bayt) 
+D : Forward Delay (2 bayt) 
+E : Hello Frame (8 bayt) 
+ ANSWER : E
+
+80.		 Kommutatorun portlarından "Hello BDPU" məlumatının göndərilməsi üçün müəyyən edilmiş vaxt intervalı neçədir?
+
+A : hər 20 saniyədən bir 
+B : hər 2 saniyədən bir 
+C : hər 15 saniyədən bir 
+D : hər 6 saniyədən bir 
+E : hər 8 saniyədən bir 
+ ANSWER : B
+
+81.		 Kommutatorlararası üzlaşma üçün "Hello BDPU" məlumatının göndərilməsi üçün müəyyən edilmiş maksimal vaxt intervalı nə qədərdir?
+
+A : 2 saniyə 
+B : 6 saniyə 
+C : 8 saniyə 
+D : 15 saniyə 
+E : 20 saniyə 
+ ANSWER : E
+
+82.		 Kommutatorun portu "Blocking" rejimində neçə saniyə qalır?
+
+A : 20 saniyə 
+B : 2 saniyə 
+C : 15 saniyə 
+D : 6 saniyə 
+E : 8 saniyə 
+ ANSWER : C
+
+83.		 Kommutatorun portu "Listening" rejimində neçə saniyə qalır?
+
+A : 20 saniyə 
+B : 2 saniyə 
+C : 8 saniyə 
+D : 15 saniyə 
+E : 6 saniyə 
+ ANSWER : D
+
+84.		 Kommutatorun portu "Learning" rejimində neçə saniyə qalır?
+
+A : 2 saniyə 
+B : 20 saniyə 
+C : 6 saniyə 
+D : 8 saniyə 
+E : 15 saniyə 
+ ANSWER : E
+
+85.		 RSTP (Rapid STP) protokolu STP-topologiyanın dəyişməsinə hansı müddət ərzində reaksiya vermək qabiliyyətinə malikdir? 
+
+A : 6 saniyə 
+B : 15 saniyə 
+C : 20 saniyə 
+D : 30 saniyə 
+E : 50 saniyə 
+ ANSWER : A
+
+86.		 Standart STP protokolu STP-topologiyanın dəyişməsinə hansı müddət ərzində reaksiya vermək qabiliyyətinə malikdir? 
+
+A : 6-15 saniyə 
+B : 30-50 saniyə 
+C : 15-20 saniyə 
+D : 15-30 saniyə 
+E : 10-15 saniyə 
+ ANSWER : B
+
+87.		 RSTP (Rapid STP) protokolunda əlaqənin sıradan çıxması zamanı kommutatorlar arasında uzlaşma üçün nə qədər vaxt tələb olunur? 
+
+A : 2 saniyə 
+B : 6 saniyə 
+C : 1 saniyə 
+D : 4 saniyə 
+E : 15 saniyə 
+ ANSWER : C
+
+88.		 TCP/IP şəbəkəsinin idarə olunması və nəzarət edilməsi məlumatları ilə işləyən protokol hansıdır? 
+
+A : UNDP 
+B : SMTP 
+C : RSTP 
+D : ISMP 
+E : LSDP 
+ ANSWER : D
+
+89.		 Hansı variant ICMP protokolunda idarəedici funksiyalar üçün istifadə olunan məlumatların növlərinə aid deyil?
+
+A : Echo Request 
+B : Redirect 
+C : Destination Unreachable 
+D : Time Exceeded 
+E : No Signal 
+ ANSWER : E
+
+90.		 Hansı variant ICMP protokolunda idarəedici funksiyalar üçün istifadə olunan məlumatların növlərinə aid deyil?
+
+A : Echo Replay 
+B : Routing Unavailable 
+C : Destination Unreachable 
+D : Time Exceeded 
+E : Redirect 
+ ANSWER : B
+
+91.	 	 Hansı variant ICMP protokolunda idarəedici funksiyalar üçün istifadə olunan məlumatların növlərinə aiddir?
+
+A : No Message 
+B : Routing unavailable 
+C : Time Exceeded 
+D : No Pinging 
+E : Retransmission 
+ ANSWER : C
+
+92.		 Hansı variant ICMP protokolunda qovşağın əlçatmaz olması barədə məlumatlarının kodlarına aid deyil?
+
+A : Network unreachable 
+B : Host unreachable 
+C : Protocol unreachable 
+D : Port unreachable 
+E : Routing unreachable 
+ ANSWER : E
+
+93.	 	 Hansı variant ICMP protokolunda qovşağın əlçatmaz olması barədə məlumatlarının kodlarına aid deyil?
+
+A : Routing unreachable
+B : Host unreachable 
+C : Protocol unreachable 
+D : Port unreachable 
+E : Can’t fragment 
+ ANSWER : A
+
+94.		 Hansı variant ICMP protokolunda qovşağın əlçatmaz olması barədə məlumatlarının kodlarına aiddir?
+
+A : Computer unreachable 
+B : Node unreachable 
+C : Can’t fragment 
+D : Server unreachable 
+E : Service unreachable 
+ ANSWER : C
+
+95.		 ICMP protokolunda hansı məlumat qovşaq tərəfindən göndərilir?
+
+A : Network unreachable 
+B : Host unreachable 
+C : Routing unreachable 
+D : Port unreachable 
+E : Can’t fragment 
+ ANSWER : D
+
+96.		 Hansı variant ICMP protokolunda ping əmrinə verilən exo-cavabın kodu deyil?
+
+A : ! 
+B : N 
+C : M 
+D : ?
+E : # 
+ ANSWER : E
+
+97.		 Hansı variant ICMP protokolunda ping əmrinə verilən exo-cavabın kodu deyil?
+
+A : /
+B : U 
+C : N 
+D : M
+E : ? 
+ ANSWER : A
+
+98.		 Hansı variant ICMP protokolunda ping əmrinə verilən exo-cavabın kodu deyil?
+
+A : .
+B : R 
+C : ? 
+D : M
+E : ! 
+ ANSWER : B
+
+99.		 ping əmrinin cavabında "U" kodu nəyi göstərir?
+
+A : qəbul edən qovşaq əlçatmazdır
+B : şəbəkə və ya altşəbəkə əlçatmazdır 
+C : sorğu göndərilən qovşaqdan exo-cavab alınmamışdır 
+D : paketin fraqmentlərə bölünməsi mümkün deyildir
+E : naməlum paket alınmışdır 
+ ANSWER : A
+
+100.		 ping əmrinin cavabında "M" kodu nəyi göstərir?
+
+A : qəbul edən qovşaq əlçatmazdır
+B : şəbəkə və ya altşəbəkə əlçatmazdır 
+C : sorğu göndərilən qovşaqdan exo-cavab alınmamışdır 
+D : paketin fraqmentlərə bölünməsi mümkün deyildir
+E : naməlum paket alınmışdır 
+ ANSWER : D
+
+101.		 ping əmrinin cavabında "?" kodu nəyi göstərir?
+
+A : qəbul edən qovşaq əlçatmazdır
+B : şəbəkə və ya altşəbəkə əlçatmazdır 
+C : sorğu göndərilən qovşaqdan exo-cavab alınmamışdır 
+D : paketin fraqmentlərə bölünməsi mümkün deyildir
+E : naməlum paket alınmışdır 
+ ANSWER : E
+
+102.		 ping əmrinin cavabında "N" kodu nəyi göstərir?
+
+A : qəbul edən qovşaq əlçatmazdır
+B : şəbəkə və ya altşəbəkə əlçatmazdır 
+C : sorğu göndərilən qovşaqdan exo-cavab alınmamışdır 
+D : paketin fraqmentlərə bölünməsi mümkün deyildir
+E : naməlum paket alınmışdır 
+ ANSWER : B
+
+103.		 ping əmrinin cavabında "." kodu nəyi göstərir?
+
+A : qəbul edən qovşaq əlçatmazdır
+B : şəbəkə və ya altşəbəkə əlçatmazdır 
+C : paketin fraqmentlərə bölünməsi mümkün deyildir 
+D : sorğu göndərilən qovşaqdan exo-cavab alınmamışdır 
+E : naməlum paket alınmışdır 
+ ANSWER : D
+
+104.		 Şəbəkədə dövrəli marşrutların yaranmasının və üzun müddət mövcud olmasının qarşısını almaq məqsədilə paketlərdə istifadə olunan tranzit qovşaqların xüsusi sayğacı necə adlanır?
+
+A : Hello time (HT)
+B : Dead time (DT) 
+C : Time to Live (TTL) 
+D : Transmission time (TT)
+E : Delivery time (DLT) 
+ ANSWER : C
+
+105.		 ISMP protokolunda şəbəkədə hər hansı qovşaqla əlaqənin olub-olmamasını hansı əmrlə yoxlamaq olar?
+
+A : route
+B : request 
+C : replay 
+D : ping
+E : connect 
+ ANSWER : D
+
+106.		 Hansı variant ICMP protokolunda ping əmrinə verilən exo-cavabın kodu deyil?
+
+A : U
+B : N 
+C : M 
+D : !
+E : * 
+ ANSWER : E
+
+107.	 	 Hansı variant ICMP protokolunda ping əmrinə verilən exo-cavabın kodudur?
+
+A : U
+B : S 
+C : R 
+D : T
+E : P 
+ ANSWER : A
+
+108.		 ICMP protokolunun alan tərəfin əlçatmaz olması (Destination Unreachable) barədə məlumatına paketin çatdırılmasının mümkün olmamasının səbəbini dəqiq müəyyən etmək üçün neçə koddan istifadə olunur?
+
+A : 4
+B : 5 
+C : 2 
+D : 6
+E : 3 
+ ANSWER : B
+
+109.		 ISMP protokolunda alan tərəfin əlçatmaz olması barədə Destination Unreachable məlumatı nə vaxt verilir?
+
+A : IP marşrutlaşdırma əlçatmaz olduqda
+B : Marşrtulaşdırma cədvəli əlçatmaz olduqda 
+C : Şəbəkə əlçatmaz olduqda 
+D : Paketin strukturu əlçatmaz olduqda 
+E : IP-ünvan əlçatmaz olduqda 
+ ANSWER : C
+
+110.		 ISMP protokolunda alan tərəfin əlçatmaz olması barədə Destination Unreachable məlumatı nə vaxt verilir?
+
+A : IP marşrutlaşdırma mümkün olmadıqda 
+B : Marşrtulaşdırma cədvəli əlçatmaz olduqda 
+C : Şəbəkədə dövrə olmadıqda 
+D : Paketi fraqmentləş¬dirmək mümkün olmadıqda 
+E : IP-ünvanı əldə etmək mümkün olmadıqda 
+ ANSWER : D
+
+111.		 ISMP protokolunda alan tərəfin əlçatmaz olması barədə Destination Unreachable məlumatı nə vaxt verilmir?
+
+A : Şəbəkə əlçatmaz olduqda 
+B : Qovşaq əlçatmaz olduqda 
+C : Port əlçatmaz olduqda
+D : Protokol əlçatmaz olduqda 
+E : Paket fraqmentləş¬dirildikdə 
+ ANSWER : E
+
+112.		 ISMP protokolunda adi exo-cavabın alınması barədə məlumatın kodu hansı variantda göstərilmişdir?
+
+A : U
+B : N 
+C : M 
+D : !
+E : . 
+ ANSWER : D
+
+113.		 ISMP protokolunda alan tərəfin əlçatmaz olması barədə məlumatın kodu hansı variantda göstərilmişdir?
+
+A : U
+B : N 
+C : M 
+D : !
+E : . 
+ ANSWER : A
+
+114.		 ISMP protokolunda şəbəkənin və ya altşəbəkənin əlçatmaz olması barədə məlumatın kodu hansı variantda göstərilmişdir?
+
+A : U
+B : N 
+C : M 
+D : !
+E : . 
+ ANSWER : B
+
+115.		 ISMP protokolunda paketin fraqmentlərə bölünməsinin mümkün olmaması barədə məlumatın kodu hansı variantda göstərilmişdir?
+
+A : U
+B : N 
+C : M 
+D : !
+E : . 
+ ANSWER : C
+
+116.		 ISMP protokolunda sorğu göndərilən qovşaqdan exo-cavabın alınmaması barədə məlumatın kodu hansı variantda göstərilmişdir?
+
+A : U
+B : N 
+C : M 
+D : !
+E : . 
+ ANSWER : E
+
+117.		 ISMP protokolunda traceroute əmri nəqliyyat səviyyəsinin mexanizmi qismində hansı protokoldan istifadə edir?
+
+A : UDP
+B : IP 
+C : TCP 
+D : SMTP
+E : POP 
+ ANSWER : A
+
+118.	 	 ISMP protokolunda traceroute əmri UDP protokolundan istifadə etməklə neçə ədəd ilk IP-paket göndərir?
+
+A : 2
+B : 3 
+C : 1 
+D : 4
+E : 0 
+ ANSWER : B
+
+119.		 ISMP protokolunda traceroute əmri şəbəkədə marşrutu müəyyən etmək üçün hansı sayğacdan istifadə edir?
+
+A : Hello time (HT)
+B : Dead time (DT) 
+C : Time to Live (TTL) 
+D : Transmission time (TT)
+E : Delivery time (DLT) 
+ ANSWER : C
+
+120.		 "traceroute 10.1.2.14" nəyi müəyyən edir?
+
+A : 10.1.2.14 qovşağına qoşulan qurğuları
+B : 10.1.2.14 qovşağının portlarını 
+C : 10.1.2.14 qovşağının interfeyslərini  
+D : 10.1.2.14 qovşağına marşrutu
+E : 10.1.2.14 qovşağınadək olan  məsafəni 
+ ANSWER : D
+
+121.	 	 IP-marşrutlaşmada nasazlıqların axtarışı və aradan qaldırılması prosesi hansı mərhələlərdən ibarətdir?
+
+A : şəbəkə qovşaqlarında problemlərin təhlili və şəbəkə serverlərində problemlərin təhlili 
+B : marşrutizatorlarda problemlərin təhlili və portlarda problemlərin təhlili 
+C : marşrutizatorların interfeyslərində problemlərin təhlili və portlarda problemlərin təhlili   
+D : şəbəkə qovşaqlarında problemlərin təhlili və interfeyslərdə problemlərin təhlili
+E : şəbəkə qovşaqlarında problemlərin təhlili və marşrutizatorlarda problemlərin təhlili 
+ ANSWER : E
+
+122.	 	 IP-marşrutlaşmada şəbəkə qovşaqlarında nasazlıqların axtarışı və aradan qaldırılması üçün hansı əmrdən istifadə etmək olar?
+
+A : ping 
+B : echo 
+C : ipshow   
+D : iproute
+E : show 
+ ANSWER : A
+
+123.	 	 IP-marşrutlaşmada marşrutizatorlarda və marşrutlaşdırma protokollarında nasazlıqların axtarışı və aradan qaldırılması üçün hansı əmrdən istifadə olunur?
+
+A : ping 
+B : traceroute 
+C : show 
+D : iproute
+E : echo 
+ ANSWER : B
+
+124.	 	 Microsoft şirkətinin Windows əməliyyat sistemlərində traceroute əmri necə adlanır?
+
+A : mstraseroute 
+B : traceroute 
+C : tracert 
+D : wintraceroute
+E : mstracert 
+ ANSWER : C
+
+125.		 Marşrutizatorda ping əmrinin yerinə yetirilməsi zamanı ISMP məlumat qismində hansı məlumatlar verilmir?
+
+A : paketin göndərilməsi üçün cəhdlərin sayı 
+B : dataqramın ölçüsü 
+C : alanın ünvanı 
+D : alanın şəbəkəyə qoşulma tarixi
+E : timeout müddəti 
+ ANSWER : D
+
+126.	 	 Marşrutizatorda "ping 10.1.1.10" əmrində IP-ünvan nəyin ünvanıdır?
+
+A : göndərənin (əlaqəni yoxlayanın) IP-ünvanı
+B : ən yaxın qurğunun IP-ünvanı 
+C : altşəbəkənin sərhəd marşrutizatorunun IP-ünvanı 
+D : göndərənin (əlaqəni yoxlayanın) interfeysinin IP-ünvanı 
+E : alanın (əlaqəsi yoxlanılanın) IP-ünvanı 
+ ANSWER : E
+
+127.		 Marşrutizatorda traceroute əmrinin yerinə yetirilməsi zamanı hansı məlumatlar verilmir?
+
+A : əmrin daxil edildiyi tarix 
+B : göndərənin (əlaqəni yoxlayanın) IP-ünvanı 
+C : timeout müddəti 
+D : paketin göndərilməsi üçün cəhdlərin sayı 
+E : alanın (əlaqəsi yoxlanılanın) IP-ünvanı 
+ ANSWER : A
+
+128.	 	 WAN  şəbəkəsinin özəl xidməti qismində açıq İnternet şəbəkəsinin istifadəsi zamanı meydana çıxan təhlükəsizlik probleminin optimal həlli üçün istifadə edilir:
+
+A : DES 
+B : VPN 
+C : MD5 
+D : PGP 
+E : MAC 
+ ANSWER : B
+
+129.	 	 WAN  şəbəkəsinin özəl xidməti qismində açıq İnternet şəbəkəsinin istifadəsi zamanı meydana çıxan təhlükəsizlik probleminin optimal həlli üçün istifadə edilir:
+
+A : Amerika şifrləmə standartı 
+B : rəqəm imza texnologiyası 
+C : virtual özəl şəbəkə 
+D : simmetrik şifrləmə alqoritmi 
+E : simsiz rabitə əlaqəsi 
+ ANSWER : C
+
+130.	 	 İnternet vasitəsilə verilənlərin ötürülməsi zamanı VPN şəbəkələr aşağıda göstərilən problemlərdən hansını həll etmir?
+
+A : Konfidensiallıq 
+B : Autentifikasiya 
+C : Verilənlərin bütövlüyü 
+D : IP marşrutlaşdırmanın təhlükəsizliyi
+E : Təkrar istifadədən qorunma 
+ ANSWER : D
+
+131.		 İnternet vasitəsilə verilənlərin ötürülməsi zamanı VPN şəbəkələrin təmin etdiyi məsələlər hansı variantda düzgün göstərilmişdir?
+
+A : Privacy, Authentication, Identification, Routing 
+B : Identification, Authentication, Data integrity, Verification 
+C : Privacy, Safety connection, Data integrity, Verification 
+D : Identification, Authentication, Verification, Routing 
+E : Privacy, Authentication, Data integrity, Anti-replay 
+ ANSWER : E
+
+132.	 	 VPN şəbəkələrdən nə vaxt istifadə edilir?
+
+A : İnternet vasitəsilə verilənlərin təhlükəsiz ötürülməsini təmin etmək üçün 
+B : lokal şəbəkədə verilənlərin kompüterdən marşrutizatora təhlükəsiz ötürülməsi üçün 
+C : ayrılmış əlaqə xətləri vasitəsilə verilənlərin təhlükəsiz ötürülməsi üçün
+D : IP marşrutlaşdırmada marşrutlaşdırma cədvəllərinin təhlükəsiz ötürülməsi üçün
+E : kompüter şəbəkələrində məlumatların şifrlənməsi üçün 
+ ANSWER : A
+
+133.		 Hansı qurğular arasında VPN şəbəkə yaradılır?
+
+A : lokal şəbəkədə iki kompüteri arasında 
+B : İnternet vasitəsilə qoşulmuş iki şəbəkənin marşrutizatorları arasında 
+C : ayrılmış əlaqə xətləri vasitəsilə qoşulmuş iki qurğu arasında
+D : telefon xətti ilə qoşulmuş iki modem arasında
+E : lokal şəbəkədə kompüterlə marşrutizator arasında 
+ ANSWER : B
+
+134.		 VPN şəbəkə necə adlanır?
+
+A : VPN protokol 
+B : VPN networking 
+C : VPN tunel
+D : VPN routing
+E : VPN connecting 
+ ANSWER : C
+
+135.		 VPN-tunel və tunel anlayışları arasında əsas fərq nədir?
+
+A : VPN tunellə tunel anlayışları arasında fərq yoxdur 
+B : VPN tuneldə paketlər toplu şəklində göndərilir
+C : VPN tuneldə paketlər hissələrə bölünərək göndərilir
+D : VPN tuneldə paketlər şifrlənir
+E : VPN tuneldə paketlərin başlıqları dəyişdirilir 
+ ANSWER : D
+
+136.	 	 Paketlər VPN-tunellə hansı şəkildə göndərilir?
+
+A : paketdə IP-ünvanlar başqa ünvanlarla əvəz olunur 
+B : paketin strukturu dəyişdirilir
+C : bir neçə paket birləşdirilir
+D : paket hissələrə bölünür
+E : paket şifrlənir 
+ ANSWER : E
+
+137.		 VPN-tunellə göndərilən paketlər üzərində hansı əməliyyat aparılır?
+
+A : IP-ünvanlar dəyişdirilir və şifrlənir 
+B : paketin strukturu dəyişdirilir və yeni IP-ünvan əlavə edilir
+C : paket şifrlənir və yeni paketə inkapsulyasiya edilir
+D : paket hissələrə bölünür və ayrı-ayrı paketlərə inkapsulyasiya edilir
+E : paket yeni paketə inkapsulyasiya edilir və yeni paket şifrlənir 
+ ANSWER : C
+
+138.		 VPN şəbəkələrdə təhlükəsizlik hansı texnologiyaya əsaslanır?
+
+A : paketlərin şifrlənməsi 
+B : paketin strukturunun dəyişdirilməsi
+C : paketlərin birləşdirilməsi
+D : paketlərin bölünməsi
+E : paketlərin ötürülməsi ardıcıllığının dəyişdirilməsi 
+ ANSWER : A
+
+139.	 	 VPN şəbəkələrdə şifrlənmiş ilkin paket ünvana necə ötürülür?
+
+A : şifrlənmiş paket başqa marşrutla ötürülür 
+B : şifrlənmiş paket digər yeni paketin içərisinə yerləşdirilir
+C : şifrlənmiş paket elektron poçt vasitəsilə ötürülür 
+D : şifrlənmiş paket marşrutlaşdırma cədvəlinin icərisində ötürülür 
+E : şifrlənmiş paket açıq paketlərlə qarşıdırılır 
+ ANSWER : B
+
+140.	 	 VPN şəbəkələrdən istifadə zamanı istifadəçinin kompüteri məlumatı (paketləri) hansı şəkildə ötürür və alır?
+
+A : digər paketlərin icərisində 
+B : şifrlənmiş şəkildə
+C : açıq (şifrlənməmiş) şəkildə 
+D : fraqmentlərə bölünmüş şəkildə 
+E : digər paketlərlə qarışdırılmış şəkildə 
+ ANSWER : C
+
+141.		 Aşağıdakılardan hansı VPN şəbəkələrin növüdür?
+
+A : Enhanced VPN 
+B : Hidden VPN
+C : Safety VPN 
+D : Access VPN 
+E : Security VPN 
+ ANSWER : D
+
+142.	 	 Aşağıdakılardan hansı VPN şəbəkələrin növüdür?
+
+A : Hidden VPN 
+B : Safety VPN
+C : Security VPN 
+D : Enhanced VPN 
+E : Intranet VPN 
+ ANSWER : E
+
+143.	 	 Aşağıdakılardan hansı VPN şəbəkələrin növüdür?
+
+A : Extranet VPN 
+B : Enhanced VPN
+C : Hidden VPN 
+D : Security VPN 
+E : Safety VPN 
+ ANSWER : A
+
+144.		 Bir təşkilatın iki şəbəkə sahəsini birləşdirən VPN şəbəkə necə adlanır?
+
+A : Extranet VPN 
+B : Intranet VPN
+C : Hidden VPN 
+D : Access VPN 
+E : Safety VPN 
+ ANSWER : B
+
+145.	 	 Tərəfdaş münasibətlər saxlayan müxtəlif təşkilatların iki şəbəkə sahəsini birləşdirən VPN şəbəkə necə adlanır?
+
+A : Hidden VPN 
+B : Intranet VPN
+C : Extranet VPN 
+D : Access VPN 
+E : Safety VPN 
+ ANSWER : C
+
+146.		 Ayrı-ayrı istifadəçiləri korporativ şəbəkələrlə birləşdirən VPN şəbəkə necə adlanır?
+
+A : Intranet VPN 
+B : Extranet VPN
+C : Safety VPN 
+D : Access VPN 
+E : Hidden VPN
+ ANSWER : D
+
+147.		 VPN şəbəkə qurmaq üçün şəbəkə sahələrində hansı aparat vasitələrindən və proqram təminatından istifadə olunur?
+
+A : Router, VPN server, VPN client 
+B : Router, Modem, IOS
+C : Router, IOS, ASA
+D : Router, Modem, Kompüter 
+E : Router, ASA, VPN client
+ ANSWER : E
+
+148.		 VPN şəbəkələrin təqdim etdiyi üstünlüklər hansılardır?
+
+A : Qiymət, təhlükəsizlik, miqyaslılıq 
+B : Qiymət, təhlükəsizlik, sadəlik
+C : Xüsusilik, təhlükəsizlik, sadəlik
+D : Qiymət, özəllik, miqyaslılıq 
+E : Özəllik, təhlükəsizlik, davamlılıq
+ ANSWER : A
+
+149.		 IP şəbəkələrin qorunması üçün istifadə edilən arxitektura və ya konsepsiyalar toplusudur:
+
+A : SHTTP 
+B : IPSec
+C : STP
+D : SecIP 
+E : SecTP
+ ANSWER : B
+
+150.	 	 IPSec nədir?
+
+A : IP şəbəkələrdə VPN tunelin realizə edilməsi üsuludur 
+B : IP şəbəkələrdə verilənləri qorunması üçün şifrləmə alqoritmidir
+C : IP şəbəkələrin qorunması üçün istifadə edilən arxitektura və ya konsepsiyalar toplusudur 
+D : IP şəbəkələrdə VPN tunelin proqram təminatıdır 
+E : IP şəbəkələrdə VPN tunelin növüdur 
+ ANSWER : C
+
+151.		 IPSec konsepsiyasında neçə şifrləmə alqoritmindən istifadə olunur?
+
+A : şifrləmə və şifrin açılması üçün 1 alqoritmdən istifadə olunur 
+B : şifrləmə üçün 1 alqoritmdən istifadə olunur 
+C : şifrin açılması üçün 1 alqoritmdən istifadə olunur 
+D : şifrləmə və şifrin açılması üçün 2 alqoritmdən istifadə olunur 
+E : heç bir şifrləmə alqoritmindən istifadə olunmur
+ ANSWER : D
+
+152.	 	 IPSec konsepsiyasında şifrləmə açarından istifadə olunurmu?
+
+A : hər qurğu özünün şifrləmə və şifrin açılması açarından istifadə edir 
+B : VPN şəbəkə üçün müəyyən edilmiş daimi şifrləmə açarından istifadə olunur 
+C : şifrləmə və şifrin açılması üçün istifadəçinin müəyyən etdiyi açardan istifadə olunur 
+D : şifrləmə açarından istifadə olunmur 
+E : hər seans üçün bir şifrləmə və şifrin açılması açarından istifadə olunur
+ ANSWER : E
+
+153.		 Hansı bənd IPSec texnologiyası əsasında qurulmuş VPN şəbəkələrdə verilənlərin şifrlənməsi prosesinə aid deyil?
+
+A : VPN şəbəkədə alan qurğu şifrləmə açarını göndərən qurğuya ötürür 
+B : VPN şəbəkədə göndərən qurğu şifrləmə açarını istifadə etməklə ilkin verilənləri şifrləyir 
+C : Şifrlənmiş verilənlər yeni IP başlığı və VPN başlığı olan yeni paketə inkapsulyasiya edilir 
+D : Göndərən qurğu inkapsulyasi edilmiş yeni paketi VPN şəbəkəsinin alan qurğusuna ötürür 
+E : VPN şəbəkədə qəbul edən qurğu müvafiq düsturu istifadə etməklə paketin şifrini açır 
+ ANSWER : A
+
+154.		 IPSec texnologiyasında hansı şifrləmə alqoritmlərindən istifadə olunur?
+
+A : DES, ГОСТ, PGP 
+B : DES, 3-DES, AES 
+C : DES, MD5, RSA 
+D : DES, RSA, MDH
+E : RSA,Al-Gamal, AES 
+ ANSWER : B
+
+155.		 VPN şəbəkələrdə veb-brauzerlə veb-server arasında qorunan birləşmənin dinamik yaradılmasını təmin edir:
+
+A : PGP 
+B : DES 
+C : SSL 
+D : IPSec
+E : RSA 
+ ANSWER : C
+
+156.		 VPN şəbəkələrdə SSL protokolu hansı məqsədlə istifadə olunur?
+
+A : veb-saytların sındırılmasının qarşısını almaq üçün 
+B : veb-brauzerin təhlükəsiz işləməsi üçün 
+C : veb-serverin qorunması üçün
+D : veb-brauzerlə veb-server arasında qorunan birləşmənin dinamik yaradılması üçün
+E : veb-serverlərdə parol tələb olunan xidmətlərdən istifadə üçün 
+ ANSWER : D
+
+157.		 SSL protokolu əsasında  qurulmuş VPN şəbəkələrdə hansı qovşaqlar arasında təhlükəsiz birləşmə təmin edilir?
+
+A : veb-saytlar arasında 
+B : veb-brauzerlə marşrutizator arasında 
+C : veb-serverlər arasında
+D : marşrutizatorla veb-server arasında 
+E : veb-brauzerlə veb-server arasında 
+ ANSWER : E
+
+158.		 SSL protokolu əsasında  qurulmuş VPN tunelin bir tərəfində veb-brauzer olduqda digər tərəfində hansı qurğu ola bilər?
+
+A : Cisco ASA 
+B : Cisco router 
+C : Web-brouser
+D : Modem 
+E : Hub 
+ ANSWER : A
+
+159.		 SSL protokolu hansı portdan istifadə edir?
+
+A : 80 
+B : 443 
+C : 8080
+D : 25 
+E : 440 
+ ANSWER : B
+
+160.		 VPN tunelin sonlarında yerləşən qurğular aldıqları şifrlənməmiş paketi ötürməzdən hansı əməliyyatları yerinə yetirir?
+
+A : paketi şifrləyir, fraqmentlərə bölür, ötürür 
+B : paketi kiçik hissələrə bölür, onları şifrləyir, tunelə ötürür 
+C : paketi şifrləyir, yeni paketə inkapsulayisa edir, yeni IP-başlıqla təchiz edir
+D : paketi əvvəlki paketlə qarışdırır, şifrləyir, yeni paketə qoyur 
+E : şifrləyir, yeni paketə qoyur, əvvəlki IP-başlıqları bərpa edir, tunelə ötürür
+ ANSWER : C
+
+161.		 Aşağıdakı əmrlərdən hansı VPN tunelin interfeyslərinin təfərrüatlarını təsvir edir?
+
+A : show ip interface brief 
+B : show ip route 10.0.0.0 
+C : ping 10.0.0.0
+D : show interfaces tunnel0 
+E : traceroute 10.0.0.0
+ ANSWER : D
+
+162.		 Aşağıdakı əmrlərdən hansı interfeyslərin və IP-ünvanların vəziyyətini təsvir edir?
+
+A : ping 10.0.0.0 
+B : show ip route 10.0.0.0 
+C : traceroute 10.0.0.0
+D : show interfaces tunnel0 
+E : show ip interface brief 
+ ANSWER : E
+
+163.	 	 Aşağıdakı əmrlərdən hansı marşrutizatorda tunelin konfiqurasiyasını nümayiş etdirir?
+
+A : show running-config 
+B : show ip route 10.0.0.0 
+C : show networking
+D : show interfaces tunnel0 
+E : show ip interface brief 
+ ANSWER : A
+
+164.		 Şəbəkədə ən qısa marşrutun seçilməsi üçün istifadə olunan açıq protokol hansıdır?
+
+A : ISMP 
+B : OSPF 
+C : ASA
+D : LSA 
+E : ATF 
+ ANSWER : B
+
+165.	 	 Şəbəkədə marşrutizatorlar OSPF qonşularını müəyyən etmək üçün hansı paketi göndərirlər?
+
+A : Neighbor paketini
+B : OSPF paketini 
+C : Hello paketini
+D : LSA paketini 
+E : RID paketini 
+ ANSWER : C
+
+166.		 OSPF protokolunda şəbəkədə kanalın vəziyyəti haqqında verilənlər bazası hansıdır?
+
+A : OSPF DB
+B : RID DB 
+C : Routing DB
+D : LSDB 
+E : LSA DB 
+ ANSWER : D
+
+167.	 	 OSPF protokolunda marşrutizatorlar LSDB verilənlər bazalarını mübadilə etmək üçün hansı məlumatı göndərirlər?
+
+A : OSPF parametrlər
+B : RID identifikatorlar 
+C : Marşrutlaşdırma cədvəlləri
+D : SPF alqoritmlər 
+E : LSA anonslar 
+ ANSWER : E
+
+168.	 	 Şəbəkədə OSPF protokolunda ən qısa marşrutun hesablanması alqoritmi hansıdır?
+
+A : SPF 
+B : ASF 
+C : ASA
+D : LSA 
+E : IOS 
+ ANSWER : A
+
+169.		 Hansı bənddə marşrutizatorun OSPF protokolu üçün fərdi identifikatoru göstərilmişdir?
+
+A : OSPF ID 
+B : Router ID 
+C : LSA ID
+D : LSDB ID 
+E : Network ID 
+ ANSWER : B
+
+170.		 OSPF protokolunda hansı əmr vasitəsilə qonşular RID identifikatoruna görə bir-birilərini identifikasiya edirlər?
+
+A : show ip ospf routing 
+B : show ip ospf RID 
+C : show ip ospf neighbor 
+D : show neighbor routers 
+E : show ip routers 
+ ANSWER : C
+
+171.	 	 OSPF protokolunda əlaqə kanalı bərpa olunduqda və işə salındıqda kanalın uclarındakı (sonlarındakı) marşrutizatorlar hansı prosedurları keçirlər?
+
+A : qonşunun aşkar edilməsi,RTF aloritminin işə salınması, LSA anonsların dayandırılması 
+B : qonşunun aşkar edilməsi, ən qısa marşrutun tapılması, portların qoşulması 
+C : qonşunun aşkar edilməsi,qonşuya ən yaxın portun qoşulması, digər portların söndürülməsi 
+D : qonşunun aşkar edilməsi,qonşu olmaq üçün parametrlərin yoxlanması, LSA anonslarının mübadiləsi 
+E : qonşunun aşkar edilməsi,qonşu olmaq interfeyslərin qurulması, portların başlanması 
+ ANSWER : C
+
+172.		 OSPF protokoluna görə R1 marşrutizatorunda daxil edilmiş "Hello, seen [null] My RID 1.1.1.1" əmrində "seen [null]" sözləri nəyi göstərir?
+
+A : R1 marşrutizatorunun interfeysləri qoşulmamışdır 
+B : R1 marşrutizatorunun portları işləmir 
+C : R1 marşrutizatorunun qoşulduğu əlaqə kanalı işləmir 
+D : R1 marşrutizatoru ilk Hello paketini göndərmişdir 
+E : R1 marşrutizatoru qonşuluq münasibətləri yaratmaq istəmir 
+ ANSWER : D
+
+173.	 	 OSPF protokoluna görə R1 marşrutizatorunda daxil edilmiş "Hello, seen [null], My RID 1.1.1.1" əmrində "1.1.1.1" ünvanı nəyi göstərir?
+
+A : R1 marşrutizatorunun qonşusunun IP-ünvanıdır 
+B : R1 marşrutizatoru "1.1.1.1" ünvanlı marşrutizatora qoşulmaq istəyir 
+C : R1 marşrutizatorunun qoşulduğu əlaqə kanalı işləmir 
+D : R1 marşrutizatoru "1.1.1.1" identifikatoru olan marşrutizatoru axtarır 
+E : R1 marşrutizatoru öz RID identifikatorunu elan edir 
+ ANSWER : E
+
+174.	 	 OSPF protokoluna görə R2 marşrutizatorunda daxil edilmiş "Hello, seen [1.1.1.1], My RID 2.2.2.2" əmrində "seen [1.1.1.1]" ifadəsi nəyi göstərir?
+
+A : R2 marşrutizatoru "1.1.1.1" ünvanlı marşrutizatordan aldığı məlumata cavab verir 
+B : R2 marşrutizatoru "1.1.1.1" ünvanlı marşrutizatora qoşulmaq istəyir 
+C : R2 marşrutizatoru "1.1.1.1" ünvanlı marşrutizatora ilk Hello məlumatı göndərir 
+D : R2 marşrutizatoru "1.1.1.1" marşrutizatorunu sərhəd marşrutizatoru kimi elan edir 
+E : R2 marşrutizatoru "1.1.1.1" ünvanını özünün RID identifikatoru kimi elan edir 
+ ANSWER : A
+
+175.		 OSPF protokoluna görə OSPF qonşuların 2-way (ikitərəfli) vəzyiyyəti nəyi göstərir?
+
+A : qonşuların OSPF protoklouna qoşulmaq üçün hazır olduqlarını göstərir 
+B : qonşuların LSDB bazalarının mübadiləsinə hazır olduqlarını göstərir 
+C : OSPF qonşuların əlaqə kanaının işlək olduğunu təsdiq edir
+D : OSPF qonşuların 2 əlaqə kanalına malik olduqlarını göstərir 
+E : OSPF qonşuların bir-birinə 2 əlaqə kanalı vasitəsilə qoşulduqlarını göstərir 
+ ANSWER : B
+
+176.	 	 OSPF verilənlər bazalarının təsviri üçün LSA anonsu hansı paketdən istifadə edir?
+
+A : OSPF Database Structure (DS) paketindən 
+B : OSPF Database Request (DR) paketindən 
+C : OSPF Database Description (DD) paketindən
+D : OSPF Database Link-State Update (LSU) paketindən 
+E : OSPF LSDB paketindən 
+ ANSWER : C
+
+177.		 OSPF protokolunda qonşular arasında LSA anonslarını faktiki ötürən OSPF məlumatlarının paketləri neçə adlanır?
+
+A : OSPF Database Structure (DS) paketi 
+B : OSPF Database Request (DR) paketi 
+C : OSPF Database Description (DD) paketi
+D : OSPF Database Link-State Update (LSU) paketi 
+E : OSPF LSDB paketi 
+ ANSWER : D
+
+178.	 	 Hello müddəti nəyi göstərir?
+
+A : marşrutizator qonşudan Hello müddətində Hello məlumat almadıqda qonşuluqdan imtina edir 
+B : marşrutizator Hello müddətində Hello məlumat almadıqda LSDB bazasını ləğv edir 
+C : marşrutizator Hello müddətində Hello məlumat almadıqda interfeysi söndürür
+D : Hello məlumat Hello müddətində marşrutizatora çatmadıqda məhv edilir 
+E : marşrutizator hər Hello müddətindən bir Hello məlumatı göndərməlidir 
+ ANSWER : E
+
+179.		 STP protokolunda root kommutator tərəfindən Hello məlumatların ötürülmələrin arasındakı Hello taymerin qiyməti nəyə bərabərdir?
+
+A : 4 saniyə 
+B : 15 saniyə 
+C : 2 saniyə
+D : 30 saniyə 
+E : 8 saniyə 
+ ANSWER : C
+
+180.		 STP protokolunda Hello məlumatlar kəsidikdə marşrutizator STP topologiyanı dəyişdirmək (yeniləmək) üçün nə qədər müddət gözləməlidir?
+
+A : 4 Hello dövrü 
+B : 10 Hello dövrü 
+C : 2 Hello dövrü 
+D : 6 Hello dövrü
+E : 8 Hello dövrü 
+ ANSWER : B
+
+181.		 Dead müddəti nəyi göstərir?
+
+A : marşrutizator Dead müddətində Hello məlumat almadıqda qonşuluqdan imtina edir 
+B : marşrutizator Dead müddətində Hello məlumat almadıqda LSDB bazasını ləğv edir 
+C : marşrutizator Dead müddətində Hello məlumat almadıqda interfeysi söndürür
+D : Hello məlumat Dead müddətində çatmadıqda marşrutizator fəaliyyətini dayandırır 
+E : marşrutizator hər Dead müddətindən bir Hello paketi göndərməlidir 
+ ANSWER : A
+
+182.		 Hello və Dead müddətlərinin qiymətlərinın qarşılıqlı əlaqəsi necə müəyyən edilir?
+
+A : 1 Dead müddəti = 1 Hello müddəti 
+B : 1 Dead müddəti = 4 Hello müddəti 
+C : 1 Dead müddəti = 2 Hello müddəti 
+D : 4 Dead müddəti = 1 Hello müddəti 
+E : 2 Dead müddəti = 1 Hello müddəti 
+ ANSWER : B
+
+183.		 OSPF protokolu Ethernet şəbəkələrində hansı növ marşrutizatorlardan istifadə edir?
+
+A : Designated Router (DR), Backup DR (BDR), Neighbor DR (NDR) 
+B : Designated Router (DR), Backup DR(BDR), Interior DR (IDR) 
+C : Designated Router (DR), Backup DR (BDR), DROther
+D : Designated Router (DR), Backup DR(BDR), Exterior DR (EDR) 
+E : Designated Router (DR), Interior DR (IDR), Exterior DR (EDR) 
+ ANSWER : C
+
+184.		 OSPF protokolunda OSPF qonşular arasında hansı qonşuluq münasibətləri müəyyən olunur?
+
+A : Full (tam sinxronlaşma) və partial (qismən sinxronlaşma) 
+B : 1-way (birtərəfli əlaqə)və 2-way (ikitərəfli əlaqə)  
+C : Full (tam sinxronlaşma) və 1-way (birtərəfli əlaqə)
+D : Full (tam sinxronlaşma) və 2-way (ikitərəfli əlaqə) 
+E : Partial (qismən sinxronlaşma) və 2-way (ikitərəfli əlaqə) 
+ ANSWER : D
+
+185.	 	 OSPF protokolunda OSPF qonşular arasında hansı razılaşma dərəcələri müəyyən olunur?
+
+A : adjacent (razılaşdırılmış) və not adjacent (razılaşırılmamış) 
+B : adjacent (razılaşdırılmış) və partial adjacent (qismən razılaşırılmış)  
+C : partial adjacent (qismən razılaşdırılmış) və fully adjacent (tam razılaşırılmış)
+D : not adjacent (razılaşdırılmamış) və fully adjacent (tam razılaşırılmış) 
+E : adjacent (razılaşdırılmış) və fully adjacent (tam razılaşırılmış) 
+ ANSWER : E
+
+186.		 LSDB bazalarının məzmunlarını mübadilə edərək başa çatdırmış və tam razılaşdırmış iki OSPF marşrutizator arasında qonşuluq münasibətlərinin vəziyyəti və raslaşma dərəcəsi necə olar?
+
+A : Full (tam sinxronlaşma), fully adjacent (tam razılaşırılmış) 
+B : 2-way (ikitərəfli əlaqə), fully adjacent (tam razılaşırılmış)   
+C : Full (tam sinxronlaşma), adjacent (razılaşdırılmış)
+D : 2-way (ikitərəfli əlaqə) , adjacent (razılaşdırılmış) 
+E : 1-way (birtərəfli əlaqə) , fully adjacent (tam razılaşırılmış) 
+ ANSWER : A
+
+187.		 Hansı variant OSPF sahələrin lahiyələndirilməsi zamanı riayət edilən qaydalara aid deyil?
+
+A : Eyni altşəbəkəyə qoşulmuş bütün interfeyslər bir sahəyə yerləşdirməlidir 
+B : Bütün sahələrdəki qurğuların sayı tamamilə eyni olmalıdır 
+C : Sahə kəsilməz (bütün qurğular əlaqəli) olmalıdır
+D : Hər sahədə heç olmasa bir sərhəd marşrutizatoru olmalıdır 
+E : Hər sahədə bütün interfeysləri həmin sahəyə qoşulmuş daxili marşrutizatorlar olmalıdır 
+ ANSWER : B
+
+188.		 Hansı variant OSPF sahələrin lahiyələndirilməsi zamanı riayət edilən qaydalara aid deyil?
+
+A : Eyni altşəbəkəyə qoşulmuş bütün interfeyslər bir sahəyə yerləşdirməlidir 
+B : Sahə kəsilməz (bütün qurğular əlaqəli) olmalıdır 
+C : Marşrutizatorlar eyni zamanda bir neçə sahəyə qoşulmalıdır
+D : Hər sahədə heç olmasa bir sərhəd marşrutizatoru olmalıdır 
+E : Hər sahədə bütün interfeysləri həmin sahəyə qoşulmuş daxili marşrutizatorlar olmalıdır 
+ ANSWER : C
+
+189.	 	 OSPF sahənin sərhəd marşrutizatoru  (ABR) hansı marşrutizatora deyilir?
+
+A : ABR-in bütün interfeysləri sahənin magistral sahəyə yaxın marşrutizatorlarına qoşulur 
+B : ABR marşrutizator coğrafi baxımdan magistral sahəyə yaxında yerləşir 
+C : ABR marşrutizatorlar iki qeyri-magistral sahəni birləşdirir
+D : ABR-in bəzi interfeysləri magistral sahəyə, digər interfeysləri qeyri-magistral sahəyə qoşulur 
+E : ABR marşrutizator magistral sahənin daxili marşrutizatorudur 
+ ANSWER : D
+
+190.		 OSPF sahənin daxili marşrutizatoru hansı marşrutizatora deyilir?
+
+A : Daxili marşrutizator sahəyə aid olan marşrutizatordur 
+B : Daxili marşrutizator altşəbəkənin qurğularına qoşulmuş marşrutizatordur 
+C : Daxili marşrutizator iki qeyri-magistral sahəni birləşdirən marşrutizatordur
+D : Daxili marşrutizator yalnız digər sahələrin marşrutizatorlarına qoşulmuş marşrutizatordur 
+E : Daxili marşrutizator bütün interfeysləri bir qeyri-magistral sahədə yerləşən marşrutizatordur 
+ ANSWER : E
+
+191.	 	 OSPF sahələr layihəsində magistral marşrutizator hansı marşrutizatora deyilir?
+
+A : Magistral marşrutizator bütün interfeysləri magistral sahədə yerləşən marşrutizatordur 
+B : Magistral marşrutizator magistral sahəni digər sahələrlə birləşdirən marşrutizatordur 
+C : Magistral marşrutizator digər sahələrin magistral sahəyə yaxın olan marşrutizatorudur 
+D : Magistral marşrutizator bir neçə magistral sahəni birləşdirən marşrutizatordur
+E : Magistral marşrutizator altşəbəkəni magistral sahəyə birləşdirən marşrutizatordur 
+ ANSWER : A
+
+192.		 OSPF layihədə magistral sahə hansı sahəyə deyilir?
+
+A : Bütün OSPF sahələrin ortasında yerləşən sahələrdir 
+B : Bütün qeyri-magistral sahələrin qoşulduğu xüsusi OSPF sahədir 
+C : Bütün qeyri-magistral sahələrdən eyni məsafədə yerləşən sahədir 
+D : Bütün marşrutizatorları yüksək göstəricilərə malik olan OSPF sahədir
+E : ABR sərhəd marşrutizatorlarının daxil olduğu OSP sahədir 
+ ANSWER : B
+
+193.		 OSPF layihədə sahədaxili marşrut nəyə deyilir?
+
+A : Sahənin iki altşəbəkəsini birləşdirən marşrutdur
+B : Marşrutizatorun qoşulduğu sahəyə yönəlmiş marşrutdur 
+C : Marşrutizatorun daxil olduğu sahədə olan altşəbəkəyə yönəlmiş marşrutdur 
+D : Sahənin altşəbəkəsində kompüterləri birləşdirən marşrutdur
+E : Sahənin marşrutizatorunu magistral sahənin marşrutizatoruna birləşdirən marşrutdur 
+ ANSWER : C
+
+194.	 	 OSPF layihədə SPF alqoritmin iş həcmi nəyin hesabına azalır?
+
+A : LSDB siyahısında sərhəd marşrutizatorları nəzərə alınmır 
+B : LSDB siyahısında daxili marşrutizatorlar nəzərə alınmır 
+C : Sahələrin daxili marşrutizatorları və əlaqə kanalları atılır
+D : Hər sahənin LSDB siyahısında yalnız bu sahənin marşrutizatorları və əlaqə kanalları göstərilir
+E : Hər sahənin öz strukturuna uyğun SPF alqoritm işlənib hazırlanır 
+ ANSWER : D
+
+195.		 Böyük şəbəkələrdə çoxsahəli layihələrın üstünlüklərinə aid deyil.
+
+A : Hər bir sahədə LSDB bazanın ölçüsünün kiçik olması daha kiçik yaddaş tələb edir 
+B : LSDB bazaların kiçik olması səbəbindən marşrutizatorların prosessorunun işi və xərcləri ixtisar olunur, uyğunlaşma müddəti yaxşılaşır 
+C : Şəbəkədə baş verən dəyişiklik yalnız əlaqə kanalının vəziyyəti dəyişən sahələrlə qoşulmuş marşrutizatorlarda SPF hesablamaların aparılmasını tələb edir 
+D : LSA anonsların ötürülməsi üçün zəruri olan buraxılış zolağının enini azaltmaqla sahələr arasında anonslarda daha az informasiya ötürmək olur
+E : Mürəkkəblikdən qaçmağa və şəbəkəni daha sadə etməyə imkan verir
+ ANSWER : E
+
+196.		 Böyük şəbəkələrdə çoxsahəli layihələrın üstünlüklərinə hansılar aiddir:
+
+A : Bütün variantlar 
+B : Hər bir sahədə LSDB bazanın ölçüsünün kiçik olması daha kiçik yaddaş tələb edir 
+C : LSDB bazaların kiçik olması səbəbindən marşrutizatorların prosessorunun işi və xərcləri ixtisar olunur, uyğunlaşma müddəti yaxşılaşır 
+D : Şəbəkədə baş verən dəyişiklik yalnız əlaqə kanalının vəziyyəti dəyişən sahələrlə qoşulmuş marşrutizatorlarda SPF hesablamaların aparılmasını tələb edir
+E : LSA anonsların ötürülməsi üçün zəruri olan buraxılış zolağının enini azaltmaqla sahələr arasında anonslarda daha az informasiya ötürmək olur
+ ANSWER : A
+
+197.		 OSPFv2 protokolunda hansı növ LSA anonslarından istifadə olunur?
+
+A : Router LSA, Network LSA, Area LSA 
+B : Router LSA, Network LSA, Summary LSA
+C : Router LSA, Area LSA, Summary LSA 
+D : Router LSA, Identificator LSA, Network LSA 
+E : Router LSA, Network LSA, Subnet LSA
+ ANSWER : B
+
+198.	 	 OSPFv2 protokolunda Router LSA anonsunun məqsədi nədən ibarətddir?
+
+A : Magistral sahəni təsvir etmək 
+B : Qeyri-magistral sahəni təsvir etmək 
+C : Marşrutizatoru təsvir etmək 
+D : Şəbəkəni təsvir etmək 
+E : Altşəbəkəni təsvir etmək
+ ANSWER : C
+
+199.		 OSPFv2 protokolunda Network LSA anonsunun məqsədi nədən ibarətddir?
+
+A : Magistral sahəyə qoşulmuş ABR marşrutu olan şəbəkəni təsvir etmək 
+B : DR marşrutizatoru olmayan şəbəkəni təsvir etmək 
+C : Magistral şəbəkəyə qoşulmuş DR marşrutizatoru təsvir etmək 
+D : DR marşrutizatoru olan şəbəkəni təsvir etmək 
+E : OSPF sahənin daxili marşrutizatorunu təsvir etmək 
+ ANSWER : D
+
+200.		 OSPFv2 protokolunda Summary LSA anonsunun məqsədi nədən ibarətddir?
+
+A : Marşrutizatorun qoşulduğu sahəni təsvir etmək 
+B : Marşrutizatorun daxil olduğu şəbəkəni təsvir etmək 
+C : Magistral sahəni təsvir etmək 
+D : Qeyri-magistral sahəni təsvir etmək 
+E : Digər sahənin altşəbəkəsini təsvir etmək 
+ ANSWER : E
+
+201.		 OSPFv2 protokolunda Router LSA anonsunun məzmunu nəyi özündə əks etdirir?
+
+A : RID, interfeyslər, IP-ünvanlar/maskalar, interfeysin cari vəziyyəti 
+B : DR, BDR və ABR marşrutizatorların ünvanları və identifikatorları 
+C : Altşəbəkəyə marşrutların cədvəli 
+D : Altşəbəkənin marşrutizatorlarının siyahısı və identifikatorları 
+E : Sərhəd marşrutizatorun identifikatoru, IP-ünvanı və interfeysləri
+ ANSWER : A
+
+202.		 OSPFv2 protokolunda Network LSA anonsunun məzmunu nəyi özündə əks etdirir?
+
+A : Altşəbəkənin marşrutizatorlarının siyahısı, identifikatorları və IP-ünvanları 
+B : DR və BDR marşrutizatorların IP-ünvanları, altşəbəkənin identifikatoru, maskası 
+C : Magistral sahənin altşəbəkələrinin marşrutlarının cədvəli 
+D : Altşəbəkənin daxili marşrutizatorlarının siyahısı və IP-ünvanları 
+E : Altşəbəkələrin sərhəd marşrutizatorlarının identifikatorları və IP-ünvanları
+ ANSWER : B
+
+203.		 OSPFv2 protokolunda Summary LSA anonsunun məzmunu nəyi özündə əks etdirir?
+
+A : Digər sahənin altşəbəkəsinin marşrutizatorlarının siyahısı və identifikatorları 
+B : Digər sahənin altşəbəkəsinin DR və BDR marşrutizatorlarının IP-ünvanları 
+C : Digər sahənin altşəbəkəsinin LSA anons göndərən ABR marşrutizatorunun RID identifikatoru 
+D : Digər sahənin altşəbəkəsinin daxili marşrutizatorlarının siyahısı və IP-ünvanları 
+E : Digər sahənin altşəbəkəsinin sərhəd marşrutizatorlarının identifikatorları və IP-ünvanları
+ ANSWER : C
+
+204.	 	 OSPFv2 protokolunda birsahəli layihədən çoxsahəli layihəyə keçidlə əlaqədar hansı fikir doğru deyildir?
+
+A : Hər bir sahədə marşrutizatorlar və network LSA anonsları daha azdır 
+B : ABR marşrutizatorlarında qoşulduqları hər bir sahə üçün LSDB bazalarının surətləri vardır 
+C : Hər bir ABR marşrutizatorunda LSDB bazasında olan hər bir sahə üçün router LSA anonsu vardır 
+D : Birləşmiş şəbəkənin marşrutizatorları sahələr arasında tamamilə bərabər sayda bölünür 
+E : Hər bir sahəyə digər sahələrdəki altşəbəkələri təsvir etmək üçün summary LSA anonsu lazımdır 
+ ANSWER : D
+
+205.		 OSPFv2 protokolunda marşrutizator LSDB bazasında olan marşrutu IPv4 marşrutlaşdırma cədvəlinə daxil etməsi hansı ardıcıllıqla yerinə yetirilir?
+
+A : LSDB bazasında istənilən marşrutu seçir və marşrutlaşdırma cədvəlinə daxil edir 
+B : LSA anonslarında göstərilən marşrutları marşrutlaşdırma cədvəlinə əlavə edir 
+C : LSDB bazasında olan bütün marşrutları marşrutlaşdırma cədvəlinə əlavə edir
+D : Router LSA anonsunda göstərilən marşrutları marşrutlaşdırma cədvəlinə əlavə edir
+E : SPF alqoritmini işə salır, ən yaxşı marşrutu seçir və marşrutlaşdırma cədvəlinə daxil edir
+ ANSWER : E
+
+206.	 	 SPF alqoritmi marşrutun qiymətini necə hesablayır?
+
+A : marşrutda olan bütün OSPF çıxış interfeyslərinin qiymətləri toplanır 
+B : marşrutda olan bütün OSPF çıxış interfeyslərinin qiymətlərinin ən kiçiyi tapılır 
+C : marşrutda olan bütün OSPF çıxış interfeyslərinin qiymətlərinin ən böyüyü tapılır
+D : marşrutda olan bütün OSPF çıxış interfeyslərinin qiymətlərinin ədədi ortası hesablanır
+E : marşrutda olan bütün OSPF çıxış və giriş interfeyslərinin qiymətləri toplanır
+ ANSWER : A
+
+207.		 OSPFv2 protokolu üçün inzibati məsafənin standart qiyməti neçədir?
+
+A : 100 
+B : 110 
+C : 90
+D : 170
+E : 120
+ ANSWER : B
+
+208.	 	 EIGRP (daxili marşrutizatorlar) protokolu üçün inzibati məsafənin standart qiyməti neçədir?
+
+A : 100 
+B : 110 
+C : 90
+D : 170
+E : 120
+ ANSWER : C
+
+209.		 EIGRP (xarici marşrutizatorlar) protokolu üçün inzibati məsafənin standart qiyməti neçədir?
+
+A : 100 
+B : 110 
+C : 90
+D : 170
+E : 120
+ ANSWER : D
+
+210.		 RIP protokolu üçün inzibati məsafənin standart qiyməti neçədir?
+
+A : 100 
+B : 110 
+C : 90
+D : 170
+E : 120
+ ANSWER : E
+
+211.	 	 OSPF interfeysin qiymətinin hesablanması üçün hansı düsturdan istifadə olunur?
+
+A : ilkin_buraxma_qabiliyyəti / interfeysin_buraxma_qabiliyyəti 
+B : interfeysin_buraxma_qabiliyyəti / ilkin_buraxma_qabiliyyəti 
+C : ilkin_buraxma_qabiliyyəti * gecikmə müddəti 
+D : interfeysin_buraxma_qabiliyyəti * gecikmə müddəti 
+E : interfeysin_buraxma_qabiliyyəti / gecikmə müddəti 
+ ANSWER : A
+
+212.	 	 Ethernet şəbəkələrində interfeyslərin standart buraxma qabiliyyəti neçədir?
+
+A : 1544 Kbit/s 
+B : 10 Mbit/s 
+C : 1,544 Mbit/s 
+D : 100 Mbit/s 
+E : 1 Gbit/s 
+ ANSWER : B
+
+213.		 Fast Ethernet şəbəkələrində interfeyslərin standart buraxma qabiliyyəti neçədir?
+
+A : 1544 Kbit/s 
+B : 10 Mbit/s 
+C : 100 Mbit/s 
+D : 1,544 Mbit/s 
+E : 1 Gbit/s 
+ ANSWER : C
+
+214.		 Gigabit Ethernet şəbəkələrində interfeyslərin standart buraxma qabiliyyəti neçədir?
+
+A : 1544 Kbit/s 
+B : 10 Mbit/s 
+C : 100 Mbit/s 
+D : 1 Gbit/s 
+E : 1,544 Mbit/s  
+ ANSWER : D
+
+215.		 İlkin buraxma zolağı 100 Mbit/s olan ardıcıl portun standart buraxma qabiliyyəti 1,544 Mbit/s olarsa, onda OSPF interfeysin qiyməti neçə olar?
+
+A : 1544 
+B : 1,544 
+C : 100 
+D : 65 
+E : 64  
+ ANSWER : E
+
+216.		 İlkin buraxma zolağı 100 Mbit/s olan Ethernet interfeysində (standart buraxma qabiliyyəti 10 Mbit/s) OSPF interfeysin qiyməti neçə olar?
+
+A : 10 
+B : 1000 
+C : 100 
+D : 1,544 
+E : 64  
+ ANSWER : A
+
+217.		 İlkin buraxma zolağı 100 Mbit/s olan Fast Ethernet interfeysində (standart buraxma qabiliyyəti 100 Mbit/s) OSPF interfeysin qiyməti neçə olar?
+
+A : 10 
+B : 1 
+C : 100 
+D : 1000 
+E : 64  
+ ANSWER : B
+
+218.		 IPv4 marşrutlaşdırmada genişləndirilmiş daxili şlüz marşrutlaşdırılması protokolu hansıdır?
+
+A : RIP 
+B : OSPF 
+C : EIGRP 
+D : STP 
+E : IP  
+ ANSWER : C
+
+219.	 	 EIGRP protokolu ən yaxşı marşrutu tapmaq üçün hansı məntiqdən istifadə edir?
+
+A : kanalın vəziyyəti (LinkState - LS) məntiqindən 
+B : OSPF qiymət məntiqindən 
+C : Ən kiçik MAC qiyməti məntiqindən 
+D : Məsafə-vektor (distance vector - DV) məntiqindən 
+E : Tranzit sahələrin sayı məntiqindən  
+ ANSWER : D
+
+220.		 EIGRP protokolu hansı protokolun inkişaf etmiş verisyasıdır?
+
+A : IGP 
+B : OSPF 
+C : RIP 
+D : IPv4 
+E : IGRP  
+ ANSWER : E
+
+221.		 RIP-1, OSPF və IGRP protokolları hansı nəsil IP marşrutlaşdırma üçün reallaşdırılmışdır?
+
+A : I nəsil IPv4 
+B : II nəsil IPv4 
+C : III nəsil IPv4 
+D : I nəsil IPv6 
+E : II nəsil IPv6  
+ ANSWER : A
+
+222.		 RIP-2, OSPFv2 və EIGRP protokolları hansı nəsil IP marşrutlaşdırma üçün reallaşdırılmışdır?
+
+A : I nəsil IPv4 
+B : II nəsil IPv4 
+C : III nəsil IPv4 
+D : I nəsil IPv6 
+E : II nəsil IPv6  
+ ANSWER : B
+
+223.		 RIPng, OSPFv3 və EIGRPv6 protokolları hansı nəsil IP marşrutlaşdırma üçün reallaşdırılmışdır?
+
+A : I nəsil IPv6 
+B : II nəsil IPv6 
+C : III nəsil IPv6 
+D : I nəsil IPv4 
+E : II nəsil IPv4 
+ ANSWER : C
+
+224.		 EIGRP protokolu əlaqə kanalının hansı xarakteristikaları əsasında metrikanı hesablayır?
+
+A : əlaqə kanalında olan qurğuların sayı əsasında 
+B : əlaqə kanalının OSPF qiyməti əsasında 
+C : əlaqə kanalında olan marşrutizatorların interfeyslərini sayı əsasında 
+D : əlaqə kanalının buraxma qabiliyyəti və əlaqə kanalının gecikmələri əsasında 
+E : əlaqə kanalında olan qonşu marşrutizatorların sayı əsasında
+ ANSWER : D
+
+225.	 	 Cisco şirkəti EIGRP protokolunu neçənci ildə RFC sənəd kimi açıq şəkildə dərc etmişdir?
+
+A : 1994-cü ildə 
+B : 1996-cı ildə 
+C : 1999-cu ildə 
+D : 2003-cü ildə 
+E : 2013-cü ildə
+ ANSWER : E
+
+226.		 Protokol tərəfindən marşrutlaşdırma cədvəlinin şəbəkənin konfiqurasiyasına uyğun olan vəziyyətə gətirilməsi üçün tələb olunan vaxt necə adlanır?
+
+A : konvergensiya 
+B : gecikmə müddəti
+C : seçim üçün tələb olunan vaxt 
+D : ən qısa marşrutun hesablanması üçün tələb olunan vaxt
+E : altşəbəkəyə marşrutlaşdırma üçün tələb olunan vaxt 
+ ANSWER : A
+
+227.		 Hansı protokolda sahə anlayışından istifadə olunur və birləşmiş şəbəkə sahələrə bölünür?
+
+A : EIGRP 
+B : OSPF
+C : RIP-1 
+D : RIP-2
+E : IGRP 
+ ANSWER : B
+
+228.		 Məsafə-vektor (distansion-vektor) protokollarının əsas tərkib hissələri hansılardır?
+
+A : Distansiya və əlaqə kanalının qurğularının sayı
+B : Distansiya və əlaqə kanalının qiyməti
+C : Distansiya (məsafə - distance)və vektor (vector) 
+D : Distansiya və məsafə
+E : Əlaqə kanalının qiyməti və vektoru 
+ ANSWER : C
+
+229.		 Distansion-vektor marşrutlaşdırma protokollarının interfeysi tərəfindən ötürülən yenilənmə məlumatlarında bu interfeysi çıxış interfeysi kimi istifadə edən marşrutları anons etməməyə imkan verən funksiya hansıdır?
+
+A : İnterfeysin bağlanması
+B : Marşrutun aradan götürülməsi
+C : Dövrələrin əmələ gəlməsi 
+D : Diapazonun bölünməsi
+E : Məlumatın yenilənməsi 
+ ANSWER : D
+
+230.		 İmtina edilmiş marşrutların metrikası hansı qiymətlə anons edilir?
+
+A : Qeyri-müəyyən metrika ilə 
+B : Minimal metrika ilə 
+C : Sıfır metrika ilə 
+D : Əlçatmazlıq metrikası ilə
+E : Sonsuzluq metrikası ilə 
+ ANSWER : E
+
+231.		 Marşrut sonsuzluq metrikası ilə anons edilməsi prosesi necə adlanır?
+
+A : Marşrutun aradan götürülməsi 
+B : Marşrutun aktiv edilməsi 
+C : Marşrutun OSPF qiymətinin artırılması 
+D : Marşrutun elan edilməsi
+E : Marşrutun qoşulması 
+ ANSWER : A
+
+232.	 	 EIGRP protokolunda marşrutizatorlar arasında Hello məlumatlarının ötürülməsi arasındakı vaxt intervalı necə adlanır?
+
+A : Delay müddəti 
+B : Hello müddəti 
+C : Hold müddəti 
+D : Dead müddəti
+E : Routing müddəti 
+ ANSWER : B
+
+233.	 	 EIGRP protokolunda marşrutizatorlar arasında Hello məlumatlarının ötürülməsi arasındakı maksimal gecikmə vaxt intervalı necə adlanır?
+
+A : Delay müddəti 
+B : Hello müddəti 
+C : Hold müddəti 
+D : Dead müddəti
+E : Routing müddəti 
+ ANSWER : C
+
+234.		 RIP protokolunda sonsuzluq intervalı neçədir?
+
+A : 256-1 
+B : 232-1 
+C : 224-1 
+D : 16
+E : 1 
+ ANSWER : D
+
+235.	 	 OSPFv2 protokolunda sonsuzluq intervalı neçədir?
+
+A : 256-1 
+B : 232-1 
+C : 1 
+D : 16
+E : 224-1 
+ ANSWER : E
+
+236.	 	 EIGRP protokolunda sonsuzluq intervalı neçədir?
+
+A : 256-1 
+B : 264-1 
+C : 1 
+D : 16
+E : 224-1 
+ ANSWER : A
+
+237.		 EIGRP protokolunda metrikanın hesablanması düsturu hansıdır?
+
+A : Metrika=(Minimal_buraxma_qabiliyyəti+Gecikmə)*256 
+B : Metrika=(10^7/Minimal_buraxma_qabiliyyəti+Gecikmə)*256 
+C : Metrika=(10^7/Maksimal_buraxma_qabiliyyəti+Gecikmə)*256 
+D : Metrika=(10^7/(Standart_buraxma_qabiliyyəti+Gecikmə))*256
+E : Metrika=(Maksmal_buraxma_qabiliyyəti+Gecikmə)*256
+ ANSWER : C
+
+238.	 	 EIGRP protokolunda hər hansı altşəbəkəyə optimal marşrut hansı marşruta deyilir?
+
+A : Həmin altşəbəkəyə qədər ən qısa metrikaya malik marşrut 
+B : Həmin altşəbəkəyə qədər ən kiçik metrikaya malik marşrut
+C : Həmin altşəbəkəyə qədər ən yaxşı metrikaya malik marşrut 
+D : Həmin altşəbəkəyə qədər ən böyük metrikaya malik marşrut 
+E : Həmin altşəbəkəyə qədər sonsuzluq metrikasına malik marşrut 
+ ANSWER : C
+
+239.	 	 EIGRP protokolunda hər hansı altşəbəkəyə optimal marşrutun metrikası necə adlanır?
+
+A : Ən qısa məsafə 
+B : Ən kiçik məsafə 
+C : Ən böyük məsafə 
+D : Optimal məsafə 
+E : Sonsuzluq məsafəsi 
+ ANSWER : D
+
+240.	 	 Marşrutlaşdırma protokollarının əsas funksiyası nədən ibarətdir?
+
+A : Marşrutlaşdırma cədvəllərini ən qısa marşrutlarla doldurmaq 
+B : Marşrutizatorların işini təmin etmək
+C : Marşrutizatorların interfeyslərinə nəzarət etmək 
+D : Marşrutizatorların portlarını qoşmaq və söndürmək
+E : Marşrutlaşdırma cədvəllərini optimal marşrutlarla doldurmaq 
+ ANSWER : E
+
+241.	 	 IPv4 marşrutlaşdırma protokollarında yaranmış problemlərin axtarışı və aradan qaldırılmasını adətən nədən başlayırlar?
+
+A : Marşrutlaşdırma cədvəllərinin təhlilindən 
+B : Marşrutizatorların qoşulma parametrlərinin təhlilindən
+C : Marşrutizatorların göndərdiyi Hello məlumatının təhlilindən 
+D : Marşrutlaşdırma cədvəllərini sıfırlamaqla
+E : Marşrutlaşdırma cədvəllərini optimal marşrutlarla doldurmaqla 
+ ANSWER : A
+
+242.		 Hansı əmr EIGRP protokolunun qoşulduğu interfeyslərin siyahısını verir?
+
+A : show ip protocols 
+B : show ip eigrp interfaces 
+C : show ip ospf interface brief 
+D : show passive interfaces 
+E : show ip routing interfase 
+ ANSWER : B
+
+243.		 Hansı əmr OSPF protokolunun qoşulduğu interfeyslərin siyahısını verir?
+
+A : show ip protocols 
+B : show ip eigrp interfaces 
+C : show ip ospf interface brief 
+D : show passive interfaces 
+E : show ip routing interfase 
+ ANSWER : C
+
+244.	 	 Hansı əmr marşrutizatorda sazlanmış marşrutlaşdırma protokollarının siyahısını verir?
+
+A : show passive interfaces 
+B : show ip eigrp interfaces 
+C : show ip ospf interface brief 
+D : show ip protocols 
+E : show ip routing interfase 
+ ANSWER : D
+
+245.		 Hansı bənd EIGRP protokolunda qonşulara qoyulan tələblərə aid deyil?
+
+A : İnterfeyslər işçi vəziyyətdə (up/up) olmalıdır 
+B : İnterfeyslər eyni altşəbəkəyə aid olmalıdır 
+C : Siyahılar marşrutlaşdırma protokolunun məlumatlarını süzgəcdən keçirməməlidir 
+D : Autentifikasiya (əgər sazlanıbsa) müvəffəqiyyətlə keçməlidir 
+E : Hello, Hold və Dead taymerlərinin qiymətləri eyni olmalıdır 
+ ANSWER : E
+
+246.	 	 Hansı bənd OSPF protokolunda qonşulara qoyulan tələblərə aid deyil?
+
+A : Rooterin konfiqurasiya əmrlərində ASN nömrəsi və prosesin identifikatoru eyni olmalıdır 
+B : İnterfeyslər işçi vəziyyətdə (up/up) olmalıdır 
+C : İnterfeyslər eyni altşəbəkəyə aid olmalıdır 
+D : Siyahılar marşrutlaşdırma protokolunun məlumatlarını süzgəcdən keçirməməlidir 
+E : Hello, Hold və Dead taymerləri eyni olmalıdır 
+ ANSWER : A
+
+247.	 	 Aşağıdakılardan hansı ayrılmış xətlərin növü deyil?
+
+A : icarə olunmuş kanal 
+B : şəhərdaxili telefon danışıq xətti 
+C : ardıcıl kanal 
+D : nöqtə-nöqtə (qovşaq-qovşat - PPP) əlaqə xətti 
+E : T1 əlaqə xətti 
+ ANSWER : B
+
+248.		 Ardıcıl kanal dedikdə nə başa düşülür?
+
+A : şəbəkənin bütün qurğularının bir-birinə ardıcıl qoşulduğu əlaqə kanalı 
+B : şəbəkədə paketlərin mütləq ardıcıllıqla ötürüldüyü əlaqə kanalı 
+C : bitlərin ardıcıl ötürüldüyü və marşrutizatorlar ardıcıl interfeyslərini istifadə etdiyi kanal
+D : bütün altşəbəkələr ardıcıl şəkildə birləşdirilmiş əlaqə kanalı
+E : əlaqə kanallarının bir-birinə ardıcıl olaraq qoşulduğu əlaqə kanalı
+ ANSWER : C
+
+249.		 İcarəyə götürülmüş kanal dedikdə nə başa düşülür?
+
+A : müvəqqəti istifadə üçün icarəyə götürülmüş telefon şəbəkəsi 
+B : İnternetə çıxış üçün icarəyə götürülmüş şəbəkə 
+C : icarəyə götürülmüş marşrutizatorlararası əlaqə 
+D : son nöqtələr (qovşaqlar) arasında əlaqə kanalı
+E : icarəyə götürülmüş elektrik xətləri
+ ANSWER : D
+
+250.		 Nöqtə-nöqtə (qovşaq-qovşaq - PPP) əlaqə kanalı dedikdə nə başa düşülür?
+
+A : bütün qurğuları nöqtə kimi baxılan əlaqə kanalı 
+B : altşəbəkələri nöqtələr şəklində qeyd edilən birləşmiş şəbəkə kanalı 
+C : bütün qurğuları çox yaxın məsafədə yerləşən şəbəkə kanalı 
+D : şirkətin filialı ilə mərkəzi ofisi birləşdirən əlaqə kanalı 
+E : yalnız və yalnız iki nöqtə (qovşaq) arasında əlaqədən ibarət olan topologiya 
+ ANSWER : E
+
+251.		 Ayrılmış xətlər necə xarakterizə olunur?
+
+A : dupleks ötürmə, hər iki istiqamətə eyni sürət, daim qoşulu olma 
+B : göndərmə sürəti yüksək, alma sürəti zəif, daim qoşulu olma
+C : bir istiqamətli ötürmə, göndərmə sürəti çox yüksək, daim qoşulu olma 
+D : iki istiqamətli, göndərmə sürəti zəif, qəbul etmə sürəti yüksək olma 
+E : iki istiqamətli ötürmə, göndərmə sürəti çox yüksək, lazım olduqda qoşulma 
+ ANSWER : A
+
+252.		 Son abonent avadanlığı dedikdə nə başa düşülür?
+
+A : sonuncu istifadəçinin istifadə etdiyi avadanlıqlar 
+B : müştəri (kliyent) tərəfdən əlaqə kanalının sonunda yerləşən qurğular
+C : istifadəçilərin ən son istifadə etdikləri texniki vəsaitlər 
+D : müştəri (kliyent)/server texnologiyasının son istifadə edilən qurğuları 
+E : şəbəkəyə qoşulmuş ən sonuncu avadanlıqlar 
+ ANSWER : B
+
+253.		 Sinxronlaşdırma funksiyasını, eləcə də marşrutizatorların interfeysləri tərəfindən ardıcıl kanallarla bitlərin ötürüldüyü və alındığı sürəti təmin edən qurğular necə adlanır?
+
+A : sinxronlaşdırma modulu/sürətləndirmə modulu (SIM/SIM)
+B : funksional sinxonlaşdırma modulu/ardıcıl qoşma modulu(FIM/PLM)
+C : kanala xidmət göstərilməsi modulu/verilənlərin emalı modulu (CSU/DSU) 
+D : interfeyslərin qoşulması modulu/interfeyslərin ayrılması modulu (ICM/IDM)
+E : kanalların kommutasiyası modulu/paketlərin kommutasiyası modulu (CCM/PCM) 
+ ANSWER : C
+
+254.		 Ardıcıl kabel nədir? 
+
+A : qurğuları bir-birinə ardıcıl qoşan kabellər 
+B : marşrutizatorları ardıcıl şəkildə birləşdirən əlaqə kanalları 
+C : ardıcıl qoşulmuş kabellər 
+D : CSU modulunu və marşrutizatorun ardıcıl portunu birləşdirən qısa kabel
+E : marşrutizatoru şəbəkəyə birləşdirən kabel 
+ ANSWER : D
+
+255.		 WIS nəyi bildirir? 
+
+A : WAN interface connection 
+B : WAN interface cable 
+C : WAN Internet connection 
+D : WAN Internet card 
+E : WAN interface card 
+ ANSWER : E
+
+256.		 Kanalın idarə olunmasının yüksəksəviyyəli protokolu hansıdır? 
+
+A : HDLC 
+B : PPP 
+C : TCP 
+D : SMTP 
+E : HWAN 
+ ANSWER : A
+
+257.		 Nöqtə-nöqtə (qovşaq-qovşaq) birləşmə protokolu hansıdır? 
+
+A : HDLC 
+B : PPP 
+C : TCP 
+D : SMTP 
+E : HWAN 
+ ANSWER : B
+
+258.		 PPP protokolunun funksiyasına aid deyil? 
+
+A : Freyminin əlaqə kanalı ilə ötürülməsini təmin edən başlıq və sonluğun müəyyən edilməsi
+B : Sinxron və asinxron əlaqə kanallarının dəstəklənməsi 
+C : Əlaqə kanalının hər bir ucuna bir neçə marşutizatorun qoşulması 
+D : Parola və əvvəlcədən razılaşma ilə protokollara əsasən autentifikasiya imkanları
+E : Başlıqda Type sahəsi bir neçə üçüncü səviyyə protokoluna həmin kanalla ötürməyə imkan verir 
+ ANSWER : C
+
+259.		 Hansı protokol əlaqə kanalının idarə edilməsi protokolu deyil? 
+
+A : HDLC 
+B : PPP 
+C : LCP 
+D : SMTP 
+E : NCP 
+ ANSWER : D
+
+260.		 Şəbəkədə iki qurğu arasında əlaqənin həyata keçirilməsi zamanı birinci qurğuya digər qurğunun həqiqiliyini təsdiq etməyə imkan verən  mexanizm necə adlanır? 
+
+A : sinxronizasiya 
+B : sertifikasiya 
+C : verifikasiya 
+D : identifikasiya 
+E : autentifikasiya 
+ ANSWER : E
+
+261.		 Nöqtə-nöqtə (qovşaq-qovşaq) qoşulmada parola görə autentifikasiya protokolu hansıdır? 
+
+A : PAP 
+B : PPP 
+C : CHAP 
+D : LSP 
+E : NCP 
+ ANSWER : A
+
+262.		 Nöqtə-nöqtə (qovşaq-qovşaq) qoşulmada qabaqcadan razılaşmaya görə autentifikasiya protokolu hansıdır? 
+
+A : PPP 
+B : CHAP 
+C : NCP 
+D : PAP 
+E : LCP 
+ ANSWER : B
+
+263.		 Çoxstansiyalı girişli genişzolaqlı olmayan mühit adlanan texnologiya hansıdır? 
+
+A : Point-to-Point 
+B : Frame Relay 
+C : OSPF 
+D : EIGRP 
+E : RIP 
+ ANSWER : B
+
+264.		 Müştərinin (kliyentin) marşrutizatoru (DTE) ilə xidmət provayderinin Frame Relay kommutatoru (DCE) arasında çəkilən ayrılmış xətt  necə adlanır? 
+
+A : Data Terminal Equipment 
+B : Local Management lnterface 
+C : Access Link 
+D : Data Communications Equipment 
+E : Leased Line 
+ ANSWER : C
+
+265.		 DTE qurğuları arasında freymlərin ötürüldüyü marşrutu özündə ehtiva edən məntiqi kanal hansıdır? 
+
+A : Lokal kanal 
+B : Daxili kanal 
+C : Birləşdirici kanal 
+D : Virtual kanal 
+E : Genişzolaqlı kanal 
+ ANSWER : D
+
+266.		 Frame Relay xidmətində hansı avadanlığa DTE qurğuları (terminal avadanlıqları) deyilir? 
+
+A : Frame Relay xidmətinin müştərilərini birləşdirən avadanlıqlar 
+B : Frame Relay xidmətinin əlaqə kanalı üzərində olan avadanlıq 
+C : Frame Relay xidmətində server tərəfdə olan avadanlıq 
+D : Frame Relay xidmətinin provayderi tərəfdə olan avadanlıq 
+E : Frame Relay xidmətinin müştərisi tərəfdə olan avadanlıq 
+ ANSWER : E
+
+267.		 Frame Relay xidmətində hansı avadanlığa DCE qurğuları (verilənlərin ötürülməsi avadanlıqları) deyilir? 
+
+A : Frame Relay xidmətinin provayderi tərəfdə olan avadanlıq 
+B : Frame Relay xidmətinin əlaqə kanalı üzərində olan avadanlıq 
+C : Frame Relay xidmətində server proqramları yüklənmiş avadanlıq 
+D : Frame Relay xidmətinin müştərisinin istifadə etdiyi avadanlıq 
+E : Frame Relay xidmətinin müştərilərini birləşdirən avadanlıqlar 
+ ANSWER : A
+
+268.		 Frame Relay texnologiyasında virtual kanalların identifikasiyası üçün istifadə olunan ünvan necə adlanır? 
+
+A : Müştərinin kompüterinin identifikatoru 
+B : Kanal qoşulmasının identifikatoru 
+C : Serverin identifikatoru 
+D : Protokolun adı 
+E : Şəbəkənin maskası 
+ ANSWER : B
+
+269.		 DTE qurğusu ilə Frame Relay şəbəkəsinin kommutatoru arasında istifadə olunan protokol hansıdır? 
+
+A : VC 
+B : CIR 
+C : LMI 
+D : Q.921 
+E : DLCI 
+ ANSWER : C
+
+270.		 DLCI abreviaturasının açılışı necədir? 
+
+A : Data-link connection indicator (kanal qoşulması indikatoru) 
+B : Data-link circuit identifier (kanal qoşulması zəncirinin identifikatoru) 
+C : Data-link circuit indicator (kanal qoşulması zəncirinin indikatoru) 
+D : Data-link connection identifier (kanal qoşulması identifikatoru) 
+E : Data-link circuit incapsulation (kanal qoşulması inkapsulyasiyası) 
+ ANSWER : D
+
+271.		 Frame Relay şəbəkəsində giriş sürəti (Access Rate) nə ilə müəyyən olunur? 
+
+A : Əlaqə kanalına qoşulmuş qurğuların optimal sayı ilə müəyyən olunur 
+B : Kanalı əmələ gətirən xəttin xüsusiyyəti ilə müəyyən olunur 
+C : Kommutatorun kommutasiya etmə sürəti ilə müəyyən olunur 
+D : Marşrutizatorun marşrutlaşdırma cədvəlinin ölçüsü ilə müəyyən olunur 
+E : Kanalı yaradan avadanlığın takt tezliyi ilə müəyyən olunur 
+ ANSWER : E
+
+272.		 Frame Realy şəbəkəsində daimi virtual kanal nəyə deyilir? 
+
+A : Qabaqcadan sazlanmış virtual kanal 
+B : Frame Relay kommutatoruna qoşulmuş kanal 
+C : Sazlanmasına zərurət olmayan virtual özəl kanal 
+D : Virtual özəl şəbəkə kanalı 
+E : Marşrutizatorlar arasında əlaqəni təmin edən kanal 
+ ANSWER : A
+
+273.		 IPv4 üçün hansı versiya OSPF protokolundan istifadə olunur? 
+
+A : OSPFv0 
+B : OSPFv2 
+C : OSPFv3 
+D : OSPFv4 
+E : OSPFv6 
+ ANSWER : B
+
+274.		 IPv6 üçün hansı versiya OSPF protokolundan istifadə olunur? 
+
+A : OSPFv0 
+B : OSPFv2 
+C : OSPFv3 
+D : OSPFv4 
+E : OSPFv6 
+ ANSWER : C
+
+275.		 OSPFv3 protokolunun aşağıda göstərilən hansı xüsusiyyəti OSPFv2 protokolunda yoxdur? 
+
+A : Sahələr layihəsi və əlaqəli terminlər 
+B : Sazlanma sahədə hər bir interfeys üçün marşrutlaşdırma prosesini işə salmağı nəzərdə tutur 
+C : Qonşuların axtarışı prosesi Hello məlumatına əsaslanır 
+D : OSPFv3 qonşularda eyni alt şəbəkəyə aid IPv6 ünvanlar olmamalıdır
+E : Metrikanın hesablanması üçün SPF protokolundan və interfeysin qiymətindən istifadə olunur
+ ANSWER : D
+
+276.		 OSPFv3 protokolunun aşağıda göstərilən hansı xüsusiyyəti OSPFv2 protokolu üçün ödənilmir? 
+
+A : Qonşuların keçid vəziyyəti və topologiya informasiyasının mübadiləsi prosesi 
+B : LSA anonsların 1, 2 və 3-cü növlərinin konsepssiyası və kanalın vəziyyətinin verilənlər bazası 
+C : Qonşuların axtarışı prosesi Hello məlumatına əsaslanır 
+D : Metrikanın hesablanması üçün SPF protokolundan və interfeysin qiymətindən istifadə olunur 
+E : 3-cü növ LSA anonsu "interarea prefix LSA" adlanır
+ ANSWER : E
+
+277.		 OSPFv2 protokolunda qonşulara qoyulan hansı tələb OSPFv3 protokolunda yoxdur? 
+
+A : İnterfeyslər eyni altşəbəkəyə aid olmalıdır 
+B : İnterfeyslər işçi vəziyyətdə (up/up) olmalıdır 
+C : ACL siyahıları marşrutlaşdırma protokolunun məlumatlarını süzgəcdən keçirməməlidir 
+D : Autentifikasiya (əgər sazlanıbsa) uğurla keçməlidir 
+E : Hello və Dead taymerləri eyni olmalıdır
+ ANSWER :  A 
+
+278.		 OSPFv3 protokolunda hansı növ LSA anonslarından istifadə olunur?
+
+A : Router LSA, Network LSA, Area LSA 
+B : Router LSA, Network LSA, Summary LSA
+C : Router LSA, Network LSA, Interarea prefix LSA 
+D : Router LSA, Identificator LSA, Network LSA 
+E : Router LSA, Network LSA, Subnet LSA
+ ANSWER : C
+
+279.		 OSPFv2 protokolunda 3-cü növ LSA anonsu necə adlanır?
+
+A : Router LSA 
+B : Network LSA
+C : Interarea prefix LSA 
+D : Summary LSA 
+E : Area LSA
+ ANSWER : D
+
+280.		 OSPFv3 protokolunda 3-cü növ LSA anonsu necə adlanır?
+
+A : Area LSA 
+B : Router LSA 
+C : Network LSA 
+D : Summary LSA 
+E : Interarea prefix LSA 
+ ANSWER : E
+
+281.		 "show ip route" əmrinin çıxışında hansı hərf marşrutun EIGRP protokolu ilə öyrənildiyini göstərir?
+
+A : D 
+B : O 
+C : R 
+D : L 
+E : E 
+ ANSWER : A
+
+282.		 "show ip route" əmrinin çıxışında hansı hərf marşrutun OSPF protokolu ilə öyrənildiyini göstərir?
+
+A : D 
+B : O 
+C : R 
+D : L 
+E : E 
+ ANSWER : B
+
+283.		 "show ip route" əmrinin çıxışında hansı hərf marşrutun RIP protokolu ilə öyrənildiyini göstərir?
+
+A : D 
+B : O 
+C : R 
+D : L 
+E : E 
+ ANSWER : C
+
+284.		 Hansı əmr öz çıxışında EIGRP protokolunun  topologiya cədvəlini, o cümlədən optimal və ehtiyat marşrutları göstərir?
+
+A : show ip eigrp database 
+B : show ip route eigrp 
+C : show ip eigrp interfaces 
+D : show ip eigrp topology 
+E : show ip eigrp routing 
+ ANSWER : D
+
+285.		 Hansı əmr öz çıxışında EIGRP protokolunun icazə verildiyi interfeysləri təsvir edir?
+
+A : show ip eigrp database 
+B : show ip route eigrp 
+C : show ip protocols 
+D : show ip eigrp topology 
+E : show ip eigrp interfaces 
+ ANSWER : E
+
+286.		 Hansı əmr öz çıxışında EIGRP qonşuları və onların vəziyyətini göstərir?
+
+A : show ip eigrp neighbors
+B : show ip route eigrp 
+C : show ip protocols 
+D : show ip eigrp topology 
+E : show ip eigrp interfaces 
+ ANSWER : A
+
+287.		 Hansı əmr öz çıxışında marşrutlaşdırma protokolunun parametrlərini və taymerlərin cari qiymətini verir?
+
+A : show ip eigrp neighbors
+B : show ip route eigrp 
+C : show ip protocols 
+D : show ip eigrp topology 
+E : show ip eigrp interfaces 
+ ANSWER : C
+
+288.		 Hansı əmr öz çıxışında bütün IPv4 marşrutlarını verir?
+
+A : show ip eigrp neighbors
+B : show ip route 
+C : show ip protocols 
+D : show ip eigrp topology 
+E : show ip eigrp interfaces 
+ ANSWER : B
+
+289.		 Hansı əmr öz çıxışında IPv4 marşrutlaşdırma cədvəlindən EGIRP protokolu tərəfindən öyrənilmiş marşrutların siyahısını verir?
+
+A : show ip eigrp neighbors
+B : show ip route 
+C : show ip protocols 
+D : show ip route eigrp 
+E : show ip eigrp interfaces 
+ ANSWER : D
+
+290.		 İki OSPF qonşu arasında topologiya haqqında informasiyanın mübadiləsi başa çatdıqda OSPF qonşunun vəziyyəti  necə ola bilər?
+
+A : 2-way
+B : Up/Up 
+C : Down/Down 
+D : Final 
+E : Full 
+ ANSWER : E
+
+291.		 OSPF protokolu istifadə olunan zaman IPv4 marşrutizatoru tərəfindən IPv4 marşrutlaşdırma cədvəlinə əlavə edilməsi üçün marşrutun seçilməsinə marşrutizatorun hansı konfiqurasiya parametri təsir etmir?
+
+A : Delay
+B : Auto-cost reference-bandwidth 
+C : Bandwidth 
+D : IP ospf cost 
+E : ospf cost 
+ ANSWER : A
+
+292.		 Hansı əmr marşrutizatorda yerinə yetirilən OSPF prosesi haqqında məlumatı (o cümlədən OSPF marşrutizatorun identifikatorunu, marşrutizatorun qoşulduğu sahələri, hər sahədə olan interfeyslərin sayını) verir?
+
+A : show ip ospf neighbors
+B : show ip ospf 
+C : show ip protocols 
+D : show ip ospf topology 
+E : show ip ospf interface 
+ ANSWER : B
+
+293.		 Hansı əmr öz çıxışında OSPF protokolunun icazə verildiyi interfeysləri təsvir edir?
+
+A : show ip ospf database 
+B : show ip route ospf 
+C : show ip protocols 
+D : show ip ospf topology 
+E : show ip ospf interface brief 
+ ANSWER : E
+
+294.		 Hansı əmr öz çıxışında verilənlər bazasında olan LSA anonslar barədə hesabatı təqdim edir?
+
+A : show ip ospf database 
+B : show ip route ospf 
+C : show ip protocols 
+D : show ip ospf topology 
+E : show ip ospf interface brief 
+ ANSWER : A
+
+295.		 Hansı əmr öz çıxışında IPv4 marşrutlaşdırma cədvəlindən OSPF protokolu tərəfindən öyrənilmiş marşrutları təqdim edir?
+
+A : show ip ospf database 
+B : show ip route ospf 
+C : show ip protocols 
+D : show ip ospf topology 
+E : show ip ospf interface brief 
+ ANSWER : B
+
+296.		 Hansı əmr bütün qonşuluq münasibətlərini silir, OSPF identifikatorun seçilməsi prosesini işə salmaqla bütünlüklə OSPF prosesini ilkin vəziyyətə qaytarır?
+
+A : show ip ospf database 
+B : show ip route ospf 
+C : clear ip ospf process 
+D : show ip ospf topology 
+E : show ip ospf interface brief 
+ ANSWER : C
+
+297.		 Hansı əmr marşrutizatorda yerinə yetirilən OSPFv3 prosesi haqqında məlumatı (o cümlədən OSPFv3 marşrutizatorun identifikatorunu, marşrutizatorun qoşulduğu sahələri, hər sahədə olan interfeyslərin sayını) verir?
+
+A : show ipv6 ospf neighbors
+B : show ipv6 ospf 
+C : show ipv6 protocols 
+D : show ipv6 ospfv3 
+E : show ipv6 ospf interface 
+ ANSWER : B
+
+298.		 Hansı əmr öz çıxışında OSPFv3 protokolunun icazə verildiyi interfeysləri təsvir edir?
+
+A : show ip ospf database 
+B : show ip route ospf 
+C : show ip protocols 
+D : show ip ospf topology 
+E : show ipv6 ospf interface brief 
+ ANSWER : E
+
+299.		 Hansı əmr öz çıxışında bütün IPv6 marşrutlarını verir?
+
+A : show ipv6 ospf neighbors
+B : show ipv6 route 
+C : show ipv6 protocols 
+D : show ipv6 ospf topology 
+E : show ipv6 ospf interface 
+ ANSWER : B
+
+300.		 Hansı əmr öz çıxışında IPv6 marşrutlaşdırma cədvəlindən OSPFv3 protokolu tərəfindən öyrənilmiş marşrutları təqdim edir?
+
+A : show ipv6 ospf database 
+B : show ipv6 route ospf 
+C : show ipv6 protocols 
+D : show ipv6 ospf topology 
+E : show ipv6 ospf interface brief 
+ ANSWER : B
+
+
+
+

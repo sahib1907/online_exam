@@ -1,0 +1,2468 @@
+﻿1.		Neçənci ildə  məlumatların şifrələnməsi üçün standart təklif edilmişdir? 
+
+A : 1998
+B : 1977
+C : 1979
+D : 2000
+E : 1978
+ANSWER : B
+2.		Harada ilk dəfə məlumatların şifrələnməsi üçün standart təklif edilmişdir?
+
+A : İngiltərə
+B : ABŞ
+C : Rusiya
+D : Finlandiya
+E : Şimali Koreya
+ANSWER : B
+3.		Məlumatların şifrələnməsi üçün istifadə olunan standart ilk dəfə hansı şirkət tərəfində hazırlanmışdır? 
+
+A : ASCII
+B : IBM
+C : ASNI
+D : UNICODE
+E : XML
+ANSWER : B
+4.		Məlumatların şifrələnməsi üçün standart:
+
+A : NES
+B : DES
+C : SES
+D : NDS
+E : İES
+ANSWER : B
+5.		DES üzrə aparıcı dünya təşkilatı hansıdır?
+
+A : BNDİ
+B : ANSİ
+C : BNSİ
+D : BNFA
+E : BNSE
+ANSWER : B
+6.		DES alqoritmi əksər hallarda harada  istifadə olunur? 
+
+A : email
+B : ticarət informasiyasının müdafiəsi
+C : gmail
+D : yazışmalarda
+E : emalda
+ANSWER : B
+7.		Ticarət informasiyasının müdafiəsi üçün hansı alqoritmdən istifadə olunur? 
+
+A : EES
+B : DES
+C : EFD
+D : ERS
+E : EAS
+ANSWER : B
+8.		Aşağıdakılardan hansı məxfiliyi açarla xüsusi təmin olunmuş şifrlənmənin və şifri açmanın açıq üsullu klassik kriptosistemidi?
+
+A : EES
+B : DES
+C : EFD
+D : ERS
+E : EAS
+ANSWER : B
+9.		DES alqoritmi neçə bit ilk məlumat şifrlənmə üçün düz nəzərdə tutulmuşdur
+
+A : 128
+B : 64
+C : 256
+D : 512
+E : 1024
+ANSWER : B
+10.		DES alqoritmini reallaşdıran proqramın nümunəsinə hansı paketdə rast gəlmək olar?
+
+A : Driver Booster 
+B : Norton Utilities   
+C : DRP
+D : Starfish
+E : Tiger
+ ANSWER : B
+11.		DES alqoritmini reallaşdıran proqramın nümunəsi Norton Utilities paketindən hansı proqramı olur?
+
+A :DRP  
+B : DISKREET 
+C :  Starfish
+D : Tiger 
+E : Booster
+ANSWER : B
+12.		HTML hərfi tərcüməsi nədir?
+
+A : nişanın dili genişləndirilən
+B : hipertekstin nişanının dili
+C : ümumiləşdirilmiş nişanın standart dili
+D : daşınan sənədlər üçün format
+E : Postscript
+ ANSWER : B
+13.		XML nədir?
+
+A : hipertekstin nişanının dili 
+B : nişanın dili genişləndirilən 
+C : ümumiləşdirilmiş nişanın standart dili
+D : daşınan sənədlər üçün format
+E : Postscript
+ANSWER : B
+14.		SGML nədir?
+
+A : nişanın dili genişləndirilən
+B : Ümumiləşdirilmiş nişanın standart dili
+C : hipertekstin nişanının dili 
+D : daşınan sənədlər üçün format
+E : Postscript
+ANSWER : B
+15.		PDF nədir?
+
+A : nişanın dili genişləndirilən
+B : daşınan sənədlər üçün format 
+C : ümumiləşdirilmiş nişanın standart dili
+D : hipertekstin nişanının dili
+E : Postscript
+ANSWER : B
+16.		World Wide Web (WWW, ümumdünya hörümçək toru) neçə standarta əsaslanır? 
+
+A : 7
+B : 3
+C : 4
+D : 5
+E : 6
+ANSWER : B
+17.		WWW –in hansı 3 əsas standartı var?
+
+A : URL,HTML, XML
+B : URL, HTTP, HTML
+C : HTTP,HTML, SMTP
+D : HTML, URL, HTTP
+E : XML, TXE, HTTP
+ANSWER : B
+18.		WWW in əsas standarlarından biridir:
+
+A : XML
+B : HTTP
+C : PDF 
+D : SGML
+E : TXE
+ANSWER : B
+19.		WWW in əsas standarlarından biridir:
+
+A : XML
+B : URL
+C : PDF 
+D : SGML
+E : TXE
+ANSWER : B
+20.		WWW in əsas standarlarından biridir:
+
+A : XML
+B : HTML
+C : PDF 
+D : SGML
+E : TXE
+ ANSWER : B
+21.		Sənədin konkret fiziki nişanı nədən asılıdır: 
+
+A : adından 
+B : brauzerdən
+C : uzantısından
+D : həcmindən
+E : tarixindən
+ ANSWER : B
+22.		HTML sənədiylə faylın adının neçə uzantısı var?
+
+A : 3 
+B : 2
+C : 4
+D : 5
+E : 6
+ ANSWER : B
+23.		HTML sənədiylə faylın adının uzantısı hansıdır?
+
+A : http
+B : html,htm
+C : url
+D : link
+E : pdf
+ ANSWER : B
+24.		HTML sənədiylə faylın adının uzantısı hansıdır?
+
+A : http
+B : html
+C : url
+D : link
+E : pdf
+ ANSWER : B
+25.		HTML sənədiylə faylın adının uzantısı hansıdır?
+
+A : http
+B : htm
+C : url
+D : link
+E : pdf
+ ANSWER : B
+26.		HTML nişanının elementləri nədən ibarətdir?
+
+A : ad 
+B : teq
+C : ölçü
+D : heçnə
+E : hərşey
+ ANSWER : B
+27.		Hansı teqlər özünə yetərlidir?
+
+A : DS
+B : BR
+C : BS
+D : LS
+E : NS 
+ANSWER : B
+28.		Aşağıdakılardan hansı qurğunun azad edilməsini göstərir?
+
+A : SEİZE
+B : RELEASE
+C : GENERATE
+D : LEAVE
+E : ENTER
+ ANSWER : B
+29.		SGML fayl-sənədlərinin adları, bir qayda olaraq, hansı genişlənməyə malikdirlər?
+
+A : PDF
+B : SGML
+C : JPEG
+D : HTML
+E : HTM
+ ANSWER : B
+30.		SGML ilk dəfə neçənci ildə işlədilmişdir?
+
+A : 1985
+B : 1970
+C : 1998
+D : 1996
+E : 2000
+ ANSWER : B
+31.		SGML ilk dəfə hansı firma tərəfindən işlədilmişdir? 
+
+A : APPLE
+B : İBM
+C : İNTEL
+D : heç biri
+E : hamısı
+ ANSWER : B
+32.		SGML neçənci ildə standart təyin edilmişdir?
+
+A : 1988
+B : 1986
+C : 1987
+D : 1989
+E : 2000
+ ANSWER : B
+33.		SGML hansı standart təyin  edilmişdir?
+
+A : ISO 8880
+B : ISO 8879
+C : ISO 8890
+D : ISO 8888
+E : ISO 8885
+ ANSWER : B
+34.		HTML-sənədlərin yaradılmasıyla xüsusi proqramları məşğul olurlar o hansı proqramdır?
+ 
+A : GNS3
+B : CGI
+C : SQL
+D : ORACLE
+E : ACCESS
+ ANSWER : B
+
+35.		İnformasiya neçə müxtəlif vəziyyətdə verilə bilər?
+
+A : 3
+B : 2
+C : 5
+D : 7
+E : 8
+ANSWER : B
+
+36.		İnformasiyanın iki müxtəlif verilmə vəziyyəti hansılardır?
+
+A : skeptik
+B : statik və dinamik
+C : simmetrik
+D : assimmetrik
+E : eksentrik
+ANSWER : B
+37.		İnformasiya nəzəriyyəsi hansı nəzəriyyələrlə sıx bağlıdır?
+
+A : fizika
+B : ehtimal nəzəriyyəsi və statistika nəzəriyyəsi
+C : biologiya
+D : kimya
+E : tarix
+ANSWER : B
+38.		İnformasiya nəzəriyyəsi hansı nəzəriyyənin riyazi fundamentidir?
+
+A : ehtimal
+B : rabitə nəzəriyyəsinin
+C : Laqranj
+D : riyaziyyat
+E : cəbr
+ANSWER : B
+39.		Hansı rabitə nəzəriyyəsinin fumdamentidir?
+
+A : riyaziyyat
+B : informasiya nəzəriyyəsi
+C : həndəsə
+D : tarix
+E : cəbr
+ ANSWER : B
+40.		Rabitə kanalı nə ilə əlaqədardır?
+
+A : proses
+B : havanın titrəyişləri(hərəkəti)
+C : axın
+D : ölçü
+E : tezlik
+ ANSWER : B
+41.		“İnformasiya” sözü ilk dəfə elmi anlayış kimi kim tərəfindən istifadə olunub?
+
+A : S. Klaud
+B : Klod Şennon
+C : J. Vik
+D : M. Velberq
+E : S. Cobs
+ ANSWER : B
+
+42.		“İnformasiya” sözü neçənci əsrdə ilk dəfə istifadə olunmuşdur?
+
+A : XXI
+B : XX
+C : XII
+D : XIII
+E : XIX
+
+ ANSWER : B
+43.		XX əsrdə “İnformasiya” sözünü ilk dəfə kim istifadə etmişdir?
+
+A : S. Klaus
+B : Klod Şennon 
+C : K. Evans
+D : S. Spilberq
+E : A. Drayver
+ ANSWER : B
+44.		Neçənci əsrdə Klod Şennon “İnformasiya” sözünü işlətmişdir?
+
+A : 1920-ci ildə
+B :  XX
+C : XXI
+D : 1823-cü ildə
+E : 1726-cı ildə
+ ANSWER : B
+45.		Təbiətdə qarşılıqlı əlaqənin neçə fundamental növü var?
+
+A : 7
+B : 2
+C : 3
+D : 4
+E : 5
+ ANSWER : B
+46.		Təbiətdə qarşılıqlı əlaqənin fundamental növləri hansılardır?
+
+A : simmetriya
+B : maddə və enerji mübadiləsi
+C : asimmetriya
+D : informasiya
+E : məlumat
+ ANSWER : B
+47.		Substansiya sözünün hərfi mənası nədir?
+
+A : yamsılama
+B : ilk, əsas, bölünməz
+C : periodik
+D : bölünən
+E : son
+ ANSWER : B
+48.		İlk informasiya dedikdə nə nəzərdə tutulur?
+
+A : məlumat
+B : maddi və qeyri-maddi hərəkətin(dəyişmənin) istiqaməti
+C : xəbər
+D : verilən
+E : hər şey
+ ANSWER : B
+49.		İnformasiyanın materiyanın ümumi xassəsi olması ideyası kimə məxsusdur?
+
+A : A. Enşteyn
+B : Norbert Viner
+C : X. Kolumb
+D : D. Eyzenhauer
+E : N. Tusi
+ ANSWER : B
+
+50.		İnformasiyanın materiyanın ümumi xassəsi olması ideyasını N. Viner neçənci ildə irəli sürmüşdür?
+
+A : 1950
+B : 1948
+C : 1963
+D : 1978
+E : 1990
+ ANSWER : B
+51.		“Kibernetika və yaxud canlılarda və maşınlarda idarəetmə və əlaqə” adlı əsərin müəllifi kimdir?
+
+A : C. Buş 
+B : Norbert Viner
+C : P. Küri
+D : M. Küri
+E : D. Markov
+ ANSWER : B
+52.		“Kibernetika və yaxud canlılarda və maşınlarda idarəetmə və əlaqə” adlı əsər neçənci ildə yazılıb?
+
+A : 1953
+B : 1948
+C : 1958 
+D : 1975
+E : 1984
+ ANSWER : B
+53.		İnformasiyanın saxlanma qanunu özündə nəyi əks etdirir?
+
+A : İnformasiya obyektiv reallığın göstəricisidir
+B : İnformasiyanı özündə saxlayan mühit dəyişmədikdə o öz sabitliyini saxlayır
+C : İnformasiya obrazlarla saxlanılır
+D : Hesablama sistemi
+E : kodlaşdırma və yenidən kodlaşdırma
+ ANSWER : B
+
+54.		İnformasiya ilə enerjinin əlaqəsi:
+
+A : sabit
+B : İnformasiya həmişə enerji ilə müşayiət olunur
+C : dəyişən
+D : stabil
+E : müəyyən
+ ANSWER : B
+55.		İnformasiya nəzəriyyəsi nəyin mühüm sahəsi hesab olunur?
+
+A : tarixin
+B : kibernetikanın
+C : fizikanın
+D : kimyanın
+E : ədəbiyyatın
+ ANSWER : B
+56.		Ronald Fişer neçənci ildə “İnformasiya” terminini elmə daxil etmişdir?
+
+A : 1926
+B : 1921
+C : 1939
+D : 1945
+E : 1984
+ ANSWER : B
+57.		“İnformasiya” terminini elmə kim gətirmişdir?
+
+A : M. Ruzvelt 
+B : Ronald fişer
+C : V. Çörçil
+D : D. Rokfeller
+E : İ. İsmayılov
+ ANSWER : B
+58.		Neçənci ildə Klod Şennon informasiya miqdarının və entropiyasının hesablanması üçün formulları təklif etmişdir?
+
+A : 1950
+B : 1948
+C : 1958
+D : 1961
+E : 1972
+ ANSWER : B
+59.		İnformasiya miqdarının və entropiyasının hesablanması üçün formulları kim təklif etmişdir?
+
+A : A.Eynşteyn
+B : Klod Şennon
+C : T. Lannister
+D : J. Snou
+E : C. Mark
+ ANSWER : B
+60.		Keçmiş SSRİ-də kibernetikanın inkişafına hansı alimlər öz töhfələrini vermişlər?
+
+A : K. Evans
+B : A.İ. Berq və V.M. Qluşkov
+C : K. Hemsvort
+D : H. Cekmen
+E : R. Dauni
+ ANSWER : B
+61.		“İnformasiya” termini hansı latın sözündən götürülüb?
+
+A : "infor"
+B : "informatio"
+C : "inf"
+D : "tio"
+E : "matio"
+ ANSWER : B
+62.		Şenona görə informasiya nəyin ölçüsüdür?
+
+A : suyun
+B : qeyri-müəyyənliyin
+C : havanın
+D : təzyiq
+E : sıxlığın
+ ANSWER : B
+63.		İnformasiya qeyri-müəyyənliyin ölçüsüdür- fikri kimə məxsusdur?
+
+A : Viner
+B : Klod Şennon
+C : Pifaqor
+D : Laqranj
+E : Qaus
+ ANSWER : B
+64.		Şenona görə qeyri-müəyyənlik nəyin ölçüsüdür?
+
+A : suyun
+B : informasiyanın
+C : təzyiqin
+D : sıxlığın
+E : havanın
+ANSWER : B
+65.		İnformasiya necə varlıqdır?
+
+A : maddi
+B : qeyri-maddi
+C : anlaşıqlı
+D : mümkün
+E : qeyri-mümkün
+ ANSWER : B
+
+66.		N. Vinerin təklif etdiyi kibernetik informasiya anlayışı harada istifadə olunmuşdur?
+
+A : riyaziyyatda
+B : kibernetikada
+C : məişətdə
+D : texnikada
+E : semantikada
+ ANSWER : B
+67.		Harada informasiya işarələr və ya siqnallarla texniki qurğular vasitəsilə verilir?
+
+A : məişətdə 
+B : texnikada
+C : təbiətdə
+D : riyaziyyatda
+E : fizikada
+ ANSWER : B
+68.		Haradakı informasiya insan tərəfindən bilavasitə qəbul edilir?
+
+A : kibernetikada
+B : məişətdə
+C : texnikada
+D : semantikada
+E : informatikada
+ ANSWER : B
+69.		İnformasiya ilə enerjinin əlaqəsi:
+
+A : sabit
+B : İnformasiya həmişə enerji ilə müşayiət olunur
+C : dəyişən
+D : stabil
+E : müəyyən
+ ANSWER : B
+70.		İnformasiya nəzəriyyəsi nəyin mühüm sahəsi hesab olunur?
+
+A : tarixin
+B : kibernetikanın
+C : fizikanın
+D : kimyanın
+E : ədəbiyyatın
+ ANSWER : B
+71.		Ronald Fişer neçənci ildə “İnformasiya” terminini elmə daxil etmişdir?
+
+A : 1926 
+B : 1921
+C : 1939
+D : 1945
+E : 1984
+ ANSWER : B
+72.		“İnformasiya” terminini elmə kim gətirmişdir?
+
+A : M. Ruzvelt 
+B : Ronald fişer
+C : V. Çörçil
+D : D. Rokfeller
+E : T. İsmayılov
+ ANSWER : B
+73.		Neçənci ildə Klod Şennon informasiya miqdarının və entropiyasının hesablanması üçün formulları təklif etmişdir?
+
+A : 1950
+B : 1948
+C : 1958
+D : 1961
+E : 1972
+ ANSWER : B
+
+74.		İnformasiya miqdarının və entropiyasının hesablanması üçün formulları kim təklif etmişdir?
+
+A : R. Rza
+B : Klod Şennon
+C : T. Lannister
+D : J. Snou
+E : C. Mark
+ ANSWER : B
+75.		Rudolf Klauzis statik fizikaya entropiya anlayışı və ya sistemin tarazlığı ölçüsünü neçənci ildə daxil etmişdir?
+
+A : 1968
+B : 1956
+C : 1970
+D : 1975
+E : 1988
+ ANSWER : B
+76.		Təbiətdə qarşılıqlı əlaqənin neçə fundamental növü var?
+
+A : 7
+B : 2
+C : 3
+D : 4
+E : 5
+ ANSWER : B
+77.		İnformasiya neçə müxtəlif vəziyyətdə verilə bilər?
+
+A : 3
+B : 2
+C : 5
+D : 7
+E : 8
+ANSWER : B
+78.		“İnformasiya” termini hansı latın sözündən götürülüb?
+
+A : "infor"
+B : "informatio"
+C : "inf"
+D : "tio"
+E : "matio"
+ ANSWER : B
+79.		Kompüter erasının patriarxı kim sayılır?
+
+A : B. Geyts
+B : Fon Neyman
+C : M. Zukerberq
+D : S. Brin
+E : M. Vber
+ ANSWER : B
+80.		Informasiyanın sıxılmasının məqsədi nədir?
+
+A : verilmiş informasi¬yanın saxlanılması və ötürülməsi üçün bitlərin sayının azaldıl¬mamasıdır
+B : verilmiş informasi¬yanın saxlanılması və ötürülməsi üçün bitlərin sayının azaldıl¬masıdır
+C : verilmiş informasi¬yanın saxlanılması və ötürülməsi üçün bitlərin sayının artırılmasıdır 
+D : bitlərin sayının azaldıl¬masıdır
+E : bitlərin sayının artırıl¬masıdır
+ANSWER : B 
+
+81.		Informasiyanın sıxılmasını nəticəsində: 
+
+A : informasiyanın ötürülmə sürəti azalır
+B : informasiyanın ötürülmə sürəti artır
+C : informasiyanın ötürülmə sürəti dəyişmir
+D : sərt diskin həcmini “artırmaq” ehtiyacı yaranır
+E : informasi¬yanın ötürülməsi üçün bitlərin sayı artır
+ ANSWER : B
+82.		Aşağıdakı hansı arxiv fayllarının genişlənməsinə aid deyil?
+
+A : .tar 
+B : .doc 
+C : .zip
+D : .arj 
+E : .rar 
+ANSWER : B
+83.		İnformasiyanın sıxılma dərəcəsini artırmaq üçün hansı metoddan istifadə edilir?
+
+A : diferensiallaşdırma
+B : bloklaşdırma (təcridetmə)
+C : inteqrallama 
+D : birləşdirmə 
+E : toplama 
+ANSWER : B
+84.		Küylər olmadıqda şifrələmənin əsas teoremi hansıdır?
+
+A : diskret təsadüfi kəmiyyətin bir şifrələnmiş qiymətinə uyğun bitlərin orta sayı bu diskret təsadüfi kəmiyyətin entropiyasından az ola bilər
+B : diskret təsadüfi kəmiyyətin bir şifrələnmiş qiymətinə uyğun bitlərin orta sayı bu diskret təsadüfi kəmiyyətin entropiyasından az ola bilməz
+C : diskret təsadüfi kəmiyyətin şifrələnməmiş qiymətinə uyğun bitlərin sayı bu diskret təsadüfi kəmiyyətdən az ola bilməz
+D : diskret təsadüfi kəmiyyətin qiymətinə uyğun bitlərin sayı bu diskret təsadüfi kəmiyyətin entropiyasından az ola bilər
+E : diskret kəmiyyətin bir şifrələnmiş qiymətinə uyğun bitlərin orta sayı bu diskret kəmiyyətin entropiyasından az ola bilməz
+ANSWER : B
+85.		Aşağıdakı hansı arxiv fayllarının genişlənməsinə aiddir?
+
+A : .doc
+B : .zip
+C : .gif
+D : .xls
+E : .ppt 
+ANSWER : B
+86.		Hesabi kodlaşdır¬manın digər kodlaşdırma üsullarından üstünlüyü nədir?
+ 
+A : istifadə olunan yaddaş həcminin artması 
+B : sıxılan məlumatın uzunluğunun artması 
+C : sıxılan məlumatın uzunluğunun azalması
+D : istifadə olunan yaddaş həcminin azalması
+E : informasiyanın ötürülmə sürətinin artması
+ANSWER : B
+87.		İnformasiya kanalı nədir?
+ 
+A : Riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğudur
+B : bu informasiyanın infromasiya mənbəyindən (kanalın başlanğıc qurğusu) onun qəbuledicisinə (kanalın son qurğusu) ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləşdirilmiş qurğular toplusudur
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter).  
+D : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edən xəttdir
+E : siqnalın forması, siqnal yayılan fiziki mühitin tərkibi və xassələri, tətbiq olunan kodun xassələrini öyrənən qurğudur
+ANSWER : B
+88.		Rabitə xətti nədir?
+ 
+A : Riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğudur
+B : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edən xəttdir
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter).  
+D : bu informasiyanın infromasiya mənbəyindən (kanalın başlanğıc qurğusu) onun qəbuledicisinə (kanalın son qurğusu) ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləşdirilmiş qurğular toplusudur 
+E : siqnalın forması, siqnal yayılan fiziki mühitin tərkibi və xassələri, tətbiq olunan kodun xassələrini öyrənən qurğudur
+ANSWER : B
+89.		Rabitə xətti nədir?
+ 
+A : Riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğudur
+B : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edən xəttdir
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter).  
+D : bu informasiyanın infromasiya mənbəyindən (kanalın başlanğıc qurğusu) onun qəbuledicisinə (kanalın son qurğusu) ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləşdirilmiş qurğular toplusudur 
+E : siqnalın forması, siqnal yayılan fiziki mühitin tərkibi və xassələri, tətbiq olunan kodun xassələrini öyrənən qurğudur
+ANSWER : B
+90.		Siqnalın zaman üzrə gecikməsi nədir?
+A : Riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğudur
+B : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter).  
+C : kanal qurğuları arasında informasiya siqnallarının ötürülməsidir
+D : göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalıdır
+E : siqnalın forması, siqnal yayılan fiziki mühitin tərkibi və xassələri, tətbiq olunan kodun xassələridir
+  ANSWER : B
+
+91.		Kanalın effektivliyi nə ilə xarakterizə olunur?
+
+A : riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğu ilə
+B : informasiyanın ötürülməsinin sürəti və təminatı, qurğuların iş etibarlığı və zaman üzrə siqnalın gecikməsi ilə 
+C : ona daxil olan qurğuların işi, siqnalın forması, siqnal yayılan fiziki mühitin tərkibi və xassələri, tətbiq olunan kodun xassələri ilə
+D : göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalı ilə
+E : kanal qurğuları arasında informasiya siqnallarının ötürülməsi ilə
+ANSWER : B
+92.		Kanalın informasiyanı ötürməsi nə ilə xarakterizə olunur?
+ 
+A : riyazi olaraq kanal girişə buraxıla bilən məlumatlar çoxluğu ilə
+B : buraxılış qabiliyyəti və kanalın tutumu ilə
+C : kanal qurğuları arasında informasiya siqnallarının ötürülməsi ilə 
+D : T zamanı ərzində bütün mümkün olan siqnalların sayı ilə
+E : şərt ehtimalının yığımı ilə
+ANSWER : B
+93.		Şərt ehtimalı aşağıdakılardan hansını təsvir edir?
+ 
+A : giriş və çıxış siqnallarının strukturunu
+B : ötürülmə prosesi zamanı siqnalı sürüşdürən “küylərin” (və ya maneə) statik xassələrini
+C : buraxılış qabiliyyətini
+D : kanalın informasiyanı ötürməsini
+E : kanalın tutumunu
+ANSWER : B
+94.		Kodlar neçə böyük sinfə ayrılır?
+ 
+A : 3 
+B : 2 
+C : 5 
+D : 4 
+E : 6 
+ANSWER : B
+95.		Kodlar iki böyük sinfə ayrılır. Bunlar hansılardır?
+ 
+A : düz və səhvləri düzəldən kodlar
+B : səhv düzəldən və səhvləri aşkar edən kodlar 
+C : tərs və səhv kodlar
+D : səhv düzəldən və əks kodlar 
+E : tərs və əks kodlar 
+ANSWER : B
+
+96.		Səhv düzəldən kodlar:
+ 
+A : göndərilən məlumatın sıfıra yaxın ehtimalla bərpa olunmasını həyata keçirir 
+B : göndərilən məlumatın vahidə yaxın ehtimalla bərpa olunmasını həyata keçirir
+C : vahidə yaxın ehtimalla səhvləri təyin edir
+D : sıfıra yaxın ehtimalla səhvləri təyin edir
+E : səhvləri təyin etmir 
+ANSWER : B
+97.		Səhvləri aşkar edən kodlar:
+ 
+A : göndərilən məlumatın sıfıra yaxın ehtimalla bərpa olunmasını həyata keçirir 
+B : vahidə yaxın ehtimalla səhvləri təyin edir 
+C : göndərilən məlumatın vahidə yaxın ehtimalla bərpa olunmasını həyata keçirir
+D : sıfıra yaxın ehtimalla səhvləri təyin edir
+E : səhvləri təyin etmir
+ANSWER : B
+98.		Açıq açarla ən məşhur sistem necə adlanır?
+ 
+A : ADA 
+B : RSA 
+C : ARS
+D : CCB 
+E : JYP 
+ANSWER : B
+99.		Açıq açarla ən məşhur sistem kim tərəfindın hazırlanıb?
+ 
+A : S. Arora və L. Adleman tərəfindən
+B : R. Rivest, A. Shamir və L. Adleman tərəfindən 
+C : A. Aho və G. Amdahl tərəfindən
+D : A. Appel, S. Abramsky və M. Agraval tərəfindən
+E : H. Abelson tərəfindən 
+ANSWER : B 
+100.		Açıq açarla ən məşhur sistem kim tərəfindın hazırlanıb?
+ 
+A : S. Arora və L. Adleman tərəfindən
+B : R. Rivest, A. Shamir və L. Adleman tərəfindən 
+C : A. Aho və G. Amdahl tərəfindən
+D : A. Appel, S. Abramsky və M. Agraval tərəfindən
+E : H. Abelson tərəfindən 
+ANSWER : B 
+101.		Məlumatların şifrələnməsi üçün standart necə adlanır?
+ 
+A : SSD
+B : DES
+C : MAB
+D : SM
+E : LEC
+ANSWER : B
+102.		DES qısaltması aşağıdakılardan hansını ifadə edir?
+ 
+A : Data Encryption Sturucture
+B : Data Encryption Standard
+C : Data Exception Standard
+D : Data Exception Sturucture 
+E : Data Exception Stand
+ANSWER : B
+103.		DES-in əsas üstünlüklərinə aiddir:
+ 
+A : alqoritmin nisbi sadəliyi işin yüksək sürətini təmin etmir
+B : alqoritmin nisbi sadəliyi işin (ən azı, dəfə artıq açıq açarla kriptosistem üçün alqoritmin işinin sürətləri) yüksək sürətini təmin edir
+C : alqoritmin nisbi mürəkkəbliyi işin yüksək sürətini təmin edir
+D : alqoritmin nisbi sadəliyi işin aşağı sürətini təmin edir
+E : alqoritmin nisbi mürəkkəbliyi işin aşağı sürətini təmin etmir 
+ANSWER : B
+104.		DES-in əsas çatışmazlığı hansıdır?
+ 
+A : alqoritmin nisbi sadəliyi ilə işin (ən azı, dəfə artıq açıq açarla kriptosistem üçün alqoritmin işinin sürətləri) yüksək sürətini təmin etməsi
+B : açarların ötürülməsi üçün çox etibarlı kanalı təmin etmək ehtiyacı
+C : bir proqramın köməyi ilə xəbəri (mesajı) şifrləyib, şifrini açma üçün başqasını istifadə etmək imkanı
+D : 56 vurulmuş bərkidilmiş uzunluğun (açıq açarla sistemlərdə açarın uzunluğu 300-dən çox vurulmuş olmalıdır) yalnız bir açarının istifadəsi
+E : alqoritmin kifayət qədər yüksək möhkəmliyi
+ ANSWER : B
+105.		İnformasiya nəzəriyyəsinin əsasında nə durur?
+ 
+A : paylama qanunları
+B : Şennonun təklif etdiyi informasiyanın ölçülməsi üsulu
+C : informasiya miqdarı
+D : təsadüfi diskret X kəmiyyətinin entropiyası
+E : ümumi paylanma qanunu 
+ANSWER : B
+106.		Gif genişlənməsinin kodlaşdırma tipi hansıdır?
+
+A : Itkilərlə sıxma, hesabi və ya Haffmen
+B : LZW
+C : CCİTT/3 fakslar üçün, LZW və ya basqası
+D : RLE
+E : Heç biri
+ANSWER : B
+107.		Real zamanda sıxma və açma informasiya daşıyıcılarının həcmini iki dəfə artırmağa icazə verən informasiya daşıyıcılarına informasiyanın yazılması zamanı istifadə olunan proqram-drayverlərdə tətbiq olunur. Bu cür proqramlardan məşhuru MS-DOS və Microsoft Windows əməliyyət sistemləri üçün ...
+
+A : Word 
+B : DriverSpace
+C : Excel
+D : Paint
+E : WinRar
+ANSWER : B
+108.		İnformasiya kanalı – ...
+
+A : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edir
+B : informasiyanın infromasiya mənbəyindən onun qəbuledicisinə ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləçdirilmiş qurğular toplusudur.
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter)
+D : bu göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalıdır
+E : heç biri
+109.		Rabitə xətti - ... 
+A : bu informasiyanın infromasiya mənbəyindən onun qəbuledicisinə ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləçdirilmiş qurğular toplusudur
+B : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edir
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter)
+D : bu göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalıdır
+E : heç biri
+ANSWER : B
+
+110.		Kanal qurğusu - ...
+
+A : bu informasiyanın infromasiya mənbəyindən onun qəbuledicisinə ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləçdirilmiş qurğular toplusudur
+B : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter)
+C : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edir
+D : bu göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalıdır
+E : heç biri
+ANSWER : B
+111.		Siqnalın zaman üzrə gecikməsi – ... 
+
+A : bu informasiyanın infromasiya mənbəyindən onun qəbuledicisinə ötürülməsi üçün nəzərdə tutlmuş və rabitə xətləri ilə birləçdirilmiş qurğular toplusudur
+B : bu göndəricidən siqnalın göndərilməsi ilə qəbuledicidə siqnalın qəbul olunması arasındakı vaxt intervalıdır
+C : bu bir qayda olaraq, sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürən (məsələn, radiorele xətləri) təkrarlayıcılardır (reapeter)
+D : kanal qurğuları arasında informasiya siqnallarının ötürülməsini təmin edir
+E : heç biri
+ANSWER : B
+112.		DES alqoritmini reallaşdıran proqramın nümunəsi: 
+
+A : Excel
+B : DISKREET
+C : Word
+D : Point
+C : WinRar
+ANSWER : B
+113.		Unicode kodlaşdırmasının cədvəli neçə kod təqdim etməyə (təsəvvür etməyə) icazə verir?
+A : 65565
+B : 65536
+C : 65537
+D : 65538
+E : 65539
+ANSWER : B
+114.		Nişanla mətnin əsas formatlarından biridir:
+
+A : PHP
+B : HTML
+C : Java
+D : C#
+E : C++
+ANSWER : B
+115.		HTML - …
+
+A : extensible Markup Language, nişanın dili genişləndirilən
+B : Hyper Text Markup Language, hipertekstin nişanının dili
+C : Standard Generalized Markup Language, ümumiləşdirilmiş nişanın standart dili
+D : Portable Document Format, daşınan sənədlər üçün format, və ya Acrobat (qismən ikili)
+E : Heç biri
+ANSWER : B
+116.		XML - …
+
+A : Hyper Text Markup Language, hipertekstin nişanının dili
+B : extensible Markup Language, nişanın dili genişləndirilən
+C : Standard Generalized Markup Language, ümumiləşdirilmiş nişanın standart dili
+D : Portable Document Format, daşınan sənədlər üçün format, və ya Acrobat (qismən ikili)
+E : Heç biri
+ANSWER : B
+117.		SGML - …
+
+A : extensible Markup Language, nişanın dili genişləndirilən
+B : Standard Generalized Markup Language, ümumiləşdirilmiş nişanın standart dili
+C : Hyper Text Markup Language, hipertekstin nişanının dili
+D : Portable Document Format, daşınan sənədlər üçün format, və ya Acrobat (qismən ikili)
+E : Heç biri
+ANSWER : B
+118.		PDF - …
+
+A : Hyper Text Markup Language, hipertekstin nişanının dili
+B : Portable Document Format, daşınan sənədlər üçün format, və ya Acrobat (qismən ikili)
+C : Standard Generalized Markup Language, ümumiləşdirilmiş nişanın standart dili
+D : extensible Markup Language, nişanın dili genişləndirilən
+E : Heç biri
+ANSWER : B
+119.		İnformasiyanın saxlanma qanunu: 
+A : İnformasiyanın zaman daxilində sabitliyini saxlaması materiyanın yaddaş adlanan əsas informasiya xüsusiyyətini müəyyən edir: təbiət xüsusi fiziki qüvvələr şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır.
+B : "İnformasiyanı özündə saxlayan mühit (bu mühit adətən yaddaş adlanır) dəyişmədikdə o öz sabitliyini (mənasını) saxlayır.
+C : informasiya yalnız yeni informasiyaya çevrilə bilər.
+D : təbiətdə consuz zaman ərzində mövcud olan yaddaş yoxdur.
+E : informasiya qarşılıqlı əlaqəsi həmişə minimum enerji paylanması ilə müşaiyyət olunur.
+ANSWER : B
+120.		İnformasiyanın zaman daxilində sabitliyi qanunu:
+
+A : "İnformasiyanı özündə saxlayan mühit (bu mühit adətən yaddaş adlanır) dəyişmədikdə o öz sabitliyini (mənasını) saxlayır.
+B : İnformasiyanın zaman daxilində sabitliyini saxlaması materiyanın yaddaş adlanan əsas informasiya xüsusiyyətini müəyyən edir: təbiət xüsusi fiziki qüvvələr şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır.
+C : informasiya yalnız yeni informasiyaya çevrilə bilər.
+D : təbiətdə consuz zaman ərzində mövcud olan yaddaş yoxdur.
+E : informasiya qarşılıqlı əlaqəsi həmişə minimum enerji paylanması ilə müşaiyyət olunur.
+ANSWER : B
+121.		Materiyanın inkişafı və formalaşmasının informasiya qanunu:
+
+A : informasiya yalnız yeni informasiyaya çevrilə bilər.
+B : "İnformasiyanı özündə saxlayan mühit (bu mühit adətən yaddaş adlanır) dəyişmədikdə o öz sabitliyini (mənasını) saxlayır.
+C : İnformasiyanın zaman daxilində sabitliyini saxlaması materiyanın yaddaş adlanan əsas informasiya xüsusiyyətini müəyyən edir: təbiət xüsusi fiziki qüvvələr şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır.
+D : təbiətdə consuz zaman ərzində mövcud olan yaddaş yoxdur.
+E : informasiya qarşılıqlı əlaqəsi həmişə minimum enerji paylanması ilə müşaiyyət olunur
+ANSWER : B
+122.		Maddənin mövcudluğunun informasiya qanunu:
+
+A : təbiətdə consuz zaman ərzində mövcud olan yaddaş yoxdur.
+B : informasiya yalnız yeni informasiyaya çevrilə bilər.
+C : "İnformasiyanı özündə saxlayan mühit (bu mühit adətən yaddaş adlanır) dəyişmədikdə o öz sabitliyini (mənasını) saxlayır.
+D : İnformasiyanın zaman daxilində sabitliyini saxlaması materiyanın yaddaş adlanan əsas informasiya xüsusiyyətini müəyyən edir: təbiət xüsusi fiziki qüvvələr şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır.
+E : informasiya qarşılıqlı əlaqəsi həmişə minimum enerji paylanması ilə müşaiyyət olunur.
+ANSWER : B
+123.		İnformasiya ilə enerjinin əlaqəsi:
+
+A : informasiya qarşılıqlı əlaqəsi həmişə minimum enerji paylanması ilə müşaiyyət olunur.
+B : təbiətdə consuz zaman ərzində mövcud olan yaddaş yoxdur.
+C : informasiya yalnız yeni informasiyaya çevrilə bilər.
+D : "İnformasiyanı özündə saxlayan mühit (bu mühit adətən yaddaş adlanır) dəyişmədikdə o öz sabitliyini (mənasını) saxlayır.
+E : İnformasiyanın zaman daxilində sabitliyini saxlaması materiyanın yaddaş adlanan əsas informasiya xüsusiyyətini müəyyən edir: təbiət xüsusi fiziki qüvvələr şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır.
+ANSWER : B
+124.		Kibernetika - ... haqqında elmdir.
+
+A : informasiyanın əldə edilməsi
+B : hamısı
+C : saxlanması (qorunması)
+D : ötürülməsi və emalı qanunları
+E : heç biri
+ANSWER : B
+125.		Kibernetikanın əsas tədqiqat sahəsi – ...
+
+A : informasiya sistemləri
+B : kibernetik sistemlər
+C : əməliyyat sistemləri
+D : fiziki sistemlər
+E : bioloji sistemlər
+ANSWER : B
+126.		Kibernetik sistemlərə aiddir: 
+A : avtomatik tənzimləyicilər
+B : hamısı
+C : kompyuterlər
+D : insan və ya heyvan beyni
+E : sosium (cəmiyyət)
+ANSWER : B
+127.		Müasir kibernetikanın əsas hissələrinə aiddir:
+
+A : informasiya nəzəriyyəsi
+B : hamısı
+C : avtomatlar nəzəriyyəsi
+D : əməliyyatların təhlili
+E : alqoritmlər nəzəriyyəsi
+ANSWER : B
+128.		Kimə görə informasiya-qeyri-müəyyənliyinin ölçüsüdür?
+
+A : Bil Geyts
+B : Şenon
+C : Jobs
+D : Viner
+E : Enşteyn
+ANSWER : B
+129.		… - özündən əvvəlki bölmələrdə məlumatın yayılması və ötürülməsi mühitinə uyğun olaraq informasiyanın xüsusi üsulla çevirməsini və nəticədə eyni zamanda daha çox informasiyanın göndərilməsini təmin etmək üçün istifadə edilir.
+
+A : əlaqə kanalı
+B : modulyator
+C : demodulyator
+D : kalkulyator
+E : heç biri
+ANSWER : B
+130.		… - digər hissələrdən alınan informasiyanın qəbuledicidə onun asan şəkildə istifadə edə bilməsi üçün uyğun şəkildə çevrilmələrini təmin edir.
+
+A : əlaqə kanalı
+B : demodulyator
+C : modulyator
+D : kalkulyator
+E : heç biri
+ANSWER : B
+131.		Diskret mənbələrin kodlaşdırılması:
+
+A : ötürmə kanalında informasiyanın küylərdən və digər təsirlərdən mühafizəsi
+B : itkisiz kodlaşdırma, küy olmayan ötürmə kanalı üçün kodlaşdırma, informasiyanın sıxılması və s.
+C : müxtəlif növ informasiyanın-danışıq,audio- və video informasiyanın rəqəmsal ötürülməsi zamanı kod¬laşdırmada minimum təhriflər və ötürülmənin ən az xərclərlə başa gəlməsini təmin edən kodlaşdırma metodları
+D : ümumi resurslardan-ehtiyatlardan istifadə edən abonentlər arasında optimal qarşılıqlı əlaqələrin metod və vasitələri 
+E : informasiya və alqoritmlər nəzəriyyəsi, ədədlər nəzəriyyəsi, əməliyyatların tədqiqi və s. elmərin a qovuşuğunda olan metod və vasitələr
+ANSWER : B
+132.		Küy nəzərə alınmaqla ötürmə kanalı üçün kodlaşdırma:
+
+A : itkisiz kodlaşdırma, küy olmayan ötürmə kanalı üçün kodlaşdırma, informasiyanın sıxılması və s. 
+B : ötürmə kanalında informasiyanın küylərdən və digər təsirlərdən mühafizəsi 
+C : müxtəlif növ informasiyanın-danışıq,audio- və video informasiyanın rəqəmsal ötürülməsi zamanı kodaşdırmada 
+D : mobil əlaqə sistemləri, lokal şəbəkələri və s. 
+E : informasiya və alqoritmlər nəzəriyyəsi, ədədlər nəzəriyyəsi, əməliyyatların tədqiqi və s. elmərin a qovuşuğunda olan metod və vasitələr
+ANSWER : B
+133.		Məlum keyfiyyət kriteriyaları ilə kodlaşdırma:
+
+A : Bəzən informasiya nəzəriyyəsinin bu bölməsini itkisiz kodlaşdırma, küy olmayan ötürmə kanalı üçün kodlaşdırma, informasiyanın sıxılması və s. adlandırırlar.
+B : Bu bölmə adətən müxtəlif növ informasiyanın-danışıq, audio- və video informasiyanın rəqəmsal ötürülməsi zamanı kod¬laşdırmada minimum təhriflər və ötürülmənin ən az xərclərlə başa gəlməsini təmin edən kodlaşdırma metodlarından bəhs edir.
+C : Bu halda ötürmə kanalında informasiyanın küylərdən və digər təsirlərdən mühafizəsi başa düşülür.
+D : Bu bölmədə ümumi resurslardan-ehtiyatlardan istifadə edən abonentlər arasında optimal qarşılıqlı əlaqələrin metod və vasitələrindən bəhs edir. Misal olaraq bu sestemlərə-mobil əlaqə sistemləri, lokal şəbəkələri və s. göstərmək olar.
+E : Bu bölmədə adətən informasiya və alqoritmlər nəzəriyyəsi, ədədlər nəzəriyyəsi, əməliyyatların tədqiqi və s. elmərin a qovuşuğunda olan metod və vasitələr öyrənilir.
+ANSWER : B
+134.		Çox saylı istifadəçilər üçün informasiyanın kodlaşdırılması:
+ 
+A : Bu bölmədə adətən informasiya və alqoritmlər nəzəriyyəsi, ədədlər nəzəriyyəsi, əməliyyatların tədqiqi və s. elmərin a qovuşuğunda olan metod və vasitələr öyrənilir.
+B : Bu bölmədə ümumi resurslardan-ehtiyatlardan istifadə edən abonentlər arasında optimal qarşılıqlı əlaqələrin metod və vasitələrindən bəhs edir. Misal olaraq bu sestemlərə-mobil əlaqə sistemləri, lokal şəbəkələri və s. göstərmək olar.
+C : Bəzən informasiya nəzəriyyəsinin bu bölməsini itkisiz kodlaşdırma, küy olmayan ötürmə kanalı üçün kodlaşdırma, informasiyanın sıxılması və s. adlandırırlar.
+D : Bu bölmə adətən müxtəlif növ informasiyanın-danışıq,audio- və video informasiyanın rəqəmsal ötürülməsi zamanı kod¬laşdırmada minimum təhriflər və ötürülmənin ən az xərclərlə başa gəlməsini təmin edən kodlaşdırma metodlarından bəhs edir.
+E : Bu halda ötürmə kanalında informasiyanın küylərdən və digər təsirlərdən mühafizəsi başa düşülür.
+ANSWER : B
+135.		İnformasiyanın hazırlanması:
+
+A : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+B : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+C : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+D : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+E : sistemin idarəedilməsi və nəzarət prosesində daha əvvəki informasiyalardan istifadə edilməsi məqsədi ilə onun müxtəlif daşıyıcılarda saxlanılmasını nəzərdə tutur.
+ANSWER : B
+136.		İnformasiyanın ötürülməsi:
+
+A : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+B : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+C : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+D : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+E : sistemin idarəedilməsi və nəzarət prosesində daha əvvəki informasiyalardan istifadə edilməsi məqsədi ilə onun müxtəlif daşıyıcılarda saxlanılmasını nəzərdə tutur.
+ANSWER : B
+137.		İnformasiyanın emalı:
+
+A : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+B : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+C : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+D : sistemin idarəedilməsi və nəzarət prosesində daha əvvəki informasiyalardan istifadə edilməsi məqsədi ilə onun müxtəlif daşıyıcılarda saxlanılmasını nəzərdə tutur.
+E : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+ANSWER : B
+138.		İnformasiyanın əks etdirilməsi:
+
+A : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+B : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+C : sistemin idarəedilməsi və nəzarət prosesində daha əvvəki informasiyalardan istifadə edilməsi məqsədi ilə onun müxtəlif daşıyıcılarda saxlanılmasını nəzərdə tutur.
+D : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+E : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+ANSWER : B
+139.		İnformasiyanın saxlanılması:
+
+A : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+B : sistemin idarəedilməsi və nəzarət prosesində daha əvvəki informasiyalardan istifadə edilməsi məqsədi ilə onun müxtəlif daşıyıcılarda saxlanılmasını nəzərdə tutur.
+C : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+D : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+E : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+ANSWER : B
+140.		Qərar qəbuletmə:
+
+A : mərhələsində əvvəlki mərhələdə nəzərdə tutulan informasiyaların sonrakı mərhələ¬lərdə (ötürülmə və istifadə) daha səmərəli istifadə edilməsi üçün onun normallaşdırılması, kvantlaşdırılması, kodlaş-dırılması, modulyasiyası və s. əməliyyatlardan keçirilməsi nəzərdə tutulur.
+B : mərhələsində əldə edilən informasiya¬dan istifadə etməklə sistemin idarəedilməsi və nəzarət prosesində məqsədə uyğun olaraq dəyişiklkilər edilməsi nəzərdə tutulur.
+C : mərhələsi əvvəlki mərhələlərdə emal edilən informasiyanın insanlar tərəfindən daha asan qavranması üçün onun digər vasitələrdən istifadə etməklə təqdim edilməsi prosesi başa düşülür.
+D : onun müəyyən məsafədə yerləşən qəbuledicilərə müxtəlif fiziki təbiətə malik kanallarla-elektrik, elektromaqnit və ya optik kanallarla çatdırılması prosesi başa düşülür.
+E : təyinatından asılı olmayaraq onun çevrilməsi məsələlərini əhatə edir. Çevrilmə prosesi ya bilavasitə insan tərəfindən, və yaxud informasiya texnolo¬giyaları vasitələri ilə həyata keçirilir. Müasir mürəkkəb sistemlərdə informasiyanın çevrilməsi prosesini kompyuterlər və mikroprosessorlar həyata keçirir.
+ANSWER : B
+141.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=5 və ya x>3?
+
+A : x=5
+B : x>3
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+142.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=5 və ya x>5?
+
+A : x=5
+B : x>5
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+143.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=5 və ya x>6?
+
+A : x=5
+B : x>6
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+144.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=15 və ya x>3?
+
+A : x=5
+B : x>3
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+145.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=15 və ya x>13?
+
+A : x=15
+B : x>13
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+146.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=51 və ya x>3?
+
+A : x=51
+B : x>3
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+147.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=55 və ya x>3?
+
+A : x=55
+B : x>3
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+148.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=55 və ya x>31?
+
+A : x=55
+B : x>31
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+149.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=555 və ya x>33?
+
+A : x=555
+B : x>33
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+150.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=15 və ya x>13?
+
+A : x=15
+B : x>13
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+151.		Aşağıdakı münabitələrdən hansı özündə daha çox informasiya daşıyır: x=53 və ya x>53?
+
+A : x=53
+B : x>53
+C : x=2
+D : x=6
+E : x=0
+ANSWER : B
+152.		Teleqraf rabitə kanalınlın maksimal tezlik qiyməti neçədir?
+
+A : 150 Hs
+B : 140 Hs
+C : 160 Hs
+D : 170 Hs
+E : 180 Hs
+ANSWER : B
+153.		Telefon rabitə kanalınlın maksimal tezlik qiyməti neçədir?
+
+A : 4.1 KHs-ə qədər
+B : 3.1 KHs-ə qədər
+C : 5.1 KHs-ə qədər
+D : 6.1 KHs-ə qədər
+E : 7.1 KHs-ə qədər
+ANSWER : B
+154.		Bir kilobaytda neçə bayt var?
+
+A : 1025
+B : 1024
+C : 1026
+D : 1027
+E : 1028
+ANSWER : B
+155.		İnformasiya neşə şəkildə ola bilər və hansılardır?
+
+A : 1, diskret
+B : 2, diskret və kəsilməz
+C : 1, kəsilməz
+D : heç biri
+E : hamısı
+ANSWER : B
+156.		Rəqəmsal DAT maqnitofonlarında diskretləşmə tezliyi 48 kHs-dir. Bu cür maqnitofonlarda canlandırıla bilən səs dalğalarının maksimal tezliyi nə qədərdir?
+
+A : 25 kHs
+B : 24 kHs
+C : 26 kHs
+D : 27 kHs
+E : 28 kHs
+ANSWER : B
+157.		Diskret təsadüfi X1 və X2 kəmiyyətlərinin qiymətləri iki ideal qəpiyin atılması ilə müəyyən edilir, diskret təsadüfi Y kəmiyyəti isə bu qəpiklərin atılması zamanı “gerb” düşmələrinin sayı ilə müəyyən edilir. Y hadisəsində X1 barəsində nə qədər informasiya mövcuddur?
+
+A : 0.6 bit/simvol
+B : 0.5 bit/simvol
+C : 0.7 bit/simvol
+D : 0.8 bit/simvol
+E : 0.9 bit/simvol 
+ANSWER : B
+158.		Web texhnologies firması 1992-ci idə yaratdığı arxivator proqramının adı nədir?
+
+A : Data Files
+B : Data Files/16
+C : Data
+D : File
+E : Data Files/17
+ANSWER : B
+159.		Data Files/16 adlı arxivator proqramı hansı firma tərəfindən yaradılıb?
+
+A : Alcos texhnologies
+B : Web technologies
+C : İnternet technologies
+D : heç biri
+E : hamsı
+ANSWER : B
+160.		Hansı genişləndirmə tipidir?
+
+A : LZW
+B : Gif
+C : RLE
+D : heç biri
+E : hamısı
+ANSWER : B
+161.		Hansı genişləndirmə tipi deyil?
+
+A : GİF
+B : LZW
+C : JPG
+D : Tiff
+E : Heç biri
+ANSWER : B
+162.		hansı kodlaşdırma tipidir?
+
+A : GİF
+B : RLE
+C : Bmp pcx
+D : Tiff
+E : hamısı
+ANSWER : B
+163.		hansı kodlaşdırma tip deyil?
+
+A : LZW
+B : Bmp pcx
+C : İtkilərlə sıxma
+D : CCİTT/3 fakslar üçün Haffmen LZW 
+E : RLE
+ANSWER : B
+164.		Hansılar genişləndirmə tipidir?
+
+A : Gif, Jpeg, İpg, RLE
+B : Gif, Tiff, tif, Bmp
+C : LZW, Gif, RLE, Tiff
+D : İtkilərlə sıxma, Tiff, tif, gif, RLE
+E : heç biri
+ANSWER : B
+165.		İtkilərlə sıxma neçə mərhələdə yerinə yetirilir?
+
+A : 6
+B : 3
+C : 4
+D : 7
+E : 5
+166.		İtkilərlə sıxma neçə tip verilənlər üçün istifadə olunur?
+
+A : 6
+B : 3
+C : 4
+D : 7
+E : 5
+ANSWER : B
+167.		İtkilərlə sıxma üçün hansl verilənlər istifadə  olunur? (Tam cavabı göstərin)
+
+A : tamrəngli qrafika, səs, video
+B : tamrəngli qrafika, səs, videoinformasiya
+C : tamrəngli qrafika, səs
+D : vieoinformasiya, qrafika
+E : heç biri
+ANSWER : B
+168.		Hesabi kodlaşdırma sxeminə aiddir?
+
+A : seçilmiş diskret təsadüfi kəmiyyətin kodlaşdırmasında ehtimalın paylanması üçün bu diskret təsadüfi kəmiyyətin hər qiymətlərinin yalnız kəsişən sərhəd nöqtələri üçün cədvəl qurulur
+B : hamısı
+C : yaradılmış parka üçün ona daxil olan və tam qiymət alan mümkün olan ən minimal müsbət tam ikilik qüvvətdən ədədə bölünən qiymət tapılır
+D : heç biri
+E : parçaların birləşdirilməsi [0,1]parçasını əmələ gətirməli onların uzunluğu isə diskret təsadüfi kəmiyyətin qiymətlərinin müvafiq ehtimallarına proporsional olmalıdır
+ANSWER : B
+169.		1980-ci ildə qrafiki informasiyanın itkilərlə sıxılmsı üçün hansı standart qəbul edildi?
+
+A : Gif formatı
+B : Jpeg formatı
+C : Tiff formatı
+D : belə bir fomat qəbul olunmayıb
+E : Bmp formatı
+ANSWER : B
+170.		LPC standartı nə üçündur?
+
+A : istehsalçıların adlarının birləşməsi üçün
+B : nitqin sıxılması üçün
+C : növbəti baytın neçə dəfə təkrarlanmasını göstərmək üçündür
+D : Sıxma dərəcəsini idarə etmək üçün
+E : heç biri
+ANSWER : B
+
+173.		İnformasiya kanalı nəyi xarakterizə edir?
+A : kanal qurğuları arasında informasiyanın siqnalların ötürülməsinixarakterizə edir
+B : informasiyanın informasiya mənbəyindən onun qəbuledicisinə ötürülməsini
+C : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürülməsini xarakterizə edir
+D : onda daxil olan qurğuların işi siqnalın formasısiqnal yayılan fiziki mühitin tərkibi və xassələri tətbiq olunan kodun xassələri ilə xarakterizə olunur
+E : heç biri
+ANSWER : B
+174.		Rabitə xətti nəyi xarakterizə edir?
+A : informasiyanın informasiya mənbəyindən onun qəbuledicisinə ötürülməsini xarakterizə edir
+B : kanal qurğuları arasında informasiyanın siqnalların ötürülməsini xarakterizə edir
+C : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürülməsini xarakterizə edir
+D : onda daxil olan qurğuların işi siqnalın formasısiqnal yayılan fiziki mühitin tərkibi və xassələri tətbiq olunan kodun xassələri ilə xarakterizə olunur.
+E : heç biri
+ANSWER : B
+175.		Kanal qurğusu nəyi xarakterizə edir?
+
+A : informasiyanın informasiya mənbəyindən onun qəbuledicisinə ötürülməsini xarakterizə edir
+B : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürülməsini xarakterizə edir
+C : kanal qurğuları arasında informasiyanın siqnalların ötürülməsini xarakterizə edir
+D : onda daxil olan qurğuların işi siqnalın formasısiqnal yayılan fiziki mühitin tərkibi və xassələri tətbiq olunan kodun xassələri ilə xarakterizə olunur
+E : heç biri
+ANSWER : B
+176.		Kanalın texniki xarakteriskaları nəyi xarakterizə edir?
+
+A : informasiyanın informasiya mənbəyindən onun qəbuledicisinə ötürülməsini xarakterizə edir
+B : onda daxil olan qurğuların işi siqnalın formasısiqnal yayılan fiziki mühitin tərkibi və xassələri tətbiq olunan kodun xassələri ilə xarakterizə olunur
+C : kanal qurğuları arasında informasiyanın siqnalların ötürülməsini xarakterizə edir
+D : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürülməsini xarakterizə edir
+E : heç biri
+ANSWER : B
+177.	.	Hesabi kodlaşdırma sxeminə aiddir?
+
+A : seçilmiş diskret təsadüfi kəmiyyətin kodlaşdırmasında ehtimalın paylanması üçün bu diskret təsadüfi kəmiyyətin hər qiymətlərinin yalnız kəsişən sərhəd nöqtələri üçün cədvəl qurulur 
+B : hamısı
+C : yaradılmış parka üçün ona daxil olan və tam qiymət alan mümkün olan ən minimal müsbət tam ikilik qüvvətdən ədədə bölünən qiymət tapılır.
+D : heç biri
+E : parçaların birləşdirilməsi [0,1]parçasını əmələ gətirməli onların uzunluğu isə diskret təsadüfi kəmiyyətin qiymətlərinin müvafiq ehtimallarına proporsional olmalıdır
+ANSWER : B
+178.		Təsadüfi X kəmiyyətinin entropiyası hansı düsturla verilir?
+A : H(X)=I(X,X)
+B : H(X)=HX=I(X,X)
+C : H(X)=HX
+D : HX=H(X)=I(X,X)
+E : Heç biri
+ANSWER : B
+179.		I(X,Y)>=0,I(X,Y)=0;  I(X,Y)=0 nə zaman olar?
+
+A : x y-dən asılı olduqda
+B : x və y asılı olmadıqda
+C : y x-dən asılı olduqda
+D : heç biri doğru deyil
+E : hər bir hal doğrudur
+ANSWER : B
+180.		Təbiətdə qarşılıqlı əlaqələrin neçə fundamental növü vardır?
+
+A : 6
+B : 2
+C : 4
+D : 447
+ANSWER : B
+181.		Kanalın effektivliyi nəyi xarakterizə edir?
+
+A : informasiyanın informasiya mənbəyindən onun qəbuledicisinə ötürülməsini xarakterizə edir
+B : İnformasiyanın ötürülməsinin sürəti və təminatı qurğuların iş etibarlılığı və zaman üzrə gecikməsini xarakterizə edir
+C : kanal qurğuları arasında informasiyanın siqnalların ötürülməsini xarakterizə edir
+D : sadəcə gücləndirilmiş qəbul olunmuş siqnalları ötürülməsini xarakterizə edir
+E : heç biri
+ANSWER : B
+182.		İnformasiyanı xüsusiyyətlərinə aiddir?
+
+A : informasiya obyektlərin qarşılıqlı  təsirindən kənar mövcdurdur
+B : informasiya obyektlərin qarşılıqlı  təsirindən kənar mövcdur deyil
+C : informasiya obyektləri qarşılıqlı təsir prosesində itir
+D : heç biri doğru deyil
+E : hamısı doğrudur
+ANSWER : B
+183.		İnformasiyanı xüsusiyyətlərinə aiddir?
+
+A : informasiya obyektləri qarşılıqlı təsir prosesində itir
+B : informasiya obyektlərin heç bir qarşılıqlı təsir prosesində itmir
+C : informasiya obyektlərin qarşılıqlı  təsirindən kənar mövcdurdur
+D : heç biri doğru deyil
+E : hamısı doğrudur
+ANSWER : B
+184.		İlk informasiya dedikdə nə nəzərdə tutulur? (tam cavabı göstərin)
+
+A : maddi hərəkətin istiqaməti nəzərdə tutulur*
+B : hərəkət nəzərdə tutulur
+C : heç biri
+D : qeyri-maddi hərəkətin istiqaməti nəzərdə tutulur
+E : maddı və ya qeyri-maddi hərəkətin istiqaməti nəzərdə tutulur
+ANSWER : B
+185.		İnformasiyanın fəlsəfi nöqtəyi nəzərindindən növləri? (Tam cavabi göstərin)
+
+A : ümumi informasiya, birinci informasiya
+B : ümumi informasiya, ikinci informasiya
+C : brinci informasiya, ikinci informasiya
+D : ümumi informasiya, birinci informasiya, ikinci informasiya
+E : informasiya, ikinci informasiya
+ANSWER : B
+186.		İnformasiyanın birinci xüsusiyyəti dedikdə?
+
+A : maddənin elementar zərrəcikləri və onların qarşılıqlı təsiri
+B : qeyri-maddi aləmin dəyişmələri
+C : maddəyə sahələsin təsiri və fəza qüvvələri
+D : heç biri
+E : hamısı
+ANSWER : B
+187.		İnformasiyanın ikinci xüsusiyyəti?
+
+A : qeyri-maddi aləmin dəyişmələri
+B : maddənin elementar zərrəcikləri və onların qarşılıqlı təsiri
+C : maddəyə sahələsin təsiri və fəza qüvvələri
+D : heç biri
+E : hamısı
+ANSWER : B
+188.		İnformasiyanın üçüncü xüsusiyyəti?
+
+A : qeyri-maddi aləmin dəyişmələri
+B : maddəyə sahələsin təsiri və fəza qüvvələri
+C : maddənin elementar zərrəcikləri və onların qarşılıqlı təsiri
+D : heç biri
+E : hamısı
+ANSWER : B
+189.		Material aləmin informasiya ilə qarşılıqlı təsiri nəticəsində insanların ətraf aləmi dərk etməsini qavramasını və bu əsas üzərində onların təbiətə təsir etməsiylə məqsədlərini reallaşdıraraq müəyyən məzmun kəsb etməsi necə  adlanır?
+
+A : birinci informasiya
+B : ikinci informasiya
+C : ümumi infomasiya
+D : informasiya
+E : heç biri
+ANSWER : B
+190.		İnfomasiyanın materiyanın ümumi xassəsi olması ideyası kimə aiddir?
+
+A : Şredinger
+B : Viner
+C : Brillyuen
+D : Eşbi
+E : Şenon
+ANSWER : B
+191.		”Əsl informasiyanı ölçmək olmaz”cümləsi kimə məxsusdur?
+
+A : Şredinger
+B : Viner
+C : Brillyuen
+D : Eşbi
+E : Şenon
+ANSWER : B
+192.		”İnformasiya dedikdə insan nitqinin rabitə xətləri ilə elektromaqnit dalğaları şəklində göndərilməsidir ”fikri kimə məxsudur?
+
+A : Viner
+B : Şenon
+C : Şredinger
+D : Brillyuen
+E : Eşbi
+ANSWER : B
+193.		İnsan nitqinin həm səs dalğaları həm də yazılı şəkildə verilməsini kodlaşdırma adlandıran hansı alimdir?
+
+A : Viner
+B : Eşbi
+C : Şredinger
+D : Brillyuen
+E : Şenon
+ANSWER : B
+194.		”İnformasiyanın ötürülməsi”əsəri kimə məxsusdur?
+
+A : Şredinger
+B : Hartli
+C : Brillyuen
+D : Eşbi
+E : Şenon
+ANSWER : B
+195.		Əsl informasiyanı ölçmək olmaz fikri kimə məxsudur?
+
+A : Şredinger
+B : Viner
+C : Brillyuen
+D : Eşbi
+E : Şenon
+ANSWER : B
+196.		İnformasiyanın saxlanma qanunu hansıdır?
+
+A : informasiyanı özündə saxlayan mühit dəyişmədikcə öz sabitliyini saxlayır
+B : informasiya yalnız yeni informasiyaya çevrilə bilər
+C : təbiətdə sonsuz zaman üzərində mövcud olan yaddaş yoxdur
+D : təbiət xüsusi fiziki qövvələ şəklində yaddaşın (materiyanın)qorunma mexanizmini yaratmışdır
+E : heç biri
+ANSWER : B
+197.		Kibernetika sözünü elmə kim daxil edib?
+
+A : Şredinger
+B : Amper
+C : Brillyuen
+D : Eşbi
+E : Şenon
+ANSWER : B
+198.		Materiyanın inkişafi və formalaşmasının informasiya qanunu hansıdır?
+
+A : İnformasiyanı özündə saxlayan mühit dəyişmədikcə öz sabitliyini saxlayır
+B : İnformasiya yalnız yeni informasiyaya çevrilə bilər
+C : təbiətdə sonsuz zaman üzərində mövcud olan yaddaş yoxdur
+D : təbiət xüsusi fiziki qövvələ şəklində yaddaşın (materiyanın)qorunma mexanizmini yaratmışdır
+E : heç biri
+ANSWER : B
+199.		Maddənin mövcudluğunun informasiya qanunu hansıdır?
+
+A : informasiyanı özündə saxlayan mühit dəyişmədikcə öz sabitliyini saxlayır
+B : təbiətdə sonsuz zaman üzərində mövcud olan yaddaş yoxdur
+C : informasiya yalnız yeni informasiyaya çevrilə bilər
+D : təbiət xüsusi fiziki qövvələ şəklində yaddaşın (materiyanın) qorunma mexanizmini yaratmışdır
+E : heç biri
+ANSWER : B
+
+200.		6 ikili simvollar içərisində 3 vahid vardır. Ötürülmə zamanı ardıcıl olaraq 3 simvol saxlanılır, qalan simvol isə itir. Saxlanan simvoldan heç olmasa ikisinin vahid olma ehtimalını hesablayın.
+
+A : 0.65
+B : 0.95
+C : 0.75
+D : 0.85
+E : 0.9
+ANSWER : B
+201.		32 hərfdən ibarət əlifbadan və bu məlumat eyni ehtimallıdırsa, onda 5 hərfdən ibarət məlumatın entropiyasını hesablayın.
+
+A : 15
+B : 25
+C : 20
+D : 22
+E : 24
+ANSWER : B 
+202.		ALE kodlaşdırılmasında “ aaaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a2b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 9a2b4c3a5d
+ANSWER : B
+203.		ALE kodlaşdırılmasında “ aaaaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 6a2b4c3a3d
+C : 9a3b5c8a3d
+D : 7a2b4c3a4d
+E : 8a2b4c3a5d
+ANSWER : B
+204.		ALE kodlaşdırılmasında “ aaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 4a2b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 5a2b4c3a5d
+ANSWER : B
+205.		ALE kodlaşdırılmasında “ aaaaabbbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a3b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 1a2b4c3a5d
+ANSWER : B
+206.		ALE kodlaşdırılmasında “ aaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 4a2b4c3a3d
+B : 3a2b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 5a2b4c3a5d
+ANSWER : B
+207.		ALE kodlaşdırılmasında “ aaaaabbbbbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a5b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 9a2b4c3a5d
+ANSWER : B
+208.		ALE kodlaşdırılmasında “ aaaaabbbccccaaadddeeeee ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d3e
+B : 5a3b4c3a3d5e
+C : 6a3b5c8a3d1e
+D : 7a2b4c3a4d3e
+E : 1a2b4c3a5d5e
+ANSWER : B
+209.		ALE kodlaşdırılmasında “ aaaaabbccccaaadddfff”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d2d
+B : 5a2b4c3a3d3f
+C : 6a3b5c8a3d5f
+D : 7a2b4c3a4d6f
+E : 1a2b4c3a5d5f
+ANSWER : B
+210.		ALE kodlaşdırılmasında “ aaaaaabccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a1b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 1a2b4c3a5d
+ANSWER : B
+211.		ALE kodlaşdırılmasında “ aaaaaaaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 9a2b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 1a2b4c3a5d
+ANSWER : B
+212.		ALE kodlaşdırılmasında “ aaaaabbbbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a4b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 1a2b4c3a5d
+ANSWER : B
+213.		ALE kodlaşdırılmasında “ aaccaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d5f
+B : 2a2c3ac2b4c3a3d
+C : 6a3b5c2d8a3d
+D : 7a2b4c3a4d4c
+E : 1a2b4c3a5d5a
+ANSWER : B
+214.		ALE kodlaşdırılmasında “ aaadddaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d5f5e
+B : 3a2d2a2b4c3a3d
+C : 6a3b5c8a3d4a4c
+D : 7a2b4c3a4d2a2c
+E : 1a2b4c3a5d4a5d
+ANSWER : B
+215.		ALE kodlaşdırılmasında “ aaaaaaaabbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 9a2b4c3a3d
+B : 8a2b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 7a3b4c3a5d
+ANSWER : B
+216.		ALE kodlaşdırılmasında “ aaaaabbccccaaadddhhh ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d4h
+B : 5a2b4c3a3d3h
+C : 5a3b5c8a3d3h
+D : 5a2b4c3a4d5h
+E : 5a4b4c3a5d6h
+ANSWER : B
+217.		ALE kodlaşdırılmasında “ aaaaabbbbbbbbccccaaaddd ”sətri necə kodlaşdırılır?
+
+A : 8a2b4c3a3d
+B : 5a8b4c3a3d
+C : 6a3b5c8a3d
+D : 7a2b4c3a4d
+E : 5a2b4c3a5d
+ANSWER : B
+218.		Əgər kanalım girişində mənbəyin entropiyası H(x)=3400 bit, kanalın çıxışında ansamblın entropiyası H(y)=6800 bit. Kanalın etibarsızlığı H(x/y)=700 bit olarsa yaddaşsız 2-lik simvolun kanalda H(y/x) küyünün entropiyasını tapın .
+
+A : 4800 bit
+B : 4100 bit
+C : 2500 bayt
+D : 5500 bayt
+E : 4200 bit
+ANSWER : B
+219.		Rabitə kanalı {0.9t…} matrisi ilə verilmişdir. Qəbul olunmuş informasiyanın miqdarı nə qədərdir?
+
+A : 680 bit
+B : 621 bit
+C : 500 bit
+D : 550 bit
+E : 700 bit
+ANSWER : B
+220.		RLE kodlaşdırılmasında “ aaaaabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 16 bayt
+B : 15 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+221.		RLE kodlaşdırılmasında “ aaaaaabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 17 bayt
+B : 16 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+222.		RLE kodlaşdırılmasında “ aaaaaabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 18 bayt
+B : 17 bayt
+C : 32 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+223.		RLE kodlaşdırılmasında “ aaaaabbbbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 19 bayt
+B : 17 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+224.		RLE kodlaşdırılmasında “ aaabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 15 bayt
+B : 13 bayt
+C : 32 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+225.		RLE kodlaşdırılmasında “ aaaaacccbbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 19 bayt
+B : 18 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+226.		RLE kodlaşdırılmasında “ aaaaddddabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 20 bayt
+B : 19 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+227.		RLE kodlaşdırılmasında “ abbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 15 bayt
+B : 11 bayt
+C : 18 bayt
+D : 24 bayt
+E : 25 bayt
+ANSWER : B
+228.		RLE kodlaşdırılmasında “ aaaaaaaaaabbccccaaad ” sətri neçə bayt yer tutur?
+
+A : 28 bayt
+B : 20 bayt
+C : 35 bayt
+D : 45 bayt
+E : 50 bayt
+ANSWER : B
+229.		RLE kodlaşdırılmasında “ aabbccaaad ” sətri neçə bayt yer tutur?
+
+A : 28 bayt
+B : 20 bayt
+C : 39 bayt
+D : 50 bayt
+E : 75 bayt
+ANSWER : B
+230.		RLE kodlaşdırılmasında “ aaaaabbbbccccccccaaad ” sətri neçə bayt yer tutur?
+
+A : 28 bayt
+B : 21 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+231.		RLE kodlaşdırılmasında “ abcccaaad ” sətri neçə bayt yer tutur?
+
+A : 10 bayt
+B : 9 bayt
+C : 20 bayt
+D : 50 bayt
+E : 25 bayt
+ANSWER : B
+232.		RLE kodlaşdırılmasında “ aaaaabbbbbccccccaaaaad ” sətri neçə bayt yer tutur?
+
+A : 25 bayt
+B : 22 bayt
+C : 50 bayt
+D : 35 bayt
+E : 45 bayt
+ANSWER : B
+233.		RLE kodlaşdırılmasında “ aaaaabbccccaaaaadddeeff ” sətri neçə bayt yer tutur?
+
+A : 26 bayt
+B : 23 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+234.		RLE kodlaşdırılmasında “ aaaaabbcccaaadeeffgghh ” sətri neçə bayt yer tutur?
+
+A : 24 bayt
+B : 23 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+235.		RLE kodlaşdırılmasında “ acccaaad ” sətri neçə bayt yer tutur?
+
+A : 9 bayt
+B : 8 bayt
+C : 10 bayt
+D : 80 bayt
+E : 16 bayt
+ANSWER : B
+236.		RLE kodlaşdırılmasında “ aaaaabbccccaaadddddd ” sətri neçə bayt yer tutur?
+
+A : 22 bayt
+B : 20 bayt
+C : 30 bayt
+D : 45 bayt
+E : 25 bayt
+ANSWER : B
+237.		RLE kodlaşdırılmasında “ aaaaaaaaabbbccccaaaaaddd ” sətri neçə bayt yer tutur?
+
+A : 25 bayt
+B : 24 bayt
+C : 30 bayt
+D : 45 bayt
+E : 50 bayt
+ANSWER : B
+238.		RLE kodlaşdırılmasında “ aaaaabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 125
+B : 120
+C : 240 
+D : 160 
+E : 250 
+ANSWER : B
+239.		RLE kodlaşdırılmasında “ aaaaaabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 136
+B : 128
+C : 148 
+D : 160 
+E : 250 
+ANSWER : B
+240.		RLE kodlaşdırılmasında “ aaaaaabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 144 
+B : 136 
+C : 149 
+D : 160 
+E : 184
+ANSWER : B
+241.		RLE kodlaşdırılmasında “ aaabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 120
+B : 101
+C : 130
+D : 108
+E : 160
+ANSWER : B
+242.		RLE kodlaşdırılmasında “ aaaaacccbbccccaaad ” sətri neçə bit yer tutur?
+
+A : 152 bayt
+B : 144 bayt
+C : 240 bayt
+D : 172 bayt
+E : 200 bayt
+ANSWER : B
+243.		RLE kodlaşdırılmasında “ aaaaddddabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 160 bit
+B : 152 bit
+C : 240 bit
+D : 256 bit
+E :  bit
+ANSWER : B
+244.		RLE kodlaşdırılmasında “ abbccccaaad ” sətri neçə bit yer tutur?
+
+A : 96 bit
+B : 88 bit
+C : 104 bit
+D : 120 bit
+E : 160 bit
+ANSWER : B
+245.		RLE kodlaşdırılmasında “ aaaaaaaaaabbccccaaad ” sətri neçə bit yer tutur?
+
+A : 168 bit
+B : 160 bit
+C : 170 bit
+D : 176 bit
+E : 165 bit
+ANSWER : B
+246.		RLE kodlaşdırılmasında “ aabbccaaad ” sətri neçə bit yer tutur?
+
+A : 224 bit
+B : 160 bit
+C : 180 bit
+D : 190 bit
+E : 200 bit
+ANSWER : B
+247.		RLE kodlaşdırılmasında “ aaaaabbbbccccccccaaad ” sətri neçə bit yer tutur?
+
+A : 210 bit
+B : 208 bit
+C : 224 bit
+D : 232 bit
+E : 250 bit
+ANSWER : B
+248.		RLE kodlaşdırılmasında “ abcccaaad ” sətri neçə bit yer tutur?
+
+A : 80 bit
+B : 72 bit
+C : 160 bit
+D : 400 bit
+E : 168 bit
+ANSWER : B
+249.		RLE kodlaşdırılmasında “ aaaaabbbbbccccccaaaaad ” sətri neçə bit yer tutur?
+
+A : 200 bit
+B : 176 bit
+C : 400 bit
+D : 280 bit
+E : 360 bit
+ANSWER : B
+250.		RLE kodlaşdırılmasında “ aaaaabbccccaaaaadddeeff ” sətri neçə bit yer tutur?
+
+A : 208 bit
+B : 184 bit
+C : 240 bit
+D : 360 bit
+E : 400 bit
+ANSWER : B
+251.		2-lik simmetrik kanal üzrə uzunluğu 8 olan sətr ötürülür, ancaq 6-dan az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 250 
+B : 219 
+C : 465 
+D : 650 
+E : 758 
+ANSWER : B
+252.		2-lik simmetrik kanal üzrə uzunluğu 8 olan sətr ötürülür, ancaq 5-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 165 
+B : 163 
+C : 655 
+D : 215 
+E : 417 
+ANSWER : B
+253.		2-lik simmetrik kanal üzrə uzunluğu 8 olan sətr ötürülür, ancaq 4-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 185 
+B : 93 
+C : 155 
+D : 154 
+E : 98 
+ANSWER : B
+254.		2-lik simmetrik kanal üzrə uzunluğu 8 olan sətr ötürülür, ancaq 3-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 65 
+B : 37 
+C : 38 
+D : 67 
+E : 100 
+ANSWER : B
+255.		2-lik simmetrik kanal üzrə uzunluğu 14 olan sətr ötürülür, ancaq 4-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 670 
+B : 470 
+C : 475 
+D : 570 
+E : 575 
+ANSWER : B
+256.		2-lik simmetrik kanal üzrə uzunluğu 14 olan sətr ötürülür, ancaq 3-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 108
+B : 106 
+C : 180 
+D : 160 
+E : 250 
+ANSWER : B
+257.		2-lik simmetrik kanal üzrə uzunluğu 12 olan sətr ötürülür, ancaq 7-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 2545 
+B : 2540 
+C : 2600 
+D : 3500 
+E : 3540 
+ANSWER : B
+258.		2-lik simmetrik kanal üzrə uzunluğu 12 olan sətr ötürülür, ancaq 6-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 2540 
+B : 1586 
+C : 1655 
+D : 2154 
+E : 4171 
+ANSWER : B
+259.		2-lik simmetrik kanal üzrə uzunluğu 12 olan sətr ötürülür, ancaq 5-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 890 
+B : 794 
+C : 1790 
+D : 815 
+E : 975 
+ANSWER : B
+260.		2-lik simmetrik kanal üzrə uzunluğu 12 olan sətr ötürülür, ancaq 4-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 350 
+B : 299 
+C : 359 
+D : 398 
+E : 411 
+ANSWER : B
+261.		2-lik simmetrik kanal üzrə uzunluğu 12 olan sətr ötürülür, ancaq 3-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 99 
+B : 79 
+C : 98 
+D : 87 
+E : 81 
+ANSWER : B
+262.		2-lik simmetrik kanal üzrə uzunluğu 16 olan sətr ötürülür, ancaq 10-nan az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 55640 
+B : 50640 
+C : 52680 
+D : 51668 
+E : 50900 
+ANSWER : B
+263.		2-lik simmetrik kanal üzrə uzunluğu 16 olan sətr ötürülür, ancaq 9-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 58640 
+B : 39203  
+C : 40400 
+D : 57658 
+E : 41710 
+ANSWER : B
+264.		2-lik simmetrik kanal üzrə uzunluğu 16 olan sətr ötürülür, ancaq 8-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 39203 
+B : 26333 
+C : 54640 
+D : 45021 
+E : 41710
+ANSWER : B
+265.		2-lik simmetrik kanal üzrə uzunluğu 16 olan sətr ötürülür, ancaq 6-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 5820 
+B : 3640 
+C : 15486 
+D : 5947 
+E : 41710
+ANSWER : B
+266.	2-lik simmetrik kanal üzrə uzunluğu 16 olan sətr ötürülür, ancaq 5-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 1895 
+B : 1820 
+C : 2568 
+D : 2455 
+E : 4171 
+ANSWER : B
+267.		2-lik simmetrik kanal üzrə uzunluğu 14 olan sətr ötürülür, ancaq 5-dən az  ötürülən simvolun səhv qəbul olunması ehtimalı nəyə bərabərdir?
+
+A : 1845 
+B : 1260 
+C : 1655 
+D : 2154 
+E : 4171 
+ANSWER : B
+268.		 Ən kiçik informasiya vahidi nədir?
+
+A : bayt
+B : bit
+C : meqabayt
+D : kilobayt
+E : zetabayt
+ANSWER : B
+269.		 İnformasiya ətraf mühitdən neçə yolla alınır?
+
+A : 4
+B : 2
+C : 6
+D : 5
+E : 7
+ANSWER : B
+270.		 İnsan informasiyanı hansı yolla alır (tam cavab)?
+
+A : kompyuter vasitəsilə
+B : duyğu üzvləri vasitəsilə və beyin fəaliyyətinin nəticəsi kimi əqli mühakimələr əsasında
+C : baxmaqla
+D : soruşmaqla
+E : oxumaqla
+ANSWER : B
+271.		İnformasiya nəyə deyilir? 
+
+A : istənilən məlumata
+B : məlumat vasitəsilə əldə edilən biliklər artımına
+C : istənilən xəbərə
+D : istənilən məlumat və xəbərə
+E : istənilən faktlara
+ANSWER : B
+272.		 Verilənlər nədir?.
+
+A : ötürmək üçün müəyyən formada qeyd olunmuş informasiyadır;   
+B : saxlamaq, emal etmək və ötürmək üçün müəyyən formada qeyd olunmuş məlumatdır;
+C : emal etmək üçün müəyyən formada qeyd olunmuş xəbərdir; 
+D : saxlamaq üçün müəyyən formada qeyd olunmuş məlumatdır;
+E : ötürmək üçün müəyyən formada qeyd olunmuş məlumatdır;
+ANSWER : B
+
+273.		 Aşağıdakılardan hansı verilənlərinı xarakteristikasına aid deyil
+
+A : ad
+B : uzunluq 
+C : tip
+D : struktur
+E : qiymət
+ANSWER : B
+
+274.		 Verilənlərin struktur xarakteristikasına hansı cəhətlərdən baxılır? 
+
+A : yuxarıdan aşağıya,fiziki 
+B : məntiqi, fiziki
+C : aşağıdan yuxarıya,fiziki
+D : fiziki, iyerarxik
+E : iyerarxik, məntiqi
+ANSWER : B
+275.		 Verilənin fiziki strukturu nəyi təyin edir?
+
+A : verilənin uzunluğunu
+B : verilənin kompyuterin yaddaşında yerləşdirilməsi sxemini
+C : verilənin ad və qiymətini
+D : verilənin tipini
+E : verilənin tipini və uzunluğunu
+ANSWER : B
+276.		 İnformasiya və verilən arasında hansı əlaqə var?
+
+A : informasiyadan verilənlər alınır;
+B : informasiya üzərində əməliyyat aparılan verilənlərdən alınır;
+C : Informasiya və verilənlər arasında heç bir əlaqə yoxdur;
+D : verilənlər məlumatlardan alınır;
+E : Informasiya elə veriləndir;
+ANSWER : B
+277.		Texnikada informasiya dedikdə nə başa düşülür:
+
+A : ətraf aləmdən alınan məlumat
+B : simvol və ya siqnal şəklində ötürülən məlumat 
+C : texnikaya aid elmi biliklər
+D : texnikaya aid verilənlər
+E : texnikaya aid verilənlərvə elmi biliklər
+ANSWER : B
+
+278.		Şəxsin fikrindən və mühakiməsindən asılı olmayan informasiya necə adlanır? и суждения, можно назвать:
+
+A : həqiqi
+B : obyektiv
+C : aktual
+D : faydalı
+E : qeyri-müəyyən
+ANSWER : B
+
+279.		Mətn informasiyası olaraq hansını götürmək olar?
+
+A : teatrda aktyorun replikasını 
+B : vurma cədvəlini
+C : musiqi parçasını
+D : kitabdakı illistrasiyanı
+E : triqonometrik funksiyaların qiymətlər cədvəlini 
+ANSWER : B
+
+280.		Müəllim auditoriyada 100 tələbənin olduğunu və onlardan 33-nün oğlan, 34-nün isə qız olduğunu söylədi. Müəllim hansı say sistemindən istifadə etmişdir?
+
+A : 2
+B : 7
+C : 3
+D : 8
+E : 8
+ANSWER : B
+281.		Müəllim auditoriyada 100 tələbənin olduğunu və onlardan 23-nün oğlan, 33-nün isə qız olduğunu söylədi. Müəllim hansı say sistemindən istifadə etmişdir?
+
+A : 2
+B : 6
+C : 3
+D : 8
+E : 8
+ANSWER : B
+282.		Müəllim auditoriyada 100 tələbənin olduğunu və onlardan 23-nün oğlan, 22-nün isə qız olduğunu söylədi. Müəllim hansı say sistemindən istifadə etmişdir?
+
+A : 2
+B : 5
+C : 3
+D : 8
+E : 8
+ANSWER : B
+283.		Müəllim auditoriyada 100 tələbənin olduğunu və onlardan 43-nün oğlan, 35-nün isə qız olduğunu söylədi. Müəllim hansı say sistemindən istifadə etmişdir?
+
+A : 2
+B : 8
+C : 3
+D : 8
+E : 8
+ANSWER : B
+284.		Müəllim auditoriyada 100 tələbənin olduğunu və onlardan 44-nün oğlan, 45-nün isə qız olduğunu söylədi. Müəllim hansı say sistemindən istifadə etmişdir?
+
+A : 2
+B : 9
+C : 3
+D : 8
+E : 8
+ANSWER : B
+285.		Ədədi informasiyaya misal olaraq hansını götürmək olar?
+
+A : telefon danışığını
+B : triqonometrik funksiyaların qiymətlər cədvəlini
+C : kitabdakı illistrasiyanı
+D : simfoniyanı
+E : kantatanı
+ANSWER : B
+
+286.		Şəklin kodlaşdırılmasının əsas prinsipi hansıdır?
+
+A : şəkil eyni parlaqlığa malik hissələrə bölünür
+B : şəkil kvadrat elementlərin mozaikası kimi təsvir edilir və hər biri müəyyən rəngdə olur
+C : şəkil müəyyən parçalar şəklinə bölünür
+D : şəkil müxtəlif parlaqlığa malik hissələrə bölünür 
+E : şəkil eyni parçalar şəklinə bölünür
+ANSWER : B
+
+287.		İnformasiyanın diskretləşdirməsi dedikdə nə başa düşülür?
+
+A : преобразование текстовой информации из аналоговой формы в дискретную
+B : Qrafiki informasiyanın analoq formasından diskret formaya çevrilməsi
+C : diskret informasiyanın analoq formasından analoq formaya çevrilməsi 
+D : mətn informasiyasının diskret formaya çevrilməsi
+E : ədədi informasiyasının diskret formaya çevrilməsi
+ANSWER : B
+
+288.		Rəngin qalınlığı 1bit olarsa, palitrada neçə rəng var?
+
+A : 4 
+B : 2 
+C : 8 
+D : 16
+E : 1
+ANSWER : B
+
+289.		Diskretləşdirmə tezliyinin ölçü vahidi hansıdır?
+
+A : Мb
+B : Hs
+C : Кb
+D : Bayt
+D : Bit
+ANSWER : B
+
+290.		Rəngli (256 rəngli palitralı) qrafiki təsvir 10x10 ölçüsündədir. Təsvir nə qədər informasiya daşıyır?
+
+A : 100 bit
+B : 10 bayt
+C : 400 bit
+D : 800 bit
+D : 8 bit
+ANSWER : B
+
+291.		N-palitradakı rənglərin sayı, İ – hər bir nöqtənin qalınlığı, (X,Y) – üfüqi və şaquli nöqtələrin sayı  olarsa, onda video yaddaşın hesablanması zamanı hansı düsturdan isifadə edilir? 
+
+A : NxN
+B : I*X* Y
+C : X*Y
+D : N* N *X* Y
+E : N* N *X*
+ANSWER : B
+
+292.		Qarışıq qrafiki təsvirin çevrilməsi zamanı rənglərin sayı 65536-dan 16-ya qədər azalmışdır. Onda onların tutduğu yaddaşın həcmi nə qədər azalmışdır?
+
+A : 2 dəfə
+B : 4 dəfə
+C : 8 dəfə
+D : 16dəfə
+E : 16dəfə
+ANSWER : B
+
+293.		İnformasiya nəzəriyyəsində informasiya dedikdə ...
+
+A : istənilən verilən
+B : qeyri-müəyyənliyi tamamilə və ya müəyyən qədər aradan qaldıran məlumat
+C : istənilən məlumat
+D : müəyyənliyi tamamilə və ya müəyyən qədər aradan qaldıran məlumat 
+E : qeyri-müəyyənliyi tamamilə və ya müəyyən qədər artıran məlumat
+ANSWER : B
+
+294.		Riyaziyyat dərsliyi hansı informasiyaları daşıyır?
+
+A : qrafiki, səs, ədədi
+B : qrafiki, mətn, ədədi
+C : qrafiki, mətn, səs
+D : ancaq ədədi
+E : ancaq mətn və ədədi
+ANSWER : B
+
+295.		Təsvirin əsas qabiliyyəti...
+
+A : üfuqi nöqtələrin sayı
+B : vahid vahid uzunluqdakı nöqtələrin sayı
+C : şaquli nöqtələrin sayı
+D : diaqonal üzrə nöqtələrin sayı
+E : həm diaqonal və həm də şaquli üzrə nöqtələrin sayı
+ANSWER : B
+
+296.		ASCII kod cədvəlində beynəlxalq standart hansıdır?
+
+A : ilk 16 kod
+B : ilk 128 kod
+C : ilk 8 kod
+D : ilk 64 kod
+E : son 128 kod
+ANSWER : B
+
+297.		Displey text rejimində işləyərkən ekranın bir mövqeyi  nə tutur?
+
+A : 1 simvol
+B : 1 piksel
+C : 1 söz 
+D : 2 simvol
+E : 2 söz
+ANSWER : B
+
+298.		RGB rəngötürücü sistemi hansı rənglərdən ibarətdir?
+
+A : qırmızı, sarı, yaşıl
+B : qırmızı, yaşıl, mavi
+C : ağ, qırmızı, sarı
+D : bənövşəyi, sarı, ağ
+D : bənövşəyi, sarı, qara
+ANSWER : B
+
+299.		Qrafiki informasiyanın saxlanması üçün hansından istifadə olunmur?
+
+A : disket
+B : səs valları
+C : kağız
+D : dəri
+E : parça
+ANSWER : B
+
+300.		Cari anda lazımlı olan informasiya necə adlanır?
+
+A : vacib
+B : aktual
+C : həqiqi
+D : obyektiv
+ANSWER : B
+
+301.		Palitrada 32 rəng var. Rəngin qalınlığı nəyə bərabərdir?
+
+A : 2 bit
+B : 5 bit
+C : 3 bit
+D : 4 bit
+D : 1 bit
+ANSWER : B
+
+302.		Palitrada 128 rəng var. Rəngin qalınlığı nəyə bərabərdir?
+
+A : 2 bit
+B : 7 bit
+C : 3 bit
+D : 4 bit
+D : 1 bit
+ANSWER : B
+303.		Palitrada 256 rəng var. Rəngin qalınlığı nəyə bərabərdir?
+
+A : 2 bit
+B : 8 bit
+C : 3 bit
+D : 4 bit
+D : 1 bit
+ANSWER : B
+
+304.		Palitrada 512 rəng var. Rəngin qalınlığı nəyə bərabərdir?
+
+A : 2 bit
+B : 9 bit
+C : 3 bit
+D : 4 bit
+D : 1 bit
+ANSWER : B
+
+305.		Verilmiş məsələni həll etmək üçün istifadə olunan informasiya necə adlanır?
+
+A : anlaşıqlı
+B : faydalı
+C : aktual
+D : həqiqi
+ANSWER : B
+
+306.		Mətn rejimində ekranın yol verilən qabiliyyətinin miqdarı necə təyin olunur?
+
+A : simvolların sayı ilə
+B : üfüqi və şaquli piksellərlə
+C : sözdəki simvolların sayı ilə
+D : ekranın sətir və sütunlarının sayı ilə
+ANSWER : B
+
+307.		Palitrada 16 rəng var. Rəngin qalınlığı nəyə bərabərdir?
+
+A : 2 bit
+B : 4 bit
+C : 3 bit
+D : 5 bit
+D : 1 bit
+ANSWER : B
+
+
